@@ -11,26 +11,34 @@
     <br>INFORME
 </p>
 
+
 <center>
 
 #### Startup: **EABMODEL**
+
 #### Product: **INNCONTROL**
 
 </center>
 
 # Team  Members:
-<center>
 
-| Member | Code |
-|-|-|
-| Alex Ramon Alberto Avila Asto   | u20221a322  |
-</center>
+<div align="center">
+
+|            Member             |    Code    |
+|:-----------------------------:|:----------:|
+| Alex Ramon Alberto Avila Asto | u20221a322 |
+
+</div>
 
 # Registro de Versiones del Informe
+
+<div align="center">
 
 | Version | Fecha      | Autor   | Descripcion de Modificacion |
 |---------|------------|---------|-----------------------------|
 | 0.0     | 19/03/2024 | Grupo 1 | Se crea el documento        |
+
+</div>
 
 # Project Report Collaboration Insights
 
