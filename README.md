@@ -1,31 +1,30 @@
----
+<hr>
 
----
----
+# <center>COURSE PROJECT</center>
 
-# UPC
+<p align="center">
+    <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <strong>Ingeniería de Software</strong><br>
+    <strong>Aplicaciones Web - WX55</strong><br>
+    <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
+    <br>INFORME
+</p>
 
-# INGENIERÍA DE SISTEMAS DE SOFTWARE
+<center>
 
-## CURSO: SI729 Desarrollo de Aplicaciones Open Source | SECCIÓN WX55
+#### Startup: **EABMODEL**
+#### Product: **INNCONTROL**
 
-Profesor: Angel Augusto Velasquez Nuñez
+</center>
 
-# Informe de TF
+# Team  Members:
+<center>
 
-"Startup"
-"Producto"
-
-### Integrantes:
-
-- Nombre
-- Nombre
-- Peña Rivera, Manuel Sebastian
-- Nombre
-- Nombre
-  19/03/2024
-
----
+| Member | Code |
+|-|-|
+| Alex Ramon Alberto Avila Asto   | u20221a322  |
+</center>
 
 # Registro de Versiones del Informe
 
@@ -164,48 +163,6 @@ Profesor: Angel Augusto Velasquez Nuñez
 [Bibliografía](#bibliografía)
 
 [Anexos](#anexos)
-
----
----
-
----
----
-
-# UPC
-
-# INGENIERÍA DE SISTEMAS DE SOFTWARE
-
-## CURSO: SI729 Desarrollo de Aplicaciones Open Source | SECCIÓN WX55
-
-Profesor: Angel Augusto Velasquez Nuñez
-
-# Informe de TB1
-
-"Startup"
-"Producto"
-
-### Integrantes:
-
-- Nombre
-- Nombre
-- Peña Rivera, Manuel Sebastian u202210138
-- Nombre
-- Nombre
-  19/03/2024
-
----
-
-# Registro de Versiones del Informe
-
-| Version | Fecha      | Autor   | Descripcion de Modificacion |
-|---------|------------|---------|-----------------------------|
-| 0.0     | 19/03/2024 | Grupo 1 | Se crea el documento        |
-
-# Project Report Collaboration Insights
-
-[URL del repositorio](https://www.example.com)
-
-(Imagenes de los commits cada entrega)
 
 # Student Outcome
 
