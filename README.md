@@ -192,6 +192,7 @@ Texto del proyecto
 | Miembros del equipo                             | Codigo Estudiante | Carrera                | Conocimientos / Habilidades |
 |-------------------------------------------------|-------------------|------------------------|-----------------------------|
 | Compañero 1 	![Imagen del compañero](image.jpg) | U20...            | Ingenieria de software | C++, piton .etc             |
+|Peña Rivera, Manuel Sebastian <img src="assets\members-profile\Manuel.jpg" alt="Imagen del compañero" style="width:60%">|U202210138|Ingenieria de software|C++, Python, MongoDB, SQL, Assembler. Responsabilidad y Buena Comunicación| 
 
 ## 1.2. Solution Profile
 
