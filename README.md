@@ -1,4 +1,3 @@
-<hr>
 
 # <center>COURSE PROJECT</center>
 
@@ -27,6 +26,7 @@
 |            Member             |    Code    |
 |:-----------------------------:|:----------:|
 | Alex Ramon Alberto Avila Asto | u20221a322 |
+| Sebastian Ramirez Hoffmann | u2011894 |
 
 </div>
 
@@ -193,6 +193,8 @@ Texto del proyecto
 |-------------------------------------------------|-------------------|------------------------|-----------------------------|
 | Compañero 1 	![Imagen del compañero](image.jpg) | U20...            | Ingenieria de software | C++, piton .etc             |
 |Peña Rivera, Manuel Sebastian <img src="assets\members-profile\Manuel.jpg" alt="Imagen del compañero" style="width:60%">|U202210138|Ingenieria de software|C++, Python, MongoDB, SQL, Assembler. Responsabilidad y Buena Comunicación| 
+|Ramírez Hoffmann, Sebastián  <img src="https://avatars.githubusercontent.com/u/129230632?v=4" alt="Imagen del compañero" style="width:60%">|U20221894|Ingenieria de software|C++, Python, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico|
+
 
 ## 1.2. Solution Profile
 
