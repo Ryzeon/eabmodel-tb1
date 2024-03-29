@@ -42,7 +42,7 @@
 
 # Project Report Collaboration Insights
 
-[URL del repositorio](https://www.example.com)
+[URL del repositorio](https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project)
 
 (Imagenes de los commits cada entrega)
 
@@ -119,8 +119,8 @@
 [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)  
 [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)  
 [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)  
-[4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)   
-[4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
+[4.4.3. Web Applications Mock-ups](#442-web-applications-mock-ups)   
+[4.4.4. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
 
 [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
 
@@ -185,7 +185,9 @@
 
 ### 1.1.1. Descripción de la Startup
 
-Texto del proyecto
+Nuestra startup "InnControl" es un servicio de gestion orientado a negocios en el rubro de hospedajes u hoteleria el cual provee un seguimiento de inventario, empleados, espacios, tiempos y servicios utilizados en el proceso del servicio. Asimismo mantendra igualmente un contacto tanto con los provedoores del negocio como sus mismos empleados y gerentes.
+
+ 
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
@@ -201,6 +203,16 @@ Texto del proyecto
 ### 1.2.1 Antecedentes y problemática
 
 Investigacion (5w, 2h tbn)
+
+[investigar respecto a eficiencia de gestion con y sin gestores de terceros]
+
+[investigar los benficios del uso de la tecnologia en el rubro de gestion]
+
+[investigar otros lugares donde se practiquen modelos de negocio parecidos]
+
+5 w's 2 h
+
+W
 
 ### 1.2.2 Lean UX Process.
 
@@ -526,12 +538,12 @@ lo funcional de cada aspecto del wireframe
 Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
 ![Web Aplication Wireflow](image.jpg)
 
-### 4.4.2. Web Applications Mock-ups.
+### 4.4.3. Web Applications Mock-ups.
 
 Diseño en todo aspecto
 ![Web Aplication Mockup](image.jpg)
 
-### 4.4.3. Web Applications User Flow Diagrams.
+### 4.4.4. Web Applications User Flow Diagrams.
 
 un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 ![Web Aplication User Flow Diagram](image.jpg)
