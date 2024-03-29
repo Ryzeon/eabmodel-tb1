@@ -255,7 +255,7 @@ How (¿Cómo se lleva al cabo?) La aplicacion web tendra su espacio workspace do
 
 |                           | Segmento 1 | Segmento 2 |
 |---------------------------|------------|------------|
-| Variables                 | Dueño del negocio  |  Gestor del negocio |
+| Variables                 | empleado negocio  |  Gestor del negocio |
 | Geográfica                |            |            |
 | Demográfica               |            |            |
 | Psicológica               |            |            |
