@@ -439,8 +439,32 @@ Segmento 2:
 
 ## 3.2. User Stories.
 
-| HU0X | Historia Usuario | "Descripcion" |
-|------|------------------|---------------|
+ revisar en grupo = * 
+
+| HUX  | Historia de Usuario                                          | Descripción                                                                                           |
+|------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
+| HU01 | Como gerente, quiero poder agregar nuevas habitaciones         | Para mantener actualizado el inventario de habitaciones disponibles.                                  |
+| HU02 | Como gerente, quiero poder asignar tareas a los empleados     | Para distribuir eficientemente las responsabilidades y mejorar la productividad.                       |
+| HU03 | Como gerente, quiero recibir notificaciones de baja en el inventario | Para tomar medidas rápidas en caso de escasez de suministros.                                      |
+| * HU04 | Como gerente, quiero generar informes de desempeño del personal [revisar en grupo] | Para evaluar el rendimiento de los empleados y tomar decisiones basadas en datos.                    |
+| HU05 | Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real | Para gestionar eficazmente la disponibilidad y asignación de habitaciones.                            |
+| HU06 | Como gerente, quiero recibir alertas de mantenimiento programado | Para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados.    |
+| HU07 | Como gerente, quiero ver el estado de las habitaciones | Para poder revisar si estan listas para su uso despues del proceso de limpieza.                                          |
+| HU08 | Como gerente, quiero gestionar el acceso y permisos de los empleados | Para garantizar la seguridad y la privacidad de la información del negocio.                           |
+| HU09 | Como gerente, quiero programar turnos de trabajo automáticamente | Para optimizar la asignación de personal y evitar conflictos de horarios.                             |
+| HU10 | Como gerente, quiero poder realizar seguimiento de gastos implementados     | Para controlar los costos y optimizar la rentabilidad del negocio.                                      |
+| HU11 | Como gerente, quiero gestionar la disponibilidad de servicios adicionales | Para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente.                   |
+| * HU12 | Como gerente, quiero recibir notificaciones de comentarios y opiniones de clientes | Para responder rápidamente a las necesidades y preocupaciones de los clientes.                         |
+| * HU13 | Como gerente, quiero poder crear promociones y ofertas especiales | Para atraer a más clientes y aumentar las ventas.                                                       |
+| HU14 | Como gerente, quiero mantener un registro de los proveedores    | Para gestionar eficientemente las relaciones comerciales y los suministros.                             |
+| * HU15 | Como gerente, quiero poder realizar seguimiento de la satisfacción del cliente | Para identificar áreas de mejora y garantizar una experiencia de calidad.                                |
+| HU16 | Como empleado, quiero recibir notificaciones de cambios en mi agenda laboral | Para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia.              |
+| HU17 | Como empleado, quiero poder registrar el estado de limpieza de las habitaciones | Para contribuir al mantenimiento de altos estándares de limpieza y satisfacer las expectativas de los clientes. |
+| HU18 | Como empleado, quiero poder acceder a manuales de procedimientos | Para tener recursos de referencia que me ayuden a realizar mi trabajo de manera efectiva.            |
+| HU19 | Como empleado, quiero poder registrar el estado de los suministros | Para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento. |
+| HU20 | Como empleado, quiero poder reportar incidencias o problemas   | Para informar sobre cualquier problema o situación que afecte mi trabajo o la calidad del servicio.   |
+| * HU21 | Como gerente, quiero poder generar facturas para los servicios adicionales | Para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes. |
+
 
 ## 3.3. Impact Mapping.
 
