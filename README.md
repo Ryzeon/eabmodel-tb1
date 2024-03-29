@@ -26,7 +26,7 @@
 |            Member             |    Code    |
 |:-----------------------------:|:----------:|
 | Alex Ramon Alberto Avila Asto | u20221a322 |
-| Sebastian Ramirez Hoffmann | u2011894 |
+| Sebastian Ramirez Hoffmann | u202211894 |
 
 </div>
 
@@ -212,13 +212,25 @@ Investigacion (5w, 2h tbn)
 
 5 w's 2 h
 
-W
+concientiza de la importancia de las ONG.
+
+Why (¿Porque se está haciendo?): Se hace esta aplicacion web con el objetivo de que los establecimientos de hoteleria o de hospedaje tengan una plataforma de gestion accesible, facil de utilizar y eficiente para realizar un conjunto de actividades tales como la gestion de inventario, tiempos de habitacion, horarios de limpieza y servicio y entre otros distintos procedimientos que normalmente se hacen de manera estatica, con nosotros esto pasa a ser mas dinamico y modificable segun las necesidades del usuario.
+
+When (¿Cuándo se usa?): Se usa cuando el usuario tenga la necesidad de gestionar distintos procesos de administracion de su negocio de hospedaje u hoteleria, en los tiempos donde hay un incremento en la clientela o cuando el negocio requiere hacer distintas cantidades de procesos de manera rapida.
+
+Where (¿Dónde se usa?): El uso esta diseñado para Perú inicialmente ya que ademas de poder realizar un seguimiento local del funcionamiento de la aplicacion web tambien se podra mejorar el estado actual de nuevos emprendimientos de hospedaje y hoteleria.
+
+Who (¿Quién lo usa?): Lo usan como administradores los gerentes o supervisores de los establecimientos ya que este servicio es una herramienta para ellos, si bien se pueden automatizar funciones como la notificacion para empleados, lo principal seria que los mismos supervizores hagan seguimiento de los procesos que se estan llevando al cabo en caso de que se tenga que hacer alguna operacion manual.
+
+How Much (¿Cuánto costaría?): La aplicacion web tendra sus funcionalidades core a forma de un pago inicial y luego mensual proporcional a la cantidad de habitaciones que tenga que gestionar el negocio, es decir entre mas cuartos se encuentren presentes el servicio tendra que almacenar mas procesos para cada habitacion, por esta razon se implementara un paquete para asi poder fomentar la accesibilidad a los nuevos emprendimientos. Los paquetes de suscripcion variaran de entre hostal, hotel, y sus respectivas tarifas por cantidad de habitaciones.
+
+How (¿Cómo se lleva al cabo?) La aplicacion web tendra su espacio workspace donde el gestor podra revisar los distintos procesos que se estan llevando al cabo, es decir diferentes recuadros mostrando estos procesos como por ejemplo, el siguiente envio programado de inventario, horarios de limpieza o checkout inminentes, habitaciones libres, en proceso de limpieza o ocupadas, habitaciones que esten solicitando algun servicio adicional (esto en caso el establecimiento lo ofrezca) entre otros. Las habitaciones tendran que ser registradas de manera semi automatica donde se tendran que especificar cuantos cuartos hay por piso y que servicio proporcionan, una vez se haga esto se generaran todos los cuartos con sus distintos numeros de habitacion, servicios y estado. Tambien existiran los demas cuadros en la aplicacion web donde se tendra que especificar los horarios donde se deban de hacer los registros de inventario y el suministro de estos junto con otros procesos adicionales como lavanderia, manutencion de plantas u alguna otra funcionalidad que desee agregar el gestor. 
 
 ### 1.2.2 Lean UX Process.
 
 #### 1.2.2.1. Lean UX Problem Statements.
 
-Texto
+(esto se responde con la investigacion)
 
 #### 1.2.2.2. Lean UX Assumptions.
 
@@ -228,17 +240,22 @@ Texto
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-Texto
 
 #### 1.2.2.4. Lean UX Canvas.
 
-(imagen con texto)
+{cambiar cuando este la investigacion}
+
+|-|-|-|
+|-|-|-|
+| Business Problem <br>¿Qué problema has identificado que necesitas resolver? Existe una necesidad de participación en tiempos de emergencia y una falta de conocimiento en como ayudar. <br>Según CenDe de 1200 personas 72% de estas no han participado en alguna actividad de actividad de ayuda social.| Solution ideas <br>Conexión entre personas interesadas en donar y participar en actividades de ayuda social con las ONG que ofrecen este tipo de eventos.<br>Filtrar la gran cantidad de ONG que hay según la disponibilidad del usuario dándole diversas opciones.<br>Ofrecer suscripciones que proporcionan notificaciones de los eventos mas recientes y objetivos de donación.<br>Proveer de una plataforma a las ONG que no tienen mucha visibilidad. | Business Outcomes <br>(Cambios en el comportamiento del usuario) <br>¿Qué cambios en el comportamiento del usuario indicarán que has solucionado un problema real de manera que añada valor a tus clientes? <br> El comportamiento del usuario habrá cambiado cuando este tome la iniciativa de participar en ayuda social al tener menos motivos para no participar aumentando la cantidad de personas que toman parte de actividades de ayuda social.|
+| User & Customers <br>¿En qué tipo de usuarios y clientes tienes que centrarte primero? <br>Usuario: <br>Personas interesadas en donar o participar en actividades de ayuda social de una ONG. <br>ONG que requieren de visibilidad. <br>Cliente: Personas con la necesidad de saber fechas de eventos de ayuda social. <br> ONG que deseen ser más percibidas.  <br> |  UX Canvas| User benefits <br>¿Cuáles son los objetivos que los usuarios intentan obtener? <br> \- Se busca saber como participar o realizar donaciones a ONG [NOMBRE] tiene como objetivo principal ayudar a los usuarios a tener a la mano una gran cantidad de opciones a elegir según sus especificaciones. <br> ¿Qué les motiva a buscar tu solución? <br> \- Los usuarios están motivados a buscar esta solución debido a que toma poco tiempo, ya tiene la información para el usuario y reduce la cantidad de limitaciones que el usuario tiene al pensar en participar en estas actividades. <br>La interfaz amigable resulta fácil de manejar y le facilita al usuario todo el proceso. <br> |
+| Hyphotheses:<br> Creemos que, al brindar una interfaz poco compleja de usar para nuestros usuarios, podrán tener una mejor experiencia de usuario al buscar la ONG que les interes y seran motivados a contarle a otras personas de la simple efectividad de nuestra aplicacion web.Sabremos que hemos tenido éxito cuando se incremente el número de personas que esten dispuestas a apoyar a distintas ONG por medio de nuestra plataforma. <br>- Creemos que la aplicación ayudará a las personas que quieren apoyar a las ONG pero no saben como y a las mismas ONG. Sabremos que hemos tenido éxito cuando veamos las ONG menos reconocidas empiezen a tener mas reconocimiento. <br> Creemos que ayudar a las ONG a tener mas visibilidad en la frontpage por medio de una subscripcion poco costosa ayudara a mejorar la visibilidad y aumentar la cantidad de personas motivadas a ayudar.<br> Sabremos que hemos tenido éxito, cuando a nivel nacional se empiece a notar un incremento en la ayuda social proporcionada. <br>| ¿Qué es la cosa más importante que nosotros necesitamos aprender primero? <br> Lo principal que necesitamos aprender es conectar la base de datos con la pagina web y adicionalmente un repaso en lo que viene siendo la gestión del proyecto| <br> ¿Cuál es la mínima cantidad de trabajo que nosotros necesitamos hacer para aprender la siguiente cosa más importante? <br> Asistir a las clases y solicitar que se nos revise los avances del proyecto para poder hacer un seguimiento saludable del proyecto|
 
 ## 1.3. Segmentos objetivo.
 
 |                           | Segmento 1 | Segmento 2 |
 |---------------------------|------------|------------|
-| Variables                 |            |            |
+| Variables                 | Dueño del negocio  |  Gestor del negocio |
 | Geográfica                |            |            |
 | Demográfica               |            |            |
 | Psicológica               |            |            |
