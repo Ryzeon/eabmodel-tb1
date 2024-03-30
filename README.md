@@ -27,6 +27,7 @@
 |:-----------------------------:|:----------:|
 | Alex Ramon Alberto Avila Asto | u20221a322 |
 | Sebastian Ramirez Hoffmann | u2011894 |
+| Piero Fernando Periche Quiroga | u202210192|
 
 </div>
 
@@ -42,7 +43,8 @@
 
 # Project Report Collaboration Insights
 
-[URL del repositorio](https://www.example.com)
+[URL del repositorio]([https://www.example.com](https://github.com/orgs/upc-pre-20241-si729-wx55-eabmodel/repositories))
+
 
 (Imagenes de los commits cada entrega)
 
@@ -194,6 +196,7 @@ Texto del proyecto
 | Compañero 1 	![Imagen del compañero](image.jpg) | U20...            | Ingenieria de software | C++, piton .etc             |
 |Peña Rivera, Manuel Sebastian <img src="assets\members-profile\Manuel.jpg" alt="Imagen del compañero" style="width:60%">|U202210138|Ingenieria de software|C++, Python, MongoDB, SQL, Assembler. Responsabilidad y Buena Comunicación| 
 |Ramírez Hoffmann, Sebastián  <img src="https://avatars.githubusercontent.com/u/129230632?v=4" alt="Imagen del compañero" style="width:60%">|U20221894|Ingenieria de software|C++, Python, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico|
+|Periche Quiroga, Piero  <img src="https://avatars.githubusercontent.com/u/164218254?v=4)" alt="Imagen del compañero" style="width:60%"> |U202210192|Ingenieria de software| C++, SQL, Js. Responsabilidad y buen ambiente de equipo|
 
 
 ## 1.2. Solution Profile
@@ -201,6 +204,19 @@ Texto del proyecto
 ### 1.2.1 Antecedentes y problemática
 
 Investigacion (5w, 2h tbn)
+| ¿What? - ¿Cuál es el problema?            | El proyecto EABMODEL con su plataforma InnControl busca mejorar la problematica la cual trata de una mala gestion dentro del sector hotelero, el cual genera una mala coordinacion y por lo tanto afecta a la experiencia del usuario.  | 
+|--------------------------------------------|-------------------|
+| ¿Who? - ¿Quienes son los beneficiarios? | InnControl es un servicio de gestión orientado a negocios en el rubro de hospedaje u hotelería el cual provee un seguimiento de inventario, empleados, espacios, tiempos y servicios utilizados en los procesos. Asimismo mantendrá igualmente un contacto tanto con los proveedores del negocio como sus mismo empleados y gerentes. |
+| ¿Where? - ¿Donde se origina el problema? | La problemática se extiende a nivel global en entornos hoteleros, donde la falta de coordinacion o de gestion dentro de una empresa afecta a la eficiencia y a la experiencia del usuario. InnControl ofrece una solucion aplicable en cualquier ubicacion que cuente con servicios de hospedaje y hoteleria, mejorando la coordinacion y los procesos empleados |
+| ¿When? - ¿Cuando se origina el problema? | La necesidad de esta solucion surge en el contexto actual de la atencion en los hospedajes u hoteles, donde la urgencia de modernizar y organizar procesos es evidente. La ayuda y herramientas de InnControl es relevante, ya que ofrece mejoras inmediatas en la coordinacion y eficiencia de la atencion dentro del sector. |
+|¿Why? - ¿Por qué se origina el problema? | La falta de coordinacion, la desconexion en la atencion hotelera y los procesos manuales motivan la busqueda de una solucion. InnControl aborda estas problemáticas para mejorar la calidad de atención, proporcionar una operativa mas eficiente y preparar el sector para una atencion mas conectada.
+|¿How? - ¿Como se origina el problema? | InnControl implementa tecnologia para digitalizar la gestion de inventario, espacios, tiempos y servicios usados en los procesos. La plataforma facilita la colaboracion entre proovedores del negocio, asi como sus empleados y gerentes.| 
+|¿How much?| El proyecto busca maximizar el valor proporcionado en terminos de eficiencia operativa y mejora en la atencion hotelera. En el ambito economico es crucial reducir costos asociados a procesos ineficientes y errores en la gestion.
+
+
+
+
+
 
 ### 1.2.2 Lean UX Process.
 
