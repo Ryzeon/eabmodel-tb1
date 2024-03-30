@@ -198,7 +198,7 @@ Nuestra startup "InnControl" es un servicio de gestion orientado a negocios en e
 |Peña Rivera, Manuel Sebastian <img src="assets\members-profile\Manuel.jpg" alt="Imagen del compañero" style="width:60%">|U202210138|Ingenieria de software|C++, Python, MongoDB, SQL, Assembler. Responsabilidad y Buena Comunicación| 
 |Ramírez Hoffmann, Sebastián  <img src="https://avatars.githubusercontent.com/u/129230632?v=4" alt="Imagen del compañero" style="width:60%">|U20221894|Ingenieria de software|C++, Python, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico|
 |Periche Quiroga, Piero  <img src="https://avatars.githubusercontent.com/u/164218254?v=4)" alt="Imagen del compañero" style="width:60%"> |U202210192|Ingenieria de software| C++, SQL, Js. Responsabilidad y buen ambiente de equipo|
-|Hidalgo Bustamante, Josue  <img src="##" alt="Imagen del compañero" style="width:60%"> |U202210192|Ingenieria de software| C++, SQL, MongoDB, Reactjs, NodeJs,. Responsabilidad y Paciencia.|
+|Hidalgo Bustamante, Josue  <img src="##" alt="Imagen del compañero" style="width:60%"> |U20219880|Ingenieria de software| C++, SQL,  MongoDB, Js, Reactjs, NodeJs,. Paciencia y Responsabilidad.|
 
 ## 1.2. Solution Profile
 
