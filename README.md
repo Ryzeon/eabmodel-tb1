@@ -268,13 +268,14 @@ How (¿Cómo se lleva al cabo?) La aplicacion web tendra su espacio workspace do
 
 ## 1.3. Segmentos objetivo.
 
-|                           | Segmento 1 | Segmento 2 |
-|---------------------------|------------|------------|
-| Variables                 | empleado negocio  |  Gestor del negocio |
-| Geográfica                |            |            |
-| Demográfica               |            |            |
-| Psicológica               |            |            |
-| Función de comportamiento |            |            |
+|                           | Segmento 1            | Segmento 2            |
+|---------------------------|-----------------------|-----------------------|
+| Variables                 | Empleado negocio      | Gestor del negocio    |
+| Geográfica                | Ubicación cercana al establecimiento hotelero o de hospedaje | Preferiblemente ubicado en la misma región donde se encuentra el negocio |
+| Demográfica               | Diversidad en edad y género | Edad adulta, posiblemente con formación universitaria en áreas relacionadas con administración o gestión |
+| Psicológica               | Actitud hacia la adopción de nuevas tecnologías, motivación para mejorar la eficiencia en el trabajo | Orientado hacia la eficiencia y mejora continua, interés en adoptar soluciones tecnológicas para optimizar la operación del negocio |
+| Función de comportamiento | Necesidad de herramientas que faciliten la realización de tareas diarias, interés en optimizar procesos para mejorar la calidad del servicio | Necesidad de herramientas que le permitan supervisar y gestionar eficientemente todas las áreas del negocio, prioriza la mejora de la experiencia del cliente y la optimización de los recursos disponibles |
+
 
 ---
 
