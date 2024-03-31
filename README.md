@@ -265,9 +265,21 @@ funcionalidad que desee agregar el gestor.
 
 ### 1.2.2 Lean UX Process.
 
-#### 1.2.2.1. Lean UX Problem Statements.
+#### 1.2.2.1. Lean UX Problem Statement.
 
-(esto se responde con la investigacion)
+Observamos que en la industria hotelera, muchos establecimientos enfrentan desafíos significativos en la gestión interna
+de sus operaciones. La falta de coordinación y eficiencia en la gestión del inventario, el personal, los espacios y los
+servicios afecta negativamente tanto la experiencia del usuario como la eficiencia operativa. Esta falta de coordinación
+puede llevar a errores en la asignación de recursos, retrasos en la atención al cliente y una experiencia general
+insatisfactoria para los huéspedes.
+
+Además, los gerentes de hoteles se enfrentan a la presión de mantener altos estándares de calidad y eficiencia, mientras
+lidian con procesos manuales y sistemas obsoletos que consumen tiempo y recursos. Esta falta de herramientas adecuadas
+para la gestión puede tener un impacto directo en la rentabilidad del negocio y en la satisfacción del cliente.
+
+Como resultado, nos enfrentamos al siguiente problema: ¿Cómo podemos proporcionar a los gerentes de hoteles una
+plataforma de gestión accesible y eficiente que les permita coordinar de manera efectiva el inventario, los empleados,
+los espacios y los servicios, para mejorar la experiencia del usuario y optimizar los procesos operativos?
 
 #### 1.2.2.2. Lean UX Assumptions.
 
@@ -276,6 +288,26 @@ funcionalidad que desee agregar el gestor.
 | 1. - 12.             | 1. - 6.          |
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
+
+Creemos que al proporcionar una plataforma de gestión hotelera accesible y eficiente, los gerentes podrán coordinar
+mejor sus operaciones, lo que resultará en una experiencia mejorada para los huéspedes y una optimización de los
+procesos internos.
+
+Sabremos que hemos tenido éxito cuando observemos un aumento en la adopción de la plataforma por parte de los gerentes
+de hoteles y una mayor finalización de tareas dentro de la plataforma con resultados positivos en la satisfacción del
+cliente.
+
+Creemos que la aplicación permitirá a los gerentes comprender mejor los aspectos críticos de la gestión hotelera y tomar
+decisiones informadas para mejorar la eficiencia operativa.
+
+Sabremos que hemos tenido éxito cuando veamos una mejora en la satisfacción del cliente, medida a través de encuestas y
+comentarios positivos, y una reducción en los tiempos de respuesta y errores operativos.
+
+Creemos que al ofrecer herramientas intuitivas y efectivas, los gerentes podrán dedicar más tiempo a actividades
+estratégicas y de mejora continua, lo que resultará en un aumento en la rentabilidad y competitividad del hotel.
+
+Sabremos que hemos tenido éxito cuando observemos un aumento en la rentabilidad del hotel, una mejora en las
+calificaciones de satisfacción del cliente y una optimización de los procesos internos de gestión.
 
 #### 1.2.2.4. Lean UX Canvas.
 
