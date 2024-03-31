@@ -198,7 +198,7 @@ Nuestra startup "InnControl" es un servicio de gestion orientado a negocios en e
 |Peña Rivera, Manuel Sebastian <img src="assets\members-profile\Manuel.jpg" alt="Imagen del compañero" style="width:60%">|U202210138|Ingenieria de software|C++, Python, MongoDB, SQL, Assembler. Responsabilidad y Buena Comunicación| 
 |Ramírez Hoffmann, Sebastián  <img src="https://avatars.githubusercontent.com/u/129230632?v=4" alt="Imagen del compañero" style="width:60%">|U20221894|Ingenieria de software|C++, Python, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico|
 |Periche Quiroga, Piero  <img src="https://avatars.githubusercontent.com/u/164218254?v=4)" alt="Imagen del compañero" style="width:60%"> |U202210192|Ingenieria de software| C++, SQL, Js. Responsabilidad y buen ambiente de equipo|
-
+|Hidalgo Bustamante, Josue  <img src="##" alt="Imagen del compañero" style="width:60%"> |U20219880|Ingenieria de software| C++, SQL,  MongoDB, Js, Reactjs, NodeJs,. Paciencia y Responsabilidad.|
 
 ## 1.2. Solution Profile
 
@@ -268,13 +268,14 @@ How (¿Cómo se lleva al cabo?) La aplicacion web tendra su espacio workspace do
 
 ## 1.3. Segmentos objetivo.
 
-|                           | Segmento 1 | Segmento 2 |
-|---------------------------|------------|------------|
-| Variables                 | empleado negocio  |  Gestor del negocio |
-| Geográfica                |            |            |
-| Demográfica               |            |            |
-| Psicológica               |            |            |
-| Función de comportamiento |            |            |
+|                           | Segmento 1            | Segmento 2            |
+|---------------------------|-----------------------|-----------------------|
+| Variables                 | Empleado negocio      | Gestor del negocio    |
+| Geográfica                | Ubicación cercana al establecimiento hotelero o de hospedaje | Preferiblemente ubicado en la misma región donde se encuentra el negocio |
+| Demográfica               | Diversidad en edad y género | Edad adulta, posiblemente con formación universitaria en áreas relacionadas con administración o gestión |
+| Psicológica               | Actitud hacia la adopción de nuevas tecnologías, motivación para mejorar la eficiencia en el trabajo | Orientado hacia la eficiencia y mejora continua, interés en adoptar soluciones tecnológicas para optimizar la operación del negocio |
+| Función de comportamiento | Necesidad de herramientas que faciliten la realización de tareas diarias, interés en optimizar procesos para mejorar la calidad del servicio | Necesidad de herramientas que le permitan supervisar y gestionar eficientemente todas las áreas del negocio, prioriza la mejora de la experiencia del cliente y la optimización de los recursos disponibles |
+
 
 ---
 
