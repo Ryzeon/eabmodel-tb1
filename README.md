@@ -2,7 +2,7 @@
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"><br>
     <strong>Ingeniería de Software</strong><br>
     <strong>Aplicaciones Web - WX55</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
@@ -187,51 +187,35 @@
 
 ### 1.1.1. Descripción de la Startup
 
-Nuestra startup "InnControl" es un servicio de gestion orientado a negocios en el rubro de hospedajes u hoteleria el
+Nuestra startup "InnControl" es un servicio de gestion orientado a negocios en el rubro de hospedajes u hotelería el
 cual provee un seguimiento de inventario, empleados, espacios, tiempos y servicios utilizados en el proceso del
-servicio. Asimismo mantendra igualmente un contacto tanto con los provedoores del negocio como sus mismos empleados y
+servicio. Asimismo mantendrá igualmente un contacto tanto con los proveedores del negocio como sus mismos empleados y
 gerentes.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
-| Miembros del equipo                                                                                                                         | Codigo Estudiante | Carrera                | Conocimientos / Habilidades                                                              |
-|---------------------------------------------------------------------------------------------------------------------------------------------|-------------------|------------------------|------------------------------------------------------------------------------------------|
-| Compañero 1 	![Imagen del compañero](image.jpg)                                                                                             | U20...            | Ingenieria de software | C++, piton .etc                                                                          |
-| Peña Rivera, Manuel Sebastian <img src="assets\members-profile\Manuel.jpg" alt="Imagen del compañero" style="width:60%">                    | U202210138        | Ingenieria de software | C++, Python, MongoDB, SQL, Assembler. Responsabilidad y Buena Comunicación               | 
-| Ramírez Hoffmann, Sebastián  <img src="https://avatars.githubusercontent.com/u/129230632?v=4" alt="Imagen del compañero" style="width:60%"> | U20221894         | Ingenieria de software | C++, Python, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico |
-| Periche Quiroga, Piero  <img src="https://avatars.githubusercontent.com/u/164218254?v=4)" alt="Imagen del compañero" style="width:60%">     | U202210192        | Ingenieria de software | C++, SQL, Js. Responsabilidad y buen ambiente de equipo                                  |
-| Hidalgo Bustamante, Josue  <img src="##" alt="Imagen del compañero" style="width:60%">                                                      | U20219880         | Ingenieria de software | C++, SQL,  MongoDB, Js, Reactjs, NodeJs,. Paciencia y Responsabilidad.                   |
+| Miembros del equipo                                                                                                   | Codigo Estudiante | Carrera                | Conocimientos / Habilidades                                                              |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|------------------------|------------------------------------------------------------------------------------------|
+| Avila Asto, Alex Ramon Alberto <br/> <img src="https://i.imgur.com/BMyvWrA.jpeg" style="width:60%">                   | U20221a322        | Ingeniería de software | C++, Python, Kotlin, Dart, SQL, MongoDB, Java. Responsabilidad y trabajo en equipo.      |
+| Peña Rivera, Manuel Sebastian <br/><img src="https://i.imgur.com/6WyohUm.jpeg" style="width:60%">                     | U202210138        | Ingeniería de software | C++, Python, MongoDB, SQL, Assembler. Responsabilidad y Buena Comunicación               | 
+| Ramírez Hoffmann, Sebastián <br/> <img src="https://avatars.githubusercontent.com/u/129230632?v=4" style="width:60%"> | U20221894         | Ingeniería de software | C++, Python, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico |
+| Periche Quiroga, Piero <br/> <img src="https://avatars.githubusercontent.com/u/164218254?v=4" style="width:60%">      | U202210192        | Ingeniería de software | C++, SQL, Js. Responsabilidad y buen ambiente de equipo                                  |
+| Hidalgo Bustamante, Josue  <img src="##" style="width:60%">                                                           | U20219880         | Ingeniería de software | C++, SQL,  MongoDB, Js, Reactjs, NodeJs,. Paciencia y Responsabilidad.                   |
 
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
 
 Investigacion (5w, 2h tbn)
-| ¿What? - ¿Cuál es el problema? | El proyecto EABMODEL con su plataforma InnControl busca mejorar la problematica la
-cual trata de una mala gestion dentro del sector hotelero, el cual genera una mala coordinacion y por lo tanto afecta a
-la experiencia del usuario. |
-|--------------------------------------------|-------------------|
-| ¿Who? - ¿Quienes son los beneficiarios? | InnControl es un servicio de gestión orientado a negocios en el rubro de
-hospedaje u hotelería el cual provee un seguimiento de inventario, empleados, espacios, tiempos y servicios utilizados
-en los procesos. Asimismo mantendrá igualmente un contacto tanto con los proveedores del negocio como sus mismo
-empleados y gerentes. |
-| ¿Where? - ¿Donde se origina el problema? | La problemática se extiende a nivel global en entornos hoteleros, donde la
-falta de coordinacion o de gestion dentro de una empresa afecta a la eficiencia y a la experiencia del usuario.
-InnControl ofrece una solucion aplicable en cualquier ubicacion que cuente con servicios de hospedaje y hoteleria,
-mejorando la coordinacion y los procesos empleados |
-| ¿When? - ¿Cuando se origina el problema? | La necesidad de esta solucion surge en el contexto actual de la atencion en
-los hospedajes u hoteles, donde la urgencia de modernizar y organizar procesos es evidente. La ayuda y herramientas de
-InnControl es relevante, ya que ofrece mejoras inmediatas en la coordinacion y eficiencia de la atencion dentro del
-sector. |
-|¿Why? - ¿Por qué se origina el problema? | La falta de coordinacion, la desconexion en la atencion hotelera y los
-procesos manuales motivan la busqueda de una solucion. InnControl aborda estas problemáticas para mejorar la calidad de
-atención, proporcionar una operativa mas eficiente y preparar el sector para una atencion mas conectada.
-|¿How? - ¿Como se origina el problema? | InnControl implementa tecnologia para digitalizar la gestion de inventario,
-espacios, tiempos y servicios usados en los procesos. La plataforma facilita la colaboracion entre proovedores del
-negocio, asi como sus empleados y gerentes.|
-|¿How much?| El proyecto busca maximizar el valor proporcionado en terminos de eficiencia operativa y mejora en la
-atencion hotelera. En el ambito economico es crucial reducir costos asociados a procesos ineficientes y errores en la
-gestion.
+
+| ¿What? - ¿Cuál es el problema?           | El proyecto EABMODEL con su plataforma InnControl busca mejorar la problematica la cual trata de una mala gestion dentro del sector hotelero, el cual genera una mala coordinacion y por lo tanto afecta a la experiencia del usuario.                                                                                                                           |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ¿Who? - ¿Quienes son los beneficiarios?  | InnControl es un servicio de gestión orientado a negocios en el rubro de hospedaje u hotelería el cual provee un seguimiento de inventario, empleados, espacios, tiempos y servicios utilizados en los procesos. Asimismo mantendrá igualmente un contacto tanto con los proveedores del negocio como sus mismo empleados y gerentes.                            |
+| ¿Where? - ¿Donde se origina el problema? | La problemática se extiende a nivel global en entornos hoteleros, donde la falta de coordinacion o de gestion dentro de una empresa afecta a la eficiencia y a la experiencia del usuario. InnControl ofrece una solucion aplicable en cualquier ubicacion que cuente con servicios de hospedaje y hoteleria, mejorando la coordinacion y los procesos empleados |
+| ¿When? - ¿Cuando se origina el problema? | La necesidad de esta solucion surge en el contexto actual de la atencion en los hospedajes u hoteles, donde la urgencia de modernizar y organizar procesos es evidente. La ayuda y herramientas de InnControl es relevante, ya que ofrece mejoras inmediatas en la coordinacion y eficiencia de la atencion dentro del sector.                                   |
+| ¿Why? - ¿Por qué se origina el problema? | La falta de coordinacion, la desconexión en la atencion hotelera y los procesos manuales motivan la busqueda de una solucion. InnControl aborda estas problemáticas para mejorar la calidad de atención, proporcionar una operativa mas eficiente y preparar el sector para una atencion mas conectada.                                                          |
+| ¿How? - ¿Como se origina el problema?    | InnControl implementa tecnologia para digitalizar la gestion de inventario, espacios, tiempos y servicios usados en los procesos. La plataforma facilita la colaboracion entre proovedores del negocio, asi como sus empleados y gerentes.                                                                                                                       |
+| ¿How much?                               | El proyecto busca maximizar el valor proporcionado en terminos de eficiencia operativa y mejora en la atencion hotelera. En el ambito economico es crucial reducir costos asociados a procesos ineficientes y errores en la gestion.                                                                                                                             |
 
 [investigar respecto a eficiencia de gestion con y sin gestores de terceros]
 
@@ -241,7 +225,7 @@ gestion.
 
 5 w's 2 h
 
-concientiza de la importancia de las ONG.
+Concientiza de la importancia de las ONG.
 
 Why (¿Porque se está haciendo?): Se hace esta aplicacion web con el objetivo de que los establecimientos de hoteleria o
 de hospedaje tengan una plataforma de gestion accesible, facil de utilizar y eficiente para realizar un conjunto de
@@ -446,21 +430,23 @@ Why would they invite others?
 Escenario: {escenario}
 
 As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling | texto| texto | texto| texto|
+
+| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
+|----------|--------|--------|--------|--------|
+| Doing    | texto  | texto  | texto  | texto  |
+| Thinking | texto  | texto  | texto  | texto  |
+| Feeling  | texto  | texto  | texto  | texto  |
 
 **Segmento 2**  
 Escenario: Dificultad para entender Matemáticas
 
 As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling | texto| texto | texto| texto|
+
+| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
+|----------|--------|--------|--------|--------|
+| Doing    | texto  | texto  | texto  | texto  |
+| Thinking | texto  | texto  | texto  | texto  |
+| Feeling  | texto  | texto  | texto  | texto  |
 
 ## 2.4. Ubiquitous Language.
 
@@ -483,39 +469,40 @@ Segmento 1:
 | Feeling  |              | texto  | texto  | texto| texto|
 
 Segmento 2:
-| Fases | fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling | | texto| texto | texto| texto|
+
+| Fases    | fase 1 as is | fase 2 | fase 3 |
+|----------|--------------|--------|--------|
+| Doing    |              | texto  | texto  | texto| texto|
+| Thinking |              | texto  | texto  | texto| texto|
+| Feeling  |              | texto  | texto  | texto| texto|
 
 ## 3.2. User Stories.
 
 revisar en grupo = *
 
-| HUX    | Historia de Usuario                                                                | Descripción                                                                                                                |
-|--------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
-| HU01   | Como gerente, quiero poder agregar nuevas habitaciones                             | Para mantener actualizado el inventario de habitaciones disponibles.                                                       |
-| HU02   | Como gerente, quiero poder asignar tareas a los empleados                          | Para distribuir eficientemente las responsabilidades y mejorar la productividad.                                           |
-| HU03   | Como gerente, quiero recibir notificaciones de baja en el inventario               | Para tomar medidas rápidas en caso de escasez de suministros.                                                              |
-| * HU04 | Como gerente, quiero generar informes de desempeño del personal [revisar en grupo] | Para evaluar el rendimiento de los empleados y tomar decisiones basadas en datos.                                          |
-| HU05   | Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real        | Para gestionar eficazmente la disponibilidad y asignación de habitaciones.                                                 |
-| HU06   | Como gerente, quiero recibir alertas de mantenimiento programado                   | Para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados.                         |
-| HU07   | Como gerente, quiero ver el estado de las habitaciones                             | Para poder revisar si estan listas para su uso despues del proceso de limpieza.                                            |
-| HU08   | Como gerente, quiero gestionar el acceso y permisos de los empleados               | Para garantizar la seguridad y la privacidad de la información del negocio.                                                |
-| HU09   | Como gerente, quiero programar turnos de trabajo automáticamente                   | Para optimizar la asignación de personal y evitar conflictos de horarios.                                                  |
-| HU10   | Como gerente, quiero poder realizar seguimiento de gastos implementados            | Para controlar los costos y optimizar la rentabilidad del negocio.                                                         |
-| HU11   | Como gerente, quiero gestionar la disponibilidad de servicios adicionales          | Para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente.                                        |
-| * HU12 | Como gerente, quiero recibir notificaciones de comentarios y opiniones de clientes | Para responder rápidamente a las necesidades y preocupaciones de los clientes.                                             |
-| * HU13 | Como gerente, quiero poder crear promociones y ofertas especiales                  | Para atraer a más clientes y aumentar las ventas.                                                                          |
-| HU14   | Como gerente, quiero mantener un registro de los proveedores                       | Para gestionar eficientemente las relaciones comerciales y los suministros.                                                |
-| * HU15 | Como gerente, quiero poder realizar seguimiento de la satisfacción del cliente     | Para identificar áreas de mejora y garantizar una experiencia de calidad.                                                  |
-| HU16   | Como empleado, quiero recibir notificaciones de cambios en mi agenda laboral       | Para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia.                                  |
-| HU17   | Como empleado, quiero poder registrar el estado de limpieza de las habitaciones    | Para contribuir al mantenimiento de altos estándares de limpieza y satisfacer las expectativas de los clientes.            |
-| HU18   | Como empleado, quiero poder acceder a manuales de procedimientos                   | Para tener recursos de referencia que me ayuden a realizar mi trabajo de manera efectiva.                                  |
-| HU19   | Como empleado, quiero poder registrar el estado de los suministros                 | Para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento. |
-| HU20   | Como empleado, quiero poder reportar incidencias o problemas                       | Para informar sobre cualquier problema o situación que afecte mi trabajo o la calidad del servicio.                        |
-| * HU21 | Como gerente, quiero poder generar facturas para los servicios adicionales         | Para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes.           |
+| HUX  | Historia de Usuario                                                                | Descripción                                                                                                                |
+|------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| HU01 | Como gerente, quiero poder agregar nuevas habitaciones                             | Para mantener actualizado el inventario de habitaciones disponibles.                                                       |
+| HU02 | Como gerente, quiero poder asignar tareas a los empleados                          | Para distribuir eficientemente las responsabilidades y mejorar la productividad.                                           |
+| HU03 | Como gerente, quiero recibir notificaciones de baja en el inventario               | Para tomar medidas rápidas en caso de escasez de suministros.                                                              |
+| HU04 | Como gerente, quiero generar informes de desempeño del personal [revisar en grupo] | Para evaluar el rendimiento de los empleados y tomar decisiones basadas en datos.                                          |
+| HU05 | Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real        | Para gestionar eficazmente la disponibilidad y asignación de habitaciones.                                                 |
+| HU06 | Como gerente, quiero recibir alertas de mantenimiento programado                   | Para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados.                         |
+| HU07 | Como gerente, quiero ver el estado de las habitaciones                             | Para poder revisar si estan listas para su uso despues del proceso de limpieza.                                            |
+| HU08 | Como gerente, quiero gestionar el acceso y permisos de los empleados               | Para garantizar la seguridad y la privacidad de la información del negocio.                                                |
+| HU09 | Como gerente, quiero programar turnos de trabajo automáticamente                   | Para optimizar la asignación de personal y evitar conflictos de horarios.                                                  |
+| HU10 | Como gerente, quiero poder realizar seguimiento de gastos implementados            | Para controlar los costos y optimizar la rentabilidad del negocio.                                                         |
+| HU11 | Como gerente, quiero gestionar la disponibilidad de servicios adicionales          | Para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente.                                        |
+| HU12 | Como gerente, quiero recibir notificaciones de comentarios y opiniones de clientes | Para responder rápidamente a las necesidades y preocupaciones de los clientes.                                             |
+| HU13 | Como gerente, quiero poder crear promociones y ofertas especiales                  | Para atraer a más clientes y aumentar las ventas.                                                                          |
+| HU14 | Como gerente, quiero mantener un registro de los proveedores                       | Para gestionar eficientemente las relaciones comerciales y los suministros.                                                |
+| HU15 | Como gerente, quiero poder realizar seguimiento de la satisfacción del cliente     | Para identificar áreas de mejora y garantizar una experiencia de calidad.                                                  |
+| HU16 | Como empleado, quiero recibir notificaciones de cambios en mi agenda laboral       | Para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia.                                  |
+| HU17 | Como empleado, quiero poder registrar el estado de limpieza de las habitaciones    | Para contribuir al mantenimiento de altos estándares de limpieza y satisfacer las expectativas de los clientes.            |
+| HU18 | Como empleado, quiero poder acceder a manuales de procedimientos                   | Para tener recursos de referencia que me ayuden a realizar mi trabajo de manera efectiva.                                  |
+| HU19 | Como empleado, quiero poder registrar el estado de los suministros                 | Para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento. |
+| HU20 | Como empleado, quiero poder reportar incidencias o problemas                       | Para informar sobre cualquier problema o situación que afecte mi trabajo o la calidad del servicio.                        |
+| HU21 | Como gerente, quiero poder generar facturas para los servicios adicionales         | Para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes.           |
 
 ## 3.3. Impact Mapping.
 
