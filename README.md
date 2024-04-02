@@ -1,9 +1,8 @@
-
 # <center>COURSE PROJECT</center>
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"><br>
     <strong>Ingeniería de Software</strong><br>
     <strong>Aplicaciones Web - WX55</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
@@ -23,10 +22,13 @@
 
 <div align="center">
 
-|            Member             |    Code    |
-|:-----------------------------:|:----------:|
-| Alex Ramon Alberto Avila Asto | u20221a322 |
-| Sebastian Ramirez Hoffmann | u202211894 |
+|             Member             |    Code    |
+|:------------------------------:|:----------:|
+| Alex Ramon Alberto Avila Asto  | u20221a322 |
+|   Sebastian Ramirez Hoffmann   |  u2011894  |
+| Piero Fernando Periche Quiroga | u202210192 |
+|  Manuel Sebastian Peña Rivera  | U202210138 |
+|    Josue Hidalgo Bustamante    | U20219880  |
 
 </div>
 
@@ -185,24 +187,35 @@
 
 ### 1.1.1. Descripción de la Startup
 
-Nuestra startup "InnControl" es un servicio de gestion orientado a negocios en el rubro de hospedajes u hoteleria el cual provee un seguimiento de inventario, empleados, espacios, tiempos y servicios utilizados en el proceso del servicio. Asimismo mantendra igualmente un contacto tanto con los provedoores del negocio como sus mismos empleados y gerentes.
-
- 
+Nuestra startup "InnControl" es un servicio de gestion orientado a negocios en el rubro de hospedajes u hotelería el
+cual provee un seguimiento de inventario, empleados, espacios, tiempos y servicios utilizados en el proceso del
+servicio. Asimismo mantendrá igualmente un contacto tanto con los proveedores del negocio como sus mismos empleados y
+gerentes.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
-| Miembros del equipo                             | Codigo Estudiante | Carrera                | Conocimientos / Habilidades |
-|-------------------------------------------------|-------------------|------------------------|-----------------------------|
-| Compañero 1 	![Imagen del compañero](image.jpg) | U20...            | Ingenieria de software | C++, piton .etc             |
-|Peña Rivera, Manuel Sebastian <img src="assets\members-profile\Manuel.jpg" alt="Imagen del compañero" style="width:60%">|U202210138|Ingenieria de software|C++, Python, MongoDB, SQL, Assembler. Responsabilidad y Buena Comunicación| 
-|Ramírez Hoffmann, Sebastián  <img src="https://avatars.githubusercontent.com/u/129230632?v=4" alt="Imagen del compañero" style="width:60%">|U20221894|Ingenieria de software|C++, Python, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico|
-
+| Miembros del equipo                                                                                                   | Codigo Estudiante | Carrera                | Conocimientos / Habilidades                                                              |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|------------------------|------------------------------------------------------------------------------------------|
+| Avila Asto, Alex Ramon Alberto <br/> <img src="https://i.imgur.com/BMyvWrA.jpeg" style="width:60%">                   | U20221a322        | Ingeniería de software | C++, Python, Kotlin, Dart, SQL, MongoDB, Java. Responsabilidad y trabajo en equipo.      |
+| Peña Rivera, Manuel Sebastian <br/><img src="https://i.imgur.com/6WyohUm.jpeg" style="width:60%">                     | U202210138        | Ingeniería de software | C++, Python, MongoDB, SQL, Assembler. Responsabilidad y Buena Comunicación               | 
+| Ramírez Hoffmann, Sebastián <br/> <img src="https://avatars.githubusercontent.com/u/129230632?v=4" style="width:60%"> | U20221894         | Ingeniería de software | C++, Python, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico |
+| Periche Quiroga, Piero <br/> <img src="https://avatars.githubusercontent.com/u/164218254?v=4" style="width:60%">      | U202210192        | Ingeniería de software | C++, SQL, Js. Responsabilidad y buen ambiente de equipo                                  |
+| Hidalgo Bustamante, Josue  <img src="##" style="width:60%">                                                           | U20219880         | Ingeniería de software | C++, SQL,  MongoDB, Js, Reactjs, NodeJs,. Paciencia y Responsabilidad.                   |
 
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
 
 Investigacion (5w, 2h tbn)
+
+| ¿What? - ¿Cuál es el problema?           | El proyecto EABMODEL con su plataforma InnControl busca mejorar la problematica la cual trata de una mala gestion dentro del sector hotelero, el cual genera una mala coordinacion y por lo tanto afecta a la experiencia del usuario.                                                                                                                           |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ¿Who? - ¿Quienes son los beneficiarios?  | InnControl es un servicio de gestión orientado a negocios en el rubro de hospedaje u hotelería el cual provee un seguimiento de inventario, empleados, espacios, tiempos y servicios utilizados en los procesos. Asimismo mantendrá igualmente un contacto tanto con los proveedores del negocio como sus mismo empleados y gerentes.                            |
+| ¿Where? - ¿Donde se origina el problema? | La problemática se extiende a nivel global en entornos hoteleros, donde la falta de coordinacion o de gestion dentro de una empresa afecta a la eficiencia y a la experiencia del usuario. InnControl ofrece una solucion aplicable en cualquier ubicacion que cuente con servicios de hospedaje y hoteleria, mejorando la coordinacion y los procesos empleados |
+| ¿When? - ¿Cuando se origina el problema? | La necesidad de esta solucion surge en el contexto actual de la atencion en los hospedajes u hoteles, donde la urgencia de modernizar y organizar procesos es evidente. La ayuda y herramientas de InnControl es relevante, ya que ofrece mejoras inmediatas en la coordinacion y eficiencia de la atencion dentro del sector.                                   |
+| ¿Why? - ¿Por qué se origina el problema? | La falta de coordinacion, la desconexión en la atencion hotelera y los procesos manuales motivan la busqueda de una solucion. InnControl aborda estas problemáticas para mejorar la calidad de atención, proporcionar una operativa mas eficiente y preparar el sector para una atencion mas conectada.                                                          |
+| ¿How? - ¿Como se origina el problema?    | InnControl implementa tecnologia para digitalizar la gestion de inventario, espacios, tiempos y servicios usados en los procesos. La plataforma facilita la colaboracion entre proovedores del negocio, asi como sus empleados y gerentes.                                                                                                                       |
+| ¿How much?                               | El proyecto busca maximizar el valor proporcionado en terminos de eficiencia operativa y mejora en la atencion hotelera. En el ambito economico es crucial reducir costos asociados a procesos ineficientes y errores en la gestion.                                                                                                                             |
 
 [investigar respecto a eficiencia de gestion con y sin gestores de terceros]
 
@@ -212,25 +225,61 @@ Investigacion (5w, 2h tbn)
 
 5 w's 2 h
 
-concientiza de la importancia de las ONG.
+Concientiza de la importancia de las ONG.
 
-Why (¿Porque se está haciendo?): Se hace esta aplicacion web con el objetivo de que los establecimientos de hoteleria o de hospedaje tengan una plataforma de gestion accesible, facil de utilizar y eficiente para realizar un conjunto de actividades tales como la gestion de inventario, tiempos de habitacion, horarios de limpieza y servicio y entre otros distintos procedimientos que normalmente se hacen de manera estatica, con nosotros esto pasa a ser mas dinamico y modificable segun las necesidades del usuario.
+Why (¿Porque se está haciendo?): Se hace esta aplicacion web con el objetivo de que los establecimientos de hoteleria o
+de hospedaje tengan una plataforma de gestion accesible, facil de utilizar y eficiente para realizar un conjunto de
+actividades tales como la gestion de inventario, tiempos de habitacion, horarios de limpieza y servicio y entre otros
+distintos procedimientos que normalmente se hacen de manera estatica, con nosotros esto pasa a ser mas dinamico y
+modificable segun las necesidades del usuario.
 
-When (¿Cuándo se usa?): Se usa cuando el usuario tenga la necesidad de gestionar distintos procesos de administracion de su negocio de hospedaje u hoteleria, en los tiempos donde hay un incremento en la clientela o cuando el negocio requiere hacer distintas cantidades de procesos de manera rapida.
+When (¿Cuándo se usa?): Se usa cuando el usuario tenga la necesidad de gestionar distintos procesos de administracion de
+su negocio de hospedaje u hoteleria, en los tiempos donde hay un incremento en la clientela o cuando el negocio requiere
+hacer distintas cantidades de procesos de manera rapida.
 
-Where (¿Dónde se usa?): El uso esta diseñado para Perú inicialmente ya que ademas de poder realizar un seguimiento local del funcionamiento de la aplicacion web tambien se podra mejorar el estado actual de nuevos emprendimientos de hospedaje y hoteleria.
+Where (¿Dónde se usa?): El uso esta diseñado para Perú inicialmente ya que ademas de poder realizar un seguimiento local
+del funcionamiento de la aplicacion web tambien se podra mejorar el estado actual de nuevos emprendimientos de hospedaje
+y hoteleria.
 
-Who (¿Quién lo usa?): Lo usan como administradores los gerentes o supervisores de los establecimientos ya que este servicio es una herramienta para ellos, si bien se pueden automatizar funciones como la notificacion para empleados, lo principal seria que los mismos supervizores hagan seguimiento de los procesos que se estan llevando al cabo en caso de que se tenga que hacer alguna operacion manual.
+Who (¿Quién lo usa?): Lo usan como administradores los gerentes o supervisores de los establecimientos ya que este
+servicio es una herramienta para ellos, si bien se pueden automatizar funciones como la notificacion para empleados, lo
+principal seria que los mismos supervizores hagan seguimiento de los procesos que se estan llevando al cabo en caso de
+que se tenga que hacer alguna operacion manual.
 
-How Much (¿Cuánto costaría?): La aplicacion web tendra sus funcionalidades core a forma de un pago inicial y luego mensual proporcional a la cantidad de habitaciones que tenga que gestionar el negocio, es decir entre mas cuartos se encuentren presentes el servicio tendra que almacenar mas procesos para cada habitacion, por esta razon se implementara un paquete para asi poder fomentar la accesibilidad a los nuevos emprendimientos. Los paquetes de suscripcion variaran de entre hostal, hotel, y sus respectivas tarifas por cantidad de habitaciones.
+How Much (¿Cuánto costaría?): La aplicacion web tendra sus funcionalidades core a forma de un pago inicial y luego
+mensual proporcional a la cantidad de habitaciones que tenga que gestionar el negocio, es decir entre mas cuartos se
+encuentren presentes el servicio tendra que almacenar mas procesos para cada habitacion, por esta razon se implementara
+un paquete para asi poder fomentar la accesibilidad a los nuevos emprendimientos. Los paquetes de suscripcion variaran
+de entre hostal, hotel, y sus respectivas tarifas por cantidad de habitaciones.
 
-How (¿Cómo se lleva al cabo?) La aplicacion web tendra su espacio workspace donde el gestor podra revisar los distintos procesos que se estan llevando al cabo, es decir diferentes recuadros mostrando estos procesos como por ejemplo, el siguiente envio programado de inventario, horarios de limpieza o checkout inminentes, habitaciones libres, en proceso de limpieza o ocupadas, habitaciones que esten solicitando algun servicio adicional (esto en caso el establecimiento lo ofrezca) entre otros. Las habitaciones tendran que ser registradas de manera semi automatica donde se tendran que especificar cuantos cuartos hay por piso y que servicio proporcionan, una vez se haga esto se generaran todos los cuartos con sus distintos numeros de habitacion, servicios y estado. Tambien existiran los demas cuadros en la aplicacion web donde se tendra que especificar los horarios donde se deban de hacer los registros de inventario y el suministro de estos junto con otros procesos adicionales como lavanderia, manutencion de plantas u alguna otra funcionalidad que desee agregar el gestor. 
+How (¿Cómo se lleva al cabo?) La aplicacion web tendra su espacio workspace donde el gestor podra revisar los distintos
+procesos que se estan llevando al cabo, es decir diferentes recuadros mostrando estos procesos como por ejemplo, el
+siguiente envio programado de inventario, horarios de limpieza o checkout inminentes, habitaciones libres, en proceso de
+limpieza o ocupadas, habitaciones que esten solicitando algun servicio adicional (esto en caso el establecimiento lo
+ofrezca) entre otros. Las habitaciones tendran que ser registradas de manera semi automatica donde se tendran que
+especificar cuantos cuartos hay por piso y que servicio proporcionan, una vez se haga esto se generaran todos los
+cuartos con sus distintos numeros de habitacion, servicios y estado. Tambien existiran los demas cuadros en la
+aplicacion web donde se tendra que especificar los horarios donde se deban de hacer los registros de inventario y el
+suministro de estos junto con otros procesos adicionales como lavanderia, manutencion de plantas u alguna otra
+funcionalidad que desee agregar el gestor.
 
 ### 1.2.2 Lean UX Process.
 
-#### 1.2.2.1. Lean UX Problem Statements.
+#### 1.2.2.1. Lean UX Problem Statement.
 
-(esto se responde con la investigacion)
+Observamos que en la industria hotelera, muchos establecimientos enfrentan desafíos significativos en la gestión interna
+de sus operaciones. La falta de coordinación y eficiencia en la gestión del inventario, el personal, los espacios y los
+servicios afecta negativamente tanto la experiencia del usuario como la eficiencia operativa. Esta falta de coordinación
+puede llevar a errores en la asignación de recursos, retrasos en la atención al cliente y una experiencia general
+insatisfactoria para los huéspedes.
+
+Además, los gerentes de hoteles se enfrentan a la presión de mantener altos estándares de calidad y eficiencia, mientras
+lidian con procesos manuales y sistemas obsoletos que consumen tiempo y recursos. Esta falta de herramientas adecuadas
+para la gestión puede tener un impacto directo en la rentabilidad del negocio y en la satisfacción del cliente.
+
+Como resultado, nos enfrentamos al siguiente problema: ¿Cómo podemos proporcionar a los gerentes de hoteles una
+plataforma de gestión accesible y eficiente que les permita coordinar de manera efectiva el inventario, los empleados,
+los espacios y los servicios, para mejorar la experiencia del usuario y optimizar los procesos operativos?
 
 #### 1.2.2.2. Lean UX Assumptions.
 
@@ -240,26 +289,45 @@ How (¿Cómo se lleva al cabo?) La aplicacion web tendra su espacio workspace do
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
+Creemos que al proporcionar una plataforma de gestión hotelera accesible y eficiente, los gerentes podrán coordinar
+mejor sus operaciones, lo que resultará en una experiencia mejorada para los huéspedes y una optimización de los
+procesos internos.
+
+Sabremos que hemos tenido éxito cuando observemos un aumento en la adopción de la plataforma por parte de los gerentes
+de hoteles y una mayor finalización de tareas dentro de la plataforma con resultados positivos en la satisfacción del
+cliente.
+
+Creemos que la aplicación permitirá a los gerentes comprender mejor los aspectos críticos de la gestión hotelera y tomar
+decisiones informadas para mejorar la eficiencia operativa.
+
+Sabremos que hemos tenido éxito cuando veamos una mejora en la satisfacción del cliente, medida a través de encuestas y
+comentarios positivos, y una reducción en los tiempos de respuesta y errores operativos.
+
+Creemos que al ofrecer herramientas intuitivas y efectivas, los gerentes podrán dedicar más tiempo a actividades
+estratégicas y de mejora continua, lo que resultará en un aumento en la rentabilidad y competitividad del hotel.
+
+Sabremos que hemos tenido éxito cuando observemos un aumento en la rentabilidad del hotel, una mejora en las
+calificaciones de satisfacción del cliente y una optimización de los procesos internos de gestión.
 
 #### 1.2.2.4. Lean UX Canvas.
 
 {cambiar cuando este la investigacion}
 
-|-|-|-|
-|-|-|-|
-| Business Problem <br>¿Qué problema has identificado que necesitas resolver? Existe una necesidad de participación en tiempos de emergencia y una falta de conocimiento en como ayudar. <br>Según CenDe de 1200 personas 72% de estas no han participado en alguna actividad de actividad de ayuda social.| Solution ideas <br>Conexión entre personas interesadas en donar y participar en actividades de ayuda social con las ONG que ofrecen este tipo de eventos.<br>Filtrar la gran cantidad de ONG que hay según la disponibilidad del usuario dándole diversas opciones.<br>Ofrecer suscripciones que proporcionan notificaciones de los eventos mas recientes y objetivos de donación.<br>Proveer de una plataforma a las ONG que no tienen mucha visibilidad. | Business Outcomes <br>(Cambios en el comportamiento del usuario) <br>¿Qué cambios en el comportamiento del usuario indicarán que has solucionado un problema real de manera que añada valor a tus clientes? <br> El comportamiento del usuario habrá cambiado cuando este tome la iniciativa de participar en ayuda social al tener menos motivos para no participar aumentando la cantidad de personas que toman parte de actividades de ayuda social.|
-| User & Customers <br>¿En qué tipo de usuarios y clientes tienes que centrarte primero? <br>Usuario: <br>Personas interesadas en donar o participar en actividades de ayuda social de una ONG. <br>ONG que requieren de visibilidad. <br>Cliente: Personas con la necesidad de saber fechas de eventos de ayuda social. <br> ONG que deseen ser más percibidas.  <br> |  UX Canvas| User benefits <br>¿Cuáles son los objetivos que los usuarios intentan obtener? <br> \- Se busca saber como participar o realizar donaciones a ONG [NOMBRE] tiene como objetivo principal ayudar a los usuarios a tener a la mano una gran cantidad de opciones a elegir según sus especificaciones. <br> ¿Qué les motiva a buscar tu solución? <br> \- Los usuarios están motivados a buscar esta solución debido a que toma poco tiempo, ya tiene la información para el usuario y reduce la cantidad de limitaciones que el usuario tiene al pensar en participar en estas actividades. <br>La interfaz amigable resulta fácil de manejar y le facilita al usuario todo el proceso. <br> |
-| Hyphotheses:<br> Creemos que, al brindar una interfaz poco compleja de usar para nuestros usuarios, podrán tener una mejor experiencia de usuario al buscar la ONG que les interes y seran motivados a contarle a otras personas de la simple efectividad de nuestra aplicacion web.Sabremos que hemos tenido éxito cuando se incremente el número de personas que esten dispuestas a apoyar a distintas ONG por medio de nuestra plataforma. <br>- Creemos que la aplicación ayudará a las personas que quieren apoyar a las ONG pero no saben como y a las mismas ONG. Sabremos que hemos tenido éxito cuando veamos las ONG menos reconocidas empiezen a tener mas reconocimiento. <br> Creemos que ayudar a las ONG a tener mas visibilidad en la frontpage por medio de una subscripcion poco costosa ayudara a mejorar la visibilidad y aumentar la cantidad de personas motivadas a ayudar.<br> Sabremos que hemos tenido éxito, cuando a nivel nacional se empiece a notar un incremento en la ayuda social proporcionada. <br>| ¿Qué es la cosa más importante que nosotros necesitamos aprender primero? <br> Lo principal que necesitamos aprender es conectar la base de datos con la pagina web y adicionalmente un repaso en lo que viene siendo la gestión del proyecto| <br> ¿Cuál es la mínima cantidad de trabajo que nosotros necesitamos hacer para aprender la siguiente cosa más importante? <br> Asistir a las clases y solicitar que se nos revise los avances del proyecto para poder hacer un seguimiento saludable del proyecto|
+| -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | -                                                                                                                                                                                                                                                                                                                                                                                                                                                          | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Business Problem <br>¿Qué problema has identificado que necesitas resolver? Existe una necesidad de participación en tiempos de emergencia y una falta de conocimiento en como ayudar. <br>Según CenDe de 1200 personas 72% de estas no han participado en alguna actividad de actividad de ayuda social.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Solution ideas <br>Conexión entre personas interesadas en donar y participar en actividades de ayuda social con las ONG que ofrecen este tipo de eventos.<br>Filtrar la gran cantidad de ONG que hay según la disponibilidad del usuario dándole diversas opciones.<br>Ofrecer suscripciones que proporcionan notificaciones de los eventos mas recientes y objetivos de donación.<br>Proveer de una plataforma a las ONG que no tienen mucha visibilidad. | Business Outcomes <br>(Cambios en el comportamiento del usuario) <br>¿Qué cambios en el comportamiento del usuario indicarán que has solucionado un problema real de manera que añada valor a tus clientes? <br> El comportamiento del usuario habrá cambiado cuando este tome la iniciativa de participar en ayuda social al tener menos motivos para no participar aumentando la cantidad de personas que toman parte de actividades de ayuda social.                                                                                                                                                                                                                                    |
+| User & Customers <br>¿En qué tipo de usuarios y clientes tienes que centrarte primero? <br>Usuario: <br>Personas interesadas en donar o participar en actividades de ayuda social de una ONG. <br>ONG que requieren de visibilidad. <br>Cliente: Personas con la necesidad de saber fechas de eventos de ayuda social. <br> ONG que deseen ser más percibidas.  <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  UX Canvas                                                                                                                                                                                                                                                                                                                                                                                                                                                 | User benefits <br>¿Cuáles son los objetivos que los usuarios intentan obtener? <br> \- Se busca saber como participar o realizar donaciones a ONG [NOMBRE] tiene como objetivo principal ayudar a los usuarios a tener a la mano una gran cantidad de opciones a elegir según sus especificaciones. <br> ¿Qué les motiva a buscar tu solución? <br> \- Los usuarios están motivados a buscar esta solución debido a que toma poco tiempo, ya tiene la información para el usuario y reduce la cantidad de limitaciones que el usuario tiene al pensar en participar en estas actividades. <br>La interfaz amigable resulta fácil de manejar y le facilita al usuario todo el proceso. <br> |
+| Hyphotheses:<br> Creemos que, al brindar una interfaz poco compleja de usar para nuestros usuarios, podrán tener una mejor experiencia de usuario al buscar la ONG que les interes y seran motivados a contarle a otras personas de la simple efectividad de nuestra aplicacion web.Sabremos que hemos tenido éxito cuando se incremente el número de personas que esten dispuestas a apoyar a distintas ONG por medio de nuestra plataforma. <br>- Creemos que la aplicación ayudará a las personas que quieren apoyar a las ONG pero no saben como y a las mismas ONG. Sabremos que hemos tenido éxito cuando veamos las ONG menos reconocidas empiezen a tener mas reconocimiento. <br> Creemos que ayudar a las ONG a tener mas visibilidad en la frontpage por medio de una subscripcion poco costosa ayudara a mejorar la visibilidad y aumentar la cantidad de personas motivadas a ayudar.<br> Sabremos que hemos tenido éxito, cuando a nivel nacional se empiece a notar un incremento en la ayuda social proporcionada. <br> | ¿Qué es la cosa más importante que nosotros necesitamos aprender primero? <br> Lo principal que necesitamos aprender es conectar la base de datos con la pagina web y adicionalmente un repaso en lo que viene siendo la gestión del proyecto                                                                                                                                                                                                              | <br> ¿Cuál es la mínima cantidad de trabajo que nosotros necesitamos hacer para aprender la siguiente cosa más importante? <br> Asistir a las clases y solicitar que se nos revise los avances del proyecto para poder hacer un seguimiento saludable del proyecto                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 ## 1.3. Segmentos objetivo.
 
-|                           | Segmento 1 | Segmento 2 |
-|---------------------------|------------|------------|
-| Variables                 | empleado negocio  |  Gestor del negocio |
-| Geográfica                |            |            |
-| Demográfica               |            |            |
-| Psicológica               |            |            |
-| Función de comportamiento |            |            |
+|                           | Segmento 1                                                                                                                                   | Segmento 2                                                                                                                                                                                                  |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variables                 | Empleado negocio                                                                                                                             | Gestor del negocio                                                                                                                                                                                          |
+| Geográfica                | Ubicación cercana al establecimiento hotelero o de hospedaje                                                                                 | Preferiblemente ubicado en la misma región donde se encuentra el negocio                                                                                                                                    |
+| Demográfica               | Diversidad en edad y género                                                                                                                  | Edad adulta, posiblemente con formación universitaria en áreas relacionadas con administración o gestión                                                                                                    |
+| Psicológica               | Actitud hacia la adopción de nuevas tecnologías, motivación para mejorar la eficiencia en el trabajo                                         | Orientado hacia la eficiencia y mejora continua, interés en adoptar soluciones tecnológicas para optimizar la operación del negocio                                                                         |
+| Función de comportamiento | Necesidad de herramientas que faciliten la realización de tareas diarias, interés en optimizar procesos para mejorar la calidad del servicio | Necesidad de herramientas que le permitan supervisar y gestionar eficientemente todas las áreas del negocio, prioriza la mejora de la experiencia del cliente y la optimización de los recursos disponibles |
 
 ---
 
@@ -394,21 +462,23 @@ Why would they invite others?
 Escenario: {escenario}
 
 As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling | texto| texto | texto| texto|
+
+| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
+|----------|--------|--------|--------|--------|
+| Doing    | texto  | texto  | texto  | texto  |
+| Thinking | texto  | texto  | texto  | texto  |
+| Feeling  | texto  | texto  | texto  | texto  |
 
 **Segmento 2**  
 Escenario: Dificultad para entender Matemáticas
 
 As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling | texto| texto | texto| texto|
+
+| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
+|----------|--------|--------|--------|--------|
+| Doing    | texto  | texto  | texto  | texto  |
+| Thinking | texto  | texto  | texto  | texto  |
+| Feeling  | texto  | texto  | texto  | texto  |
 
 ## 2.4. Ubiquitous Language.
 
@@ -431,40 +501,40 @@ Segmento 1:
 | Feeling  |              | texto  | texto  | texto| texto|
 
 Segmento 2:
-| Fases | fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling | | texto| texto | texto| texto|
+
+| Fases    | fase 1 as is | fase 2 | fase 3 |
+|----------|--------------|--------|--------|
+| Doing    |              | texto  | texto  | texto| texto|
+| Thinking |              | texto  | texto  | texto| texto|
+| Feeling  |              | texto  | texto  | texto| texto|
 
 ## 3.2. User Stories.
 
- revisar en grupo = * 
+revisar en grupo = *
 
-| HUX  | Historia de Usuario                                          | Descripción                                                                                           |
-|------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
-| HU01 | Como gerente, quiero poder agregar nuevas habitaciones         | Para mantener actualizado el inventario de habitaciones disponibles.                                  |
-| HU02 | Como gerente, quiero poder asignar tareas a los empleados     | Para distribuir eficientemente las responsabilidades y mejorar la productividad.                       |
-| HU03 | Como gerente, quiero recibir notificaciones de baja en el inventario | Para tomar medidas rápidas en caso de escasez de suministros.                                      |
-| * HU04 | Como gerente, quiero generar informes de desempeño del personal [revisar en grupo] | Para evaluar el rendimiento de los empleados y tomar decisiones basadas en datos.                    |
-| HU05 | Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real | Para gestionar eficazmente la disponibilidad y asignación de habitaciones.                            |
-| HU06 | Como gerente, quiero recibir alertas de mantenimiento programado | Para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados.    |
-| HU07 | Como gerente, quiero ver el estado de las habitaciones | Para poder revisar si estan listas para su uso despues del proceso de limpieza.                                          |
-| HU08 | Como gerente, quiero gestionar el acceso y permisos de los empleados | Para garantizar la seguridad y la privacidad de la información del negocio.                           |
-| HU09 | Como gerente, quiero programar turnos de trabajo automáticamente | Para optimizar la asignación de personal y evitar conflictos de horarios.                             |
-| HU10 | Como gerente, quiero poder realizar seguimiento de gastos implementados     | Para controlar los costos y optimizar la rentabilidad del negocio.                                      |
-| HU11 | Como gerente, quiero gestionar la disponibilidad de servicios adicionales | Para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente.                   |
-| * HU12 | Como gerente, quiero recibir notificaciones de comentarios y opiniones de clientes | Para responder rápidamente a las necesidades y preocupaciones de los clientes.                         |
-| * HU13 | Como gerente, quiero poder crear promociones y ofertas especiales | Para atraer a más clientes y aumentar las ventas.                                                       |
-| HU14 | Como gerente, quiero mantener un registro de los proveedores    | Para gestionar eficientemente las relaciones comerciales y los suministros.                             |
-| * HU15 | Como gerente, quiero poder realizar seguimiento de la satisfacción del cliente | Para identificar áreas de mejora y garantizar una experiencia de calidad.                                |
-| HU16 | Como empleado, quiero recibir notificaciones de cambios en mi agenda laboral | Para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia.              |
-| HU17 | Como empleado, quiero poder registrar el estado de limpieza de las habitaciones | Para contribuir al mantenimiento de altos estándares de limpieza y satisfacer las expectativas de los clientes. |
-| HU18 | Como empleado, quiero poder acceder a manuales de procedimientos | Para tener recursos de referencia que me ayuden a realizar mi trabajo de manera efectiva.            |
-| HU19 | Como empleado, quiero poder registrar el estado de los suministros | Para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento. |
-| HU20 | Como empleado, quiero poder reportar incidencias o problemas   | Para informar sobre cualquier problema o situación que afecte mi trabajo o la calidad del servicio.   |
-| * HU21 | Como gerente, quiero poder generar facturas para los servicios adicionales | Para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes. |
-
+| HUX  | Historia de Usuario                                                                | Descripción                                                                                                                |
+|------|------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|
+| HU01 | Como gerente, quiero poder agregar nuevas habitaciones                             | Para mantener actualizado el inventario de habitaciones disponibles.                                                       |
+| HU02 | Como gerente, quiero poder asignar tareas a los empleados                          | Para distribuir eficientemente las responsabilidades y mejorar la productividad.                                           |
+| HU03 | Como gerente, quiero recibir notificaciones de baja en el inventario               | Para tomar medidas rápidas en caso de escasez de suministros.                                                              |
+| HU04 | Como gerente, quiero generar informes de desempeño del personal [revisar en grupo] | Para evaluar el rendimiento de los empleados y tomar decisiones basadas en datos.                                          |
+| HU05 | Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real        | Para gestionar eficazmente la disponibilidad y asignación de habitaciones.                                                 |
+| HU06 | Como gerente, quiero recibir alertas de mantenimiento programado                   | Para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados.                         |
+| HU07 | Como gerente, quiero ver el estado de las habitaciones                             | Para poder revisar si estan listas para su uso despues del proceso de limpieza.                                            |
+| HU08 | Como gerente, quiero gestionar el acceso y permisos de los empleados               | Para garantizar la seguridad y la privacidad de la información del negocio.                                                |
+| HU09 | Como gerente, quiero programar turnos de trabajo automáticamente                   | Para optimizar la asignación de personal y evitar conflictos de horarios.                                                  |
+| HU10 | Como gerente, quiero poder realizar seguimiento de gastos implementados            | Para controlar los costos y optimizar la rentabilidad del negocio.                                                         |
+| HU11 | Como gerente, quiero gestionar la disponibilidad de servicios adicionales          | Para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente.                                        |
+| HU12 | Como gerente, quiero recibir notificaciones de comentarios y opiniones de clientes | Para responder rápidamente a las necesidades y preocupaciones de los clientes.                                             |
+| HU13 | Como gerente, quiero poder crear promociones y ofertas especiales                  | Para atraer a más clientes y aumentar las ventas.                                                                          |
+| HU14 | Como gerente, quiero mantener un registro de los proveedores                       | Para gestionar eficientemente las relaciones comerciales y los suministros.                                                |
+| HU15 | Como gerente, quiero poder realizar seguimiento de la satisfacción del cliente     | Para identificar áreas de mejora y garantizar una experiencia de calidad.                                                  |
+| HU16 | Como empleado, quiero recibir notificaciones de cambios en mi agenda laboral       | Para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia.                                  |
+| HU17 | Como empleado, quiero poder registrar el estado de limpieza de las habitaciones    | Para contribuir al mantenimiento de altos estándares de limpieza y satisfacer las expectativas de los clientes.            |
+| HU18 | Como empleado, quiero poder acceder a manuales de procedimientos                   | Para tener recursos de referencia que me ayuden a realizar mi trabajo de manera efectiva.                                  |
+| HU19 | Como empleado, quiero poder registrar el estado de los suministros                 | Para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento. |
+| HU20 | Como empleado, quiero poder reportar incidencias o problemas                       | Para informar sobre cualquier problema o situación que afecte mi trabajo o la calidad del servicio.                        |
+| HU21 | Como gerente, quiero poder generar facturas para los servicios adicionales         | Para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes.           |
 
 ## 3.3. Impact Mapping.
 
