@@ -467,6 +467,7 @@ Segmento 2:
 ## 3.3. Impact Mapping.
 
 ![Impact Mapping Manager](assets\Impact-mapping\impact-mapping-manager.png)
+
 ![Impact Mapping Employe](assets\Impact-mapping\impact-mapping-employe.png)
 
 ## 3.4. Product Backlog.
