@@ -420,11 +420,31 @@ Ocupación: _____
 
 ### 2.3.2. User Task Matrix.
 
-| ---  | ------  | Segmento 1  | ------/----- | Segmento 2  | ---------- |
+| ‎   | ‎  | Segmento 1  | Gerente | Segmento 2  | empleado |
 |------|---------|-------------|--------------|-------------|------------|
 | ID   | Titulo  | Importancia | Frecuencia   | Importancia | Frecuencia |
 | U01X | {Texto} | Alta        | Alta         | Media       | Baja       |
-
+| HU01 | Actualizar las habitaciones disponibles |Alta | Media | Alta | Alta |
+| HU02 | Creación de tareas para empleados | Alta | Alta | Alta | Media |
+| HU03 | Notificaciones de inventario | Alta | Media | Alta | Media |
+|*HU04 | Información del desempeño | Alta | Media | Alta | baja |
+| HU05 | Lista de habitaciones ocupadas en tiempo real | Alta | Baja | Alta | Media |
+| HU06 | Alertas de mantemiento | Alta | Baja | Alta | Baja |
+| HU07 | Informar del estado de habitaciones | Media | Media | Alta | Media |
+| HU08 | Administrar permisos de los empleados| Alta | Media | Alta | Media |
+| HU09 | Programar turnos de trabajo | Media | Baja | Media | Baja |
+| HU10 | Realizar seguimiento de gastos | Alta | Alta | Media | Baja |
+| HU11 | Gestionar servicios adicionales | Media | Baja | Baja | Baja |
+|*HU12 | Notificaciones de comentarios | Media | Baja | Media | Baja |
+|*HU13 | Crear promociones | Alta | Media | Media | Baja |
+| HU14 | Registro de proveedores | Alta | Media | Media | Baja |
+|*HU15 | Seguimiento del cliente | Media | Media | Baja | Media |
+| HU16 | Notificaciones de cambio de agenda | Media | Baja | Alta | Media |
+| HU17 | Estado de las habitaciones | Media | Baja | Alta | Media |
+| HU18 | Información de procedimientos según el caso | Baja | Baja | Alta | Baja |
+| HU19 | Registrar el estado de suministros | Alta | Baja | Media | Baja |
+| HU20 | Reportar problemas | Media | Baja | Media | Baja |
+|*HU21 | Administrar facturas de servicios | Media | Baja | Alta | Alta |
 ### 2.3.3. User Journey Mapping.
 
 **Registration:**
