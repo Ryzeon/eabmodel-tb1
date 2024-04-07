@@ -450,23 +450,23 @@ Ocupación: _____
 **Registration:**
 Why would they trust us?
 
-- s
-- s
-- s
+- Optimizacion de costos e incremento de eficiencia.
+- Interfaz facil e intuitiva.
+- Escalabilidad a estructuras grandes.
 
 **Onboarding and first use:**
 How can they feel successful?
 
-- s
-- s
-- s
+- Facil de entender
+- Simple de manejar
+- Conexion con el staff mas rapida.
 
 **Sharing:**
 Why would they invite others?
 
-- s
-- s
-- s
+- Accesible.
+- Escalable para establecimientos pequeños y grandes.
+- Facil de configurar.
 
 ### 2.3.4. Empathy Mapping.
 
@@ -479,26 +479,28 @@ Why would they invite others?
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
-Escenario: {escenario}
+Escenario: Supervizor quiere revisar el estado de los cuartos y darles sus tareas a los empleados mientras tambien debe de revisar el inventario.
 
 As Is:
 
-| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
-|----------|--------|--------|--------|--------|
-| Doing    | texto  | texto  | texto  | texto  |
-| Thinking | texto  | texto  | texto  | texto  |
-| Feeling  | texto  | texto  | texto  | texto  |
+| Fases     |       |       |        |    |
+|----------|----------------|------|---------|-----|
+| Doing          | Verificando el estado actual de los cuartos | Revisando el inventario de elementos de limpieza y toallas | Asignando tareas al personal de limpieza | Comunicándose con el personal para coordinar las tareas |
+| Thinking       | Reflexionando sobre la disponibilidad de los cuartos para nuevos clientes | Evaluando la cantidad de elementos de limpieza y toallas disponibles | Considerando la carga de trabajo del personal de limpieza | Pensando en cómo mejorar la comunicación con el personal |
+| Feeling        | Preocupado por la disponibilidad de cuartos para nuevos clientes | Preocupado por la cantidad de elementos de limpieza y toallas disponibles | Ansioso por asignar tareas de manera efectiva al personal | Frustrado por la falta de una comunicación eficiente con el personal |
+
 
 **Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
+Escenario: Empleado realiza sus actividades y desea hacerle saber al supervizor que ya termino o si este le puede dar mas tareas.
 
 As Is:
 
-| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
-|----------|--------|--------|--------|--------|
-| Doing    | texto  | texto  | texto  | texto  |
-| Thinking | texto  | texto  | texto  | texto  |
-| Feeling  | texto  | texto  | texto  | texto  |
+| Fases     |       |       |        |    |
+|----------|----------------|------|---------|-----|
+| Doing          | Realizando tareas de limpieza asignadas | Notificando al supervisor cuando terminan las tareas de limpieza | Verificando el stock de elementos de limpieza y toallas | Comunicándose con el supervisor sobre cualquier problema |
+| Thinking       | Reflexionando sobre la eficacia de las tareas de limpieza | Evaluando la necesidad de reabastecer elementos de limpieza y toallas | Considerando cómo mejorar la comunicación con el supervisor | Pensando en soluciones para mejorar el proceso de limpieza |
+| Feeling        | Comprometido con la calidad de las tareas de limpieza realizadas | Satisfecho al completar las tareas de limpieza asignadas | Preocupado por la disponibilidad de elementos de limpieza y toallas | Interesado en mejorar la comunicación y colaboración con el supervisor |
+
 
 ## 2.4. Ubiquitous Language.
 
