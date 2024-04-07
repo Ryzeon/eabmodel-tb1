@@ -424,18 +424,20 @@ Texto ubiquo: Definicion de este
 
 Segmento 1:
 
-| Fases    | fase 1 as is | fase 2 | fase 3 |
-|----------|--------------|--------|--------|
-| Doing    |              | texto  | texto  | texto| texto|
-| Thinking |              | texto  | texto  | texto| texto|
-| Feeling  |              | texto  | texto  | texto| texto|
+| Fases          |                        |              |                  |                  |
+|----------------|------------------------|--------------|------------------|------------------|
+| Doing          | Utilizando la herramienta web para verificar el estado de los cuartos y el inventario | Asignando tareas al personal de limpieza a través de la plataforma | Monitoreando el progreso del personal y comunicándose directamente con ellos | Revisando las sugerencias de mejora proporcionadas por la herramienta |
+| Thinking       | Considerando cómo optimizar la asignación de tareas y la gestión del inventario con la herramienta | Evaluando la eficacia de la comunicación y supervisión a través de la plataforma | Reflexionando sobre las mejoras implementadas y la efectividad de la herramienta | Identificando nuevas oportunidades de mejora en la gestión de habitaciones y stock |
+| Feeling        | Satisfecho con la eficiencia y precisión en la gestión de cuartos e inventario | Valorando la comunicación directa y efectiva con el personal | Motivado por las mejoras implementadas y el impacto positivo en la operación | Esperanzado por las nuevas oportunidades de mejora identificadas |
+
 
 Segmento 2:
-| Fases | fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling | | texto| texto | texto| texto|
+| Fases          |                        |              |                  |                  |
+|----------------|------------------------|--------------|------------------|------------------|
+| Doing          | Utilizando la herramienta web para recibir y completar tareas asignadas | Notificando al supervisor a través de la plataforma cuando las tareas están completas | Actualizando el estado del stock de elementos de limpieza y toallas en la herramienta | Comunicándose con el supervisor a través de la plataforma sobre cualquier problema o solicitud |
+| Thinking       | Reflexionando sobre la eficacia de las tareas asignadas y la comunicación con el supervisor | Evaluando la necesidad de mejorar la gestión de tareas y la comunicación con la herramienta | Considerando cómo mejorar la eficiencia en la gestión de inventario y comunicación | Pensando en soluciones para optimizar el proceso de trabajo y la colaboración con el supervisor |
+| Feeling        | Comprometido con la calidad y eficiencia en la ejecución de tareas asignadas | Satisfecho al completar las tareas de manera efectiva y comunicarlas al supervisor | Preocupado por la disponibilidad y gestión adecuada del inventario | Interesado en mejorar la comunicación y colaboración con el supervisor a través de la herramienta |
+
 
 ## 3.2. User Stories.
 
