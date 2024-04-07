@@ -288,7 +288,18 @@ los espacios y los servicios, para mejorar la experiencia del usuario y optimiza
 
 | Business Assumptions | User Assumptions |
 |----------------------|------------------|
-| 1. - 12.             | 1. - 6.          |
+| 1. Creemos que nuestros clientes tiene la necesidad de mejorar su servicio y reducir sus costos por medio de una gestion optimizada.| 1. Quien es el usuario? Los gestores de hoteles y hostales, y sus empleados.          |
+| 2.Estas necesidades se resolveran con un gestor de hoteleria y hostales.             | 2. Donde encaja nuestro producto en sus vidas?           |
+| 3. Nuestros usuarios iniciales seran los mismos hostales y hoteles pequeños             | 3. Que problema soluciona nuestro producto?          |
+| 4. El valor #1 que el cliente quiere de nuestro servicio es el control de su establecimiento.             | 4. Donde y cuando se usa nuestro producto? El producto se utiliza en contextos donde se requiera optimizar el sistema de gestion de un hostal u hotel, se puede usar a cualquier hora aunque es preferible que se use cuando se esta en un horario de atencion para hacerle un seguimiento a los estados de los cuartos.          |
+| 5. El usuario tambien tendra como beneficios el monitoreo en tiempo real del estado de sus locales.             | 5. Que caracteristicas son importantes? Las caracteristicas mas importantes en este proyecto seran la supervicion de cuartos y sus cambios de estado, la asignacion de personal a sus respectivas tareas, el contacto inmediato entre empleados y supervisores y finalmente el registro y reabastecimiento de estos |
+| 6. Conseguiremos a nuestros clientes de las campañas de marketing digital             | 6. Nuestro Producto debe de ser facil e intuitivo de usar y debe de ser agradable a la vista.       |
+| 7. Haremos dinero por medio de los pagos que recibiremos por usar nuestro software             |           |
+| 8. Nuestro principal competido en el mercado seran otros softwares de otros paises o más avanzados y populares.             |           |
+| 9. Lograremos vencerlos por medio de nuestra interfaz amigable, funcionalidades originales y un mejor sistema de gestion el cual facilitara la expriencia de usuario.             |           |
+| 10. Nuestro mayor riesgo de producto es la falta de interes o inversion por parte del cliente.             |           |
+| 11. Se resolvera este riesgo haciendo que nuestro servicio funcione de manera impecable y haciendo campañas de marketing digital efectivas y honestas.             |           |
+| 12. el assumption que nos puede generar problemas en caso sea incorrecto es la falta de necesidad por parte del segmento objetivo             |           |
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
