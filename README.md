@@ -425,12 +425,13 @@ Ocupación: _____
 ### 2.3.1. User Personas.
 
 **Segmento 1:**  
-<img src="assets/user-personas/userEmployer.png" alt="User Employer" width="700" height="900">
+<img src="assets/user-personas/userAdmin.png" alt="User Employer" width="700" height="900">
 
 
 
 **Segmento 2:**
-![Imagen User Persona 1](image.jpg)
+<img src="assets/user-personas/userEmployer.png" alt="User Employer" width="700" height="900">
+
 
 ### 2.3.2. User Task Matrix.
 
