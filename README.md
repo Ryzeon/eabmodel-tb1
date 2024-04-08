@@ -425,7 +425,7 @@ Ocupación: _____
 ### 2.3.1. User Personas.
 
 **Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+![User Admin](assets/user-personas/userAdmin.png){ width=600px height=900px }
 
 **Segmento 2:**
 ![Imagen User Persona 1](image.jpg)
