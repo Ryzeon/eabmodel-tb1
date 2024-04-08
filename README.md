@@ -353,7 +353,6 @@ Nosotros | Cloudbeds | SiteMinder
 
 ## 2.1.2. Estrategias y Tácticas Frente a Competidores
 
-**Competidores -> Nosotros, Cloudbeds, SiteMinder**
 
 **Análisis SWOT** | Nosotros | Cloudbeds | SiteMinder
 --- | --- | --- | ---
