@@ -425,7 +425,8 @@ Ocupación: _____
 ### 2.3.1. User Personas.
 
 **Segmento 1:**  
-<img src="assets/user-personas/userAdmin.png" alt="Imagen User" style="width:60%">
+<img src="./assets/user-personas/userAdmin.png" alt="Josue Hidalgo" width="700" height="900">
+
 
 
 **Segmento 2:**
