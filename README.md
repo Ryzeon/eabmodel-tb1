@@ -200,7 +200,7 @@ gerentes.
 | Peña Rivera, Manuel Sebastian <br/><img src="https://i.imgur.com/6WyohUm.jpeg" style="width:60%">                     | U202210138        | Ingeniería de software | C++, Python, MongoDB, SQL, Assembler. Responsabilidad y Buena Comunicación               | 
 | Ramírez Hoffmann, Sebastián <br/> <img src="https://avatars.githubusercontent.com/u/129230632?v=4" style="width:60%"> | U20221894         | Ingeniería de software | C++, Python, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico |
 | Periche Quiroga, Piero <br/> <img src="https://avatars.githubusercontent.com/u/164218254?v=4" style="width:60%">      | U202210192        | Ingeniería de software | C++, SQL, Js. Responsabilidad y buen ambiente de equipo                                  |
-| Hidalgo Bustamante, Josue  <img src="https://imgur.com/a/hWVoNav.jpeg" style="width:60%">                                                           | U20219880         | Ingeniería de software | C++, SQL,  MongoDB, Js, Reactjs, NodeJs,. Paciencia y Responsabilidad.                   |
+| Hidalgo Bustamante, Josue  <img src="https://i.imgur.com/zrpMQ7R.jpg" style="width:60%">                                                           | U20219880         | Ingeniería de software | C++, SQL,  MongoDB, Js, Reactjs, NodeJs,. Paciencia y Responsabilidad.                   |
 
 ## 1.2. Solution Profile
 
