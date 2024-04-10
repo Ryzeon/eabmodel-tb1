@@ -381,9 +381,9 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 1. ¿Cuál es su nombre?
 2. ¿Qué edad tiene?
 3. ¿A qué se dedica?
-4. ¿Que browser y dispositivos usa?
+4. ¿[Opinion de idea de propuesta]?
 
-**Entrevistas usuario segmento 1**
+**Entrevistas usuario segmento 2**
 
 1. ¿Lorem?
 2. ¿Lorem?
@@ -392,11 +392,10 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 
 **Entrevistas usuario segmento 2**
 
-1. ¿Que opiniones tiene del area laboral en el entorno de Hoteleria/Hostales?
-2. ¿Como consigues la informacion de que tareas debes de realizar?
-3. ¿Como notificas a tu supervizor de alguna falta de inventario?
-4. ¿Mantienes una comunicacion efectiva con el gerente/supervizor en horas laborales?
-5. ¿Que frustraciones y objetivos tienes en tu area laboral?
+1. ¿Lorem?
+2. ¿Lorem?
+3. ¿Lorem?
+4. ¿Lorem?
 
 ### 2.2.2. Registro de entrevistas.
 
@@ -426,11 +425,13 @@ Ocupación: _____
 ### 2.3.1. User Personas.
 
 **Segmento 1:**  
-<br/> <img src="https://i.imgur.com/krhyFim.png" style="width:60%"> 
+<img src="assets/user-personas/userAdmin.png" alt="User Employer" width="700" height="900">
+
 
 
 **Segmento 2:**
-<br/> <img src="https://i.imgur.com/qQcCWVy.png" style="width:60%"> 
+<img src="assets/user-personas/userEmployer.png" alt="User Employer" width="700" height="900">
+
 
 ### 2.3.2. User Task Matrix.
 
@@ -464,57 +465,57 @@ Ocupación: _____
 **Registration:**
 Why would they trust us?
 
-- Optimizacion de costos e incremento de eficiencia.
-- Interfaz facil e intuitiva.
-- Escalabilidad a estructuras grandes.
+- s
+- s
+- s
 
 **Onboarding and first use:**
 How can they feel successful?
 
-- Facil de entender
-- Simple de manejar
-- Conexion con el staff mas rapida.
+- s
+- s
+- s
 
 **Sharing:**
 Why would they invite others?
 
-- Accesible.
-- Escalable para establecimientos pequeños y grandes.
-- Facil de configurar.
+- s
+- s
+- s
 
 ### 2.3.4. Empathy Mapping.
 
 **Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
+
+<img src="Empathy-map-Empleado.png" alt="User Employer" width="700" height="900">
 
 **Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+
+<img src="Empathy-map-Manager.png" alt="User Employer" width="700" height="900">
 
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
-Escenario: Supervizor quiere revisar el estado de los cuartos y darles sus tareas a los empleados mientras tambien debe de revisar el inventario.
+Escenario: {escenario}
 
 As Is:
 
-| Fases     |       |       |        |    |
-|----------|----------------|------|---------|-----|
-| Doing          | Verificando el estado actual de los cuartos | Revisando el inventario de elementos de limpieza y toallas | Asignando tareas al personal de limpieza | Comunicándose con el personal para coordinar las tareas |
-| Thinking       | Reflexionando sobre la disponibilidad de los cuartos para nuevos clientes | Evaluando la cantidad de elementos de limpieza y toallas disponibles | Considerando la carga de trabajo del personal de limpieza | Pensando en cómo mejorar la comunicación con el personal |
-| Feeling        | Preocupado por la disponibilidad de cuartos para nuevos clientes | Preocupado por la cantidad de elementos de limpieza y toallas disponibles | Ansioso por asignar tareas de manera efectiva al personal | Frustrado por la falta de una comunicación eficiente con el personal |
-
+| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
+|----------|--------|--------|--------|--------|
+| Doing    | texto  | texto  | texto  | texto  |
+| Thinking | texto  | texto  | texto  | texto  |
+| Feeling  | texto  | texto  | texto  | texto  |
 
 **Segmento 2**  
-Escenario: Empleado realiza sus actividades y desea hacerle saber al supervizor que ya termino o si este le puede dar mas tareas.
+Escenario: Dificultad para entender Matemáticas
 
 As Is:
 
-| Fases     |       |       |        |    |
-|----------|----------------|------|---------|-----|
-| Doing          | Realizando tareas de limpieza asignadas | Notificando al supervisor cuando terminan las tareas de limpieza | Verificando el stock de elementos de limpieza y toallas | Comunicándose con el supervisor sobre cualquier problema |
-| Thinking       | Reflexionando sobre la eficacia de las tareas de limpieza | Evaluando la necesidad de reabastecer elementos de limpieza y toallas | Considerando cómo mejorar la comunicación con el supervisor | Pensando en soluciones para mejorar el proceso de limpieza |
-| Feeling        | Comprometido con la calidad de las tareas de limpieza realizadas | Satisfecho al completar las tareas de limpieza asignadas | Preocupado por la disponibilidad de elementos de limpieza y toallas | Interesado en mejorar la comunicación y colaboración con el supervisor |
-
+| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
+|----------|--------|--------|--------|--------|
+| Doing    | texto  | texto  | texto  | texto  |
+| Thinking | texto  | texto  | texto  | texto  |
+| Feeling  | texto  | texto  | texto  | texto  |
 
 ## 2.4. Ubiquitous Language.
 
