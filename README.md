@@ -552,44 +552,51 @@ revisar en grupo = *
 
 ### 4.1.1. General Style Guidelines.
 
-Descripcion del porque estos elementos seran importantes
+Los siguientes elementos se han cosiderado para mejorar la experiencia del usuario.
 
-**Color:** (Descripcion de los colores escogidos y porque)  
-![Colores generales](image.jpg)
+**Color:** Para los colores hemos elegido un esquema monocromatico del color #81c9fa
 
-**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
-**Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
+![Colores Generales](/assets/StyleGuidelines/colores.png)
+
+Se eligieron este esquema debido a como el color azul y blanco representan un entorno ordenado, relajado y poco complejo que son caracteristicas las cuales ayudaran con los procesos de gestion que pueden llegar a ser estresantes o caoticos.
+
+**Tipografia:** Para la tipografia se esta usando Roboto principalmente por su simplicidad y popularidad en las paginas web, representa bien las letras y hace que nuestro texto se vea ordenado sin verse abrumador.
+![Tipografias generales](/assets/StyleGuidelines/roboto.png)  
+**Branding** Nuestro logotipo se muestra como unas llaves de hotel junto con el nombre del producto InnControl, pensamos en un logo minimalista que con el hecho de verse el logo se pueda distinguir quienes somos.
+
+
+![Branding general](assets/StyleGuidelines/innControl.png)
 
 ### 4.1.2. Web Style Guidelines.
 
-Descripcion de los elementos que se utilizaran en el web app
+En nuestra web app y landing page estaremos usando los colores ya mencionados en diferentes maneras.
 
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
+**Background:** Color Primario: 539BCA
+Color Secundario: BAE0FC
+Color Terniario: 6A9CDE y 003785
+![Background Preview web](image.jpg)  
+
+**Text Styles:** (H1, H2, p, a,)  Nuestros estilos de texto van a depender del color que tengan detras, para colores mas osucros como 003785 se usa EEEEEE para dar contraste, mientras que si es un color claro se usa 00628D para que el color del texto pueda resaltar.
 ![Text Style Preview web](image.jpg)
 **Button Styles:** (Button, dropdowns, Switches)
+Nuestros Botones van a ser rectangulares con bordes curvados de 4px, los colores varian entre 6A9CDE, 003785 y DBEFFE siendo el primero tipo de boton el que se usara más.
+
+Los DropDowns y Switches se implementaran con una menor frequencia sin embargo se usara el color DBEFFE o EEEEEE.
 ![Button Preview web](image.jpg)
 **Icons:** (Fondo blanco con los iconos que vamos a usar)
+Los iconos que estaremos usando seran de las redes sociales en el caso de la landing page junto a otros relacionados a los beneficios. Seguidamente, se estaran utilizando menos iconos en la web aplication siendo los mas prominentes la lupa, icono de empleados, tareas cuartos e inventario.
 ![Icons Preview web](image.jpg)
 **Misc** (Cosas como nav var o slideshows que pensemos usar)
+
+Estaremos usando nav vars, carruseles y cards para poner informacion de testimonios y beneficios.
+
 ![Miscellaneos preview web](image.jpg)
 
 ## 4.2. Information Architecture.
 
 ### 4.2.1. Organization Systems.
 
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making
-use of physical differences, such as size, colour, contrast, alignment etc.
-
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the
-current step.
-
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical,
-Chronological, by topic."
+De sistema de Organizacion usaremos un sistema Sequencial donde el usuario debera de seguir un camino para conseguir su objetivo paso por paso esto principalmente por las diferentes tareas que puede realizar.
 
 ### 4.2.2. Labeling Systems.
 
@@ -599,43 +606,42 @@ few words.
 
 Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
 
+Como labels vamos a tener diferentes palabras cortas como "home, about us, pricing, contact, us y sign up en la landing page.
+
+En el web app vamos a tener como los principales labels rooms staes, tasks, employees, inventory, messages.
+
 ### 4.2.3. SEO Tags and Meta Tags
 
-**Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que
-sale al encontrar la pagina en el buscador (se ponen en el <"head">)
+**Meta & SEO (Search Engine Optimization) Tags:**  
 
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+* Titulo: ```<title> El Control Que Necesitas | Software de Gestion de Hoteles/Hostales </title> ```
+* Descripcion: ```<meta name = "description" content = "Controla tus cuartos, empleados e inventario en un solo lugar, La solucion que buscas para cualquier tamaño"/> ```
+* Palabras Clave: ```<meta name = "keyword" content = "Gestion Hotel, Hotel Manager software, software hotelero, software hoteleros más utilizados, Controlar tu Hotel/Hostal, Gestion hostal"/> ```
 
 ### 4.2.4. Searching Systems.
 
-**Que se busca?:** Que buscara el usuario  
-**Que resultados se mostraran?:** Que se mostrara  
-**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado
+**Que se busca?:** El Usuario quiere buscar un empleado en especifico  
+**Que resultados se mostraran?:** Se debe de mostrar el empleado con su codigo y tarea activa
+**Interface de busqueda:** En la seccion de inicio se observara un dashboard con todas las funcionalidades de manera resumida en estilo card, asimismo en un nav bar se encontraran los nombres de las funcionalidades. Adicionalmente en la seccion de empleados se observara una lupa que sera el indicador de la interface de busqueda. cada seccion debe de tener su lupa para poder buscar cuartos, items, empleados o tareas especificas.
 ![Search interface preview web](image.jpg)
 
 ### 4.2.5. Navigation Systems.
 
-Basicamente aqui definimos como funciona la navegacion del web app
-**Hierarchical Navigation System:** Main page a destination pages.
-**Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe
-poder regresar a la principal)
-**Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
+La navegacion de la web app se estara basando en un Sistema de navegacion Global donde por medio de las cards en el dashboard o los labels en el nav bar el usuario se redirija a la seccion selecionada.
 
 ## 4.3. Landing Page UI Design.
 
 ### 4.3.1. Landing Page Wireframe.
 
-la pagina donde te registras y ves info del web app (te manda al web app)
 
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+
+
+![Landing page Wireframe](/assets/StyleGuidelines/Lan-Wireframe.png)
 
 ### 4.3.2. Landing Page Mock-up.
 
 Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+![Landing page mockup](/assets/StyleGuidelines/Lan-Mockup.png)
 
 ## 4.4. Web Applications UX/UI Design.
 
@@ -667,25 +673,28 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
-   se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
-
-2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que
-   encapsula palabras clave en los procesos para poder
-   diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)])
-   Se hace como un brainstorm y se ve en que pueden conectarse o
-   comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
+![ContextDiagram](/assets/SoftwareArchitecture/ContextDiagram/structurizr-84133-SystemContext-001.png)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's,
-   indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como
-   objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP)
+![ContainerDiagram](/assets/SoftwareArchitecture/ContainerDiagram/structurizr-84133-Container-001.png)
+
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del
-   aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+![ComponentDiagram-1](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-001.png)  
+
+![ComponentDiagram-2](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-002.png)  
+
+![ComponentDiagram-3](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-003.png)  
+
+![ComponentDiagram-4](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-004.png)  
+
+![ComponentDiagram-5](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-005.png)  
+
+![ComponentDiagram-6](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-006.png)  
+
+![ComponentDiagram-7](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-007.png)  
 
 ## 4.7. Software Object-Oriented Design.
 
