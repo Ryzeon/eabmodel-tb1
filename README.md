@@ -647,8 +647,56 @@ Mockup es todo lo relacionado al diseño de la pagina
 
 ### 4.4.1. Web Applications Wireframes.
 
-lo funcional de cada aspecto del wireframe
-![Web Aplication Wireframe](image.jpg)
+#### 4.4.1.1 Desktop Wireframes
+Menu Wireframe
+
+<img src="assets\WebApplicationsWireframes\desktop\menu-wireframe.png" alt="Menu Wireframe" width="1400" height="1021">
+
+Rooms Wireframe
+
+<img src="assets\WebApplicationsWireframes\desktop\rooms-wireframe.png" alt="Rooms Wireframe" width="1400" height="1021">
+
+Task Wireframe
+
+<img src="assets\WebApplicationsWireframes\desktop\tasks-wireframe.png" alt="Tasks Wireframe" width="1400" height="1021">
+
+Inventory Wireframe
+
+<img src="assets\WebApplicationsWireframes\desktop\inventory-wireframe.png" alt="Inventory Wireframe" width="1400" height="1021">
+
+Messages Wireframe
+
+<img src="assets\WebApplicationsWireframes\desktop\messages-wireframe.png" alt="Messages Wireframe" width="1400" height="1021">
+
+Employees Wireframe
+
+<img src="assets\WebApplicationsWireframes\desktop\employees-wireframe.png" alt="Employees Wireframe" width="1400" height="1021">
+
+#### 4.4.1.2 Mobile Wireframes
+Menu Wireframe
+
+<img src="assets\WebApplicationsWireframes\mobile\menu-mobile-wireframe.png" alt="Menu Wireframe" width="420" height="900">
+
+Rooms Wireframe
+
+<img src="assets\WebApplicationsWireframes\mobile\rooms-mobile-wireframe.png" alt="Rooms Wireframe" width="420" height="900">
+
+Task Wireframe
+
+<img src="assets\WebApplicationsWireframes\mobile\tasks-mobile-wireframe.png" alt="Tasks Wireframe" width="420" height="900">
+
+Inventory Wireframe
+
+<img src="assets\WebApplicationsWireframes\mobile\inventory-mobile-wireframe.png" alt="Inventory Wireframe" width="420" height="900">
+
+Messages Wireframe
+
+<img src="assets\WebApplicationsWireframes\mobile\messages-mobile-wireframe.png" alt="Messages Wireframe" width="420" height="900">
+
+Employees Wireframe
+
+<img src="assets\WebApplicationsWireframes\mobile\employees-mobile-wireframe.png" alt="Employees Wireframe" width="420" height="900">
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
