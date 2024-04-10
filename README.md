@@ -468,9 +468,10 @@ Segmento 2:
 | *HU21 | Administrar facturas de servicios |Como gerente, quiero poder generar facturas para los servicios adicionales para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes. |
 ## 3.3. Impact Mapping.
 
-![Impact Mapping Manager](assets\Impact-mapping\impact-mapping-manager.png)
+<img src="assets\Impact-mapping\impact-mapping-manager.png" alt="User Manager" width="1000" height="900">
 
-![Impact Mapping Employe](assets\Impact-mapping\impact-mapping-employe.png)
+<img src="assets\Impact-mapping\impact-mapping-employe.png" alt="User Manager" width="1000" height="900">
+
 
 ## 3.4. Product Backlog.
 
