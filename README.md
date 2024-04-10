@@ -381,21 +381,22 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 1. ¿Cuál es su nombre?
 2. ¿Qué edad tiene?
 3. ¿A qué se dedica?
-4. ¿[Opinion de idea de propuesta]?
+4. ¿Que browser y dispositivos usa?
 
-**Entrevistas usuario segmento 2**
-
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
-
-**Entrevistas usuario segmento 2**
+**Entrevistas usuario segmento 1**
 
 1. ¿Lorem?
 2. ¿Lorem?
 3. ¿Lorem?
 4. ¿Lorem?
+
+**Entrevistas usuario segmento 2**
+
+1. ¿Que opiniones tiene del area laboral en el entorno de Hoteleria/Hostales?
+2. ¿Como consigues la informacion de que tareas debes de realizar?
+3. ¿Como notificas a tu supervizor de alguna falta de inventario?
+4. ¿Mantienes una comunicacion efectiva con el gerente/supervizor en horas laborales?
+5. ¿Que frustraciones y objetivos tienes en tu area laboral?
 
 ### 2.2.2. Registro de entrevistas.
 
