@@ -4,7 +4,7 @@
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"><br>
     <strong>Ingeniería de Software</strong><br>
-    <strong>Aplicaciones Web - WX55</strong><br>
+    <strong>Open Source - WX55</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
     <br>INFORME
 </p>
@@ -44,7 +44,11 @@
 
 # Project Report Collaboration Insights
 
-[URL del repositorio](https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project)
+[URL del repositorio](https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project)  
+
+
+
+
 
 (Imagenes de los commits cada entrega)
 
@@ -327,16 +331,16 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 
 {cambiar cuando este la investigacion}
 
-| -| -| -|
-|-------|--|-----|
+| -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       | -                                                                                                                                                                                                                                                                                                                                                                                                                                                          | -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Business Problem <br>¿Qué problema has identificado que necesitas resolver? Existe una necesidad de participación en tiempos de emergencia y una falta de conocimiento en como ayudar. <br>Según CenDe de 1200 personas 72% de estas no han participado en alguna actividad de actividad de ayuda social.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               | Solution ideas <br>Conexión entre personas interesadas en donar y participar en actividades de ayuda social con las ONG que ofrecen este tipo de eventos.<br>Filtrar la gran cantidad de ONG que hay según la disponibilidad del usuario dándole diversas opciones.<br>Ofrecer suscripciones que proporcionan notificaciones de los eventos mas recientes y objetivos de donación.<br>Proveer de una plataforma a las ONG que no tienen mucha visibilidad. | Business Outcomes <br>(Cambios en el comportamiento del usuario) <br>¿Qué cambios en el comportamiento del usuario indicarán que has solucionado un problema real de manera que añada valor a tus clientes? <br> El comportamiento del usuario habrá cambiado cuando este tome la iniciativa de participar en ayuda social al tener menos motivos para no participar aumentando la cantidad de personas que toman parte de actividades de ayuda social.                                                                                                                                                                                                                                    |
 | User & Customers <br>¿En qué tipo de usuarios y clientes tienes que centrarte primero? <br>Usuario: <br>Personas interesadas en donar o participar en actividades de ayuda social de una ONG. <br>ONG que requieren de visibilidad. <br>Cliente: Personas con la necesidad de saber fechas de eventos de ayuda social. <br> ONG que deseen ser más percibidas.  <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |  UX Canvas                                                                                                                                                                                                                                                                                                                                                                                                                                                 | User benefits <br>¿Cuáles son los objetivos que los usuarios intentan obtener? <br> \- Se busca saber como participar o realizar donaciones a ONG [NOMBRE] tiene como objetivo principal ayudar a los usuarios a tener a la mano una gran cantidad de opciones a elegir según sus especificaciones. <br> ¿Qué les motiva a buscar tu solución? <br> \- Los usuarios están motivados a buscar esta solución debido a que toma poco tiempo, ya tiene la información para el usuario y reduce la cantidad de limitaciones que el usuario tiene al pensar en participar en estas actividades. <br>La interfaz amigable resulta fácil de manejar y le facilita al usuario todo el proceso. <br> |
 | Hyphotheses:<br> Creemos que, al brindar una interfaz poco compleja de usar para nuestros usuarios, podrán tener una mejor experiencia de usuario al buscar la ONG que les interes y seran motivados a contarle a otras personas de la simple efectividad de nuestra aplicacion web.Sabremos que hemos tenido éxito cuando se incremente el número de personas que esten dispuestas a apoyar a distintas ONG por medio de nuestra plataforma. <br>- Creemos que la aplicación ayudará a las personas que quieren apoyar a las ONG pero no saben como y a las mismas ONG. Sabremos que hemos tenido éxito cuando veamos las ONG menos reconocidas empiezen a tener mas reconocimiento. <br> Creemos que ayudar a las ONG a tener mas visibilidad en la frontpage por medio de una subscripcion poco costosa ayudara a mejorar la visibilidad y aumentar la cantidad de personas motivadas a ayudar.<br> Sabremos que hemos tenido éxito, cuando a nivel nacional se empiece a notar un incremento en la ayuda social proporcionada. <br> | ¿Qué es la cosa más importante que nosotros necesitamos aprender primero? <br> Lo principal que necesitamos aprender es conectar la base de datos con la pagina web y adicionalmente un repaso en lo que viene siendo la gestión del proyecto                                                                                                                                                                                                              | <br> ¿Cuál es la mínima cantidad de trabajo que nosotros necesitamos hacer para aprender la siguiente cosa más importante? <br> Asistir a las clases y solicitar que se nos revise los avances del proyecto para poder hacer un seguimiento saludable del proyecto                                                                                                                                                                                                                                                                                                                                                                                                                         |
 
 ## 1.3. Segmentos objetivo.
 
-|                           | Segmento 1                                                                                                                                   | Segmento 2                                                                                                                                                                                                  |
-|---------------------------|-----------|---------------------------|
+|                           | Segmento 2                                                                                                                                   | Segmento 1                                                                                                                                                                                                  |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Variables                 | Empleado negocio                                                                                                                             | Gestor del negocio                                                                                                                                                                                          |
 | Geográfica                | Ubicación cercana al establecimiento hotelero o de hospedaje                                                                                 | Preferiblemente ubicado en la misma región donde se encuentra el negocio                                                                                                                                    |
 | Demográfica               | Diversidad en edad y género                                                                                                                  | Edad adulta, posiblemente con formación universitaria en áreas relacionadas con administración o gestión                                                                                                    |
@@ -349,30 +353,34 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 
 ## 2.1. Competidores.
 
-### 2.1.1. Análisis competitivo.
+## 2.1.1. Análisis Competitivo
 
-| Competitive Analysis Landscape        |    |
-|---------------------------------------|----|
-| ¿Por qué llevar a cabo este análisis? | -- |
+**Competitive Analysis Landscape**
 
-|                     |                                                       | (Nosotros)                                                                                                                     | Competidor                                                                  | Comptdor                                             |
-|---------------------|-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------|
-| PERFIL              | Overview                                              | lorem                                                                                                                          | ipsum                                                                       | lorem                                                |
-|                     | Ventaja competitiva ¿Qué valor ofrece a los clientes? |  ipsu                                                                                                                          | impuz                                                                       |
-|                     | Mercado Objetivo                                      | Jeda                                                                                                                           | asa                                                                         | asa2                                                 |
-| Perfil de marketing | Estrategia de Marketing                               | Redes Sociales                                                                                                                 | Redes Sociales                                                              | Televisión, Redes Sociales                           |
-| Perfil del producto | Productos y servicios                                 | Elementos Gráficos Interactivos Enseñanza de Matemáticas Lúdica y Autodidacta Educación matemática interactiva Ámbito Freemium | Educación matemática interactiva Mas de 100 cursos en 28 idiomas diferentes | Educación general interactiva Contratos con Movistar |
-|                     | Precios y costos                                      | Freemium (Cuenta Premium permite personalizar los juegos) Gratis                                                               | Gratuito                                                                    | Gratuito                                             |
-|                     | Canales de distribución (Web y/o Móvil)               | Web y Móvil Web                                                                                                                | Móvil Web                                                                   | Web y móvil Web                                      |
+| ¿Por qué llevar a cabo este análisis? | Nosotros | Cloudbeds | SiteMinder |
+|---------------------------------------|----------|-----------|------------|
+| **Overview**                          | Nuestra startup está enfocada en desarrollar una plataforma integral para la gestión eficiente de negocios relacionados con la administración de habitaciones, con un enfoque en la industria hotelera. | Cloudbeds ofrece una solución de gestión hotelera basada en la nube que incluye herramientas para la administración de propiedades, reservas y distribución. | SiteMinder proporciona una plataforma de distribución hotelera y una suite de herramientas de gestión que incluyen gestión de tarifas, disponibilidad de habitaciones y canal de reservas en línea. |
+| **Ventaja Competitiva**               | Nuestra plataforma ofrece una solución integral que abarca desde la gestión de habitaciones hasta la comunicación interna y la generación de informes de desempeño del personal. | Cloudbeds se destaca por su interfaz fácil de usar y su capacidad para integrarse con una amplia gama de sistemas y servicios de terceros. | SiteMinder se enfoca en maximizar la visibilidad en línea y la distribución de habitaciones a través de una amplia red de canales de reserva. |
+| **Mercado Objetivo**                  | Nos dirigimos a hoteles independientes y pequeñas cadenas hoteleras que buscan mejorar su eficiencia operativa y experiencia del cliente. | Cloudbeds se enfoca en hoteles boutique y propiedades independientes que buscan una solución completa de gestión hotelera en la nube. | SiteMinder atiende a hoteles de todos los tamaños, desde pequeños establecimientos independientes hasta grandes cadenas hoteleras. |
+| **Perfil de Marketing**               | Nuestra estrategia de marketing se centra en la promoción de nuestra plataforma a través de redes sociales y asociaciones con organizaciones de la industria hotelera. | Cloudbeds utiliza estrategias de marketing digital y participa en eventos de la industria para promover su marca y sus soluciones. | SiteMinder utiliza una combinación de marketing en línea y fuera de línea, incluidas campañas en redes sociales y publicidad en eventos de la industria. |
+| **Perfil del Producto**               | Ofrecemos una variedad de herramientas y servicios, desde la gestión de habitaciones hasta la generación de informes de desempeño del personal, todo dentro de una plataforma fácil de usar y personalizable. | Cloudbeds ofrece funcionalidades como gestión de reservas, administración de canales de distribución y herramientas de informes en una interfaz intuitiva. | SiteMinder proporciona herramientas para gestionar tarifas, disponibilidad de habitaciones y reservas en línea, junto con análisis y generación de informes. |
 
-### 2.1.2. Estrategias y tácticas frente a competidores.
 
-| Competidores -> |               | Nosotros | Competidor2 | Competidor3 |
-|-----------------|---------------|----------|-------------|-------------|
-| Análisis SWOT   | Fortalezas    | lorem    | Lorem       | lorem       |
-|                 | Debilidades   | lorem    | lorem       | lorem       | lorem | 
-|                 | Oportunidades | lorem    | lorem       | lorem       | lorem | 
-|                 | Amenazas      | lorem    | lorem       | lorem       | lorem |
+
+## 2.1.2. Estrategias y Tácticas Frente a Competidores
+
+
+
+**Análisis SWOT** | Nosotros | Cloudbeds | SiteMinder
+--- | --- | --- | ---
+**Fortalezas** | Nuestra plataforma ofrece una solución integral y fácil de usar para la gestión de habitaciones y la comunicación interna. Además, nos destacamos por nuestra flexibilidad de precios y personalización de características. | Cloudbeds tiene una interfaz intuitiva y se integra fácilmente con otros sistemas y servicios de terceros, lo que la convierte en una solución atractiva para hoteles independientes. | SiteMinder cuenta con una amplia red de distribución y visibilidad en línea, lo que ayuda a aumentar las reservas y la ocupación de habitaciones para los hoteles.
+**Debilidades** | Como una startup emergente, podemos enfrentar desafíos en términos de reconocimiento de marca y alcance de mercado en comparación con competidores establecidos como Cloudbeds y SiteMinder. | Cloudbeds puede tener tarifas de suscripción más altas en comparación con otras soluciones, lo que puede limitar su atractivo para hoteles con presupuestos ajustados. | SiteMinder puede enfrentar desafíos en la retención de clientes debido a la competencia en el mercado de distribución hotelera en línea.
+**Oportunidades** | Existe un mercado creciente de hoteles independientes y pequeñas cadenas hoteleras que buscan soluciones integrales y asequibles para mejorar su eficiencia operativa. | Cloudbeds puede expandir su alcance a través de asociaciones estratégicas con proveedores de servicios turísticos y organizaciones de la industria. | SiteMinder puede explorar nuevas oportunidades de crecimiento mediante la expansión a mercados emergentes y el desarrollo de características innovadoras para sus clientes.
+**Amenazas** | La competencia en el mercado de gestión hotelera puede intensificarse, lo que podría dificultar la adquisición de clientes y la retención en el futuro. Además, los cambios en las preferencias del consumidor y las regulaciones gubernamentales pueden afectar la demanda de servicios hoteleros. | Cloudbeds puede enfrentar amenazas de nuevos competidores que ingresan al mercado con soluciones similares pero más económicas. Además, los cambios en la tecnología y la regulación pueden afectar la demanda y la rentabilidad de sus servicios. | SiteMinder puede enfrentar amenazas de la consolidación en la industria hotelera y la competencia de grandes OTAs (agencias de viajes en línea) que ofrecen servicios similares de distribución de habitaciones. Además, los cambios en los algoritmos de búsqueda en línea pueden afectar la visibilidad de los hoteles que utilizan su plataforma.
+
+
+
+
 
 ## 2.2. Entrevistas.
 
@@ -383,21 +391,22 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 1. ¿Cuál es su nombre?
 2. ¿Qué edad tiene?
 3. ¿A qué se dedica?
-4. ¿[Opinion de idea de propuesta]?
+4. ¿Que browser y dispositivos usa?
 
-**Entrevistas usuario segmento 2**
-
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
-
-**Entrevistas usuario segmento 2**
+**Entrevistas usuario segmento 1**
 
 1. ¿Lorem?
 2. ¿Lorem?
 3. ¿Lorem?
 4. ¿Lorem?
+
+**Entrevistas usuario segmento 2**
+
+1. ¿Que opiniones tiene del area laboral en el entorno de Hoteleria/Hostales?
+2. ¿Como consigues la informacion de que tareas debes de realizar?
+3. ¿Como notificas a tu supervizor de alguna falta de inventario?
+4. ¿Mantienes una comunicacion efectiva con el gerente/supervizor en horas laborales?
+5. ¿Que frustraciones y objetivos tienes en tu area laboral?
 
 ### 2.2.2. Registro de entrevistas.
 
@@ -427,40 +436,61 @@ Ocupación: _____
 ### 2.3.1. User Personas.
 
 **Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+<br/> <img src="https://i.imgur.com/krhyFim.png" style="width:60%"> 
+
 
 **Segmento 2:**
-![Imagen User Persona 1](image.jpg)
+<br/> <img src="https://i.imgur.com/qQcCWVy.png" style="width:60%"> 
 
 ### 2.3.2. User Task Matrix.
 
-| ---  | ------  | Segmento 1  | ------/----- | Segmento 2  | ---------- |
+| ‎   | ‎  | Segmento 1  | Gerente | Segmento 2  | empleado |
 |------|---------|-------------|--------------|-------------|------------|
 | ID   | Titulo  | Importancia | Frecuencia   | Importancia | Frecuencia |
 | U01X | {Texto} | Alta        | Alta         | Media       | Baja       |
-
+| HU01 | Actualizar las habitaciones disponibles |Alta | Media | Alta | Alta |
+| HU02 | Creación de tareas para empleados | Alta | Alta | Alta | Media |
+| HU03 | Notificaciones de inventario | Alta | Media | Alta | Media |
+|*HU04 | Información del desempeño | Alta | Media | Alta | baja |
+| HU05 | Lista de habitaciones ocupadas en tiempo real | Alta | Baja | Alta | Media |
+| HU06 | Alertas de mantemiento | Alta | Baja | Alta | Baja |
+| HU07 | Informar del estado de habitaciones | Media | Media | Alta | Media |
+| HU08 | Administrar permisos de los empleados| Alta | Media | Alta | Media |
+| HU09 | Programar turnos de trabajo | Media | Baja | Media | Baja |
+| HU10 | Realizar seguimiento de gastos | Alta | Alta | Media | Baja |
+| HU11 | Gestionar servicios adicionales | Media | Baja | Baja | Baja |
+|*HU12 | Notificaciones de comentarios | Media | Baja | Media | Baja |
+|*HU13 | Crear promociones | Alta | Media | Media | Baja |
+| HU14 | Registro de proveedores | Alta | Media | Media | Baja |
+|*HU15 | Seguimiento del cliente | Media | Media | Baja | Media |
+| HU16 | Notificaciones de cambio de agenda | Media | Baja | Alta | Media |
+| HU17 | Estado de las habitaciones | Media | Baja | Alta | Media |
+| HU18 | Información de procedimientos según el caso | Baja | Baja | Alta | Baja |
+| HU19 | Registrar el estado de suministros | Alta | Baja | Media | Baja |
+| HU20 | Reportar problemas | Media | Baja | Media | Baja |
+|*HU21 | Administrar facturas de servicios | Media | Baja | Alta | Alta |
 ### 2.3.3. User Journey Mapping.
 
 **Registration:**
 Why would they trust us?
 
-- s
-- s
-- s
+- Optimizacion de costos e incremento de eficiencia.
+- Interfaz facil e intuitiva.
+- Escalabilidad a estructuras grandes.
 
 **Onboarding and first use:**
 How can they feel successful?
 
-- s
-- s
-- s
+- Facil de entender
+- Simple de manejar
+- Conexion con el staff mas rapida.
 
 **Sharing:**
 Why would they invite others?
 
-- s
-- s
-- s
+- Accesible.
+- Escalable para establecimientos pequeños y grandes.
+- Facil de configurar.
 
 ### 2.3.4. Empathy Mapping.
 
@@ -473,26 +503,28 @@ Why would they invite others?
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
-Escenario: {escenario}
+Escenario: Supervizor quiere revisar el estado de los cuartos y darles sus tareas a los empleados mientras tambien debe de revisar el inventario.
 
 As Is:
 
-| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
-|----------|--------|--------|--------|--------|
-| Doing    | texto  | texto  | texto  | texto  |
-| Thinking | texto  | texto  | texto  | texto  |
-| Feeling  | texto  | texto  | texto  | texto  |
+| Fases     |       |       |        |    |
+|----------|----------------|------|---------|-----|
+| Doing          | Verificando el estado actual de los cuartos | Revisando el inventario de elementos de limpieza y toallas | Asignando tareas al personal de limpieza | Comunicándose con el personal para coordinar las tareas |
+| Thinking       | Reflexionando sobre la disponibilidad de los cuartos para nuevos clientes | Evaluando la cantidad de elementos de limpieza y toallas disponibles | Considerando la carga de trabajo del personal de limpieza | Pensando en cómo mejorar la comunicación con el personal |
+| Feeling        | Preocupado por la disponibilidad de cuartos para nuevos clientes | Preocupado por la cantidad de elementos de limpieza y toallas disponibles | Ansioso por asignar tareas de manera efectiva al personal | Frustrado por la falta de una comunicación eficiente con el personal |
+
 
 **Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
+Escenario: Empleado realiza sus actividades y desea hacerle saber al supervizor que ya termino o si este le puede dar mas tareas.
 
 As Is:
 
-| Fases    | Fase 1 | Fase 2 | Fase 3 | Fase 4 |
-|----------|--------|--------|--------|--------|
-| Doing    | texto  | texto  | texto  | texto  |
-| Thinking | texto  | texto  | texto  | texto  |
-| Feeling  | texto  | texto  | texto  | texto  |
+| Fases     |       |       |        |    |
+|----------|----------------|------|---------|-----|
+| Doing          | Realizando tareas de limpieza asignadas | Notificando al supervisor cuando terminan las tareas de limpieza | Verificando el stock de elementos de limpieza y toallas | Comunicándose con el supervisor sobre cualquier problema |
+| Thinking       | Reflexionando sobre la eficacia de las tareas de limpieza | Evaluando la necesidad de reabastecer elementos de limpieza y toallas | Considerando cómo mejorar la comunicación con el supervisor | Pensando en soluciones para mejorar el proceso de limpieza |
+| Feeling        | Comprometido con la calidad de las tareas de limpieza realizadas | Satisfecho al completar las tareas de limpieza asignadas | Preocupado por la disponibilidad de elementos de limpieza y toallas | Interesado en mejorar la comunicación y colaboración con el supervisor |
+
 
 ## 2.4. Ubiquitous Language.
 
