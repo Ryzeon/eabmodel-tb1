@@ -722,20 +722,97 @@ Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, is
 # Capítulo V: Product Implementation, Validation & Deployment
 
 ## 5.1. Software Configuration Management.
+En los siguientes puntos, detallaremos las herramientas, convenciones, referencias y configuraciones empleadas a lo largo del desarrollo del proyecto, los cuales contribuyeron a mantener la base en el trabajo realizado.
 
 ### 5.1.1. Software Development Environment Configuration.
 
-Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
-extensiones tmbn? nose bn q quieren aca
+Figma: https://www.figma.com/
+
+Es una herramienta visual, donde diseñamos el prototipo de la pagina web. Se usó para crear los wireframes, mock-ups, asi como los desktop and mobile application del proyecto.
+
+LucidChart: https://lucid.app/
+
+Es una plataforma, la cual tiene opciones que nos ayudaron en la creación de diagramas, mapas y flujos usando plantillas y tableros. Fue usado en el deasarollo del Diagram class, también para los Wireflows and User Flow.
+Landing Page
+
+
+Software Development
+Para el desarollo de la landing page, se usaron las tecnologías basicas del desarrollo web: HTML, CSS Y JS. Añadiendole frameworks como lo es Tailwind css para facilitar el desarrollo de la misma.
+
+Frontend Web Applications
+
+Para el desarrollo del Frontend (aplicación web) se usó HTML5, CSS3 Y JS. Añadiendo tambien el uso de Angular Material.
+
+Web Services
+
+Para el desarrollo del servicio web, se utilizó Java junto con Spring Boot. Asi como un RESTful API style para la parte de la arquitectura.
+
+Software Deployment
+
+Netlify: https://www.netlify.com/
+
+Es una plataforma en la cual hospedamos la lading page del proyecto, se integra con repositorios en Git.
+
+Software Documentation
+
+Vertabelo: https://vertabelo.com/
+
+Es una herramienta online la cual ayuda en el desarrollo y creacion de base de datos. Se usó para la base de datos del proyecto.
+
+
+Structurizr: https://www.structurizr.com/
+
+Esta plataforma permite el modelado de diagramas de arquitectura de software. Así creamos el modelo C4 de todo el proyecto.
 
 ### 5.1.2. Source Code Management.
 
-El gitjab donde tengamos el proyecto
+Para la gestion y actualización del proyecto, se creó una organizacion vía GitHub, en la cual se iba registrando las modificaciones y actualizaciones del proyecto a lo largo de su creación y ciclo de vida. Se organizó de la siguiente manera:
+
+Organization: https://github.com/upc-pre-20241-si729-wx55-eabmodel 
+Landing Page Repository: https://github.com/upc-pre-20241-si729-wx55-eabmodel/landing-page
+Report Repository: https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project
+Para controlar de manera eficiente los cambios en el codigo, usamos GitFlow para definir el flujo de trabajo, siendo creada las dos ramas principales:
+
+master: También llamada "main", es donde se encuentra la versión más estable y lista del proyecto que van a pasar a producción.
+branches: Contiene las features, va a la par con el "main"
+
+Ramas auxiliares:
+
+feature: Son las ramas donde se desarrollan las funcionalidades del proyecto. Luego de completarlas, se fusionan con la rama branch.
+
+La nomenclatura para los features fueron las siguientes: feature/name. Por ejemplo, feature/sign-in, para ingresar a la aplicación web.
+
+release: Son las ramas donde se prepara la próxima versión del programa. En esta, se realizan las pruebas finales y se corrigen pequeños errores antes del lanzamiento definitivo. Finalizado este proceso, los cambios se fusionan con la rama develop, y luego a la rama main.
+
+Se utilizó el formato "feature/chapter n" para la nomenclatura de las versiones del proyecto, por ejemplo: "release/x.y.z". En donde:
+
+X, Y y Z son números enteros positivos, donde cada uno se incrementa de manera numérica.
+
+Commit Conventions
+
+Para el formato de los commits se siguió la estructura de Conventional Commits 1.0.0, la cual tiene la siguiente estructura:
+
+ ``` < type > [optional scope]: < description > ```
+Donde:
+
+type: Es el tipo de cambio. Tenemos valores como: fix, feat, build, chore, ci, docs, style, refactor, perf, test, etc.
+scope: Indica donde se realizó el commit (opcional).
+description: Menciona las actualizaciones del codigo.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-Que usamos con css (en caso usemos software para SASS)
-supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
+Para el desarrollo del código en HTML y CSS se decidió seguir la convención de Google HTML/CSS Style Guide. Entre las más importantes destacan:
+
+El tipo de documento debe especificarse al principio del archivo mediante el uso de meta tags.
+El elemento <title> debe estar dentro de las etiquetas <head>.
+La sangría debe tener dos espacios. 
+Debe utilizar letras minúsculas para elementos HTML, atributos, propiedades, valores y selectores de CSS.
+Los atributos de los elementos HTML deben estar entre comillas. Cada elemento HTML debe tener su correspondiente etiqueta de cierre.
+Se recomienda evitar largas líneas de código. Es importante indicar el ancho y alto de las imágenes, así como el texto alternativo (alt).
+Para el código JavaScript, seguimos la convención de la Guía de estilo Java de Google de terminar cada línea con un punto y coma, usar Camelcase para variables y funciones y encerrar valores de cadena entre comillas simples.
+Al desarrollar pruebas de aceptación con el lenguaje Gherkin, se utilizan las "Convenciones de Gherkin para especificaciones legibles", que incluyen palabras clave como "Dar", "Cuándo", "Entonces" y "Y", sangría específica y comentarios separadores.
+Java sigue el estándar Google Java Style Guid, que determina el formato de los nombres de paquetes, clases y métodos, la sangría de la tabla, la división de líneas largas y los nombres de archivos Java que coinciden con el nombre de la clase. contenida en el mismo. 
+Se recomienda insertar un salto de línea después de cada declaración.
 
 ### 5.1.4. Software Deployment Configuration.
 
