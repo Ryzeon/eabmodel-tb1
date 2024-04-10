@@ -558,12 +558,14 @@ Los siguientes elementos se han cosiderado para mejorar la experiencia del usuar
 
 ![Colores Generales](/assets/StyleGuidelines/colores.png)
 
-Se eligieron este esquema debido a como el color azul y blanco representan un entorno ordenado, relajado y poco complejo que son caracteristicas las cuales ayudaran con los procesos de gestion que pueden llegar a ser estresantes o caoticos.
+Se eligieron este esquema debido a como el color azul y blanco representan un entorno ordenado, relajado y poco complejo
+que son caracteristicas las cuales ayudaran con los procesos de gestion que pueden llegar a ser estresantes o caoticos.
 
-**Tipografia:** Para la tipografia se esta usando Roboto principalmente por su simplicidad y popularidad en las paginas web, representa bien las letras y hace que nuestro texto se vea ordenado sin verse abrumador.
+**Tipografia:** Para la tipografia se esta usando Roboto principalmente por su simplicidad y popularidad en las paginas
+web, representa bien las letras y hace que nuestro texto se vea ordenado sin verse abrumador.
 ![Tipografias generales](/assets/StyleGuidelines/roboto.png)  
-**Branding** Nuestro logotipo se muestra como unas llaves de hotel junto con el nombre del producto InnControl, pensamos en un logo minimalista que con el hecho de verse el logo se pueda distinguir quienes somos.
-
+**Branding** Nuestro logotipo se muestra como unas llaves de hotel junto con el nombre del producto InnControl, pensamos
+en un logo minimalista que con el hecho de verse el logo se pueda distinguir quienes somos.
 
 ![Branding general](assets/StyleGuidelines/innControl.png)
 
@@ -574,17 +576,22 @@ En nuestra web app y landing page estaremos usando los colores ya mencionados en
 **Background:** Color Primario: 539BCA
 Color Secundario: BAE0FC
 Color Terniario: 6A9CDE y 003785
-![Background Preview web](image.jpg)  
+![Background Preview web](image.jpg)
 
-**Text Styles:** (H1, H2, p, a,)  Nuestros estilos de texto van a depender del color que tengan detras, para colores mas osucros como 003785 se usa EEEEEE para dar contraste, mientras que si es un color claro se usa 00628D para que el color del texto pueda resaltar.
+**Text Styles:** (H1, H2, p, a,)  Nuestros estilos de texto van a depender del color que tengan detras, para colores mas
+osucros como 003785 se usa EEEEEE para dar contraste, mientras que si es un color claro se usa 00628D para que el color
+del texto pueda resaltar.
 ![Text Style Preview web](image.jpg)
 **Button Styles:** (Button, dropdowns, Switches)
-Nuestros Botones van a ser rectangulares con bordes curvados de 4px, los colores varian entre 6A9CDE, 003785 y DBEFFE siendo el primero tipo de boton el que se usara más.
+Nuestros Botones van a ser rectangulares con bordes curvados de 4px, los colores varian entre 6A9CDE, 003785 y DBEFFE
+siendo el primero tipo de boton el que se usara más.
 
 Los DropDowns y Switches se implementaran con una menor frequencia sin embargo se usara el color DBEFFE o EEEEEE.
 ![Button Preview web](image.jpg)
 **Icons:** (Fondo blanco con los iconos que vamos a usar)
-Los iconos que estaremos usando seran de las redes sociales en el caso de la landing page junto a otros relacionados a los beneficios. Seguidamente, se estaran utilizando menos iconos en la web aplication siendo los mas prominentes la lupa, icono de empleados, tareas cuartos e inventario.
+Los iconos que estaremos usando seran de las redes sociales en el caso de la landing page junto a otros relacionados a
+los beneficios. Seguidamente, se estaran utilizando menos iconos en la web aplication siendo los mas prominentes la
+lupa, icono de empleados, tareas cuartos e inventario.
 ![Icons Preview web](image.jpg)
 **Misc** (Cosas como nav var o slideshows que pensemos usar)
 
@@ -596,7 +603,8 @@ Estaremos usando nav vars, carruseles y cards para poner informacion de testimon
 
 ### 4.2.1. Organization Systems.
 
-De sistema de Organizacion usaremos un sistema Sequencial donde el usuario debera de seguir un camino para conseguir su objetivo paso por paso esto principalmente por las diferentes tareas que puede realizar.
+De sistema de Organizacion usaremos un sistema Sequencial donde el usuario debera de seguir un camino para conseguir su
+objetivo paso por paso esto principalmente por las diferentes tareas que puede realizar.
 
 ### 4.2.2. Labeling Systems.
 
@@ -606,35 +614,41 @@ few words.
 
 Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
 
-Como labels vamos a tener diferentes palabras cortas como "home, about us, pricing, contact, us y sign up en la landing page.
+Como labels vamos a tener diferentes palabras cortas como "home, about us, pricing, contact, us y sign up en la landing
+page.
 
 En el web app vamos a tener como los principales labels rooms staes, tasks, employees, inventory, messages.
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-**Meta & SEO (Search Engine Optimization) Tags:**  
+**Meta & SEO (Search Engine Optimization) Tags:**
 
 * Titulo: ```<title> El Control Que Necesitas | Software de Gestion de Hoteles/Hostales </title> ```
-* Descripcion: ```<meta name = "description" content = "Controla tus cuartos, empleados e inventario en un solo lugar, La solucion que buscas para cualquier tamaño"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "Gestion Hotel, Hotel Manager software, software hotelero, software hoteleros más utilizados, Controlar tu Hotel/Hostal, Gestion hostal"/> ```
+*
+
+Descripcion: ```<meta name = "description" content = "Controla tus cuartos, empleados e inventario en un solo lugar, La solucion que buscas para cualquier tamaño"/> ```
+
+* Palabras
+  Clave: ```<meta name = "keyword" content = "Gestion Hotel, Hotel Manager software, software hotelero, software hoteleros más utilizados, Controlar tu Hotel/Hostal, Gestion hostal"/> ```
 
 ### 4.2.4. Searching Systems.
 
 **Que se busca?:** El Usuario quiere buscar un empleado en especifico  
 **Que resultados se mostraran?:** Se debe de mostrar el empleado con su codigo y tarea activa
-**Interface de busqueda:** En la seccion de inicio se observara un dashboard con todas las funcionalidades de manera resumida en estilo card, asimismo en un nav bar se encontraran los nombres de las funcionalidades. Adicionalmente en la seccion de empleados se observara una lupa que sera el indicador de la interface de busqueda. cada seccion debe de tener su lupa para poder buscar cuartos, items, empleados o tareas especificas.
+**Interface de busqueda:** En la seccion de inicio se observara un dashboard con todas las funcionalidades de manera
+resumida en estilo card, asimismo en un nav bar se encontraran los nombres de las funcionalidades. Adicionalmente en la
+seccion de empleados se observara una lupa que sera el indicador de la interface de busqueda. cada seccion debe de tener
+su lupa para poder buscar cuartos, items, empleados o tareas especificas.
 ![Search interface preview web](image.jpg)
 
 ### 4.2.5. Navigation Systems.
 
-La navegacion de la web app se estara basando en un Sistema de navegacion Global donde por medio de las cards en el dashboard o los labels en el nav bar el usuario se redirija a la seccion selecionada.
+La navegacion de la web app se estara basando en un Sistema de navegacion Global donde por medio de las cards en el
+dashboard o los labels en el nav bar el usuario se redirija a la seccion selecionada.
 
 ## 4.3. Landing Page UI Design.
 
 ### 4.3.1. Landing Page Wireframe.
-
-
-
 
 ![Landing page Wireframe](/assets/StyleGuidelines/Lan-Wireframe.png)
 
@@ -679,22 +693,21 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 
 ![ContainerDiagram](/assets/SoftwareArchitecture/ContainerDiagram/structurizr-84133-Container-001.png)
 
-
 ### 4.6.3. Software Architecture Components Diagrams.
 
-![ComponentDiagram-1](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-001.png)  
+![ComponentDiagram-1](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-001.png)
 
-![ComponentDiagram-2](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-002.png)  
+![ComponentDiagram-2](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-002.png)
 
-![ComponentDiagram-3](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-003.png)  
+![ComponentDiagram-3](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-003.png)
 
-![ComponentDiagram-4](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-004.png)  
+![ComponentDiagram-4](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-004.png)
 
-![ComponentDiagram-5](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-005.png)  
+![ComponentDiagram-5](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-005.png)
 
-![ComponentDiagram-6](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-006.png)  
+![ComponentDiagram-6](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-006.png)
 
-![ComponentDiagram-7](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-007.png)  
+![ComponentDiagram-7](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-007.png)
 
 ## 4.7. Software Object-Oriented Design.
 
@@ -721,7 +734,11 @@ Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, is
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
+En la esta sección, se detallara las herramientas, convenciones, referencias y configuraciones utlizadas a lo largo
+del desarrollo del proyecto.
+
 ## 5.1. Software Configuration Management.
+En este apartado, se mencionarán los distintos productos de software empleados por el equipo de desarrollo.
 
 ### 5.1.1. Software Development Environment Configuration.
 
