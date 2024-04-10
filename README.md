@@ -47,6 +47,7 @@
 [URL del repositorio](https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project)
 
 
+
 (Imagenes de los commits cada entrega)
 
 # Contenido
@@ -378,10 +379,11 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 
 **Entrevistas usuario segmento 2**
 
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
+1. Que opiniones tiene respecto a la digitalizacion de los sitemas de gestion en hoteles o modelos de negocio parecidos?
+2. ¿Como le hace saber a los empleados que tareas deben hacer?
+3. ¿Como manejan el inventario de productos que utilizan tanto para limpieza como para los cuartos?
+4. ¿En su opinion cree que se mantiene una comunicacion constante y efectiva entre los gerentes/supervizores y los empleados?
+5. ¿Que frustraciones y objetivos/motivaciones tiene en su area laboral?
 
 **Entrevistas usuario segmento 2**
 
@@ -397,22 +399,23 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 Nombre: _____
 Edad: _ años
 Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
+![Imagen de entrevistaS1](/assets/)  
 {texto mucho}
 
 **Segmento 2**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+Nombre: Arian Godinez Vargas
+Edad: 20 años
+Ocupación: Empleado de Hotel (limpieza)  
+![Imagen de entrevista](/assets/interviewsimages/EntrevistaAS2.png)
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=wsbDs5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+En la entrevista Arian nos relata como es un dia laboral para el como staff en un Hotel el cual prefiere que mantengamos anonimo, nos habla un poco preocupado pero con la suficiente confianza para comentarnos de los inconvenientes que sufre el, junto a sus colegas respecto a los sistemas de comunicacion entre los empelados y supervizores y de como deben usar herramientas obsoletas para intentar manejarse. 
 
 ### 2.2.3. Análisis de entrevistas.
 
 **Segmento 1:**
-{texto}
+{texto}  
 **Segmento 2:**
-{texto}
+En el segmento 2 notamos una tendencia en el aspecto de herramientas para la correcta comunicacion con el gerente y la notificacion de tareas completadas
 
 ## 2.3. Needfinding.
 
@@ -433,7 +436,6 @@ Ocupación: _____
 | ‎   | ‎  | Segmento 1  | Gerente | Segmento 2  | empleado |
 |------|---------|-------------|--------------|-------------|------------|
 | ID   | Titulo  | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X | {Texto} | Alta        | Alta         | Media       | Baja       |
 | HU01 | Actualizar las habitaciones disponibles |Alta | Media | Alta | Alta |
 | HU02 | Creación de tareas para empleados | Alta | Alta | Alta | Media |
 | HU03 | Notificaciones de inventario | Alta | Media | Alta | Media |
@@ -483,11 +485,10 @@ Why would they invite others?
 
 **Segmento 1:**
 
-<img src="/assets/empathymaps/Empathy-map-Manager.png" alt="User Manager" width="700" height="900">
-
+![Empathy Map S1](/assets/empathymaps/Empathy-map-Manager.png)
 **Segmento 2:**
 
-<img src="/assets/empathymaps/Empathy-map-Empleado.png" alt="User Employer" width="700" height="900">
+![Empathy Map S2](/assets/empathymaps/Empathy-map-Empleado.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
