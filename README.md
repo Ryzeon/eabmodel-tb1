@@ -426,7 +426,7 @@ En esta ocacion Nicola cuenta como se hace uso de Whatsapp como herramienta y de
 ### 2.2.3. Análisis de entrevistas.
 
 **Segmento 1:**
-En base al segmento uno se hace un analisis donde se llega a la conclusion de que la necesidad de una aplicacion orientada a la gestion de empleados y sus tareas son necesarias junto con un seguimiento de inventario para reducir los tiempos y mejorar la disponibilidad.
+En base al segmento uno se hace un analisis donde se llega a la conclusion de que la necesidad de una aplicacion orientada a la gestion de empleados y sus tareas son necesarias junto con un seguimiento de inventario para reducir los tiempos y mejorar la disponibilidad.  
 **Segmento 2:**
 En base al segundo segmento se puede observar que la comunicacion si teien oportunidades de mejora, que el proceso de notificacion de inventario no esta completamente digitalizado y finalmente que recibir tareas y notificar del cumplimiento de estas es necesario.
 
