@@ -1028,7 +1028,6 @@ Al ser un landing page, no se requiere de una suite de pruebas para su desarroll
 
 En esta entrega el equipo de eabmodel logro implementar el landing page, el cual se encuentra en la siguiente URL:
 https://inncontrol.netlify.app/
-{fgotos}
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
