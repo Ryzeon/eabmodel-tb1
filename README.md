@@ -966,9 +966,11 @@ Link del tablero: https://github.com/orgs/upc-pre-20241-si729-wx55-eabmodel/proj
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-![Sprint review Services Documentation Evidence](image.jpg)
+En este sprint, se completó el desarrollo del landing page, al ser landing page no se requiere de documentación de
+servicios.
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+
 En el este sprint, se completó el desarrollo del landing page y se utilizó un conjunto de herramientas para su
 despliegue:
 
