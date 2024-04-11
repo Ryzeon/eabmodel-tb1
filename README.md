@@ -396,9 +396,9 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 ### 2.2.2. Registro de entrevistas.
 
 **Segmento 1**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
+Nombre: Elisa Rivero Del Rio
+Edad: 55 años
+Ocupación: Gerencia de Hoteles  
 ![Imagen de entrevistaS1](/assets/)  
 {texto mucho}
 
@@ -406,9 +406,15 @@ Ocupación: _____
 Nombre: Arian Godinez Vargas
 Edad: 20 años
 Ocupación: Empleado de Hotel (limpieza)  
-![Imagen de entrevista](/assets/interviewsimages/EntrevistaAS2.png)
+![Imagen de entrevistaS2.1](/assets/interviewsimages/EntrevistaAS2.png)
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=wsbDs5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 En la entrevista Arian nos relata como es un dia laboral para el como staff en un Hotel el cual prefiere que mantengamos anonimo, nos habla un poco preocupado pero con la suficiente confianza para comentarnos de los inconvenientes que sufre el, junto a sus colegas respecto a los sistemas de comunicacion entre los empelados y supervizores y de como deben usar herramientas obsoletas para intentar manejarse. 
+
+![Imagen de entrevistaS2.2](/assets/interviewsimages/EntrevistaES2.png) 
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202211894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211894_upc_edu_pe%2FDocuments%2FOpenSource%2FEntrevistaES2%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+En la entrevista Esau nos menciona como practicante de un hotel, los metodos que se usan para la comunicacion y gestion de empleados donde se se usa Whatsapp como herramienta para entregar tareas y comunicarse con el gerente. Mas tambien nos menciona como este sistema puede generar problemas especialmente cuando estas estructuras son grandes y tienen una alta cantidad de empleados.
+
+
 
 ### 2.2.3. Análisis de entrevistas.
 
