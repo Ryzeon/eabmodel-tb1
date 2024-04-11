@@ -574,23 +574,31 @@ En nuestra web app y landing page estaremos usando los colores ya mencionados en
 **Background:** Color Primario: 539BCA
 Color Secundario: BAE0FC
 Color Terniario: 6A9CDE y 003785
-![Background Preview web](image.jpg)  
+
+<img src="assets\StyleGuidelines\mockupDesktop\menu-desktop-mockup.png" alt="Background Preview web" width="1400" height="900">
+
 
 **Text Styles:** (H1, H2, p, a,)  Nuestros estilos de texto van a depender del color que tengan detras, para colores mas osucros como 003785 se usa EEEEEE para dar contraste, mientras que si es un color claro se usa 00628D para que el color del texto pueda resaltar.
-![Text Style Preview web](image.jpg)
+
+<img src="assets\StyleGuidelines\mockupDesktop\rooms-text-mockup.png" alt="Text Style Preview web" width="1000" height="600">
+
 **Button Styles:** (Button, dropdowns, Switches)
 Nuestros Botones van a ser rectangulares con bordes curvados de 4px, los colores varian entre 6A9CDE, 003785 y DBEFFE siendo el primero tipo de boton el que se usara más.
 
 Los DropDowns y Switches se implementaran con una menor frequencia sin embargo se usara el color DBEFFE o EEEEEE.
-![Button Preview web](image.jpg)
+
+<img src="assets\StyleGuidelines\mockupDesktop\rooms-buttons-mockup.png" alt="Button Preview web" width="270" height="600">
+
 **Icons:** (Fondo blanco con los iconos que vamos a usar)
 Los iconos que estaremos usando seran de las redes sociales en el caso de la landing page junto a otros relacionados a los beneficios. Seguidamente, se estaran utilizando menos iconos en la web aplication siendo los mas prominentes la lupa, icono de empleados, tareas cuartos e inventario.
-![Icons Preview web](image.jpg)
+
+<img src="assets\StyleGuidelines\mockupDesktop\rooms-icons-mockup.png" alt="Icons Preview web" width="390" height="58">
+
 **Misc** (Cosas como nav var o slideshows que pensemos usar)
 
 Estaremos usando nav vars, carruseles y cards para poner informacion de testimonios y beneficios.
 
-![Miscellaneos preview web](image.jpg)
+<img src="assets\StyleGuidelines\mockupDesktop\header-mockup.png" alt="Miscellaneos preview web" width="1402" height="78">
 
 ## 4.2. Information Architecture.
 
