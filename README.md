@@ -605,23 +605,23 @@ Texto ubiquo: Definicion de este
 
 Segmento 1:
 
-| Fases    | fase 1 as is | fase 2 | fase 3 |
-|----------|--------------|--------|--------|
-| Doing    |              | texto  | texto  | texto| texto|
-| Thinking |              | texto  | texto  | texto| texto|
-| Feeling  |              | texto  | texto  | texto| texto|
+| Fases          |                        |              |                  |                  |
+|----------------|------------------------|--------------|------------------|------------------|
+| Doing          | Utilizando la herramienta web para verificar el estado de los cuartos y el inventario | Asignando tareas al personal de limpieza a través de la plataforma | Monitoreando el progreso del personal y comunicándose directamente con ellos | Revisando las sugerencias de mejora proporcionadas por la herramienta |
+| Thinking       | Considerando cómo optimizar la asignación de tareas y la gestión del inventario con la herramienta | Evaluando la eficacia de la comunicación y supervisión a través de la plataforma | Reflexionando sobre las mejoras implementadas y la efectividad de la herramienta | Identificando nuevas oportunidades de mejora en la gestión de habitaciones y stock |
+| Feeling        | Satisfecho con la eficiencia y precisión en la gestión de cuartos e inventario | Valorando la comunicación directa y efectiva con el personal | Motivado por las mejoras implementadas y el impacto positivo en la operación | Esperanzado por las nuevas oportunidades de mejora identificadas |
+
 
 Segmento 2:
 
-| Fases    | fase 1 as is | fase 2 | fase 3 |
-|----------|--------------|--------|--------|
-| Doing    |              | texto  | texto  | texto| texto|
-| Thinking |              | texto  | texto  | texto| texto|
-| Feeling  |              | texto  | texto  | texto| texto|
+| Fases          |                        |              |                  |                  |
+|----------------|------------------------|--------------|------------------|------------------|
+| Doing          | Utilizando la herramienta web para recibir y completar tareas asignadas | Notificando al supervisor a través de la plataforma cuando las tareas están completas | Actualizando el estado del stock de elementos de limpieza y toallas en la herramienta | Comunicándose con el supervisor a través de la plataforma sobre cualquier problema o solicitud |
+| Thinking       | Reflexionando sobre la eficacia de las tareas asignadas y la comunicación con el supervisor | Evaluando la necesidad de mejorar la gestión de tareas y la comunicación con la herramienta | Considerando cómo mejorar la eficiencia en la gestión de inventario y comunicación | Pensando en soluciones para optimizar el proceso de trabajo y la colaboración con el supervisor |
+| Feeling        | Comprometido con la calidad y eficiencia en la ejecución de tareas asignadas | Satisfecho al completar las tareas de manera efectiva y comunicarlas al supervisor | Preocupado por la disponibilidad y gestión adecuada del inventario | Interesado en mejorar la comunicación y colaboración con el supervisor a través de la herramienta |
+
 
 ## 3.2. User Stories.
-
-revisar en grupo = *
 
 | HUX  | Historia de Usuario                           | Descripción                                                                                                                                                                                     | Criterios de Aceptación                                                                                                                                                                                                                                                                                     |
 |------|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -642,17 +642,40 @@ revisar en grupo = *
 | HU18 | Información de procedimientos según el caso   | Como empleado, quiero poder acceder a manuales de procedimientos para tener recursos de referencia que me ayuden a realizar mi trabajo de manera efectiva.                                      | Given que existe un sistema para acceder a manuales de procedimientos <br> When busco un manual específico <br> Then puedo acceder al contenido relevante <br> And me ayuda a realizar mi trabajo de manera efectiva.                                                                                       |
 | HU19 | Registrar el estado de suministros            | Como empleado, quiero poder registrar el estado de los suministros para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento.   | Given que hay una lista de suministros disponibles <br> When registro el estado de un suministro <br> Then el estado se actualiza correctamente <br> And se garantiza el control preciso del inventario.                                                                                                    |
 | HU20 | Reportar problemas                            | Como empleado, quiero poder reportar incidencias o problemas para informar sobre cualquier problema o situación que afecte mi trabajo o la calidad del servicio.                                | Given que existe una opción para reportar problemas <br> When reporto una incidencia o problema <br> Then se registra la incidencia correctamente <br> And se toman medidas para resolver el problema.                                                                                                      |
-
+             
+             |
 ## 3.3. Impact Mapping.
 
-![Impact Mapping](image.jpg)
+<img src="assets\Impact-mapping\impact-mapping-manager.png" alt="User Manager" width="1000" height="900">
+
+<img src="assets\Impact-mapping\impact-mapping-employe.png" alt="User Manager" width="1000" height="900">
+
 
 ## 3.4. Product Backlog.
 
 | #Orden | User Story ID | Titulo     | Descripción | Story Points (1/2/3/5/8) |
 |--------|---------------|------------|-------------|--------------------------|
-| 1      | HU01          | titulo his | desc        | 5                        |
-
+| 1      | HU01          | Actualizar las habitaciones disponibles | Como gerente, quiero poder agregar nuevas habitaciones para mantener actualizado el inventario de habitaciones disponibles. | 8 |
+| 2      | HU02          | Creación de tareas para empleados | Como gerente, quiero poder agregar nuevas habitaciones para mantener actualizado el inventario de habitaciones disponibles. | 8 |
+| 3      | HU03          | Notificaciones de inventario |Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros. | 5 |
+| 4      | * HU04        | Información del desempeño |Como gerente, quiero generar informes de desempeño del personal [revisar en grupo] Para evaluar el rendimiento de los empleados y tomar decisiones basadas en datos.    | 5 |
+| 5      | HU05          | Lista de habitaciones ocupadas en tiempo real |Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones. | 8 |
+| 6      | HU06          | Alertas de mantemiento |Como gerente, quiero recibir alertas de mantenimiento programado para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados. | 5 |
+| 7      | HU07 | Informar del estado de habitaciones | Como gerente, quiero ver el estado de las habitaciones para poder revisar si estan listas para su uso despues del proceso de limpieza.  | 5 |
+| 8      | HU08 | Administrar permisos de los empleados |Como gerente, quiero gestionar el acceso y permisos de los empleados para garantizar la seguridad y la privacidad de la información del negocio.  | 8 |
+| 9      | HU09 | Programar turnos de trabajo |Como gerente, quiero programar turnos de trabajo automáticamente para optimizar la asignación de personal y evitar conflictos de horarios. | 2 |
+| 10     | HU10 | Realizar seguimiento de gastos |Como gerente, quiero poder realizar seguimiento de gastos implementados para controlar los costos y optimizar la rentabilidad del negocio. | 5 |
+| 11     | HU11 | Gestionar servicios adicionales |Como gerente, quiero gestionar la disponibilidad de servicios adicionales para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente. | 3 |
+| 12     | * HU12 | Notificaciones de comentarios |Como gerente, quiero recibir notificaciones de comentarios y opiniones de clientes para responder rápidamente a las necesidades y preocupaciones de los clientes. | 2 |
+| 13     | * HU13 | Crear promociones |Como gerente, quiero poder crear promociones y ofertas especiales para atraer a más clientes y aumentar las ventas.  | 5 |
+| 14     | HU14 | Registro de proveedores |Como gerente, quiero mantener un registro de los proveedores para gestionar eficientemente las relaciones comerciales y los suministros.  | 5 |
+| 15     | * HU15 | Seguimiento del cliente |Como gerente, quiero poder realizar seguimiento de la satisfacción del cliente para identificar áreas de mejora y garantizar una experiencia de calidad. | 5 |
+| 16     | HU16 | Notificaciones de cambio de agenda |Como empleado, quiero recibir notificaciones de cambios en mi agenda laboral para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia. | 8 |
+| 17     | HU17 | Estado de las habitaciones |Como empleado, quiero poder registrar el estado de limpieza de las habitaciones para contribuir al mantenimiento de altos estándares de limpieza y satisfacer las expectativas de los clientes. | 8 |
+| 18     | HU18 | Información de procedimientos según el caso |Como empleado, quiero poder acceder a manuales de procedimientos para tener recursos de referencia que me ayuden a realizar mi trabajo de manera efectiva.  | 5 |
+| 19     | HU19 | Registrar el estado de suministros |Como empleado, quiero poder registrar el estado de los suministros para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento. | 2 |
+| 20     | HU20 | Reportar problemas |Como empleado, quiero poder reportar incidencias o problemas para informar sobre cualquier problema o situación que afecte mi trabajo o la calidad del servicio.   | 5 |
+| 21     | * HU21 | Administrar facturas de servicios |Como gerente, quiero poder generar facturas para los servicios adicionales para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes. | 5 |
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines.
