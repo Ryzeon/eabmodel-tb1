@@ -954,15 +954,18 @@ Link del tablero: https://github.com/orgs/upc-pre-20241-si729-wx55-eabmodel/proj
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
-![Sprint review development Evidence](image.jpg)
+<table>
+</table>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
-![Sprint review Testing suite Evidence](image.jpg)
+Al ser un landing page, no se requiere de una suite de pruebas para su desarrollo.
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
-![Sprint review Execution Evidence](image.jpg)
+En esta entrega el equipo de eabmodel logro implementar el landing page, el cual se encuentra en la siguiente URL:
+https://inncontrol.netlify.app/
+{fgotos}
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
