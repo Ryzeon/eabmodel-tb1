@@ -955,6 +955,69 @@ Link del tablero: https://github.com/orgs/upc-pre-20241-si729-wx55-eabmodel/proj
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
 <table>
+    <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Committed on (Date)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td rowspan="1000">landing-page</td>
+    </tr>
+    <tr>
+        <td rowspan="4">develop</td>
+    </tr>
+    <tr>
+        <td> 7afbf0cf4a5aeaea47261be421cce705a46963da</td>
+        <td> Initial commit</td>
+        <td></td>
+        <td> 10/04/2024</td>
+    </tr>
+    <tr>
+        <td> f4b14dd5e8cb4c7431f8377d1a79e22012afe9d9</td>
+        <td> feat: init tailwind framework.</td>
+        <td></td>
+        <td> 10/04/2024 </td>
+    </tr>
+    <tr>
+        <td> 6d54ebb4fdb66947d88017c4ba2d0dd49ed554cb </td>
+        <td> chore: removed unused files. </td>
+        <td></td>
+        <td> 11/04/2024 </td>
+    </tr>
+    <tr>
+        <td rowspan="5">feature/navbar</td>
+    </tr>
+    <tr>
+        <td> 09c36cffa1f500e66a4a76e3c9e9bd127ab95e8e </td>
+        <td> feat: added color to readme.md </td>
+        <td></td>
+        <td> 10/04/2024 </td>
+    </tr>
+    <tr>
+        <td> faba38772a3156daa586c9e51ced9f7b1a439aa4 </td>
+        <td> feat(navbar): added logo and banner to assets/img. </td>
+        <td></td>
+        <td> 10/04/2024 </td>
+    </tr>
+    <tr>
+        <td> 46cd4aa7f6270c2ae2cd6f7ec16fb836f64a57ab </td>
+        <td> feat(navbar): init logo. </td>
+        <td></td>
+        <td> 10/04/2024 </td>
+    </tr>
+    <tr>
+        <td> faba38772a3156daa586c9e51ced9f7b1a439aa4 </td>
+        <td> feat(navbar): added logo and banner to assets/img. </td>
+        <td></td>
+        <td> 10/04/2024 </td>
+    </tr>
+    </tbody>
 </table>
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
