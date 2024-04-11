@@ -860,17 +860,20 @@ En esta sección, nos enfocaremos en desplegar nuestra Landing Page utilizando e
 alcanzar este objetivo, detallaremos los pasos necesarios para lograrlo.
 
 1. Debemos tener el repositorio de la Landing Page en GitHub.
-![img.png](assets/software-deployment/github-repo.png)
+   ![img.png](assets/software-deployment/github-repo.png)
 2. Debemos iniciar session en https://www.netlify.com/ o crear una cuenta si no la tenemos.
-![img.png](assets/software-deployment/netlify-login.png)
-3. Una vez dentro de la plataforma, seleccionamos la opción 'Sites" y en 'Add new site' seleccionamos 'Import an existing project'.
-![img.png](assets/software-deployment/netlify-add-site.png)
+   ![img.png](assets/software-deployment/netlify-login.png)
+3. Una vez dentro de la plataforma, seleccionamos la opción 'Sites" y en 'Add new site' seleccionamos 'Import an
+   existing project'.
+   ![img.png](assets/software-deployment/netlify-add-site.png)
 4. Seleccionamos Deploy with Github y autorizamos a Netlify a acceder a nuestros repositorios.
-![img.png](assets/software-deployment/netlify-deploy-from-github.png)
+   ![img.png](assets/software-deployment/netlify-deploy-from-github.png)
 5. Seleccionamos la cuenta u organización y buscamos el repositorio de la Landing Page.
-![img.png](assets/software-deployment/netlify-select-repository.png)
-6. Por ultimo asinamos el nombre del proyecto y seleccionamos el branch, en este caso 'develop' y damos click en 'Deploy site'.
-![img.png](assets/software-deployment/netlify-deploy-site.png)
+   ![img.png](assets/software-deployment/netlify-select-repository.png)
+6. Por ultimo asinamos el nombre del proyecto y seleccionamos el branch, en este caso 'develop' y damos click en 'Deploy
+   site'.
+   ![img.png](assets/software-deployment/netlify-deploy-site.png)
+
 ## 5.2. Landing Page, Services & Applications Implementation.
 
 ## 5.2.1 Spring 1
@@ -944,6 +947,7 @@ del landing page.
 </table>
 
 #### 5.2.1.2 Sprint Backlog 1.
+
 En esta secciones se muestra las tareas que se realizaron en el sprint 1, se adjunta la captura del tablero y el link.
 Link del tablero: https://github.com/orgs/upc-pre-20241-si729-wx55-eabmodel/projects/4
 ![img.png](assets/software-deployment/spring-backlog-1.png)
@@ -969,7 +973,11 @@ Link del tablero: https://github.com/orgs/upc-pre-20241-si729-wx55-eabmodel/proj
 ![Sprint review Software Deployment Evidence](image.jpg)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
-
+El equipo desarrollo la landing page usando ramas para cada 'feature' el uso de ramas permitió que cada miembro del
+equipo trabajara en una parte del proyecto sin interferir en el trabajo de los demás. Al terminar cada 'feature' se
+comprueba que no tenga conflictos con la rama principal y se procede a hacer un 'pull request' para que se integre con
+la rama principal.
+A continuación, se muestra una imagen de la colaboración del equipo en GitHub.
 ![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
 
 ## 5.3. Validation Interviews.
