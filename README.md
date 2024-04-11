@@ -4,7 +4,7 @@
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
     <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"><br>
     <strong>Ingeniería de Software</strong><br>
-    <strong>Open Source - WX55</strong><br>
+    <strong>OpenSource - WX55</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
     <br>INFORME
 </p>
@@ -44,9 +44,7 @@
 
 # Project Report Collaboration Insights
 
-[URL del repositorio](https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project)  
-
-
+[URL del repositorio](https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project)
 
 
 
@@ -217,7 +215,6 @@ La industria hotelera esta actualizandose implementando la digitalizacion y redu
 En 2024 el equpo de BIMnD comparte como la digitalizacion ayuda a la sostenibilidad de los establecimientos hoteleros y como por medio de distintas tecnologias se llega a aplicar funcionalidades futuristas como vienen siendo tours digitales, o gestionamiento en 3D. Estas funcionalidades se llegan a implementar en algunos lugares de europa y aumentan considerablemente la eficiencia de sus establecimientos.
 
 
-Investigacion (5w, 2h tbn)
 
 | ¿What? - ¿Cuál es el problema?           | El proyecto EABMODEL con su plataforma InnControl busca mejorar la problematica la cual trata de una mala gestion dentro del sector hotelero, el cual genera una mala coordinacion y por lo tanto afecta a la experiencia del usuario.                                                                                                                           |
 |------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -227,7 +224,6 @@ Investigacion (5w, 2h tbn)
 | ¿Why? - ¿Por qué se origina el problema? | La falta de coordinacion, la desconexión en la atencion hotelera y los procesos manuales motivan la busqueda de una solucion. InnControl aborda estas problemáticas para mejorar la calidad de atención, proporcionar una operativa mas eficiente y preparar el sector para una atencion mas conectada.                                                          |
 | ¿How? - ¿Como se origina el problema?    | InnControl implementa tecnologia para digitalizar la gestion de inventario, espacios, tiempos y servicios usados en los procesos. La plataforma facilita la colaboracion entre proovedores del negocio, asi como sus empleados y gerentes.                                                                                                                       |
 | ¿How much?                               | El proyecto busca maximizar el valor proporcionado en terminos de eficiencia operativa y mejora en la atencion hotelera. En el ambito economico es crucial reducir costos asociados a procesos ineficientes y errores en la gestion.                                                                                                                             |
-
 
 
 5 w's 2 h
@@ -339,7 +335,7 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 
 ## 1.3. Segmentos objetivo.
 
-|                           | Segmento 2                                                                                                                                   | Segmento 1                                                                                                                                                                                                  |
+|                           | Segmento 1                                                                                                                                   | Segmento 2                                                                                                                                                                                                  |
 |---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Variables                 | Empleado negocio                                                                                                                             | Gestor del negocio                                                                                                                                                                                          |
 | Geográfica                | Ubicación cercana al establecimiento hotelero o de hospedaje                                                                                 | Preferiblemente ubicado en la misma región donde se encuentra el negocio                                                                                                                                    |
@@ -393,12 +389,13 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 3. ¿A qué se dedica?
 4. ¿Que browser y dispositivos usa?
 
-**Entrevistas usuario segmento 1**
+**Entrevistas usuario segmento 2**
 
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
+1. Que opiniones tiene respecto a la digitalizacion de los sitemas de gestion en hoteles o modelos de negocio parecidos?
+2. ¿Como le hace saber a los empleados que tareas deben hacer?
+3. ¿Como manejan el inventario de productos que utilizan tanto para limpieza como para los cuartos?
+4. ¿En su opinion cree que se mantiene una comunicacion constante y efectiva entre los gerentes/supervizores y los empleados?
+5. ¿Que frustraciones y objetivos/motivaciones tiene en su area laboral?
 
 **Entrevistas usuario segmento 2**
 
@@ -411,25 +408,41 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 ### 2.2.2. Registro de entrevistas.
 
 **Segmento 1**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
+Nombre: Elisa Rivero Del Rio
+Edad: 55 años
+Ocupación: Gerencia de Hoteles  
+![Imagen de entrevistaS1](/assets/)  
 {texto mucho}
 
 **Segmento 2**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+Nombre: Arian Godinez Vargas
+Edad: 20 años
+Ocupación: Empleado de Hotel   
+![Imagen de entrevistaS2.1](/assets/interviewsimages/EntrevistaAS2.png)
+[URL de la entrevista S2.1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=wsbDs5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+En la entrevista Arian nos relata como es un dia laboral para el como staff en un Hotel el cual prefiere que mantengamos anonimo, nos habla un poco preocupado pero con la suficiente confianza para comentarnos de los inconvenientes que sufre el, junto a sus colegas respecto a los sistemas de comunicacion entre los empelados y supervizores y de como deben usar herramientas obsoletas para intentar manejarse. 
+
+Nombre: Esau Carretero Benites
+Edad: 20 años
+Ocupación: Empleado de Hotel - Part time   
+![Imagen de entrevistaS2.2](/assets/interviewsimages/EntrevistaES2.png) 
+[URL de la entrevista S2.2](https://upcedupe-my.sharepoint.com/personal/u202211894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211894_upc_edu_pe%2FDocuments%2FOpenSource%2FEntrevistaES2%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+En la entrevista Esau nos menciona como practicante de un hotel, los metodos que se usan para la comunicacion y gestion de empleados donde se se usa Whatsapp como herramienta para entregar tareas y comunicarse con el gerente. Mas tambien nos menciona como este sistema puede generar problemas especialmente cuando estas estructuras son grandes y tienen una alta cantidad de empleados.
+
+Nombre: Nicola Estefan Romero
+Edad: 22 años
+Ocupación: Empleado de Hotel 
+![Imagen de entrevistaS2.3](/assets/interviewsimages/EntrevistaArS1.png) 
+[URL de la entrevistaS2.3](https://upcedupe-my.sharepoint.com/personal/u202211894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211894_upc_edu_pe%2FDocuments%2FOpenSource%2FEntrevistaArS1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
+En esta ocacion Nicola cuenta como 
+
 
 ### 2.2.3. Análisis de entrevistas.
 
 **Segmento 1:**
-{texto}
+{texto}  
 **Segmento 2:**
-{texto}
+En el segmento 2 notamos una tendencia en el aspecto de herramientas para la correcta comunicacion con el gerente y la notificacion de tareas completadas
 
 ## 2.3. Needfinding.
 
@@ -439,15 +452,17 @@ Ocupación: _____
 <br/> <img src="https://i.imgur.com/krhyFim.png" style="width:60%"> 
 
 
+
+
 **Segmento 2:**
 <br/> <img src="https://i.imgur.com/qQcCWVy.png" style="width:60%"> 
+
 
 ### 2.3.2. User Task Matrix.
 
 | ‎   | ‎  | Segmento 1  | Gerente | Segmento 2  | empleado |
 |------|---------|-------------|--------------|-------------|------------|
 | ID   | Titulo  | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X | {Texto} | Alta        | Alta         | Media       | Baja       |
 | HU01 | Actualizar las habitaciones disponibles |Alta | Media | Alta | Alta |
 | HU02 | Creación de tareas para empleados | Alta | Alta | Alta | Media |
 | HU03 | Notificaciones de inventario | Alta | Media | Alta | Media |
@@ -475,14 +490,15 @@ Ocupación: _____
 Why would they trust us?
 
 - Optimizacion de costos e incremento de eficiencia.
-- Interfaz facil e intuitiva.
+- Accesible.
 - Escalabilidad a estructuras grandes.
 
 **Onboarding and first use:**
 How can they feel successful?
 
+
 - Facil de entender
-- Simple de manejar
+- Optimizacion de tiempo
 - Conexion con el staff mas rapida.
 
 **Sharing:**
@@ -495,10 +511,11 @@ Why would they invite others?
 ### 2.3.4. Empathy Mapping.
 
 **Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
 
+![Empathy Map S1](/assets/empathymaps/Empathy-map-Manager.png)
 **Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+
+![Empathy Map S2](/assets/empathymaps/Empathy-map-Empleado.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
@@ -507,15 +524,16 @@ Escenario: Supervizor quiere revisar el estado de los cuartos y darles sus tarea
 
 As Is:
 
+
 | Fases     |       |       |        |    |
 |----------|----------------|------|---------|-----|
 | Doing          | Verificando el estado actual de los cuartos | Revisando el inventario de elementos de limpieza y toallas | Asignando tareas al personal de limpieza | Comunicándose con el personal para coordinar las tareas |
 | Thinking       | Reflexionando sobre la disponibilidad de los cuartos para nuevos clientes | Evaluando la cantidad de elementos de limpieza y toallas disponibles | Considerando la carga de trabajo del personal de limpieza | Pensando en cómo mejorar la comunicación con el personal |
 | Feeling        | Preocupado por la disponibilidad de cuartos para nuevos clientes | Preocupado por la cantidad de elementos de limpieza y toallas disponibles | Ansioso por asignar tareas de manera efectiva al personal | Frustrado por la falta de una comunicación eficiente con el personal |
 
-
 **Segmento 2**  
 Escenario: Empleado realiza sus actividades y desea hacerle saber al supervizor que ya termino o si este le puede dar mas tareas.
+
 
 As Is:
 
@@ -524,7 +542,6 @@ As Is:
 | Doing          | Realizando tareas de limpieza asignadas | Notificando al supervisor cuando terminan las tareas de limpieza | Verificando el stock de elementos de limpieza y toallas | Comunicándose con el supervisor sobre cualquier problema |
 | Thinking       | Reflexionando sobre la eficacia de las tareas de limpieza | Evaluando la necesidad de reabastecer elementos de limpieza y toallas | Considerando cómo mejorar la comunicación con el supervisor | Pensando en soluciones para mejorar el proceso de limpieza |
 | Feeling        | Comprometido con la calidad de las tareas de limpieza realizadas | Satisfecho al completar las tareas de limpieza asignadas | Preocupado por la disponibilidad de elementos de limpieza y toallas | Interesado en mejorar la comunicación y colaboración con el supervisor |
-
 
 ## 2.4. Ubiquitous Language.
 
@@ -908,9 +925,9 @@ https://www.infobae.com/peru/2023/10/29/asociacion-de-hoteles-y-restaurantes-ale
 
 # Anexos
 
-datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
+datos, gráficos, imágenes, esquemas, mapas de otros autores
 
-![Imagen de algo no nuestro lol](image.jpg)
+
 
 
 
