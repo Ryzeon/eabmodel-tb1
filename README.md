@@ -1,40 +1,52 @@
-<hr>
-
 # <center>COURSE PROJECT</center>
 
 <p align="center">
     <strong>Universidad Peruana de Ciencias Aplicadas</strong><br>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"></img><br>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png"><br>
     <strong>Ingeniería de Software</strong><br>
-    <strong>Aplicaciones Web - WX55</strong><br>
+    <strong>OpenSource - WX55</strong><br>
     <strong>Profesor: Angel Augusto Velasquez Nuñez </strong><br>
     <br>INFORME
 </p>
 
+
 <center>
 
 #### Startup: **EABMODEL**
+
 #### Product: **INNCONTROL**
 
 </center>
 
 # Team  Members:
-<center>
 
-| Member | Code |
-|-|-|
-| Alex Ramon Alberto Avila Asto   | u20221a322  |
-</center>
+<div align="center">
+
+|             Member             |    Code    |
+|:------------------------------:|:----------:|
+| Alex Ramon Alberto Avila Asto  | u20221a322 |
+|   Sebastian Ramirez Hoffmann   |  u2011894  |
+| Piero Fernando Periche Quiroga | u202210192 |
+|  Manuel Sebastian Peña Rivera  | U202210138 |
+|    Josue Hidalgo Bustamante    | U20219880  |
+
+</div>
 
 # Registro de Versiones del Informe
+
+<div align="center">
 
 | Version | Fecha      | Autor   | Descripcion de Modificacion |
 |---------|------------|---------|-----------------------------|
 | 0.0     | 19/03/2024 | Grupo 1 | Se crea el documento        |
 
+</div>
+
 # Project Report Collaboration Insights
 
-[URL del repositorio](https://www.example.com)
+[URL del repositorio](https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project)
+
+
 
 (Imagenes de los commits cada entrega)
 
@@ -111,8 +123,8 @@
 [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)  
 [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)  
 [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)  
-[4.4.2. Web Applications Mock-ups](#442-web-applications-mock-ups)   
-[4.4.3. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
+[4.4.3. Web Applications Mock-ups](#442-web-applications-mock-ups)   
+[4.4.4. Web Applications User Flow Diagrams](#443-web-applications-user-flow-diagrams)
 
 [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
 
@@ -166,10 +178,10 @@
 
 # Student Outcome
 
-| Criterio Especifico                                                                                                                                  | Acciones Realizadas                                     | Conclusiones           |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|------------------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc..     | Su texto de conclusion |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. | Su texto de conclusion |
+| Criterio Especifico                                                                                                                                  | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Sebastian Ramirez Hoffmann:<br> *TB1:*  Participe en secciones del capitulo 1,2 y 4 <br> Manuel Sebastian Peña Rivera: <br> *TB1:*  Participe en secciones del capitulo 1,2, 3 y 4 que contienen entrevistas, empathy map, product backlog, impact map, user task matrix, general style guidelines, web applications desktop and mobile wireframes, web applications desktop and mobile mockups, user flow<br/> Alex Avila Asto: <br/> TB1: Participe en las secciones del capitulo 2 y 5                                                                                | SebastianRamirezHoffmann:<br> Con los conocimientos adquiridos y las experiencias vividas siento que el proceso que hacemos es escencial para que grandes proyectos puedan salir adelante. <br> Manuel Sebastian Peña Rivera:<br> Realizar la investigación necesaria para el proyecto permite conocer la realidad de los desafíos que presentan y como nuestro programa puede solucionar el problema es nuestro objetivo en mente  <br/> Alex Avila Asto: <br/> Al realizar el informe adquire informacion valiosa con la cual me di cuenta que el rubo hotelero presenta bastante problemas con respecto a la implentacion de la tecnologia. |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | Sebastian Ramirez Hoffmann:<br> *TB1:* Tengo un familiar en el rubro de hoteleria pero no tuvo la oportunidad de participar. no obstante me dio substancial informacion respecto a la gestion de proyectos.  <br> Manuel Sebastian Peña Rivera:<br>  No solo la investigación realizada, sino que la entrevista que realice me permitió conocer sobre las dificultades y experiencia laboral del gerente en el rubro de hospedaje. <br/>Alex Avila Asto:<br/>El rubo de mi familia es hotelero, lo cual me ayudo para poder realizar junto con mis compañero el informe. | SebastianRamirezHoffmann:<br> Con esta nueva informacion siento que la siguiente iteracion del proyecto sera mejor que la anterior. <br> Manuel Sebastian Peña Rivera:<br> Con la información reunida de la entrevista espero poder adaptar las necesidades al proyecto y que nuestro proyecto le sirva para mejorar la eficiencia de su trabajo <br/> Alex Avila Asto: Con esta informacion estoy convencido que nuestro proyecto tendra un buen impacto en el rubo hotelero.                                                                                                                                                                 |
 
 # Capítulo I: Introducción
 
@@ -177,49 +189,165 @@
 
 ### 1.1.1. Descripción de la Startup
 
-Texto del proyecto
+Nuestra startup "InnControl" es un servicio de gestion orientado a negocios en el rubro de hospedajes u hotelería el
+cual provee un seguimiento de inventario, empleados, espacios, tiempos y servicios utilizados en el proceso del
+servicio. Asimismo mantendrá igualmente un contacto tanto con los proveedores del negocio como sus mismos empleados y
+gerentes.
 
 #### 1.1.2. Perfiles de integrantes del equipo
 
-| Miembros del equipo                             | Codigo Estudiante | Carrera                | Conocimientos / Habilidades |
-|-------------------------------------------------|-------------------|------------------------|-----------------------------|
-| Compañero 1 	![Imagen del compañero](image.jpg) | U20...            | Ingenieria de software | C++, piton .etc             |
+| Miembros del equipo                                                                                                   | Codigo Estudiante | Carrera                | Conocimientos / Habilidades                                                              |
+|-----------------------------------------------------------------------------------------------------------------------|-------------------|------------------------|------------------------------------------------------------------------------------------|
+| Avila Asto, Alex Ramon Alberto <br/> <img src="https://i.imgur.com/BMyvWrA.jpeg" style="width:60%">                   | U20221a322        | Ingeniería de software | C++, Python, Kotlin, Dart, SQL, MongoDB, Java. Responsabilidad y trabajo en equipo.      |
+| Peña Rivera, Manuel Sebastian <br/><img src="https://i.imgur.com/6WyohUm.jpeg" style="width:60%">                     | U202210138        | Ingeniería de software | C++, Python, MongoDB, SQL, Assembler. Responsabilidad y Buena Comunicación               | 
+| Ramírez Hoffmann, Sebastián <br/> <img src="https://avatars.githubusercontent.com/u/129230632?v=4" style="width:60%"> | U20221894         | Ingeniería de software | C++, Python, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico |
+| Periche Quiroga, Piero <br/> <img src="https://avatars.githubusercontent.com/u/164218254?v=4" style="width:60%">      | U202210192        | Ingeniería de software | C++, SQL, Js. Responsabilidad y buen ambiente de equipo                                  |
+| Hidalgo Bustamante, Josue  <img src="https://i.imgur.com/zrpMQ7R.jpg" style="width:60%">                              | U20219880         | Ingeniería de software | C++, SQL,  MongoDB, Js, Reactjs, NodeJs,. Paciencia y Responsabilidad.                   |
 
 ## 1.2. Solution Profile
 
 ### 1.2.1 Antecedentes y problemática
 
-Investigacion (5w, 2h tbn)
+En el Peru se ha detectado una falta de inversion turistica menciona María Alejandra Gonzales(2023) donde podemos
+observar asimismo a Blanca Chavez Vocera de la asociacion de hoteles, restaurantes y afines la visible preocupacion de
+una falta de incentivos economicos debido a las crisis que hemos sufrido ultimamente. Al existir esta problematica la
+mejor opcion es demostrar las capacidades de adaptacion y efectividad de gestion por parte de los mismos hoteles y
+hostales en mejorar sus servicios reduciendo costos y aumentando la calidad.
+
+La industria hotelera esta actualizandose implementando la digitalizacion y reduciendo el tiempo en las operaciones de
+gestion. Segun Eva Lacalle (2023), "La tecnología ayuda a ofrecer un servicio fluido, proporciona mayor independencia a
+los huéspedes, automatiza tareas tediosas y brinda una mejor experiencia para todas las partes involucradas."
+adicionalmente menciona como los beneficios del uso tecnologico aumenta la competitividad en el mercado generando de
+esta manera un flujo constante de mejora.
+
+En 2024 el equpo de BIMnD comparte como la digitalizacion ayuda a la sostenibilidad de los establecimientos hoteleros y
+como por medio de distintas tecnologias se llega a aplicar funcionalidades futuristas como vienen siendo tours
+digitales, o gestionamiento en 3D. Estas funcionalidades se llegan a implementar en algunos lugares de europa y aumentan
+considerablemente la eficiencia de sus establecimientos.
+
+| ¿What? - ¿Cuál es el problema?           | El proyecto EABMODEL con su plataforma InnControl busca mejorar la problematica la cual trata de una mala gestion dentro del sector hotelero, el cual genera una mala coordinacion y por lo tanto afecta a la experiencia del usuario.                                                                                                                           |
+|------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ¿Who? - ¿Quienes son los beneficiarios?  | InnControl es un servicio de gestión orientado a negocios en el rubro de hospedaje u hotelería el cual provee un seguimiento de inventario, empleados, espacios, tiempos y servicios utilizados en los procesos. Asimismo mantendrá igualmente un contacto tanto con los proveedores del negocio como sus mismo empleados y gerentes.                            |
+| ¿Where? - ¿Donde se origina el problema? | La problemática se extiende a nivel global en entornos hoteleros, donde la falta de coordinacion o de gestion dentro de una empresa afecta a la eficiencia y a la experiencia del usuario. InnControl ofrece una solucion aplicable en cualquier ubicacion que cuente con servicios de hospedaje y hoteleria, mejorando la coordinacion y los procesos empleados |
+| ¿When? - ¿Cuando se origina el problema? | La necesidad de esta solucion surge en el contexto actual de la atencion en los hospedajes u hoteles, donde la urgencia de modernizar y organizar procesos es evidente. La ayuda y herramientas de InnControl es relevante, ya que ofrece mejoras inmediatas en la coordinacion y eficiencia de la atencion dentro del sector.                                   |
+| ¿Why? - ¿Por qué se origina el problema? | La falta de coordinacion, la desconexión en la atencion hotelera y los procesos manuales motivan la busqueda de una solucion. InnControl aborda estas problemáticas para mejorar la calidad de atención, proporcionar una operativa mas eficiente y preparar el sector para una atencion mas conectada.                                                          |
+| ¿How? - ¿Como se origina el problema?    | InnControl implementa tecnologia para digitalizar la gestion de inventario, espacios, tiempos y servicios usados en los procesos. La plataforma facilita la colaboracion entre proovedores del negocio, asi como sus empleados y gerentes.                                                                                                                       |
+| ¿How much?                               | El proyecto busca maximizar el valor proporcionado en terminos de eficiencia operativa y mejora en la atencion hotelera. En el ambito economico es crucial reducir costos asociados a procesos ineficientes y errores en la gestion.                                                                                                                             |
+
+5 w's 2 h
+
+Concientiza de la importancia de las ONG.
+
+Why (¿Porque se está haciendo?): Se hace esta aplicacion web con el objetivo de que los establecimientos de hoteleria o
+de hospedaje tengan una plataforma de gestion accesible, facil de utilizar y eficiente para realizar un conjunto de
+actividades tales como la gestion de inventario, tiempos de habitacion, horarios de limpieza y servicio y entre otros
+distintos procedimientos que normalmente se hacen de manera estatica, con nosotros esto pasa a ser mas dinamico y
+modificable segun las necesidades del usuario.
+
+When (¿Cuándo se usa?): Se usa cuando el usuario tenga la necesidad de gestionar distintos procesos de administracion de
+su negocio de hospedaje u hoteleria, en los tiempos donde hay un incremento en la clientela o cuando el negocio requiere
+hacer distintas cantidades de procesos de manera rapida.
+
+Where (¿Dónde se usa?): El uso esta diseñado para Perú inicialmente ya que ademas de poder realizar un seguimiento local
+del funcionamiento de la aplicacion web tambien se podra mejorar el estado actual de nuevos emprendimientos de hospedaje
+y hoteleria.
+
+Who (¿Quién lo usa?): Lo usan como administradores los gerentes o supervisores de los establecimientos ya que este
+servicio es una herramienta para ellos, si bien se pueden automatizar funciones como la notificacion para empleados, lo
+principal seria que los mismos supervizores hagan seguimiento de los procesos que se estan llevando al cabo en caso de
+que se tenga que hacer alguna operacion manual.
+
+How Much (¿Cuánto costaría?): La aplicacion web tendra sus funcionalidades core a forma de un pago inicial y luego
+mensual proporcional a la cantidad de habitaciones que tenga que gestionar el negocio, es decir entre mas cuartos se
+encuentren presentes el servicio tendra que almacenar mas procesos para cada habitacion, por esta razon se implementara
+un paquete para asi poder fomentar la accesibilidad a los nuevos emprendimientos. Los paquetes de suscripcion variaran
+de entre hostal, hotel, y sus respectivas tarifas por cantidad de habitaciones.
+
+How (¿Cómo se lleva al cabo?) La aplicacion web tendra su espacio workspace donde el gestor podra revisar los distintos
+procesos que se estan llevando al cabo, es decir diferentes recuadros mostrando estos procesos como por ejemplo, el
+siguiente envio programado de inventario, horarios de limpieza o checkout inminentes, habitaciones libres, en proceso de
+limpieza o ocupadas, habitaciones que esten solicitando algun servicio adicional (esto en caso el establecimiento lo
+ofrezca) entre otros. Las habitaciones tendran que ser registradas de manera semi automatica donde se tendran que
+especificar cuantos cuartos hay por piso y que servicio proporcionan, una vez se haga esto se generaran todos los
+cuartos con sus distintos numeros de habitacion, servicios y estado. Tambien existiran los demas cuadros en la
+aplicacion web donde se tendra que especificar los horarios donde se deban de hacer los registros de inventario y el
+suministro de estos junto con otros procesos adicionales como lavanderia, manutencion de plantas u alguna otra
+funcionalidad que desee agregar el gestor.
 
 ### 1.2.2 Lean UX Process.
 
-#### 1.2.2.1. Lean UX Problem Statements.
+#### 1.2.2.1. Lean UX Problem Statement.
 
-Texto
+Observamos que en la industria hotelera, muchos establecimientos enfrentan desafíos significativos en la gestión interna
+de sus operaciones. La falta de coordinación y eficiencia en la gestión del inventario, el personal, los espacios y los
+servicios afecta negativamente tanto la experiencia del usuario como la eficiencia operativa. Esta falta de coordinación
+puede llevar a errores en la asignación de recursos, retrasos en la atención al cliente y una experiencia general
+insatisfactoria para los huéspedes.
+
+Además, los gerentes de hoteles se enfrentan a la presión de mantener altos estándares de calidad y eficiencia, mientras
+lidian con procesos manuales y sistemas obsoletos que consumen tiempo y recursos. Esta falta de herramientas adecuadas
+para la gestión puede tener un impacto directo en la rentabilidad del negocio y en la satisfacción del cliente.
+
+Como resultado, nos enfrentamos al siguiente problema: ¿Cómo podemos proporcionar a los gerentes de hoteles una
+plataforma de gestión accesible y eficiente que les permita coordinar de manera efectiva el inventario, los empleados,
+los espacios y los servicios, para mejorar la experiencia del usuario y optimizar los procesos operativos?
 
 #### 1.2.2.2. Lean UX Assumptions.
 
-| Business Assumptions | User Assumptions |
-|----------------------|------------------|
-| 1. - 12.             | 1. - 6.          |
+| Business Assumptions                                                                                                                                                  | User Assumptions                                                                                                                                                                                                                                                                                                         |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 1. Creemos que nuestros clientes tiene la necesidad de mejorar su servicio y reducir sus costos por medio de una gestion optimizada.                                  | 1. Quien es el usuario? Los gestores de hoteles y hostales, y sus empleados.                                                                                                                                                                                                                                             |
+| 2.Estas necesidades se resolveran con un gestor de hoteleria y hostales.                                                                                              | 2. Donde encaja nuestro producto en sus vidas?                                                                                                                                                                                                                                                                           |
+| 3. Nuestros usuarios iniciales seran los mismos hostales y hoteles pequeños                                                                                           | 3. Que problema soluciona nuestro producto?                                                                                                                                                                                                                                                                              |
+| 4. El valor #1 que el cliente quiere de nuestro servicio es el control de su establecimiento.                                                                         | 4. Donde y cuando se usa nuestro producto? El producto se utiliza en contextos donde se requiera optimizar el sistema de gestion de un hostal u hotel, se puede usar a cualquier hora aunque es preferible que se use cuando se esta en un horario de atencion para hacerle un seguimiento a los estados de los cuartos. |
+| 5. El usuario tambien tendra como beneficios el monitoreo en tiempo real del estado de sus locales.                                                                   | 5. Que caracteristicas son importantes? Las caracteristicas mas importantes en este proyecto seran la supervicion de cuartos y sus cambios de estado, la asignacion de personal a sus respectivas tareas, el contacto inmediato entre empleados y supervisores y finalmente el registro y reabastecimiento de estos      |
+| 6. Conseguiremos a nuestros clientes de las campañas de marketing digital                                                                                             | 6. Nuestro Producto debe de ser facil e intuitivo de usar y debe de ser agradable a la vista.                                                                                                                                                                                                                            |
+| 7. Haremos dinero por medio de los pagos que recibiremos por usar nuestro software                                                                                    |                                                                                                                                                                                                                                                                                                                          |
+| 8. Nuestro principal competido en el mercado seran otros softwares de otros paises o más avanzados y populares.                                                       |                                                                                                                                                                                                                                                                                                                          |
+| 9. Lograremos vencerlos por medio de nuestra interfaz amigable, funcionalidades originales y un mejor sistema de gestion el cual facilitara la expriencia de usuario. |                                                                                                                                                                                                                                                                                                                          |
+| 10. Nuestro mayor riesgo de producto es la falta de interes o inversion por parte del cliente.                                                                        |                                                                                                                                                                                                                                                                                                                          |
+| 11. Se resolvera este riesgo haciendo que nuestro servicio funcione de manera impecable y haciendo campañas de marketing digital efectivas y honestas.                |                                                                                                                                                                                                                                                                                                                          |
+| 12. el assumption que nos puede generar problemas en caso sea incorrecto es la falta de necesidad por parte del segmento objetivo                                     |                                                                                                                                                                                                                                                                                                                          |
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-Texto
+Creemos que al proporcionar una plataforma de gestión hotelera accesible y eficiente, los gerentes podrán coordinar
+mejor sus operaciones, lo que resultará en una experiencia mejorada para los huéspedes y una optimización de los
+procesos internos.
+
+Sabremos que hemos tenido éxito cuando observemos un aumento en la adopción de la plataforma por parte de los gerentes
+de hoteles y una mayor finalización de tareas dentro de la plataforma con resultados positivos en la satisfacción del
+cliente.
+
+Creemos que la aplicación permitirá a los gerentes comprender mejor los aspectos críticos de la gestión hotelera y tomar
+decisiones informadas para mejorar la eficiencia operativa.
+
+Sabremos que hemos tenido éxito cuando veamos una mejora en la satisfacción del cliente, medida a través de encuestas y
+comentarios positivos, y una reducción en los tiempos de respuesta y errores operativos.
+
+Creemos que al ofrecer herramientas intuitivas y efectivas, los gerentes podrán dedicar más tiempo a actividades
+estratégicas y de mejora continua, lo que resultará en un aumento en la rentabilidad y competitividad del hotel.
+
+Sabremos que hemos tenido éxito cuando observemos un aumento en la rentabilidad del hotel, una mejora en las
+calificaciones de satisfacción del cliente y una optimización de los procesos internos de gestión.
 
 #### 1.2.2.4. Lean UX Canvas.
 
-(imagen con texto)
+| -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | -                                                                                                                                                                                                                                             | -                                                                                                                                                                                                                                                                                                                                                        |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Business Problem <br>¿Qué problema has identificado que necesitas resolver? E"La tecnología ayuda a ofrecer un servicio fluido, proporciona mayor independencia a los huéspedes, automatiza tareas tediosas y brinda una mejor experiencia para todas las partes involucradas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Solution ideas <br>Gestor de hoteleria y hostales orientado a realizar la mayoria de prorcesos de gestion como estado del cuarto, entrega de tareas y revision de inventario.                                                                 | Business Outcomes <br>(Cambios en el comportamiento del usuario) <br>¿Qué cambios en el comportamiento del usuario indicarán que has solucionado un problema real de manera que añada valor a tus clientes? <br> El comportamiento del usuario habrá cambiado cuando este sepa manejarse mejor en situaciones de alta gestion gracias a nuestro producto |
+| User & Customers <br>¿En qué tipo de usuarios y clientes tienes que centrarte primero? <br>Usuario: <br>Negocios de hoteleria que requieran de un sistema de organizacion y gestion. <br>Hoteles y Hostales que requieren de mejorar su servicio. <br>Cliente: Empleados de dichos hoteles y hostales que buscan lograr su trabajo efectivamente.  <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |  UX Canvas                                                                                                                                                                                                                                    | User benefits <br>¿Cuáles son los objetivos que los usuarios intentan obtener? <br> \- Tener una comunicacion entre empleado y gestor mejorando la logistica <br> ¿Qué les motiva a buscar tu solución? <br> \- Los usuarios están motivados a buscar esta solución debido a la accesibilidad e innovacion que ofrece.                                   |
+| Hyphotheses:<br> Creemos que al proporcionar una plataforma de gestión hotelera accesible y eficiente, los gerentes podrán coordinar mejor sus operaciones, lo que resultará en una experiencia mejorada para los huéspedes y una optimización de los procesos internos.<br><br>Sabremos que hemos tenido éxito cuando observemos un aumento en la adopción de la plataforma por parte de los gerentes de hoteles y una mayor finalización de tareas dentro de la plataforma con resultados positivos en la satisfacción del cliente.<br><br>Creemos que la aplicación permitirá a los gerentes comprender mejor los aspectos críticos de la gestión hotelera y tomardecisiones informadas para mejorar la eficiencia operativa.<br><br>Sabremos que hemos tenido éxito cuando veamos una mejora en la satisfacción del cliente, medida a través de encuestas y comentarios positivos, y una reducción en los tiempos de respuesta y errores operativos.<br><br>Creemos que al ofrecer herramientas intuitivas y efectivas, los gerentes podrán dedicar más tiempo a actividades estratégicas y de mejora continua, lo que resultará en un aumento en la rentabilidad y competitividad del hotel. <br><br>Sabremos que hemos tenido éxito cuando observemos un aumento en la rentabilidad del hotel, una mejora en las calificaciones de satisfacción del cliente y una optimización de los procesos internos de gestión. | ¿Qué es la cosa más importante que nosotros necesitamos aprender primero? <br> Lo principal que necesitamos aprender es conectar la base de datos con la pagina web y adicionalmente un repaso en lo que viene siendo la gestión del proyecto | <br> ¿Cuál es la mínima cantidad de trabajo que nosotros necesitamos hacer para aprender la siguiente cosa más importante? <br> Asistir a las clases y solicitar que se nos revise los avances del proyecto para poder hacer un seguimiento saludable del proyecto                                                                                       |
 
 ## 1.3. Segmentos objetivo.
 
-|                           | Segmento 1 | Segmento 2 |
-|---------------------------|------------|------------|
-| Variables                 |            |            |
-| Geográfica                |            |            |
-| Demográfica               |            |            |
-| Psicológica               |            |            |
-| Función de comportamiento |            |            |
+|                           | Segmento 1                                                                                                                                   | Segmento 2                                                                                                                                                                                                  |
+|---------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Variables                 | Empleado negocio                                                                                                                             | Gestor del negocio                                                                                                                                                                                          |
+| Geográfica                | Ubicación cercana al establecimiento hotelero o de hospedaje                                                                                 | Preferiblemente ubicado en la misma región donde se encuentra el negocio                                                                                                                                    |
+| Demográfica               | Diversidad en edad y género                                                                                                                  | Edad adulta, posiblemente con formación universitaria en áreas relacionadas con administración o gestión                                                                                                    |
+| Psicológica               | Actitud hacia la adopción de nuevas tecnologías, motivación para mejorar la eficiencia en el trabajo                                         | Orientado hacia la eficiencia y mejora continua, interés en adoptar soluciones tecnológicas para optimizar la operación del negocio                                                                         |
+| Función de comportamiento | Necesidad de herramientas que faciliten la realización de tareas diarias, interés en optimizar procesos para mejorar la calidad del servicio | Necesidad de herramientas que le permitan supervisar y gestionar eficientemente todas las áreas del negocio, prioriza la mejora de la experiencia del cliente y la optimización de los recursos disponibles |
 
 ---
 
@@ -227,30 +355,30 @@ Texto
 
 ## 2.1. Competidores.
 
-### 2.1.1. Análisis competitivo.
+## 2.1.1. Análisis Competitivo
 
-| Competitive Analysis Landscape        |    |
-|---------------------------------------|----|
-| ¿Por qué llevar a cabo este análisis? | -- |
+**Competitive Analysis Landscape**
 
-|                     |                                                       | (Nosotros)                                                                                                                     | Competidor                                                                  | Comptdor                                             |
-|---------------------|-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------|------------------------------------------------------|
-| PERFIL              | Overview                                              | lorem                                                                                                                          | ipsum                                                                       | lorem                                                |
-|                     | Ventaja competitiva ¿Qué valor ofrece a los clientes? |  ipsu                                                                                                                          | impuz                                                                       |
-|                     | Mercado Objetivo                                      | Jeda                                                                                                                           | asa                                                                         | asa2                                                 |
-| Perfil de marketing | Estrategia de Marketing                               | Redes Sociales                                                                                                                 | Redes Sociales                                                              | Televisión, Redes Sociales                           |
-| Perfil del producto | Productos y servicios                                 | Elementos Gráficos Interactivos Enseñanza de Matemáticas Lúdica y Autodidacta Educación matemática interactiva Ámbito Freemium | Educación matemática interactiva Mas de 100 cursos en 28 idiomas diferentes | Educación general interactiva Contratos con Movistar |
-|                     | Precios y costos                                      | Freemium (Cuenta Premium permite personalizar los juegos) Gratis                                                               | Gratuito                                                                    | Gratuito                                             |
-|                     | Canales de distribución (Web y/o Móvil)               | Web y Móvil Web                                                                                                                | Móvil Web                                                                   | Web y móvil Web                                      |
+| ¿Por qué llevar a cabo este análisis? | Nosotros | Cloudbeds | SiteMinder |
+|---------------------------------------|----------|-----------|------------|
+| **Overview**                          | Nuestra startup está enfocada en desarrollar una plataforma integral para la gestión eficiente de negocios relacionados con la administración de habitaciones, con un enfoque en la industria hotelera. | Cloudbeds ofrece una solución de gestión hotelera basada en la nube que incluye herramientas para la administración de propiedades, reservas y distribución. | SiteMinder proporciona una plataforma de distribución hotelera y una suite de herramientas de gestión que incluyen gestión de tarifas, disponibilidad de habitaciones y canal de reservas en línea. |
+| **Ventaja Competitiva**               | Nuestra plataforma ofrece una solución integral que abarca desde la gestión de habitaciones hasta la comunicación interna y la generación de informes de desempeño del personal. | Cloudbeds se destaca por su interfaz fácil de usar y su capacidad para integrarse con una amplia gama de sistemas y servicios de terceros. | SiteMinder se enfoca en maximizar la visibilidad en línea y la distribución de habitaciones a través de una amplia red de canales de reserva. |
+| **Mercado Objetivo**                  | Nos dirigimos a hoteles independientes y pequeñas cadenas hoteleras que buscan mejorar su eficiencia operativa y experiencia del cliente. | Cloudbeds se enfoca en hoteles boutique y propiedades independientes que buscan una solución completa de gestión hotelera en la nube. | SiteMinder atiende a hoteles de todos los tamaños, desde pequeños establecimientos independientes hasta grandes cadenas hoteleras. |
+| **Perfil de Marketing**               | Nuestra estrategia de marketing se centra en la promoción de nuestra plataforma a través de redes sociales y asociaciones con organizaciones de la industria hotelera. | Cloudbeds utiliza estrategias de marketing digital y participa en eventos de la industria para promover su marca y sus soluciones. | SiteMinder utiliza una combinación de marketing en línea y fuera de línea, incluidas campañas en redes sociales y publicidad en eventos de la industria. |
+| **Perfil del Producto**               | Ofrecemos una variedad de herramientas y servicios, desde la gestión de habitaciones hasta la generación de informes de desempeño del personal, todo dentro de una plataforma fácil de usar y personalizable. | Cloudbeds ofrece funcionalidades como gestión de reservas, administración de canales de distribución y herramientas de informes en una interfaz intuitiva. | SiteMinder proporciona herramientas para gestionar tarifas, disponibilidad de habitaciones y reservas en línea, junto con análisis y generación de informes. |
+| **Precios
 
-### 2.1.2. Estrategias y tácticas frente a competidores.
 
-| Competidores -> |               | Nosotros | Competidor2 | Competidor3 |
-|-----------------|---------------|----------|-------------|-------------|
-| Análisis SWOT   | Fortalezas    | lorem    | Lorem       | lorem       |
-|                 | Debilidades   | lorem    | lorem       | lorem       | lorem | 
-|                 | Oportunidades | lorem    | lorem       | lorem       | lorem | 
-|                 | Amenazas      | lorem    | lorem       | lorem       | lorem |
+## 2.1.2. Estrategias y Tácticas Frente a Competidores
+
+
+
+**Análisis SWOT** | Nosotros | Cloudbeds | SiteMinder
+--- | --- | --- | ---
+**Fortalezas** | Nuestra plataforma ofrece una solución integral y fácil de usar para la gestión de habitaciones y la comunicación interna. Además, nos destacamos por nuestra flexibilidad de precios y personalización de características. | Cloudbeds tiene una interfaz intuitiva y se integra fácilmente con otros sistemas y servicios de terceros, lo que la convierte en una solución atractiva para hoteles independientes. | SiteMinder cuenta con una amplia red de distribución y visibilidad en línea, lo que ayuda a aumentar las reservas y la ocupación de habitaciones para los hoteles.
+**Debilidades** | Como una startup emergente, podemos enfrentar desafíos en términos de reconocimiento de marca y alcance de mercado en comparación con competidores establecidos como Cloudbeds y SiteMinder. | Cloudbeds puede tener tarifas de suscripción más altas en comparación con otras soluciones, lo que puede limitar su atractivo para hoteles con presupuestos ajustados. | SiteMinder puede enfrentar desafíos en la retención de clientes debido a la competencia en el mercado de distribución hotelera en línea.
+**Oportunidades** | Existe un mercado creciente de hoteles independientes y pequeñas cadenas hoteleras que buscan soluciones integrales y asequibles para mejorar su eficiencia operativa. | Cloudbeds puede expandir su alcance a través de asociaciones estratégicas con proveedores de servicios turísticos y organizaciones de la industria. | SiteMinder puede explorar nuevas oportunidades de crecimiento mediante la expansión a mercados emergentes y el desarrollo de características innovadoras para sus clientes.
+**Amenazas** | La competencia en el mercado de gestión hotelera puede intensificarse, lo que podría dificultar la adquisición de clientes y la retención en el futuro. Además, los cambios en las preferencias del consumidor y las regulaciones gubernamentales pueden afectar la demanda de servicios hoteleros. | Cloudbeds puede enfrentar amenazas de nuevos competidores que ingresan al mercado con soluciones similares pero más económicas. Además, los cambios en la tecnología y la regulación pueden afectar la demanda y la rentabilidad de sus servicios. | SiteMinder puede enfrentar amenazas de la consolidación en la industria hotelera y la competencia de grandes OTAs (agencias de viajes en línea) que ofrecen servicios similares de distribución de habitaciones. Además, los cambios en los algoritmos de búsqueda en línea pueden afectar la visibilidad de los hoteles que utilizan su plataforma.
 
 ## 2.2. Entrevistas.
 
@@ -261,114 +389,207 @@ Texto
 1. ¿Cuál es su nombre?
 2. ¿Qué edad tiene?
 3. ¿A qué se dedica?
-4. ¿[Opinion de idea de propuesta]?
+4. ¿Que browser y dispositivos usa?
+
+**Entrevistas usuario segmento 1**
+
+1. Que opiniones tiene respecto a la digitalizacion de los sitemas de gestion en hoteles o modelos de negocio parecidos?
+2. ¿Como le hace saber a los empleados que tareas deben hacer?
+3. ¿Como manejan el inventario de productos que utilizan tanto para limpieza como para los cuartos?
+4. ¿En su opinion cree que se mantiene una comunicacion constante y efectiva entre los gerentes/supervisores y los empleados?
+5. ¿Que frustraciones y objetivos/motivaciones tiene en su area laboral?
 
 **Entrevistas usuario segmento 2**
 
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
-
-**Entrevistas usuario segmento 2**
-
-1. ¿Lorem?
-2. ¿Lorem?
-3. ¿Lorem?
-4. ¿Lorem?
+1. ¿Que opiniones tiene del area laboral en el entorno de Hoteleria/Hostales?
+2. ¿Como consigues la informacion de que tareas debes de realizar?
+3. ¿Como notificas a tu supervisor de alguna falta de inventario?
+4. ¿Mantienes una comunicacion efectiva con el gerente/supervizor en horas laborales?
+5. ¿Que frustraciones y objetivos tienes en tu area laboral?
 
 ### 2.2.2. Registro de entrevistas.
 
 **Segmento 1**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+Nombre: Elisa Rivero Del Rio
+<br>
+Edad: 55 años
+<br>
+Ocupación: Gerencia de Hoteles
+<br>
+![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaS2P.png)  
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=wsbDs5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+Elisa nos comenta como en su area laboral de gestion ya existen softwares de gestion pero estos estan orientados a la contabilidad, menciona igualmente que un software orientado al manejo de tareas para el dia seria util para la gerencia de estos modelos de negocios.
+
+Nombre: Catalina Paredes
+<br>
+Edad: 25 años
+<br>
+Ocupación: Gerencia de Hoteles
+<br>
+![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaCatalina.png)  
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/Ef4Ze3ZRF69HvFOvKfLItfkBqF2IcPwC7-of_nVp7rDdlA?e=fNPhXd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<br>
+Catalina Esteras, gerente del Hotel Royal Inca, 
+comparte sus perspectivas sobre la digitalización de los sistemas de gestión hotelera y la distribución de tareas entre empleados. 
+Destaca la necesidad de mejorar la comunicación interna y la organización del inventario de productos de limpieza. 
+Reconoce que la comunicación entre diferentes niveles de personal aún enfrenta desafíos, lo que a veces resulta en pérdida de tiempo. 
+Además, menciona como frustraciones la falta de comunicación efectiva y la dificultad con la base de datos en Excel, mientras que sus objetivos laborales incluyen mejorar la eficiencia del servicio y evitar problemas recurrentes para los clientes.
+
+Nombre: Ariana Valdivia
+<br>
+Edad: 23 años
+<br>
+Ocupación: Gerencia de hoteles
+<br>
+![Imagen de entrevistaS1](assets/interviewsimages/Entrevista-segmento1.png)
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210192_upc_edu_pe/EbcOtEjQSFNFhCflycuXypgB4tLtFUuJI_Ho4k7dC6P0KA?e=XbXG43&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<br>
+Ariana Valdivia, gerente del Hotel Oasis
+Comparte su punto de vista sobre la digitalización de los sistemas de gestion hotelera y la distribucion entre empleados y sus tareas-
+Menciona la importancia de la buena comunicación que tiene entre ella como gerente y sus emppleados.
+Reconoce sus problemas y frustraciones recalcando la importancia que tendría nuestra aplicación en su vida, ayudandole y facilitando la mejora en la gestión de procesos de su hotel.
 
 **Segmento 2**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+Nombre: Arian Godinez Vargas
+<br>
+Edad: 20 años
+<br>
+Ocupación: Empleado de Hotel (limpieza)  
+<br>
+![Imagen de entrevistaS2.1](assets/interviewsimages/EntrevistaAS2.png)
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=wsbDs5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+En la entrevista Arian nos relata como es un dia laboral para el como staff en un Hotel el cual prefiere que mantengamos anonimo, nos habla un poco preocupado pero con la suficiente confianza para comentarnos de los inconvenientes que sufre el, junto a sus colegas respecto a los sistemas de comunicacion entre los empelados y supervizores y de como deben usar herramientas obsoletas para intentar manejarse. 
+
+![Imagen de entrevistaS2.2](assets/interviewsimages/EntrevistaES2.png) 
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202211894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211894_upc_edu_pe%2FDocuments%2FOpenSource%2FEntrevistaES2%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)  
+En la entrevista Esau nos menciona como practicante de un hotel, los metodos que se usan para la comunicacion y gestion de empleados donde se se usa Whatsapp como herramienta para entregar tareas y comunicarse con el gerente. Mas tambien nos menciona como este sistema puede generar problemas especialmente cuando estas estructuras son grandes y tienen una alta cantidad de empleados.
+
+Nombre: Nicola Estefan Romero
+<br>
+Edad: 22 años
+<br>
+Ocupación: Empleado de Hotel 
+<br>
+![Imagen de entrevistaS2.3](assets/interviewsimages/EntrevistaArS1.png) 
+[URL de la entrevistaS2.3](https://upcedupe-my.sharepoint.com/personal/u202211894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211894_upc_edu_pe%2FDocuments%2FOpenSource%2FEntrevistaArS1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)  
+En esta ocacion Nicola cuenta como se hace uso de Whatsapp como herramienta y de como debe de hacer un proceso complicado para notificar respecto al inventario al gestor, de esta misma manera tambien menciona como se van cambiando los turnos y tipos de asignaturas lo que representa que no siempre estara haciendo lo mismo.
 
 ### 2.2.3. Análisis de entrevistas.
 
 **Segmento 1:**
-{texto}
+En base al segmento uno se hace un analisis donde se llega a la conclusion de que la necesidad de una aplicacion orientada a la gestion de empleados y sus tareas son necesarias junto con un seguimiento de inventario para reducir los tiempos y mejorar la disponibilidad.  
 **Segmento 2:**
-{texto}
+En base al segundo segmento se puede observar que la comunicacion si teien oportunidades de mejora, que el proceso de notificacion de inventario no esta completamente digitalizado y finalmente que recibir tareas y notificar del cumplimiento de estas es necesario.
 
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
 
 **Segmento 1:**  
-![Imagen User Persona 1](image.jpg)
+<br/> <img src="https://i.imgur.com/krhyFim.png" style="width:60%"> 
+
 
 **Segmento 2:**
-![Imagen User Persona 1](image.jpg)
+<br/> <img src="https://i.imgur.com/qQcCWVy.png" style="width:60%"> 
 
 ### 2.3.2. User Task Matrix.
 
-| ---  | ------  | Segmento 1  | ------/----- | Segmento 2  | ---------- |
+| ‎   | ‎  | Segmento 1  | Gerente | Segmento 2  | empleado |
 |------|---------|-------------|--------------|-------------|------------|
 | ID   | Titulo  | Importancia | Frecuencia   | Importancia | Frecuencia |
-| U01X | {Texto} | Alta        | Alta         | Media       | Baja       |
+| HU01 | Actualizar las habitaciones disponibles |Alta | Media | Alta | Alta |
+| HU02 | Creación de tareas para empleados | Alta | Alta | Alta | Media |
+| HU03 | Notificaciones de inventario | Alta | Media | Alta | Media |
+|*HU04 | Información del desempeño | Alta | Media | Alta | baja |
+| HU05 | Lista de habitaciones ocupadas en tiempo real | Alta | Baja | Alta | Media |
+| HU06 | Alertas de mantemiento | Alta | Baja | Alta | Baja |
+| HU07 | Informar del estado de habitaciones | Media | Media | Alta | Media |
+| HU08 | Administrar permisos de los empleados| Alta | Media | Alta | Media |
+| HU09 | Programar turnos de trabajo | Media | Baja | Media | Baja |
+| HU10 | Realizar seguimiento de gastos | Alta | Alta | Media | Baja |
+| HU11 | Gestionar servicios adicionales | Media | Baja | Baja | Baja |
+|*HU12 | Notificaciones de comentarios | Media | Baja | Media | Baja |
+|*HU13 | Crear promociones | Alta | Media | Media | Baja |
+| HU14 | Registro de proveedores | Alta | Media | Media | Baja |
+|*HU15 | Seguimiento del cliente | Media | Media | Baja | Media |
+| HU16 | Notificaciones de cambio de agenda | Media | Baja | Alta | Media |
+| HU17 | Estado de las habitaciones | Media | Baja | Alta | Media |
+| HU18 | Información de procedimientos según el caso | Baja | Baja | Alta | Baja |
+| HU19 | Registrar el estado de suministros | Alta | Baja | Media | Baja |
+| HU20 | Reportar problemas | Media | Baja | Media | Baja |
+|*HU21 | Administrar facturas de servicios | Media | Baja | Alta | Alta |
 
 ### 2.3.3. User Journey Mapping.
 
 **Registration:**
 Why would they trust us?
-
-- s
-- s
-- s
+<br>
+Good:
+- Interfaz facil e intuitiva.
+- Escalabilidad a estructuras grandes.
+- Herramienta All in one.
+<br>
+Bad:
+- Poco reconocimiento.
+- Algunos ya cuentan con un software.
 
 **Onboarding and first use:**
 How can they feel successful?
-
-- s
-- s
-- s
+<br>
+Good:
+- Optimizacion de costos e incremento de eficiencia.
+- Manejo de multi tareas.
+- Conexion con el staff mas rapida.
+<br>
+Bad:
+- Configurar los cuartos y cuentas de empleado
 
 **Sharing:**
 Why would they invite others?
-
-- s
-- s
-- s
+<br>
+Good:
+- Accesible.
+- Escalable para establecimientos pequeños y grandes.
+- Facil de configurar.
+<br>
+Bad:
+- Competitividad.
+- Falta de interes en el producto
 
 ### 2.3.4. Empathy Mapping.
 
 **Segmento 1:**
-![Empathy Map Segmento1](image.jpg)
 
+![Empathy Map S1](/assets/empathymaps/Empathy-map-Manager.png)
 **Segmento 2:**
-![Empathy Map Segmento1](image.jpg)
+
+![Empathy Map S2](/assets/empathymaps/Empathy-map-Empleado.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
-Escenario: {escenario}
+Escenario: Supervizor quiere revisar el estado de los cuartos y darles sus tareas a los empleados mientras tambien debe de revisar el inventario.
 
 As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling | texto| texto | texto| texto|
+
+
+| Fases     |       |       |        |    |
+|----------|----------------|------|---------|-----|
+| Doing          | Verificando el estado actual de los cuartos | Revisando el inventario de elementos de limpieza y toallas | Asignando tareas al personal de limpieza | Comunicándose con el personal para coordinar las tareas |
+| Thinking       | Reflexionando sobre la disponibilidad de los cuartos para nuevos clientes | Evaluando la cantidad de elementos de limpieza y toallas disponibles | Considerando la carga de trabajo del personal de limpieza | Pensando en cómo mejorar la comunicación con el personal |
+| Feeling        | Preocupado por la disponibilidad de cuartos para nuevos clientes | Preocupado por la cantidad de elementos de limpieza y toallas disponibles | Ansioso por asignar tareas de manera efectiva al personal | Frustrado por la falta de una comunicación eficiente con el personal |
 
 **Segmento 2**  
-Escenario: Dificultad para entender Matemáticas
+Escenario: Empleado realiza sus actividades y desea hacerle saber al supervizor que ya termino o si este le puede dar mas tareas.
+
 
 As Is:
-| Fases| Fase 1 | Fase 2| Fase 3| Fase 4|
-| -------- | --------- | --------- | ------- | --------- |
-| Doing | texto| texto | texto| texto|
-| Thinking | texto| texto | texto| texto|
-| Feeling | texto| texto | texto| texto|
+
+| Fases     |       |       |        |    |
+|----------|----------------|------|---------|-----|
+| Doing          | Realizando tareas de limpieza asignadas | Notificando al supervisor cuando terminan las tareas de limpieza | Verificando el stock de elementos de limpieza y toallas | Comunicándose con el supervisor sobre cualquier problema |
+| Thinking       | Reflexionando sobre la eficacia de las tareas de limpieza | Evaluando la necesidad de reabastecer elementos de limpieza y toallas | Considerando cómo mejorar la comunicación con el supervisor | Pensando en soluciones para mejorar el proceso de limpieza |
+| Feeling        | Comprometido con la calidad de las tareas de limpieza realizadas | Satisfecho al completar las tareas de limpieza asignadas | Preocupado por la disponibilidad de elementos de limpieza y toallas | Interesado en mejorar la comunicación y colaboración con el supervisor |
 
 ## 2.4. Ubiquitous Language.
 
@@ -384,255 +605,702 @@ Texto ubiquo: Definicion de este
 
 Segmento 1:
 
-| Fases    | fase 1 as is | fase 2 | fase 3 |
-|----------|--------------|--------|--------|
-| Doing    |              | texto  | texto  | texto| texto|
-| Thinking |              | texto  | texto  | texto| texto|
-| Feeling  |              | texto  | texto  | texto| texto|
+| Fases          |                        |              |                  |                  |
+|----------------|------------------------|--------------|------------------|------------------|
+| Doing          | Utilizando la herramienta web para verificar el estado de los cuartos y el inventario | Asignando tareas al personal de limpieza a través de la plataforma | Monitoreando el progreso del personal y comunicándose directamente con ellos | Revisando las sugerencias de mejora proporcionadas por la herramienta |
+| Thinking       | Considerando cómo optimizar la asignación de tareas y la gestión del inventario con la herramienta | Evaluando la eficacia de la comunicación y supervisión a través de la plataforma | Reflexionando sobre las mejoras implementadas y la efectividad de la herramienta | Identificando nuevas oportunidades de mejora en la gestión de habitaciones y stock |
+| Feeling        | Satisfecho con la eficiencia y precisión en la gestión de cuartos e inventario | Valorando la comunicación directa y efectiva con el personal | Motivado por las mejoras implementadas y el impacto positivo en la operación | Esperanzado por las nuevas oportunidades de mejora identificadas |
+
 
 Segmento 2:
-| Fases | fase 1 as is | fase 2| fase 3|
-| -------- | ------- | ---- | ---------------- |
-| Doing | | texto| texto | texto| texto|
-| Thinking | | texto| texto | texto| texto|
-| Feeling | | texto| texto | texto| texto|
+
+| Fases          |                        |              |                  |                  |
+|----------------|------------------------|--------------|------------------|------------------|
+| Doing          | Utilizando la herramienta web para recibir y completar tareas asignadas | Notificando al supervisor a través de la plataforma cuando las tareas están completas | Actualizando el estado del stock de elementos de limpieza y toallas en la herramienta | Comunicándose con el supervisor a través de la plataforma sobre cualquier problema o solicitud |
+| Thinking       | Reflexionando sobre la eficacia de las tareas asignadas y la comunicación con el supervisor | Evaluando la necesidad de mejorar la gestión de tareas y la comunicación con la herramienta | Considerando cómo mejorar la eficiencia en la gestión de inventario y comunicación | Pensando en soluciones para optimizar el proceso de trabajo y la colaboración con el supervisor |
+| Feeling        | Comprometido con la calidad y eficiencia en la ejecución de tareas asignadas | Satisfecho al completar las tareas de manera efectiva y comunicarlas al supervisor | Preocupado por la disponibilidad y gestión adecuada del inventario | Interesado en mejorar la comunicación y colaboración con el supervisor a través de la herramienta |
+
 
 ## 3.2. User Stories.
 
-| HU0X | Historia Usuario | "Descripcion" |
-|------|------------------|---------------|
-
+| HUX  | Historia de Usuario                           | Descripción                                                                                                                                                                                     | Criterios de Aceptación                                                                                                                                                                                                                                                                                     |
+|------|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| HU01 | Actualizar las habitaciones disponibles       | Como gerente, quiero poder agregar nuevas habitaciones para mantener actualizado el inventario de habitaciones disponibles.                                                                     | Given que hay una opción para gestionar el estado de las habitaciones disponibles <br> When agrego una nueva habitación al inventario <br> Then la nueva habitación se refleja en la lista de habitaciones disponibles <br> And puedo actualizar la información de la habitación si es necesario.           |
+| HU02 | Creación de tareas para empleados             | Como gerente, quiero poder agregar nuevas habitaciones para mantener actualizado el inventario de habitaciones disponibles.                                                                     | Given que existe una interfaz para la gestión de tareas <br> When creo una nueva tarea <br> Then la tarea se asigna correctamente a un empleado <br> And se establece la prioridad y la fecha límite para la tarea.                                                                                         |
+| HU03 | Notificaciones de inventario                  | Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros.                                                              | Given que se han establecido umbrales de inventario y preferencias de notificación <br> When los niveles de inventario caen por debajo de los umbrales establecidos <br> Then se envían notificaciones automáticas <br> And las notificaciones incluyen detalles sobre los suministros con bajo inventario. |
+| HU04 | Información del desempeño                     | Como gerente, quiero generar informes de desempeño del personal [revisar en grupo] Para evaluar el rendimiento de los empleados y tomar decisiones basadas en datos.                            | Given que existe una opción para generar informes de desempeño <br> When selecciono el período de tiempo y los criterios de filtro <br> Then se generan informes que incluyen métricas relevantes <br> And puedo filtrar los informes por departamento o empleado.                                          |
+| HU05 | Lista de habitaciones ocupadas en tiempo real | Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones.                                          | Given que hay una lista de habitaciones disponibles <br> When la lista se actualiza automáticamente en tiempo real <br> Then puedo ver el estado de cada habitación ocupada <br> And puedo acceder a detalles adicionales de cada habitación.                                                               |
+| HU06 | Alertas de mantenimiento                      | Como gerente, quiero recibir alertas de mantenimiento programado para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados.                             | Given que se han establecido programas de mantenimiento <br> When se acerca la fecha programada para el mantenimiento <br> Then se envían alertas de recordatorio <br> And las alertas incluyen detalles sobre la tarea de mantenimiento programada.                                                        |
+| HU07 | Informar del estado de habitaciones           | Como gerente, quiero ver el estado de las habitaciones para poder revisar si están listas para su uso después del proceso de limpieza.                                                          | Given que hay una lista de habitaciones disponibles <br> When reviso el estado de una habitación <br> Then puedo ver si está lista para su uso <br> And puedo ver detalles sobre el proceso de limpieza.                                                                                                    |
+| HU08 | Administrar permisos de los empleados         | Como gerente, quiero gestionar el acceso y permisos de los empleados para garantizar la seguridad y la privacidad de la información del negocio.                                                | Given que existe una interfaz para la gestión de permisos <br> When modifico los permisos de un empleado <br> Then los cambios se aplican correctamente <br> And se garantiza la seguridad y privacidad de la información del negocio.                                                                      |
+| HU09 | Programar turnos de trabajo                   | Como gerente, quiero programar turnos de trabajo automáticamente para optimizar la asignación de personal y evitar conflictos de horarios.                                                      | Given que hay un sistema para la programación de turnos <br> When programo automáticamente los turnos <br> Then se asignan los turnos sin conflictos de horarios <br> And se optimiza la asignación de personal.                                                                                            |
+| HU10 | Realizar seguimiento de gastos                | Como gerente, quiero poder realizar seguimiento de gastos implementados para controlar los costos y optimizar la rentabilidad del negocio.                                                      | Given que hay una opción para realizar seguimiento de gastos <br> When registro un gasto <br> Then el gasto se registra correctamente en el sistema <br> And puedo generar informes de seguimiento de gastos.                                                                                               |
+| HU11 | Gestionar servicios adicionales               | Como gerente, quiero gestionar la disponibilidad de servicios adicionales para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente.                                   | Given que existe una lista de servicios adicionales <br> When gestiono la disponibilidad de los servicios <br> Then los cambios se reflejan en la oferta de servicios <br> And se ofrece una experiencia personalizada al cliente.                                                                          |
+| HU14 | Registro de proveedores                       | Como gerente, quiero mantener un registro de los proveedores para gestionar eficientemente las relaciones comerciales y los suministros.                                                        | Given que existe una lista de proveedores <br> When registro un nuevo proveedor <br> Then el proveedor se añade al registro correctamente <br> And puedo acceder a detalles sobre cada proveedor.                                                                                                           |
+| HU16 | Notificaciones de cambio de agenda            | Como empleado, quiero recibir notificaciones de cambios en mi agenda laboral para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia.                          | Given que se ha establecido una agenda laboral <br> When se realizan cambios en la agenda <br> Then se envían notificaciones de actualización <br> And las notificaciones incluyen detalles sobre los cambios realizados.                                                                                   |
+| HU17 | Estado de las habitaciones                    | Como empleado, quiero poder registrar el estado de limpieza de las habitaciones para contribuir al mantenimiento de altos estándares de limpieza y satisfacer las expectativas de los clientes. | Given que hay una lista de habitaciones disponibles <br> When registro el estado de limpieza de una habitación <br> Then el estado se actualiza correctamente <br> And se contribuye al mantenimiento de altos estándares de limpieza.                                                                      |
+| HU18 | Información de procedimientos según el caso   | Como empleado, quiero poder acceder a manuales de procedimientos para tener recursos de referencia que me ayuden a realizar mi trabajo de manera efectiva.                                      | Given que existe un sistema para acceder a manuales de procedimientos <br> When busco un manual específico <br> Then puedo acceder al contenido relevante <br> And me ayuda a realizar mi trabajo de manera efectiva.                                                                                       |
+| HU19 | Registrar el estado de suministros            | Como empleado, quiero poder registrar el estado de los suministros para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento.   | Given que hay una lista de suministros disponibles <br> When registro el estado de un suministro <br> Then el estado se actualiza correctamente <br> And se garantiza el control preciso del inventario.                                                                                                    |
+| HU20 | Reportar problemas                            | Como empleado, quiero poder reportar incidencias o problemas para informar sobre cualquier problema o situación que afecte mi trabajo o la calidad del servicio.                                | Given que existe una opción para reportar problemas <br> When reporto una incidencia o problema <br> Then se registra la incidencia correctamente <br> And se toman medidas para resolver el problema.                                                                                                      |
+             
+             |
 ## 3.3. Impact Mapping.
 
-![Impact Mapping](image.jpg)
+<img src="assets\Impact-mapping\impact-mapping-manager.png" alt="User Manager" width="1000" height="900">
+
+<img src="assets\Impact-mapping\impact-mapping-employe.png" alt="User Manager" width="1000" height="900">
+
 
 ## 3.4. Product Backlog.
 
 | #Orden | User Story ID | Titulo     | Descripción | Story Points (1/2/3/5/8) |
 |--------|---------------|------------|-------------|--------------------------|
-| 1      | HU01          | titulo his | desc        | 5                        |
-
+| 1      | HU01          | Actualizar las habitaciones disponibles | Como gerente, quiero poder agregar nuevas habitaciones para mantener actualizado el inventario de habitaciones disponibles. | 8 |
+| 2      | HU02          | Creación de tareas para empleados | Como gerente, quiero poder agregar nuevas habitaciones para mantener actualizado el inventario de habitaciones disponibles. | 8 |
+| 3      | HU03          | Notificaciones de inventario |Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros. | 5 |
+| 4      | * HU04        | Información del desempeño |Como gerente, quiero generar informes de desempeño del personal [revisar en grupo] Para evaluar el rendimiento de los empleados y tomar decisiones basadas en datos.    | 5 |
+| 5      | HU05          | Lista de habitaciones ocupadas en tiempo real |Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones. | 8 |
+| 6      | HU06          | Alertas de mantemiento |Como gerente, quiero recibir alertas de mantenimiento programado para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados. | 5 |
+| 7      | HU07 | Informar del estado de habitaciones | Como gerente, quiero ver el estado de las habitaciones para poder revisar si estan listas para su uso despues del proceso de limpieza.  | 5 |
+| 8      | HU08 | Administrar permisos de los empleados |Como gerente, quiero gestionar el acceso y permisos de los empleados para garantizar la seguridad y la privacidad de la información del negocio.  | 8 |
+| 9      | HU09 | Programar turnos de trabajo |Como gerente, quiero programar turnos de trabajo automáticamente para optimizar la asignación de personal y evitar conflictos de horarios. | 2 |
+| 10     | HU10 | Realizar seguimiento de gastos |Como gerente, quiero poder realizar seguimiento de gastos implementados para controlar los costos y optimizar la rentabilidad del negocio. | 5 |
+| 11     | HU11 | Gestionar servicios adicionales |Como gerente, quiero gestionar la disponibilidad de servicios adicionales para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente. | 3 |
+| 12     | * HU12 | Notificaciones de comentarios |Como gerente, quiero recibir notificaciones de comentarios y opiniones de clientes para responder rápidamente a las necesidades y preocupaciones de los clientes. | 2 |
+| 13     | * HU13 | Crear promociones |Como gerente, quiero poder crear promociones y ofertas especiales para atraer a más clientes y aumentar las ventas.  | 5 |
+| 14     | HU14 | Registro de proveedores |Como gerente, quiero mantener un registro de los proveedores para gestionar eficientemente las relaciones comerciales y los suministros.  | 5 |
+| 15     | * HU15 | Seguimiento del cliente |Como gerente, quiero poder realizar seguimiento de la satisfacción del cliente para identificar áreas de mejora y garantizar una experiencia de calidad. | 5 |
+| 16     | HU16 | Notificaciones de cambio de agenda |Como empleado, quiero recibir notificaciones de cambios en mi agenda laboral para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia. | 8 |
+| 17     | HU17 | Estado de las habitaciones |Como empleado, quiero poder registrar el estado de limpieza de las habitaciones para contribuir al mantenimiento de altos estándares de limpieza y satisfacer las expectativas de los clientes. | 8 |
+| 18     | HU18 | Información de procedimientos según el caso |Como empleado, quiero poder acceder a manuales de procedimientos para tener recursos de referencia que me ayuden a realizar mi trabajo de manera efectiva.  | 5 |
+| 19     | HU19 | Registrar el estado de suministros |Como empleado, quiero poder registrar el estado de los suministros para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento. | 2 |
+| 20     | HU20 | Reportar problemas |Como empleado, quiero poder reportar incidencias o problemas para informar sobre cualquier problema o situación que afecte mi trabajo o la calidad del servicio.   | 5 |
+| 21     | * HU21 | Administrar facturas de servicios |Como gerente, quiero poder generar facturas para los servicios adicionales para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes. | 5 |
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines.
 
 ### 4.1.1. General Style Guidelines.
 
-Descripcion del porque estos elementos seran importantes
+Los siguientes elementos se han cosiderado para mejorar la experiencia del usuario.
 
-**Color:** (Descripcion de los colores escogidos y porque)  
-![Colores generales](image.jpg)
+**Color:** Para los colores hemos elegido un esquema monocromatico del color #81c9fa
 
-**Tipografia:** (Descripcion de la tipografia escogida para el proyecto y porque)
-![Tipografias generales](image.jpg)
-**Branding** (Describir logotipo y porque)
-![Branding general](image.jpg)
+![Colores Generales](/assets/StyleGuidelines/colores.png)
+
+Se eligieron este esquema debido a como el color azul y blanco representan un entorno ordenado, relajado y poco complejo
+que son caracteristicas las cuales ayudaran con los procesos de gestion que pueden llegar a ser estresantes o caoticos.
+
+**Tipografia:** Para la tipografia se esta usando Roboto principalmente por su simplicidad y popularidad en las paginas
+web, representa bien las letras y hace que nuestro texto se vea ordenado sin verse abrumador.
+![Tipografias generales](/assets/StyleGuidelines/roboto.png)  
+**Branding** Nuestro logotipo se muestra como unas llaves de hotel junto con el nombre del producto InnControl, pensamos
+en un logo minimalista que con el hecho de verse el logo se pueda distinguir quienes somos.
+
+![Branding general](assets/StyleGuidelines/innControl.png)
 
 ### 4.1.2. Web Style Guidelines.
 
-Descripcion de los elementos que se utilizaran en el web app
+En nuestra web app y landing page estaremos usando los colores ya mencionados en diferentes maneras.
 
-**Background:** (primary, secondary, terniary)  
-![Background Preview web](image.jpg)
-**Text Styles:** (H1, H2, p, a,)  
-![Text Style Preview web](image.jpg)
+**Background:** Color Primario: 539BCA
+Color Secundario: BAE0FC
+Color Terniario: 6A9CDE y 003785
+
+<img src="assets\StyleGuidelines\mockupDesktop\menu-desktop-mockup.png" alt="Background Preview web" width="1400" height="900">
+
+
+**Text Styles:** (H1, H2, p, a,)  Nuestros estilos de texto van a depender del color que tengan detras, para colores mas osucros como 003785 se usa EEEEEE para dar contraste, mientras que si es un color claro se usa 00628D para que el color del texto pueda resaltar.
+
+<img src="assets\StyleGuidelines\mockupDesktop\rooms-text-mockup.png" alt="Text Style Preview web" width="1000" height="600">
+
 **Button Styles:** (Button, dropdowns, Switches)
-![Button Preview web](image.jpg)
+Nuestros Botones van a ser rectangulares con bordes curvados de 4px, los colores varian entre 6A9CDE, 003785 y DBEFFE
+siendo el primero tipo de boton el que se usara más.
+
+Los DropDowns y Switches se implementaran con una menor frequencia sin embargo se usara el color DBEFFE o EEEEEE.
+
+<img src="assets\StyleGuidelines\mockupDesktop\rooms-buttons-mockup.png" alt="Button Preview web" width="270" height="600">
+
 **Icons:** (Fondo blanco con los iconos que vamos a usar)
-![Icons Preview web](image.jpg)
+
+Los iconos que estaremos usando seran de las redes sociales en el caso de la landing page junto a otros relacionados a los beneficios. Seguidamente, se estaran utilizando menos iconos en la web aplication siendo los mas prominentes la lupa, icono de empleados, tareas cuartos e inventario.
+
+<img src="assets\StyleGuidelines\mockupDesktop\rooms-icons-mockup.png" alt="Icons Preview web" width="390" height="58">
+
 **Misc** (Cosas como nav var o slideshows que pensemos usar)
-![Miscellaneos preview web](image.jpg)
+
+Estaremos usando nav vars, carruseles y cards para poner informacion de testimonios y beneficios.
+
+<img src="assets\StyleGuidelines\mockupDesktop\header-mockup.png" alt="Miscellaneos preview web" width="1402" height="78">
 
 ## 4.2. Information Architecture.
 
 ### 4.2.1. Organization Systems.
 
-Descripcion corta respecto a los sistemas de organizacion que usaremos  (Escoger)
-"Hierarchical. This structures advices to present the content in a way to distinguish the level of importance by making
-use of physical differences, such as size, colour, contrast, alignment etc.
-
-Sequential. Guide users to follow a specific path towards their goal and provide content step-by-step based on the
-current step.
-
-Matrix. You can always give the users the option to choose the type of navigation they prefer, i.e. Alphabetical,
-Chronological, by topic."
+De sistema de Organizacion usaremos un sistema Sequencial donde el usuario debera de seguir un camino para conseguir su
+objetivo paso por paso esto principalmente por las diferentes tareas que puede realizar.
 
 ### 4.2.2. Labeling Systems.
 
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great
-amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in
-few words.
+Los lables se usan para representar muchos datos en pocas palabras para este proyecto decidimos que nuestros labels principales son Inventory, Tasks, RoomStates, Messages y Employees
 
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
+De esta manera sera facil de reconocer y entender
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-**Meta & SEO (Search Engine Optimization) Tags:**  sirven para que la pagina web sea encontrada facilmente es lo que
-sale al encontrar la pagina en el buscador (se ponen en el <"head">)
+**Meta & SEO (Search Engine Optimization) Tags:**
 
-* Titulo: ```<title> ___ </title> ```
-* Descripcion: ```<meta name = "description" content = "texto descipcion"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "keyword1, 2 3"/> ```
+* Titulo: ```<title> El Control Que Necesitas | Software de Gestion de Hoteles/Hostales </title> ```
+*
+
+Descripcion: ```<meta name = "description" content = "Controla tus cuartos, empleados e inventario en un solo lugar, La solucion que buscas para cualquier tamaño"/> ```
+
+* Palabras
+  Clave: ```<meta name = "keyword" content = "Gestion Hotel, Hotel Manager software, software hotelero, software hoteleros más utilizados, Controlar tu Hotel/Hostal, Gestion hostal"/> ```
 
 ### 4.2.4. Searching Systems.
 
-**Que se busca?:** Que buscara el usuario  
-**Que resultados se mostraran?:** Que se mostrara  
-**Interface de busqueda:** Descripcion de como ayuda a encontrar lo deseado
-![Search interface preview web](image.jpg)
+**Que se busca?:** El Usuario quiere buscar un empleado en especifico  
+**Que resultados se mostraran?:** Se debe de mostrar el empleado con su codigo y tarea activa
+**Interface de busqueda:** En la seccion de inicio se observara un dashboard con todas las funcionalidades de manera resumida en estilo card, asimismo en un nav bar se encontraran los nombres de las funcionalidades. Adicionalmente en la seccion de empleados se observara una lupa que sera el indicador de la interface de busqueda. cada seccion debe de tener su lupa para poder buscar cuartos, items, empleados o tareas especificas.
 
 ### 4.2.5. Navigation Systems.
 
-Basicamente aqui definimos como funciona la navegacion del web app
-**Hierarchical Navigation System:** Main page a destination pages.
-**Global Navigation Systems** (Complemento del Hierachical) Movimiento vertical (te mueves por la pagina)con nav(debe
-poder regresar a la principal)
-**Local Navigation Systems** (vas a otras paginas) (complemento del global nav sistem sub-site) Usas otras paginas
+La navegacion de la web app se estara basando en un Sistema de navegacion Global donde por medio de las cards en el
+dashboard o los labels en el nav bar el usuario se redirija a la seccion selecionada.
 
 ## 4.3. Landing Page UI Design.
 
 ### 4.3.1. Landing Page Wireframe.
 
-la pagina donde te registras y ves info del web app (te manda al web app)
-
-Wireframe es todo lo funcional de la pagina
-![Landing page Wireframe](image.jpg)
+![Landing page Wireframe](/assets/StyleGuidelines/Lan-Wireframe.png)
 
 ### 4.3.2. Landing Page Mock-up.
 
 Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](image.jpg)
+![Landing page mockup](/assets/StyleGuidelines/Lan-Mockup.png)
 
 ## 4.4. Web Applications UX/UI Design.
 
 ### 4.4.1. Web Applications Wireframes.
 
-lo funcional de cada aspecto del wireframe
-![Web Aplication Wireframe](image.jpg)
+#### 4.4.1.1 Desktop Wireframes
+Menu Wireframe
+
+<img src="assets\WebApplicationsWireframes\desktop\menu-wireframe.png" alt="Menu Wireframe" width="1400" height="1021">
+
+Rooms Wireframe
+
+<img src="assets\WebApplicationsWireframes\desktop\rooms-wireframe.png" alt="Rooms Wireframe" width="1400" height="1021">
+
+Task Wireframe
+
+<img src="assets\WebApplicationsWireframes\desktop\tasks-wireframe.png" alt="Tasks Wireframe" width="1400" height="1021">
+
+Inventory Wireframe
+
+<img src="assets\WebApplicationsWireframes\desktop\inventory-wireframe.png" alt="Inventory Wireframe" width="1400" height="1021">
+
+Messages Wireframe
+
+<img src="assets\WebApplicationsWireframes\desktop\messages-wireframe.png" alt="Messages Wireframe" width="1400" height="1021">
+
+Employees Wireframe
+
+<img src="assets\WebApplicationsWireframes\desktop\employees-wireframe.png" alt="Employees Wireframe" width="1400" height="1021">
+
+#### 4.4.1.2 Mobile Wireframes
+Menu Wireframe
+
+<img src="assets\WebApplicationsWireframes\mobile\menu-mobile-wireframe.png" alt="Menu Wireframe" width="420" height="900">
+
+Rooms Wireframe
+
+<img src="assets\WebApplicationsWireframes\mobile\rooms-mobile-wireframe.png" alt="Rooms Wireframe" width="420" height="900">
+
+Task Wireframe
+
+<img src="assets\WebApplicationsWireframes\mobile\tasks-mobile-wireframe.png" alt="Tasks Wireframe" width="420" height="900">
+
+Inventory Wireframe
+
+<img src="assets\WebApplicationsWireframes\mobile\inventory-mobile-wireframe.png" alt="Inventory Wireframe" width="420" height="900">
+
+Messages Wireframe
+
+<img src="assets\WebApplicationsWireframes\mobile\messages-mobile-wireframe.png" alt="Messages Wireframe" width="420" height="900">
+
+Employees Wireframe
+
+<img src="assets\WebApplicationsWireframes\mobile\employees-mobile-wireframe.png" alt="Employees Wireframe" width="420" height="900">
+
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario en la herramienta Figma.
 
-### 4.4.2. Web Applications Mock-ups.
+Link de Figma:https://www.figma.com/file/zjc0u4ks9Eu23b6k7DoKLU/Figma-basics?type=design&node-id=401-12&mode=design&t=zBdnRH5DDUeap9uP-0
 
+User Goal: Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones.
+
+<img src="https://i.imgur.com/b1bQLzn.png" style="width:60%">  
+
+User Goal: Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros.
+<img src="https://i.imgur.com/c01OvZr.png" style="width:60%">
+
+User goal: Como empleado, quiero poder registrar el estado de los suministros para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento.
+<img src="https://i.imgur.com/ITgJQdH.png" style="width:60%">
+
+User goals : Como gerente, quiero poder asignar tareas a los empleados para distribuir eficientemente las responsabilidades y asegurarme de que las tareas se completen de manera oportuna y efectiva.
+<img src="https://i.imgur.com/ZsZ2cFS.png" style="width:60%">
+   
+### 4.4.3. Web Applications Mock-ups.
+
+#### 4.4.3.1 Desktop Mock-ups.
+
+Menu Mockup
+
+<img src="assets\WebApplicationsMockups\desktop\menu-mockup.png" alt="Menu mockup" width="1400" height="1021">
+
+Rooms Mockup
+
+<img src="assets\WebApplicationsMockups\desktop\rooms-mockup.png" alt="Rooms mockup" width="1400" height="1021">
+
+Task Mockup
+
+<img src="assets\WebApplicationsMockups\desktop\tasks-mockup.png" alt="Tasks mockup" width="1400" height="1021">
+
+Inventory Mockup
+
+<img src="assets\WebApplicationsMockups\desktop\inventory-mockup.png" alt="Inventory mockup" width="1400" height="1021">
+
+Messages Mockup
+
+<img src="assets\WebApplicationsMockups\desktop\messages-mockup.png" alt="Messages mockup" width="1400" height="1021">
+
+Employees Mockup
+
+<img src="assets\WebApplicationsMockups\desktop\employees-mockup.png" alt="Employees mockup" width="1400" height="1021">
+
+#### 4.4.3.2 Mobile Mock-ups.
 Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
 
-### 4.4.3. Web Applications User Flow Diagrams.
+Menu Mockup
 
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
-![Web Aplication User Flow Diagram](image.jpg)
+<img src="assets\WebApplicationsMockups\mobile\menu-mobile-mockup.png" alt="Menu mockup" width="420" height="900">
+
+Rooms Mockup
+
+<img src="assets\WebApplicationsMockups\mobile\rooms-mobile-mockup.png" alt="Rooms mockup" width="420" height="900">
+
+Task Mockup
+
+<img src="assets\WebApplicationsMockups\mobile\tasks-mobile-mockup.png" alt="Tasks mockup" width="420" height="900">
+
+Inventory Mockup
+
+<img src="assets\WebApplicationsMockups\mobile\inventory-mobile-mockup.png" alt="Inventory mockup" width="420" height="900">
+
+Messages Mockup
+
+<img src="assets\WebApplicationsMockups\mobile\messages-mobile-mockup.png" alt="Messages mockup" width="420" height="900">
+
+Employees Mockup
+
+<img src="assets\WebApplicationsMockups\mobile\employees-mobile-mockup.png" alt="Employees mockup" width="420" height="900">
+
+### 4.4.4. Web Applications User Flow Diagrams.
+
+Se presenta una idea de como se ven los demas user flow diagrams en base a este user flow diagram.
+
+![Web Aplication User Flow Diagram](/assets/userflow/userflow.jpg)
 
 ## 4.5. Web Applications Prototyping.
 
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
+[URL del Prototipo (Hecho en figma)](https://www.figma.com/file/dFBkafkPplF301rbQ3hh8t/Untitled?type=design&node-id=0%3A1&mode=design&t=rX9ozCzhstSDIBxh-1)
 
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-1. System Context Diagram: Diagrama que muestra la relacion del aplicativo con los usuarios
-   se incluyen servicios externos (si hay pocos bounded context se incluyen ahi)
-
-2. Bounded Context Map: Muestra la relacion entre bounded contexts (los bounded context son como una burbuja que
-   encapsula palabras clave en los procesos para poder
-   diferenciarlos [Ej. Bounded context enfocado en las ventas(ventas), otro en revisar el stock(gestion) y otro enfocado en los proveedores (suministros)])
-   Se hace como un brainstorm y se ve en que pueden conectarse o
-   comunicarse [se usa un circulo entre conexiones lineales (upstream o downstream) para definir comunicacion, algunos context se pueden integrar para representar por ejemplo un share model por database, tambien se mencionan los (third party context para definir los restful apis)]
+![ContextDiagram](/assets/SoftwareArchitecture/ContextDiagram/structurizr-84133-SystemContext-001.png)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-1. Bounded Context Deployable / Container Diagrams. Sirve para entender como funciona y el proceso, Se especifican DB's,
-   indexers, Search engine, las Apis que usen los bounded context y se conectan por flechas, las cuales tienen como
-   objetivo explicar la direcion y relacion junto a que se esta enviando/comunicando (TCP)
+![ContainerDiagram](/assets/SoftwareArchitecture/ContainerDiagram/structurizr-84133-Container-001.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-1. Component diagrams: Estos van a mostrar las ordenes, procesos, mensajes y componentes utilizados en el uso del
-   aplicativo, claro se deben hacer diferentes de estos para cada bounded o USER GOALS
+![ComponentDiagram-1](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-001.png)
+
+![ComponentDiagram-2](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-002.png)
+
+![ComponentDiagram-3](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-003.png)
+
+![ComponentDiagram-4](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-004.png)
+
+![ComponentDiagram-5](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-005.png)
+
+![ComponentDiagram-6](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-006.png)
+
+![ComponentDiagram-7](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-007.png)
 
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
 
-Esta yaselasaben (diagrama de clases)
-Clases(name), objetos(nombre-objeto [como objeto]), metodos("Accion") y atributos(Correo, edad,nombre como valor, ID)
+En esta sección, se presentarán los diagramas de clases, en las cuales se representan las clases y sus relaciones en el diseño orientado a objetos.
+<img src="https://i.imgur.com/NzQy4Oy.png" style="width:60%">
+[Link Database Diagram](https://lucid.app/lucidchart/0a661614-a2e4-42cb-b8a2-73a9bc6b6569/edit?viewport_loc=-1210%2C-676%2C2563%2C2874%2C0_0&invitationId=inv_f0bef7c5-6e84-4e61-9298-6777d0880fb6)
 
 ### 4.7.2. Class Dictionary.
 
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que
-contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera
+Inherit (TaskManager(superclase) -> (subclase)task )
+Polymorphism (funcion de editar() -> editarEstado() , editarTask())
+
+Abstraction (La cuenta empleado y gerente muestra el usuario, pero esta su edad y correo la base de datos (fuera
 de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en
-Private y Public )
+
+Encapsulation (state es privado porque solo se debe de modificar el estado mas no los valores de estado )
 
 ## 4.8. Database Design.
 
+
+
+
 ### 4.8.1. Database Diagram.
 
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+[link vertabelo](https://my.vertabelo.com/public-model-view/7nlLmEzWRwMOp0eaZolkVYXfwkPf61HMA215NLXEs0zbWJcZ03aSFWAfQmF9BJ6i?x=2904&y=3359&zoom=0.4906)
+
+![imgDatabaseDesign](/assets/DatabaseDesign/database.jpg)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
+En la esta sección, se detallara las herramientas, convenciones, referencias y configuraciones utlizadas a lo largo
+del desarrollo del proyecto.
+
 ## 5.1. Software Configuration Management.
+
+En los siguientes puntos, detallaremos las herramientas, convenciones, referencias y configuraciones empleadas a lo
+largo del desarrollo del proyecto, los cuales contribuyeron a mantener la base en el trabajo realizado.
 
 ### 5.1.1. Software Development Environment Configuration.
 
-Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
-extensiones tmbn? nose bn q quieren aca
+Figma: https://www.figma.com/
+
+Es una herramienta visual, donde diseñamos el prototipo de la pagina web. Se usó para crear los wireframes, mock-ups,
+asi como los desktop and mobile application del proyecto.
+
+LucidChart: https://lucid.app/
+
+Es una plataforma, la cual tiene opciones que nos ayudaron en la creación de diagramas, mapas y flujos usando plantillas
+y tableros. Fue usado en el deasarollo del Diagram class, también para los Wireflows and User Flow.
+Landing Page
+
+Software Development
+Para el desarollo de la landing page, se usaron las tecnologías basicas del desarrollo web: HTML, CSS Y JS. Añadiendole
+frameworks como lo es Tailwind css para facilitar el desarrollo de la misma.
+
+Frontend Web Applications
+
+Para el desarrollo del Frontend (aplicación web) se usó HTML5, CSS3 Y JS. Añadiendo tambien el uso de Angular Material.
+
+Web Services
+
+Para el desarrollo del servicio web, se utilizó Java junto con Spring Boot. Asi como un RESTful API style para la parte
+de la arquitectura.
+
+Software Deployment
+
+Netlify: https://www.netlify.com/
+
+Es una plataforma en la cual hospedamos la lading page del proyecto, se integra con repositorios en Git.
+
+Software Documentation
+
+Vertabelo: https://vertabelo.com/
+
+Es una herramienta online la cual ayuda en el desarrollo y creacion de base de datos. Se usó para la base de datos del
+proyecto.
+
+Structurizr: https://www.structurizr.com/
+
+Esta plataforma permite el modelado de diagramas de arquitectura de software. Así creamos el modelo C4 de todo el
+proyecto.
 
 ### 5.1.2. Source Code Management.
 
-El gitjab donde tengamos el proyecto
+Para la gestion y actualización del proyecto, se creó una organizacion vía GitHub, en la cual se iba registrando las
+modificaciones y actualizaciones del proyecto a lo largo de su creación y ciclo de vida. Se organizó de la siguiente
+manera:
+
+Organization: https://github.com/upc-pre-20241-si729-wx55-eabmodel
+Landing Page Repository: https://github.com/upc-pre-20241-si729-wx55-eabmodel/landing-page
+Report Repository: https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project
+Para controlar de manera eficiente los cambios en el codigo, usamos GitFlow para definir el flujo de trabajo, siendo
+creada las dos ramas principales:
+
+master: También llamada "main", es donde se encuentra la versión más estable y lista del proyecto que van a pasar a
+producción.
+branches: Contiene las features, va a la par con el "main"
+
+Ramas auxiliares:
+
+feature: Son las ramas donde se desarrollan las funcionalidades del proyecto. Luego de completarlas, se fusionan con la
+rama branch.
+
+La nomenclatura para los features fueron las siguientes: feature/name. Por ejemplo, feature/sign-in, para ingresar a la
+aplicación web.
+
+release: Son las ramas donde se prepara la próxima versión del programa. En esta, se realizan las pruebas finales y se
+corrigen pequeños errores antes del lanzamiento definitivo. Finalizado este proceso, los cambios se fusionan con la rama
+develop, y luego a la rama main.
+
+Se utilizó el formato "feature/chapter n" para la nomenclatura de las versiones del proyecto, por ejemplo: "
+release/x.y.z". En donde:
+
+X, Y y Z son números enteros positivos, donde cada uno se incrementa de manera numérica.
+
+Commit Conventions
+
+Para el formato de los commits se siguió la estructura de Conventional Commits 1.0.0, la cual tiene la siguiente
+estructura:
+
+``` < type > [optional scope]: < description > ```
+Donde:
+
+type: Es el tipo de cambio. Tenemos valores como: fix, feat, build, chore, ci, docs, style, refactor, perf, test, etc.
+scope: Indica donde se realizó el commit (opcional).
+description: Menciona las actualizaciones del codigo.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-Que usamos con css (en caso usemos software para SASS)
-supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
+Para el desarrollo del código en HTML y CSS se decidió seguir la convención de Google HTML/CSS Style Guide. Entre las
+más importantes destacan:
+
+El tipo de documento debe especificarse al principio del archivo mediante el uso de meta tags.
+El elemento `<title>` debe estar dentro de las etiquetas `<head>`.
+La sangría debe tener dos espacios.
+Debe utilizar letras minúsculas para elementos HTML, atributos, propiedades, valores y selectores de CSS.
+Los atributos de los elementos HTML deben estar entre comillas. Cada elemento HTML debe tener su correspondiente
+etiqueta de cierre.
+Se recomienda evitar largas líneas de código. Es importante indicar el ancho y alto de las imágenes, así como el texto
+alternativo (alt).
+Para el código JavaScript, seguimos la convención de la Guía de estilo Java de Google de terminar cada línea con un
+punto y coma, usar Camelcase para variables y funciones y encerrar valores de cadena entre comillas simples.
+Al desarrollar pruebas de aceptación con el lenguaje Gherkin, se utilizan las "Convenciones de Gherkin para
+especificaciones legibles", que incluyen palabras clave como "Dar", "Cuándo", "Entonces" y "Y", sangría específica y
+comentarios separadores.
+Java sigue el estándar Google Java Style Guid, que determina el formato de los nombres de paquetes, clases y métodos, la
+sangría de la tabla, la división de líneas largas y los nombres de archivos Java que coinciden con el nombre de la
+clase. contenida en el mismo.
+Se recomienda insertar un salto de línea después de cada declaración.
 
 ### 5.1.4. Software Deployment Configuration.
 
-Configuraciones de donde y como deployeamos el proyecto
+En esta sección, nos enfocaremos en desplegar nuestra Landing Page utilizando el servicio automatizado de Netlify. Para
+alcanzar este objetivo, detallaremos los pasos necesarios para lograrlo.
+
+1. Debemos tener el repositorio de la Landing Page en GitHub.
+   ![img.png](assets/software-deployment/github-repo.png)
+2. Debemos iniciar session en https://www.netlify.com/ o crear una cuenta si no la tenemos.
+   ![img.png](assets/software-deployment/netlify-login.png)
+3. Una vez dentro de la plataforma, seleccionamos la opción 'Sites" y en 'Add new site' seleccionamos 'Import an
+   existing project'.
+   ![img.png](assets/software-deployment/netlify-add-site.png)
+4. Seleccionamos Deploy with Github y autorizamos a Netlify a acceder a nuestros repositorios.
+   ![img.png](assets/software-deployment/netlify-deploy-from-github.png)
+5. Seleccionamos la cuenta u organización y buscamos el repositorio de la Landing Page.
+   ![img.png](assets/software-deployment/netlify-select-repository.png)
+6. Por ultimo asinamos el nombre del proyecto y seleccionamos el branch, en este caso 'develop' y damos click en 'Deploy
+   site'.
+   ![img.png](assets/software-deployment/netlify-deploy-site.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.X. Sprint n
+## 5.2.1 Spring 1
 
-#### 5.2.X.1. Sprint Planning n.
+#### 5.2.1.1 Sprint Planning 1
 
-Explicar como vamos a plannear el sprint?
+A continuación, se presentará el sprint planning 1 donde se mostrarán las evidencias de planificación e implementación
+del landing page.
 
-#### 5.2.X.2. Sprint Backlog n.
+**Sprint Backlog 1**
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 8/04/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 14:00 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Modalidad remota por Discord.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Eabmodel Team
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Todos los miembros del equipo eabmodel.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 0 Review Summary</td>
+            <td> Dado que es nuestro primer sprint de desarrollo no existe
+                un summary del sprint anterior.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td>
+        Durante este sprint, el objetivo es crear el landing page empleando HTML, CSS, JavaScript y Bootstrap. También se abordaron las conversaciones sobre el contenido textual que se integrará en el landing page, así como el diseño previamente establecido en Figma. Al término de este sprint, el landing page debe estar activo en Netlify, permitiendo que cualquier usuario acceda y visualice la página a través del enlace proporcionado.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 1 Velocity</td>
+            <td> 8
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story Points</td>
+            <td> 8
+            <td>
+        </tr>
+    </tbody>
+</table>
 
-![SprintBacklog n](image.jpg) Nica hago la tabla
+#### 5.2.1.2 Sprint Backlog 1.
 
-#### 5.2.X.3. Development Evidence for Sprint Review.
+En esta secciones se muestra las tareas que se realizaron en el sprint 1, se adjunta la captura del tablero y el link.
+Link del tablero: https://github.com/orgs/upc-pre-20241-si729-wx55-eabmodel/projects/4
+![img.png](assets/software-deployment/spring-backlog-1.png)
 
-![Sprint review development Evidence](image.jpg)
+#### 5.2.1.3. Development Evidence for Sprint Review.
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+<table>
+    <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Committed on (Date)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td rowspan="1000">landing-page</td>
+    </tr>
+    <tr>
+        <td rowspan="4">develop</td>
+    </tr>
+    <tr>
+        <td> 7afbf0cf4a5aeaea47261be421cce705a46963da</td>
+        <td> Initial commit</td>
+        <td></td>
+        <td> 10/04/2024</td>
+    </tr>
+    <tr>
+        <td> f4b14dd5e8cb4c7431f8377d1a79e22012afe9d9</td>
+        <td> feat: init tailwind framework.</td>
+        <td></td>
+        <td> 10/04/2024 </td>
+    </tr>
+    <tr>
+        <td> 6d54ebb4fdb66947d88017c4ba2d0dd49ed554cb </td>
+        <td> chore: removed unused files. </td>
+        <td></td>
+        <td> 11/04/2024 </td>
+    </tr>
+    <tr>
+        <td rowspan="5">feature/navbar</td>
+    </tr>
+    <tr>
+        <td> 09c36cffa1f500e66a4a76e3c9e9bd127ab95e8e </td>
+        <td> feat: added color to readme.md </td>
+        <td></td>
+        <td> 10/04/2024 </td>
+    </tr>
+    <tr>
+        <td> faba38772a3156daa586c9e51ced9f7b1a439aa4 </td>
+        <td> feat(navbar): added logo and banner to assets/img. </td>
+        <td></td>
+        <td> 10/04/2024 </td>
+    </tr>
+    <tr>
+        <td> 46cd4aa7f6270c2ae2cd6f7ec16fb836f64a57ab </td>
+        <td> feat(navbar): init logo. </td>
+        <td></td>
+        <td> 10/04/2024 </td>
+    </tr>
+    <tr>
+        <td> faba38772a3156daa586c9e51ced9f7b1a439aa4 </td>
+        <td> feat(navbar): added logo and banner to assets/img. </td>
+        <td></td>
+        <td> 10/04/2024 </td>
+    </tr>
+    </tbody>
+</table>
 
-![Sprint review Testing suite Evidence](image.jpg)
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+Al ser un landing page, no se requiere de una suite de pruebas para su desarrollo.
 
-![Sprint review Execution Evidence](image.jpg)
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+En esta entrega el equipo de eabmodel logro implementar el landing page, el cual se encuentra en la siguiente URL:
+https://inncontrol.netlify.app/
 
-![Sprint review Services Documentation Evidence](image.jpg)
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+En este sprint, se completó el desarrollo del landing page, al ser landing page no se requiere de documentación de
+servicios.
 
-![Sprint review Software Deployment Evidence](image.jpg)
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+En el este sprint, se completó el desarrollo del landing page y se utilizó un conjunto de herramientas para su
+despliegue:
 
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+* Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del
+* landing page.
+* GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el
+* desarrollo del landing page.
+* GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo
+* conjunto del equipo.
+* Netlify: Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada
+* para sitios web estáticos.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+El equipo desarrollo la landing page usando ramas para cada 'feature' el uso de ramas permitió que cada miembro del
+equipo trabajara en una parte del proyecto sin interferir en el trabajo de los demás. Al terminar cada 'feature' se
+comprueba que no tenga conflictos con la rama principal y se procede a hacer un 'pull request' para que se integre con
+la rama principal.
+A continuación, se muestra una imagen de la colaboración del equipo en GitHub.
+
+![img.png](assets/software-deployment/github-insights.png)
+![img.png](assets/software-deployment/github-commits.png)
 
 ## 5.3. Validation Interviews.
 
@@ -716,13 +1384,18 @@ formato
 
 ```
 
+https://www.ostelea.com/actualidad/blog-turismo/direccion-hotelera/que-es-la-gestion-hotelera-y-cual-es-su-importancia-en-el-sector-hotelero
+
+https://sohoapps.co/importancia-del-software-de-gestion-hotelera/#:~:text=La%20gestión%20de%20reservas%20es,mayor%20rentabilidad%20para%20el%20hotel.
+
+https://www.bimnd.es/el-impacto-de-la-digitalizacion-en-la-sostenibilidad-hotelera/
+
+https://www.mews.com/es/blog/tecnologia-en-operaciones-hoteleras
+
+https://www.infobae.com/peru/2023/10/29/asociacion-de-hoteles-y-restaurantes-alertaron-que-ventas-de-su-sector-han-caido-un-40-no-hay-incentivos/
+
 # Anexos
 
-datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
+datos, gráficos, imágenes, esquemas, mapas de otros autores
 
 ![Imagen de algo no nuestro lol](image.jpg)
-
-
-
-
-
