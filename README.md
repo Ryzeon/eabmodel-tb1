@@ -180,8 +180,8 @@
 
 | Criterio Especifico                                                                                                                                  | Acciones Realizadas                                     | Conclusiones           |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------|------------------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Compañero1:<br> *TB1:*  Su texto *TB2:* texto etc..     | Su texto de conclusion |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | Compañero1:<br> *TB1:*  Su texto<br> *TB2:* texto etc.. | Su texto de conclusion |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | SebastianRamirezHoffmann:<br> *TB1:*  Participe en secciones del capitulo 1,2 y 4      | Con los conocimientos adquiridos y las experiencias vividas siento que el proceso que hacemos es escencial para que grandes proyectos puedan salir adelante. |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | SebastianRamirezHoffmann:<br> *TB1:* Tengo un familiar en el rubro de hoteleria pero no tuvo la oportunidad de participar. no obstante me dio substancial informacion respecto a la gestion de proyectos.   | Con esta nueva informacion siento que la siguiente iteracion del proyecto sera mejor que la anterior. |
 
 # Capítulo I: Introducción
 
