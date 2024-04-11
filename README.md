@@ -828,9 +828,14 @@ Private y Public )
 
 ## 4.8. Database Design.
 
+
+
+
 ### 4.8.1. Database Diagram.
 
-Diagrama de base de datos (la relacion entre clases PK FK el Normalizar tmbn, isiyisi 🕸)
+[link vertabelo](https://my.vertabelo.com/public-model-view/7nlLmEzWRwMOp0eaZolkVYXfwkPf61HMA215NLXEs0zbWJcZ03aSFWAfQmF9BJ6i?x=2904&y=3359&zoom=0.4906)
+
+![imgDatabaseDesign](/assets/DatabaseDesign/database.jpg)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
