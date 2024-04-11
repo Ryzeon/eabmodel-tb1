@@ -943,33 +943,32 @@ del landing page.
     </tbody>
 </table>
 
-Explicar como vamos a plannear el sprint?
+#### 5.2.1.2 Sprint Backlog 1.
+En esta secciones se muestra las tareas que se realizaron en el sprint 1, se adjunta la captura del tablero y el link.
+Link del tablero: https://github.com/orgs/upc-pre-20241-si729-wx55-eabmodel/projects/4
+![img.png](assets/software-deployment/spring-backlog-1.png)
 
-#### 5.2.X.2. Sprint Backlog n.
-
-![SprintBacklog n](image.jpg) Nica hago la tabla
-
-#### 5.2.X.3. Development Evidence for Sprint Review.
+#### 5.2.1.3. Development Evidence for Sprint Review.
 
 ![Sprint review development Evidence](image.jpg)
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
 ![Sprint review Testing suite Evidence](image.jpg)
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 
 ![Sprint review Execution Evidence](image.jpg)
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
 ![Sprint review Services Documentation Evidence](image.jpg)
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 ![Sprint review Software Deployment Evidence](image.jpg)
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 ![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
 
