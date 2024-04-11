@@ -474,25 +474,37 @@ En base al segundo segmento se puede observar que la comunicacion si teien oport
 
 **Registration:**
 Why would they trust us?
-
-- Optimizacion de costos e incremento de eficiencia.
+Good:
 - Interfaz facil e intuitiva.
 - Escalabilidad a estructuras grandes.
+- Herramienta All in one.
+Bad:
+- Poco reconocimiento.
+- Algunos ya cuentan con un software.
+
 
 **Onboarding and first use:**
 How can they feel successful?
 
-
-- Facil de entender
-- Simple de manejar
+Good:
+- Optimizacion de costos e incremento de eficiencia.
+- Manejo de multi tareas.
 - Conexion con el staff mas rapida.
+Bad:
+
+- Configurar los cuartos y cuentas de empleado
+
 
 **Sharing:**
 Why would they invite others?
-
+Good:
 - Accesible.
 - Escalable para establecimientos pequeños y grandes.
 - Facil de configurar.
+Bad:
+- Competitividad.
+- Falta de interes en el producto
+
 
 ### 2.3.4. Empathy Mapping.
 
