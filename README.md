@@ -700,9 +700,22 @@ Employees Wireframe
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-Wireflow es como se va a navegar por la pagina (boton me lleva a esta pagina y este me regresa)
-![Web Aplication Wireflow](image.jpg)
+En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario en la herramienta Figma.
 
+Link de Figma:https://www.figma.com/file/zjc0u4ks9Eu23b6k7DoKLU/Figma-basics?type=design&node-id=401-12&mode=design&t=zBdnRH5DDUeap9uP-0
+
+User Goal: Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones.
+<img src="https://i.imgur.com/b1bQLzn.png" style="width:60%">  
+
+User Goal: Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros.
+<img src="https://i.imgur.com/c01OvZr.png" style="width:60%">
+
+User goal: Como empleado, quiero poder registrar el estado de los suministros para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento.
+<img src="https://i.imgur.com/ITgJQdH.png" style="width:60%">
+
+User goals : Como gerente, quiero poder asignar tareas a los empleados para distribuir eficientemente las responsabilidades y asegurarme de que las tareas se completen de manera oportuna y efectiva.
+<img src="https://i.imgur.com/ZsZ2cFS.png" style="width:60%">
+   
 ### 4.4.3. Web Applications Mock-ups.
 
 Diseño en todo aspecto
