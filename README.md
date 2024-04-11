@@ -738,22 +738,26 @@ En la esta sección, se detallara las herramientas, convenciones, referencias y 
 del desarrollo del proyecto.
 
 ## 5.1. Software Configuration Management.
-En los siguientes puntos, detallaremos las herramientas, convenciones, referencias y configuraciones empleadas a lo largo del desarrollo del proyecto, los cuales contribuyeron a mantener la base en el trabajo realizado.
+
+En los siguientes puntos, detallaremos las herramientas, convenciones, referencias y configuraciones empleadas a lo
+largo del desarrollo del proyecto, los cuales contribuyeron a mantener la base en el trabajo realizado.
 
 ### 5.1.1. Software Development Environment Configuration.
 
 Figma: https://www.figma.com/
 
-Es una herramienta visual, donde diseñamos el prototipo de la pagina web. Se usó para crear los wireframes, mock-ups, asi como los desktop and mobile application del proyecto.
+Es una herramienta visual, donde diseñamos el prototipo de la pagina web. Se usó para crear los wireframes, mock-ups,
+asi como los desktop and mobile application del proyecto.
 
 LucidChart: https://lucid.app/
 
-Es una plataforma, la cual tiene opciones que nos ayudaron en la creación de diagramas, mapas y flujos usando plantillas y tableros. Fue usado en el deasarollo del Diagram class, también para los Wireflows and User Flow.
+Es una plataforma, la cual tiene opciones que nos ayudaron en la creación de diagramas, mapas y flujos usando plantillas
+y tableros. Fue usado en el deasarollo del Diagram class, también para los Wireflows and User Flow.
 Landing Page
 
-
 Software Development
-Para el desarollo de la landing page, se usaron las tecnologías basicas del desarrollo web: HTML, CSS Y JS. Añadiendole frameworks como lo es Tailwind css para facilitar el desarrollo de la misma.
+Para el desarollo de la landing page, se usaron las tecnologías basicas del desarrollo web: HTML, CSS Y JS. Añadiendole
+frameworks como lo es Tailwind css para facilitar el desarrollo de la misma.
 
 Frontend Web Applications
 
@@ -761,7 +765,8 @@ Para el desarrollo del Frontend (aplicación web) se usó HTML5, CSS3 Y JS. Aña
 
 Web Services
 
-Para el desarrollo del servicio web, se utilizó Java junto con Spring Boot. Asi como un RESTful API style para la parte de la arquitectura.
+Para el desarrollo del servicio web, se utilizó Java junto con Spring Boot. Asi como un RESTful API style para la parte
+de la arquitectura.
 
 Software Deployment
 
@@ -773,42 +778,53 @@ Software Documentation
 
 Vertabelo: https://vertabelo.com/
 
-Es una herramienta online la cual ayuda en el desarrollo y creacion de base de datos. Se usó para la base de datos del proyecto.
-
+Es una herramienta online la cual ayuda en el desarrollo y creacion de base de datos. Se usó para la base de datos del
+proyecto.
 
 Structurizr: https://www.structurizr.com/
 
-Esta plataforma permite el modelado de diagramas de arquitectura de software. Así creamos el modelo C4 de todo el proyecto.
+Esta plataforma permite el modelado de diagramas de arquitectura de software. Así creamos el modelo C4 de todo el
+proyecto.
 
 ### 5.1.2. Source Code Management.
 
-Para la gestion y actualización del proyecto, se creó una organizacion vía GitHub, en la cual se iba registrando las modificaciones y actualizaciones del proyecto a lo largo de su creación y ciclo de vida. Se organizó de la siguiente manera:
+Para la gestion y actualización del proyecto, se creó una organizacion vía GitHub, en la cual se iba registrando las
+modificaciones y actualizaciones del proyecto a lo largo de su creación y ciclo de vida. Se organizó de la siguiente
+manera:
 
-Organization: https://github.com/upc-pre-20241-si729-wx55-eabmodel 
+Organization: https://github.com/upc-pre-20241-si729-wx55-eabmodel
 Landing Page Repository: https://github.com/upc-pre-20241-si729-wx55-eabmodel/landing-page
 Report Repository: https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project
-Para controlar de manera eficiente los cambios en el codigo, usamos GitFlow para definir el flujo de trabajo, siendo creada las dos ramas principales:
+Para controlar de manera eficiente los cambios en el codigo, usamos GitFlow para definir el flujo de trabajo, siendo
+creada las dos ramas principales:
 
-master: También llamada "main", es donde se encuentra la versión más estable y lista del proyecto que van a pasar a producción.
+master: También llamada "main", es donde se encuentra la versión más estable y lista del proyecto que van a pasar a
+producción.
 branches: Contiene las features, va a la par con el "main"
 
 Ramas auxiliares:
 
-feature: Son las ramas donde se desarrollan las funcionalidades del proyecto. Luego de completarlas, se fusionan con la rama branch.
+feature: Son las ramas donde se desarrollan las funcionalidades del proyecto. Luego de completarlas, se fusionan con la
+rama branch.
 
-La nomenclatura para los features fueron las siguientes: feature/name. Por ejemplo, feature/sign-in, para ingresar a la aplicación web.
+La nomenclatura para los features fueron las siguientes: feature/name. Por ejemplo, feature/sign-in, para ingresar a la
+aplicación web.
 
-release: Son las ramas donde se prepara la próxima versión del programa. En esta, se realizan las pruebas finales y se corrigen pequeños errores antes del lanzamiento definitivo. Finalizado este proceso, los cambios se fusionan con la rama develop, y luego a la rama main.
+release: Son las ramas donde se prepara la próxima versión del programa. En esta, se realizan las pruebas finales y se
+corrigen pequeños errores antes del lanzamiento definitivo. Finalizado este proceso, los cambios se fusionan con la rama
+develop, y luego a la rama main.
 
-Se utilizó el formato "feature/chapter n" para la nomenclatura de las versiones del proyecto, por ejemplo: "release/x.y.z". En donde:
+Se utilizó el formato "feature/chapter n" para la nomenclatura de las versiones del proyecto, por ejemplo: "
+release/x.y.z". En donde:
 
 X, Y y Z son números enteros positivos, donde cada uno se incrementa de manera numérica.
 
 Commit Conventions
 
-Para el formato de los commits se siguió la estructura de Conventional Commits 1.0.0, la cual tiene la siguiente estructura:
+Para el formato de los commits se siguió la estructura de Conventional Commits 1.0.0, la cual tiene la siguiente
+estructura:
 
- ``` < type > [optional scope]: < description > ```
+``` < type > [optional scope]: < description > ```
 Donde:
 
 type: Es el tipo de cambio. Tenemos valores como: fix, feat, build, chore, ci, docs, style, refactor, perf, test, etc.
@@ -817,28 +833,115 @@ description: Menciona las actualizaciones del codigo.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-Para el desarrollo del código en HTML y CSS se decidió seguir la convención de Google HTML/CSS Style Guide. Entre las más importantes destacan:
+Para el desarrollo del código en HTML y CSS se decidió seguir la convención de Google HTML/CSS Style Guide. Entre las
+más importantes destacan:
 
 El tipo de documento debe especificarse al principio del archivo mediante el uso de meta tags.
-El elemento <title> debe estar dentro de las etiquetas <head>.
-La sangría debe tener dos espacios. 
+El elemento `<title>` debe estar dentro de las etiquetas `<head>`.
+La sangría debe tener dos espacios.
 Debe utilizar letras minúsculas para elementos HTML, atributos, propiedades, valores y selectores de CSS.
-Los atributos de los elementos HTML deben estar entre comillas. Cada elemento HTML debe tener su correspondiente etiqueta de cierre.
-Se recomienda evitar largas líneas de código. Es importante indicar el ancho y alto de las imágenes, así como el texto alternativo (alt).
-Para el código JavaScript, seguimos la convención de la Guía de estilo Java de Google de terminar cada línea con un punto y coma, usar Camelcase para variables y funciones y encerrar valores de cadena entre comillas simples.
-Al desarrollar pruebas de aceptación con el lenguaje Gherkin, se utilizan las "Convenciones de Gherkin para especificaciones legibles", que incluyen palabras clave como "Dar", "Cuándo", "Entonces" y "Y", sangría específica y comentarios separadores.
-Java sigue el estándar Google Java Style Guid, que determina el formato de los nombres de paquetes, clases y métodos, la sangría de la tabla, la división de líneas largas y los nombres de archivos Java que coinciden con el nombre de la clase. contenida en el mismo. 
+Los atributos de los elementos HTML deben estar entre comillas. Cada elemento HTML debe tener su correspondiente
+etiqueta de cierre.
+Se recomienda evitar largas líneas de código. Es importante indicar el ancho y alto de las imágenes, así como el texto
+alternativo (alt).
+Para el código JavaScript, seguimos la convención de la Guía de estilo Java de Google de terminar cada línea con un
+punto y coma, usar Camelcase para variables y funciones y encerrar valores de cadena entre comillas simples.
+Al desarrollar pruebas de aceptación con el lenguaje Gherkin, se utilizan las "Convenciones de Gherkin para
+especificaciones legibles", que incluyen palabras clave como "Dar", "Cuándo", "Entonces" y "Y", sangría específica y
+comentarios separadores.
+Java sigue el estándar Google Java Style Guid, que determina el formato de los nombres de paquetes, clases y métodos, la
+sangría de la tabla, la división de líneas largas y los nombres de archivos Java que coinciden con el nombre de la
+clase. contenida en el mismo.
 Se recomienda insertar un salto de línea después de cada declaración.
 
 ### 5.1.4. Software Deployment Configuration.
 
-Configuraciones de donde y como deployeamos el proyecto
+En esta sección, nos enfocaremos en desplegar nuestra Landing Page utilizando el servicio automatizado de Netlify. Para
+alcanzar este objetivo, detallaremos los pasos necesarios para lograrlo.
 
+1. Debemos tener el repositorio de la Landing Page en GitHub.
+![img.png](assets/software-deployment/github-repo.png)
+2. Debemos iniciar session en https://www.netlify.com/ o crear una cuenta si no la tenemos.
+![img.png](assets/software-deployment/netlify-login.png)
+3. Una vez dentro de la plataforma, seleccionamos la opción 'Sites" y en 'Add new site' seleccionamos 'Import an existing project'.
+![img.png](assets/software-deployment/netlify-add-site.png)
+4. Seleccionamos Deploy with Github y autorizamos a Netlify a acceder a nuestros repositorios.
+![img.png](assets/software-deployment/netlify-deploy-from-github.png)
+5. Seleccionamos la cuenta u organización y buscamos el repositorio de la Landing Page.
+![img.png](assets/software-deployment/netlify-select-repository.png)
+6. Por ultimo asinamos el nombre del proyecto y seleccionamos el branch, en este caso 'develop' y damos click en 'Deploy site'.
+![img.png](assets/software-deployment/netlify-deploy-site.png)
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.X. Sprint n
+## 5.2.1 Spring 1
 
-#### 5.2.X.1. Sprint Planning n.
+#### 5.2.1.1 Sprint Planning 1
+
+A continuación, se presentará el sprint planning 1 donde se mostrarán las evidencias de planificación e implementación
+del landing page.
+
+**Sprint Backlog 1**
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 8/04/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 14:00 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Modalidad remota por Discord.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Eabmodel Team
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Todos los miembros del equipo eabmodel.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 0 Review Summary</td>
+            <td> Dado que es nuestro primer sprint de desarrollo no existe
+                un summary del sprint anterior.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td>
+        Durante este sprint, el objetivo es crear el landing page empleando HTML, CSS, JavaScript y Bootstrap. También se abordaron las conversaciones sobre el contenido textual que se integrará en el landing page, así como el diseño previamente establecido en Figma. Al término de este sprint, el landing page debe estar activo en Netlify, permitiendo que cualquier usuario acceda y visualice la página a través del enlace proporcionado.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 1 Velocity</td>
+            <td> 8
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story Points</td>
+            <td> 8
+            <td>
+        </tr>
+    </tbody>
+</table>
 
 Explicar como vamos a plannear el sprint?
 
@@ -957,8 +1060,3 @@ formato
 datos, gráficos, imágenes, esquemas, mapas o referencias de otros autores
 
 ![Imagen de algo no nuestro lol](image.jpg)
-
-
-
-
-
