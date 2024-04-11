@@ -560,10 +560,10 @@ Bad:
 
 **Segmento 1:**
 
-![Empathy Map S1](/assets/empathymaps/Empathy-map-Manager.png)
+![Empathy Map S1](assets/empathymaps/Empathy-map-Manager.png)
 **Segmento 2:**
 
-![Empathy Map S2](/assets/empathymaps/Empathy-map-Empleado.png)
+![Empathy Map S2](assets/empathymaps/Empathy-map-Empleado.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
@@ -686,14 +686,14 @@ Los siguientes elementos se han cosiderado para mejorar la experiencia del usuar
 
 **Color:** Para los colores hemos elegido un esquema monocromatico del color #81c9fa
 
-![Colores Generales](/assets/StyleGuidelines/colores.png)
+![Colores Generales](assets/StyleGuidelines/colores.png)
 
 Se eligieron este esquema debido a como el color azul y blanco representan un entorno ordenado, relajado y poco complejo
 que son caracteristicas las cuales ayudaran con los procesos de gestion que pueden llegar a ser estresantes o caoticos.
 
 **Tipografia:** Para la tipografia se esta usando Roboto principalmente por su simplicidad y popularidad en las paginas
 web, representa bien las letras y hace que nuestro texto se vea ordenado sin verse abrumador.
-![Tipografias generales](/assets/StyleGuidelines/roboto.png)  
+![Tipografias generales](assets/StyleGuidelines/roboto.png)  
 **Branding** Nuestro logotipo se muestra como unas llaves de hotel junto con el nombre del producto InnControl, pensamos
 en un logo minimalista que con el hecho de verse el logo se pueda distinguir quienes somos.
 
@@ -774,12 +774,12 @@ dashboard o los labels en el nav bar el usuario se redirija a la seccion selecio
 
 ### 4.3.1. Landing Page Wireframe.
 
-![Landing page Wireframe](/assets/StyleGuidelines/Lan-Wireframe.png)
+![Landing page Wireframe](assets/StyleGuidelines/Lan-Wireframe.png)
 
 ### 4.3.2. Landing Page Mock-up.
 
 Mockup es todo lo relacionado al diseño de la pagina
-![Landing page mockup](/assets/StyleGuidelines/Lan-Mockup.png)
+![Landing page mockup](assets/StyleGuidelines/Lan-Mockup.png)
 
 ## 4.4. Web Applications UX/UI Design.
 
@@ -914,7 +914,7 @@ Employees Mockup
 
 Se presenta una idea de como se ven los demas user flow diagrams en base a este user flow diagram.
 
-![Web Aplication User Flow Diagram](/assets/userflow/userflow.jpg)
+![Web Aplication User Flow Diagram](assets/userflow/userflow.jpg)
 
 ## 4.5. Web Applications Prototyping.
 
@@ -924,27 +924,27 @@ Se presenta una idea de como se ven los demas user flow diagrams en base a este 
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-![ContextDiagram](/assets/SoftwareArchitecture/ContextDiagram/structurizr-84133-SystemContext-001.png)
+![ContextDiagram](assets/SoftwareArchitecture/ContextDiagram/structurizr-84133-SystemContext-001.png)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-![ContainerDiagram](/assets/SoftwareArchitecture/ContainerDiagram/structurizr-84133-Container-001.png)
+![ContainerDiagram](assets/SoftwareArchitecture/ContainerDiagram/structurizr-84133-Container-001.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-![ComponentDiagram-1](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-001.png)
+![ComponentDiagram-1](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-001.png)
 
-![ComponentDiagram-2](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-002.png)
+![ComponentDiagram-2](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-002.png)
 
-![ComponentDiagram-3](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-003.png)
+![ComponentDiagram-3](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-003.png)
 
-![ComponentDiagram-4](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-004.png)
+![ComponentDiagram-4](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-004.png)
 
-![ComponentDiagram-5](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-005.png)
+![ComponentDiagram-5](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-005.png)
 
-![ComponentDiagram-6](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-006.png)
+![ComponentDiagram-6](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-006.png)
 
-![ComponentDiagram-7](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-007.png)
+![ComponentDiagram-7](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-007.png)
 
 ## 4.7. Software Object-Oriented Design.
 
@@ -973,7 +973,7 @@ Encapsulation (state es privado porque solo se debe de modificar el estado mas n
 
 [link vertabelo](https://my.vertabelo.com/public-model-view/7nlLmEzWRwMOp0eaZolkVYXfwkPf61HMA215NLXEs0zbWJcZ03aSFWAfQmF9BJ6i?x=2904&y=3359&zoom=0.4906)
 
-![imgDatabaseDesign](/assets/DatabaseDesign/database.jpg)
+![imgDatabaseDesign](assets/DatabaseDesign/database.jpg)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
