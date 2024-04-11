@@ -775,8 +775,9 @@ Employees Mockup
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
-un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
-![Web Aplication User Flow Diagram](image.jpg)
+Se presenta una idea de como se ven los demas user flow diagrams en base a este user flow diagram.
+
+![Web Aplication User Flow Diagram](/assets/userflow/userflow.jpg)
 
 ## 4.5. Web Applications Prototyping.
 
