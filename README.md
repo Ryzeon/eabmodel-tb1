@@ -600,15 +600,9 @@ De sistema de Organizacion usaremos un sistema Sequencial donde el usuario deber
 
 ### 4.2.2. Labeling Systems.
 
-The labeling system aims at uniting the data effectively and represent them in simple way and avoid confusing great
-amount of information. A widely adopted way to achieve this is by creating the labels which represent loads of data in
-few words.
+Los lables se usan para representar muchos datos en pocas palabras para este proyecto decidimos que nuestros labels principales son Inventory, Tasks, RoomStates, Messages y Employees
 
-Como decir "home, about us, etc" basicamente lo que iria en un nav var y asi
-
-Como labels vamos a tener diferentes palabras cortas como "home, about us, pricing, contact, us y sign up en la landing page.
-
-En el web app vamos a tener como los principales labels rooms staes, tasks, employees, inventory, messages.
+De esta manera sera facil de reconocer y entender
 
 ### 4.2.3. SEO Tags and Meta Tags
 
@@ -623,7 +617,6 @@ En el web app vamos a tener como los principales labels rooms staes, tasks, empl
 **Que se busca?:** El Usuario quiere buscar un empleado en especifico  
 **Que resultados se mostraran?:** Se debe de mostrar el empleado con su codigo y tarea activa
 **Interface de busqueda:** En la seccion de inicio se observara un dashboard con todas las funcionalidades de manera resumida en estilo card, asimismo en un nav bar se encontraran los nombres de las funcionalidades. Adicionalmente en la seccion de empleados se observara una lupa que sera el indicador de la interface de busqueda. cada seccion debe de tener su lupa para poder buscar cuartos, items, empleados o tareas especificas.
-![Search interface preview web](image.jpg)
 
 ### 4.2.5. Navigation Systems.
 
@@ -729,7 +722,7 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 
 ## 4.5. Web Applications Prototyping.
 
-[URL del Prototipo (Hecho en figma)](https://www.example.com)
+[URL del Prototipo (Hecho en figma)](https://www.figma.com/file/dFBkafkPplF301rbQ3hh8t/Untitled?type=design&node-id=0%3A1&mode=design&t=rX9ozCzhstSDIBxh-1)
 
 ## 4.6. Domain-Driven Software Architecture.
 
@@ -744,7 +737,6 @@ un flow diagram de como el usuario utilizara la pagina **[PARA CADA USER GOAL]**
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-![ComponentDiagram-1](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-001.png)  
 
 ![ComponentDiagram-2](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-002.png)  
 
