@@ -720,8 +720,58 @@ User goals : Como gerente, quiero poder asignar tareas a los empleados para dist
    
 ### 4.4.3. Web Applications Mock-ups.
 
+#### 4.4.3.1 Desktop Mock-ups.
+
+Menu Mockup
+
+<img src="assets\WebApplicationsMockups\desktop\menu-mockup.png" alt="Menu mockup" width="1400" height="1021">
+
+Rooms Mockup
+
+<img src="assets\WebApplicationsMockups\desktop\rooms-mockup.png" alt="Rooms mockup" width="1400" height="1021">
+
+Task Mockup
+
+<img src="assets\WebApplicationsMockups\desktop\tasks-mockup.png" alt="Tasks mockup" width="1400" height="1021">
+
+Inventory Mockup
+
+<img src="assets\WebApplicationsMockups\desktop\inventory-mockup.png" alt="Inventory mockup" width="1400" height="1021">
+
+Messages Mockup
+
+<img src="assets\WebApplicationsMockups\desktop\messages-mockup.png" alt="Messages mockup" width="1400" height="1021">
+
+Employees Mockup
+
+<img src="assets\WebApplicationsMockups\desktop\employees-mockup.png" alt="Employees mockup" width="1400" height="1021">
+
+#### 4.4.3.2 Mobile Mock-ups.
 Diseño en todo aspecto
-![Web Aplication Mockup](image.jpg)
+
+Menu Mockup
+
+<img src="assets\WebApplicationsMockups\mobile\menu-mobile-mockup.png" alt="Menu mockup" width="420" height="900">
+
+Rooms Mockup
+
+<img src="assets\WebApplicationsMockups\mobile\rooms-mobile-mockup.png" alt="Rooms mockup" width="420" height="900">
+
+Task Mockup
+
+<img src="assets\WebApplicationsMockups\mobile\tasks-mobile-mockup.png" alt="Tasks mockup" width="420" height="900">
+
+Inventory Mockup
+
+<img src="assets\WebApplicationsMockups\mobile\inventory-mobile-mockup.png" alt="Inventory mockup" width="420" height="900">
+
+Messages Mockup
+
+<img src="assets\WebApplicationsMockups\mobile\messages-mobile-mockup.png" alt="Messages mockup" width="420" height="900">
+
+Employees Mockup
+
+<img src="assets\WebApplicationsMockups\mobile\employees-mobile-mockup.png" alt="Employees mockup" width="420" height="900">
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
