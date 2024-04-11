@@ -446,7 +446,7 @@ Segmento 2:
 | HUX  | Historia de Usuario                                          | Descripción                                                                                           |
 |------|----------------------------------------------------------------|-------------------------------------------------------------------------------------------------------|
 | HU01 | Actualizar las habitaciones disponibles | Como gerente, quiero poder agregar nuevas habitaciones para mantener actualizado el inventario de habitaciones disponibles. |
-| HU02          | Creación de tareas para empleados | Como gerente, quiero poder agregar nuevas habitaciones para mantener actualizado el inventario de habitaciones disponibles. |
+| HU02          | Creación de tareas para empleados | Como gerente, quiero poder asignar tareas a los empleados para distribuir eficientemente las responsabilidades y asegurarme de que las tareas se completen de manera oportuna y efectiva. |
 | HU03          | Notificaciones de inventario |Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros. |
 | *HU04        | Información del desempeño |Como gerente, quiero generar informes de desempeño del personal [revisar en grupo] Para evaluar el rendimiento de los empleados y tomar decisiones basadas en datos.    |
 | HU05          | Lista de habitaciones ocupadas en tiempo real |Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones. |
