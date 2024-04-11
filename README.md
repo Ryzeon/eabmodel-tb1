@@ -377,7 +377,7 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 3. ¿A qué se dedica?
 4. ¿Que browser y dispositivos usa?
 
-**Entrevistas usuario segmento 2**
+**Entrevistas usuario segmento 1**
 
 1. Que opiniones tiene respecto a la digitalizacion de los sitemas de gestion en hoteles o modelos de negocio parecidos?
 2. ¿Como le hace saber a los empleados que tareas deben hacer?
@@ -389,7 +389,7 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 
 1. ¿Que opiniones tiene del area laboral en el entorno de Hoteleria/Hostales?
 2. ¿Como consigues la informacion de que tareas debes de realizar?
-3. ¿Como notificas a tu supervizor de alguna falta de inventario?
+3. ¿Como notificas a tu supervisor de alguna falta de inventario?
 4. ¿Mantienes una comunicacion efectiva con el gerente/supervizor en horas laborales?
 5. ¿Que frustraciones y objetivos tienes en tu area laboral?
 
@@ -397,28 +397,52 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 
 **Segmento 1**  
 Nombre: Elisa Rivero Del Rio
+<br>
 Edad: 55 años
-Ocupación: Gerencia de Hoteles  
-![Imagen de entrevistaS1](/assets/interviewsimages/EntrevistaS2P.png)  
+<br>
+Ocupación: Gerencia de Hoteles
+<br>
+![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaS2P.png)  
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=wsbDs5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 Elisa nos comenta como en su area laboral de gestion ya existen softwares de gestion pero estos estan orientados a la contabilidad, menciona igualmente que un software orientado al manejo de tareas para el dia seria util para la gerencia de estos modelos de negocios.
 
+Nombre: Catalina Paredes
+<br>
+Edad: 25 años
+<br>
+Ocupación: Gerencia de Hoteles
+<br>
+![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaCatalina.png)  
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/Ef4Ze3ZRF69HvFOvKfLItfkBqF2IcPwC7-of_nVp7rDdlA?e=fNPhXd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<br>
+Catalina Esteras, gerente del Hotel Royal Inca, 
+comparte sus perspectivas sobre la digitalización de los sistemas de gestión hotelera y la distribución de tareas entre empleados. 
+Destaca la necesidad de mejorar la comunicación interna y la organización del inventario de productos de limpieza. 
+Reconoce que la comunicación entre diferentes niveles de personal aún enfrenta desafíos, lo que a veces resulta en pérdida de tiempo. 
+Además, menciona como frustraciones la falta de comunicación efectiva y la dificultad con la base de datos en Excel, mientras que sus objetivos laborales incluyen mejorar la eficiencia del servicio y evitar problemas recurrentes para los clientes.
+
 **Segmento 2**  
 Nombre: Arian Godinez Vargas
+<br>
 Edad: 20 años
+<br>
 Ocupación: Empleado de Hotel (limpieza)  
-![Imagen de entrevistaS2.1](/assets/interviewsimages/EntrevistaAS2.png)
+<br>
+![Imagen de entrevistaS2.1](assets/interviewsimages/EntrevistaAS2.png)
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=wsbDs5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 En la entrevista Arian nos relata como es un dia laboral para el como staff en un Hotel el cual prefiere que mantengamos anonimo, nos habla un poco preocupado pero con la suficiente confianza para comentarnos de los inconvenientes que sufre el, junto a sus colegas respecto a los sistemas de comunicacion entre los empelados y supervizores y de como deben usar herramientas obsoletas para intentar manejarse. 
 
-![Imagen de entrevistaS2.2](/assets/interviewsimages/EntrevistaES2.png) 
+![Imagen de entrevistaS2.2](assets/interviewsimages/EntrevistaES2.png) 
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202211894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211894_upc_edu_pe%2FDocuments%2FOpenSource%2FEntrevistaES2%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)  
 En la entrevista Esau nos menciona como practicante de un hotel, los metodos que se usan para la comunicacion y gestion de empleados donde se se usa Whatsapp como herramienta para entregar tareas y comunicarse con el gerente. Mas tambien nos menciona como este sistema puede generar problemas especialmente cuando estas estructuras son grandes y tienen una alta cantidad de empleados.
 
 Nombre: Nicola Estefan Romero
+<br>
 Edad: 22 años
+<br>
 Ocupación: Empleado de Hotel 
-![Imagen de entrevistaS2.3](/assets/interviewsimages/EntrevistaArS1.png) 
+<br>
+![Imagen de entrevistaS2.3](assets/interviewsimages/EntrevistaArS1.png) 
 [URL de la entrevistaS2.3](https://upcedupe-my.sharepoint.com/personal/u202211894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211894_upc_edu_pe%2FDocuments%2FOpenSource%2FEntrevistaArS1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)  
 En esta ocacion Nicola cuenta como se hace uso de Whatsapp como herramienta y de como debe de hacer un proceso complicado para notificar respecto al inventario al gestor, de esta misma manera tambien menciona como se van cambiando los turnos y tipos de asignaturas lo que representa que no siempre estara haciendo lo mismo.
 
