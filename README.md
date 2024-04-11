@@ -46,6 +46,8 @@
 
 [URL del repositorio](https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project)
 
+
+
 (Imagenes de los commits cada entrega)
 
 # Contenido
@@ -357,22 +359,26 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 
 **Competitive Analysis Landscape**
 
-| ¿Por qué llevar a cabo este análisis? | Nosotros                                                                                                                                                                                                      | Cloudbeds                                                                                                                                                    | SiteMinder                                                                                                                                                                                          |
-|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Overview**                          | Nuestra startup está enfocada en desarrollar una plataforma integral para la gestión eficiente de negocios relacionados con la administración de habitaciones, con un enfoque en la industria hotelera.       | Cloudbeds ofrece una solución de gestión hotelera basada en la nube que incluye herramientas para la administración de propiedades, reservas y distribución. | SiteMinder proporciona una plataforma de distribución hotelera y una suite de herramientas de gestión que incluyen gestión de tarifas, disponibilidad de habitaciones y canal de reservas en línea. |
-| **Ventaja Competitiva**               | Nuestra plataforma ofrece una solución integral que abarca desde la gestión de habitaciones hasta la comunicación interna y la generación de informes de desempeño del personal.                              | Cloudbeds se destaca por su interfaz fácil de usar y su capacidad para integrarse con una amplia gama de sistemas y servicios de terceros.                   | SiteMinder se enfoca en maximizar la visibilidad en línea y la distribución de habitaciones a través de una amplia red de canales de reserva.                                                       |
-| **Mercado Objetivo**                  | Nos dirigimos a hoteles independientes y pequeñas cadenas hoteleras que buscan mejorar su eficiencia operativa y experiencia del cliente.                                                                     | Cloudbeds se enfoca en hoteles boutique y propiedades independientes que buscan una solución completa de gestión hotelera en la nube.                        | SiteMinder atiende a hoteles de todos los tamaños, desde pequeños establecimientos independientes hasta grandes cadenas hoteleras.                                                                  |
-| **Perfil de Marketing**               | Nuestra estrategia de marketing se centra en la promoción de nuestra plataforma a través de redes sociales y asociaciones con organizaciones de la industria hotelera.                                        | Cloudbeds utiliza estrategias de marketing digital y participa en eventos de la industria para promover su marca y sus soluciones.                           | SiteMinder utiliza una combinación de marketing en línea y fuera de línea, incluidas campañas en redes sociales y publicidad en eventos de la industria.                                            |
-| **Perfil del Producto**               | Ofrecemos una variedad de herramientas y servicios, desde la gestión de habitaciones hasta la generación de informes de desempeño del personal, todo dentro de una plataforma fácil de usar y personalizable. | Cloudbeds ofrece funcionalidades como gestión de reservas, administración de canales de distribución y herramientas de informes en una interfaz intuitiva.   | SiteMinder proporciona herramientas para gestionar tarifas, disponibilidad de habitaciones y reservas en línea, junto con análisis y generación de informes.                                        |
+| ¿Por qué llevar a cabo este análisis? | Nosotros | Cloudbeds | SiteMinder |
+|---------------------------------------|----------|-----------|------------|
+| **Overview**                          | Nuestra startup está enfocada en desarrollar una plataforma integral para la gestión eficiente de negocios relacionados con la administración de habitaciones, con un enfoque en la industria hotelera. | Cloudbeds ofrece una solución de gestión hotelera basada en la nube que incluye herramientas para la administración de propiedades, reservas y distribución. | SiteMinder proporciona una plataforma de distribución hotelera y una suite de herramientas de gestión que incluyen gestión de tarifas, disponibilidad de habitaciones y canal de reservas en línea. |
+| **Ventaja Competitiva**               | Nuestra plataforma ofrece una solución integral que abarca desde la gestión de habitaciones hasta la comunicación interna y la generación de informes de desempeño del personal. | Cloudbeds se destaca por su interfaz fácil de usar y su capacidad para integrarse con una amplia gama de sistemas y servicios de terceros. | SiteMinder se enfoca en maximizar la visibilidad en línea y la distribución de habitaciones a través de una amplia red de canales de reserva. |
+| **Mercado Objetivo**                  | Nos dirigimos a hoteles independientes y pequeñas cadenas hoteleras que buscan mejorar su eficiencia operativa y experiencia del cliente. | Cloudbeds se enfoca en hoteles boutique y propiedades independientes que buscan una solución completa de gestión hotelera en la nube. | SiteMinder atiende a hoteles de todos los tamaños, desde pequeños establecimientos independientes hasta grandes cadenas hoteleras. |
+| **Perfil de Marketing**               | Nuestra estrategia de marketing se centra en la promoción de nuestra plataforma a través de redes sociales y asociaciones con organizaciones de la industria hotelera. | Cloudbeds utiliza estrategias de marketing digital y participa en eventos de la industria para promover su marca y sus soluciones. | SiteMinder utiliza una combinación de marketing en línea y fuera de línea, incluidas campañas en redes sociales y publicidad en eventos de la industria. |
+| **Perfil del Producto**               | Ofrecemos una variedad de herramientas y servicios, desde la gestión de habitaciones hasta la generación de informes de desempeño del personal, todo dentro de una plataforma fácil de usar y personalizable. | Cloudbeds ofrece funcionalidades como gestión de reservas, administración de canales de distribución y herramientas de informes en una interfaz intuitiva. | SiteMinder proporciona herramientas para gestionar tarifas, disponibilidad de habitaciones y reservas en línea, junto con análisis y generación de informes. |
+| **Precios
+
 
 ## 2.1.2. Estrategias y Tácticas Frente a Competidores
 
- **Análisis SWOT** | Nosotros                                                                                                                                                                                                                                                                                            | Cloudbeds                                                                                                                                                                                                                                          | SiteMinder                                                                                                                                                                                                                                                                                                                                           
--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- **Fortalezas**    | Nuestra plataforma ofrece una solución integral y fácil de usar para la gestión de habitaciones y la comunicación interna. Además, nos destacamos por nuestra flexibilidad de precios y personalización de características.                                                                         | Cloudbeds tiene una interfaz intuitiva y se integra fácilmente con otros sistemas y servicios de terceros, lo que la convierte en una solución atractiva para hoteles independientes.                                                              | SiteMinder cuenta con una amplia red de distribución y visibilidad en línea, lo que ayuda a aumentar las reservas y la ocupación de habitaciones para los hoteles.                                                                                                                                                                                   
- **Debilidades**   | Como una startup emergente, podemos enfrentar desafíos en términos de reconocimiento de marca y alcance de mercado en comparación con competidores establecidos como Cloudbeds y SiteMinder.                                                                                                        | Cloudbeds puede tener tarifas de suscripción más altas en comparación con otras soluciones, lo que puede limitar su atractivo para hoteles con presupuestos ajustados.                                                                             | SiteMinder puede enfrentar desafíos en la retención de clientes debido a la competencia en el mercado de distribución hotelera en línea.                                                                                                                                                                                                             
- **Oportunidades** | Existe un mercado creciente de hoteles independientes y pequeñas cadenas hoteleras que buscan soluciones integrales y asequibles para mejorar su eficiencia operativa.                                                                                                                              | Cloudbeds puede expandir su alcance a través de asociaciones estratégicas con proveedores de servicios turísticos y organizaciones de la industria.                                                                                                | SiteMinder puede explorar nuevas oportunidades de crecimiento mediante la expansión a mercados emergentes y el desarrollo de características innovadoras para sus clientes.                                                                                                                                                                          
- **Amenazas**      | La competencia en el mercado de gestión hotelera puede intensificarse, lo que podría dificultar la adquisición de clientes y la retención en el futuro. Además, los cambios en las preferencias del consumidor y las regulaciones gubernamentales pueden afectar la demanda de servicios hoteleros. | Cloudbeds puede enfrentar amenazas de nuevos competidores que ingresan al mercado con soluciones similares pero más económicas. Además, los cambios en la tecnología y la regulación pueden afectar la demanda y la rentabilidad de sus servicios. | SiteMinder puede enfrentar amenazas de la consolidación en la industria hotelera y la competencia de grandes OTAs (agencias de viajes en línea) que ofrecen servicios similares de distribución de habitaciones. Además, los cambios en los algoritmos de búsqueda en línea pueden afectar la visibilidad de los hoteles que utilizan su plataforma. 
+
+
+**Análisis SWOT** | Nosotros | Cloudbeds | SiteMinder
+--- | --- | --- | ---
+**Fortalezas** | Nuestra plataforma ofrece una solución integral y fácil de usar para la gestión de habitaciones y la comunicación interna. Además, nos destacamos por nuestra flexibilidad de precios y personalización de características. | Cloudbeds tiene una interfaz intuitiva y se integra fácilmente con otros sistemas y servicios de terceros, lo que la convierte en una solución atractiva para hoteles independientes. | SiteMinder cuenta con una amplia red de distribución y visibilidad en línea, lo que ayuda a aumentar las reservas y la ocupación de habitaciones para los hoteles.
+**Debilidades** | Como una startup emergente, podemos enfrentar desafíos en términos de reconocimiento de marca y alcance de mercado en comparación con competidores establecidos como Cloudbeds y SiteMinder. | Cloudbeds puede tener tarifas de suscripción más altas en comparación con otras soluciones, lo que puede limitar su atractivo para hoteles con presupuestos ajustados. | SiteMinder puede enfrentar desafíos en la retención de clientes debido a la competencia en el mercado de distribución hotelera en línea.
+**Oportunidades** | Existe un mercado creciente de hoteles independientes y pequeñas cadenas hoteleras que buscan soluciones integrales y asequibles para mejorar su eficiencia operativa. | Cloudbeds puede expandir su alcance a través de asociaciones estratégicas con proveedores de servicios turísticos y organizaciones de la industria. | SiteMinder puede explorar nuevas oportunidades de crecimiento mediante la expansión a mercados emergentes y el desarrollo de características innovadoras para sus clientes.
+**Amenazas** | La competencia en el mercado de gestión hotelera puede intensificarse, lo que podría dificultar la adquisición de clientes y la retención en el futuro. Además, los cambios en las preferencias del consumidor y las regulaciones gubernamentales pueden afectar la demanda de servicios hoteleros. | Cloudbeds puede enfrentar amenazas de nuevos competidores que ingresan al mercado con soluciones similares pero más económicas. Además, los cambios en la tecnología y la regulación pueden afectar la demanda y la rentabilidad de sus servicios. | SiteMinder puede enfrentar amenazas de la consolidación en la industria hotelera y la competencia de grandes OTAs (agencias de viajes en línea) que ofrecen servicios similares de distribución de habitaciones. Además, los cambios en los algoritmos de búsqueda en línea pueden afectar la visibilidad de los hoteles que utilizan su plataforma.
 
 ## 2.2. Entrevistas.
 
@@ -385,20 +391,19 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 3. ¿A qué se dedica?
 4. ¿Que browser y dispositivos usa?
 
-**Entrevistas usuario segmento 2**
+**Entrevistas usuario segmento 1**
 
 1. Que opiniones tiene respecto a la digitalizacion de los sitemas de gestion en hoteles o modelos de negocio parecidos?
 2. ¿Como le hace saber a los empleados que tareas deben hacer?
 3. ¿Como manejan el inventario de productos que utilizan tanto para limpieza como para los cuartos?
-4. ¿En su opinion cree que se mantiene una comunicacion constante y efectiva entre los gerentes/supervizores y los
-   empleados?
+4. ¿En su opinion cree que se mantiene una comunicacion constante y efectiva entre los gerentes/supervisores y los empleados?
 5. ¿Que frustraciones y objetivos/motivaciones tiene en su area laboral?
 
 **Entrevistas usuario segmento 2**
 
 1. ¿Que opiniones tiene del area laboral en el entorno de Hoteleria/Hostales?
 2. ¿Como consigues la informacion de que tareas debes de realizar?
-3. ¿Como notificas a tu supervizor de alguna falta de inventario?
+3. ¿Como notificas a tu supervisor de alguna falta de inventario?
 4. ¿Mantienes una comunicacion efectiva con el gerente/supervizor en horas laborales?
 5. ¿Que frustraciones y objetivos tienes en tu area laboral?
 
@@ -406,55 +411,82 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 
 **Segmento 1**  
 Nombre: Elisa Rivero Del Rio
+<br>
 Edad: 55 años
-Ocupación: Gerencia de Hoteles  
-![Imagen de entrevistaS1](/assets/)  
-{texto mucho}
+<br>
+Ocupación: Gerencia de Hoteles
+<br>
+![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaS2P.png)  
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=wsbDs5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+Elisa nos comenta como en su area laboral de gestion ya existen softwares de gestion pero estos estan orientados a la contabilidad, menciona igualmente que un software orientado al manejo de tareas para el dia seria util para la gerencia de estos modelos de negocios.
+
+Nombre: Catalina Paredes
+<br>
+Edad: 25 años
+<br>
+Ocupación: Gerencia de Hoteles
+<br>
+![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaCatalina.png)  
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/Ef4Ze3ZRF69HvFOvKfLItfkBqF2IcPwC7-of_nVp7rDdlA?e=fNPhXd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<br>
+Catalina Esteras, gerente del Hotel Royal Inca, 
+comparte sus perspectivas sobre la digitalización de los sistemas de gestión hotelera y la distribución de tareas entre empleados. 
+Destaca la necesidad de mejorar la comunicación interna y la organización del inventario de productos de limpieza. 
+Reconoce que la comunicación entre diferentes niveles de personal aún enfrenta desafíos, lo que a veces resulta en pérdida de tiempo. 
+Además, menciona como frustraciones la falta de comunicación efectiva y la dificultad con la base de datos en Excel, mientras que sus objetivos laborales incluyen mejorar la eficiencia del servicio y evitar problemas recurrentes para los clientes.
+
+Nombre: Ariana Valdivia
+<br>
+Edad: 23 años
+<br>
+Ocupación: Gerencia de hoteles
+<br>
+![Imagen de entrevistaS1](assets/interviewsimages/Entrevista-segmento1.png)
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210192_upc_edu_pe/EbcOtEjQSFNFhCflycuXypgB4tLtFUuJI_Ho4k7dC6P0KA?e=XbXG43&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<br>
+Ariana Valdivia, gerente del Hotel Oasis
+Comparte su punto de vista sobre la digitalización de los sistemas de gestion hotelera y la distribucion entre empleados y sus tareas-
+Menciona la importancia de la buena comunicación que tiene entre ella como gerente y sus emppleados.
+Reconoce sus problemas y frustraciones recalcando la importancia que tendría nuestra aplicación en su vida, ayudandole y facilitando la mejora en la gestión de procesos de su hotel.
 
 **Segmento 2**  
 Nombre: Arian Godinez Vargas
+<br>
 Edad: 20 años
-Ocupación: Empleado de Hotel   
-![Imagen de entrevistaS2.1](/assets/interviewsimages/EntrevistaAS2.png)
-[URL de la entrevista S2.1](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=wsbDs5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
-En la entrevista Arian nos relata como es un dia laboral para el como staff en un Hotel el cual prefiere que mantengamos
-anonimo, nos habla un poco preocupado pero con la suficiente confianza para comentarnos de los inconvenientes que sufre
-el, junto a sus colegas respecto a los sistemas de comunicacion entre los empelados y supervizores y de como deben usar
-herramientas obsoletas para intentar manejarse.
+<br>
+Ocupación: Empleado de Hotel (limpieza)  
+<br>
+![Imagen de entrevistaS2.1](assets/interviewsimages/EntrevistaAS2.png)
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=wsbDs5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+En la entrevista Arian nos relata como es un dia laboral para el como staff en un Hotel el cual prefiere que mantengamos anonimo, nos habla un poco preocupado pero con la suficiente confianza para comentarnos de los inconvenientes que sufre el, junto a sus colegas respecto a los sistemas de comunicacion entre los empelados y supervizores y de como deben usar herramientas obsoletas para intentar manejarse. 
 
-Nombre: Esau Carretero Benites
-Edad: 20 años
-Ocupación: Empleado de Hotel - Part time   
-![Imagen de entrevistaS2.2](/assets/interviewsimages/EntrevistaES2.png)
-[URL de la entrevista S2.2](https://upcedupe-my.sharepoint.com/personal/u202211894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211894_upc_edu_pe%2FDocuments%2FOpenSource%2FEntrevistaES2%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
-En la entrevista Esau nos menciona como practicante de un hotel, los metodos que se usan para la comunicacion y gestion
-de empleados donde se se usa Whatsapp como herramienta para entregar tareas y comunicarse con el gerente. Mas tambien
-nos menciona como este sistema puede generar problemas especialmente cuando estas estructuras son grandes y tienen una
-alta cantidad de empleados.
+![Imagen de entrevistaS2.2](assets/interviewsimages/EntrevistaES2.png) 
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202211894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211894_upc_edu_pe%2FDocuments%2FOpenSource%2FEntrevistaES2%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)  
+En la entrevista Esau nos menciona como practicante de un hotel, los metodos que se usan para la comunicacion y gestion de empleados donde se se usa Whatsapp como herramienta para entregar tareas y comunicarse con el gerente. Mas tambien nos menciona como este sistema puede generar problemas especialmente cuando estas estructuras son grandes y tienen una alta cantidad de empleados.
 
 Nombre: Nicola Estefan Romero
+<br>
 Edad: 22 años
-Ocupación: Empleado de Hotel
-![Imagen de entrevistaS2.3](/assets/interviewsimages/EntrevistaArS1.png)
-[URL de la entrevistaS2.3](https://upcedupe-my.sharepoint.com/personal/u202211894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211894_upc_edu_pe%2FDocuments%2FOpenSource%2FEntrevistaArS1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)
-En esta ocacion Nicola cuenta como
+<br>
+Ocupación: Empleado de Hotel 
+<br>
+![Imagen de entrevistaS2.3](assets/interviewsimages/EntrevistaArS1.png) 
+[URL de la entrevistaS2.3](https://upcedupe-my.sharepoint.com/personal/u202211894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211894_upc_edu_pe%2FDocuments%2FOpenSource%2FEntrevistaArS1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)  
+En esta ocacion Nicola cuenta como se hace uso de Whatsapp como herramienta y de como debe de hacer un proceso complicado para notificar respecto al inventario al gestor, de esta misma manera tambien menciona como se van cambiando los turnos y tipos de asignaturas lo que representa que no siempre estara haciendo lo mismo.
 
 ### 2.2.3. Análisis de entrevistas.
 
 **Segmento 1:**
-{texto}  
+En base al segmento uno se hace un analisis donde se llega a la conclusion de que la necesidad de una aplicacion orientada a la gestion de empleados y sus tareas son necesarias junto con un seguimiento de inventario para reducir los tiempos y mejorar la disponibilidad.  
 **Segmento 2:**
-En el segmento 2 notamos una tendencia en el aspecto de herramientas para la correcta comunicacion con el gerente y la
-notificacion de tareas completadas
+En base al segundo segmento se puede observar que la comunicacion si teien oportunidades de mejora, que el proceso de notificacion de inventario no esta completamente digitalizado y finalmente que recibir tareas y notificar del cumplimiento de estas es necesario.
 
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
 
-**Segmento 1:**
+**Segmento 1:**  
 <br/> <img src="https://i.imgur.com/krhyFim.png" style="width:60%"> 
-
-
 
 
 **Segmento 2:**
@@ -462,53 +494,67 @@ notificacion de tareas completadas
 
 ### 2.3.2. User Task Matrix.
 
-| ‎     | ‎                                             | Segmento 1  | Gerente    | Segmento 2  | empleado   |
-|-------|-----------------------------------------------|-------------|------------|-------------|------------|
-| ID    | Titulo                                        | Importancia | Frecuencia | Importancia | Frecuencia |
-| HU01  | Actualizar las habitaciones disponibles       | Alta        | Media      | Alta        | Alta       |
-| HU02  | Creación de tareas para empleados             | Alta        | Alta       | Alta        | Media      |
-| HU03  | Notificaciones de inventario                  | Alta        | Media      | Alta        | Media      |
-| *HU04 | Información del desempeño                     | Alta        | Media      | Alta        | baja       |
-| HU05  | Lista de habitaciones ocupadas en tiempo real | Alta        | Baja       | Alta        | Media      |
-| HU06  | Alertas de mantemiento                        | Alta        | Baja       | Alta        | Baja       |
-| HU07  | Informar del estado de habitaciones           | Media       | Media      | Alta        | Media      |
-| HU08  | Administrar permisos de los empleados         | Alta        | Media      | Alta        | Media      |
-| HU09  | Programar turnos de trabajo                   | Media       | Baja       | Media       | Baja       |
-| HU10  | Realizar seguimiento de gastos                | Alta        | Alta       | Media       | Baja       |
-| HU11  | Gestionar servicios adicionales               | Media       | Baja       | Baja        | Baja       |
-| *HU12 | Notificaciones de comentarios                 | Media       | Baja       | Media       | Baja       |
-| *HU13 | Crear promociones                             | Alta        | Media      | Media       | Baja       |
-| HU14  | Registro de proveedores                       | Alta        | Media      | Media       | Baja       |
-| *HU15 | Seguimiento del cliente                       | Media       | Media      | Baja        | Media      |
-| HU16  | Notificaciones de cambio de agenda            | Media       | Baja       | Alta        | Media      |
-| HU17  | Estado de las habitaciones                    | Media       | Baja       | Alta        | Media      |
-| HU18  | Información de procedimientos según el caso   | Baja        | Baja       | Alta        | Baja       |
-| HU19  | Registrar el estado de suministros            | Alta        | Baja       | Media       | Baja       |
-| HU20  | Reportar problemas                            | Media       | Baja       | Media       | Baja       |
-| *HU21 | Administrar facturas de servicios             | Media       | Baja       | Alta        | Alta       |
+| ‎   | ‎  | Segmento 1  | Gerente | Segmento 2  | empleado |
+|------|---------|-------------|--------------|-------------|------------|
+| ID   | Titulo  | Importancia | Frecuencia   | Importancia | Frecuencia |
+| HU01 | Actualizar las habitaciones disponibles |Alta | Media | Alta | Alta |
+| HU02 | Creación de tareas para empleados | Alta | Alta | Alta | Media |
+| HU03 | Notificaciones de inventario | Alta | Media | Alta | Media |
+|*HU04 | Información del desempeño | Alta | Media | Alta | baja |
+| HU05 | Lista de habitaciones ocupadas en tiempo real | Alta | Baja | Alta | Media |
+| HU06 | Alertas de mantemiento | Alta | Baja | Alta | Baja |
+| HU07 | Informar del estado de habitaciones | Media | Media | Alta | Media |
+| HU08 | Administrar permisos de los empleados| Alta | Media | Alta | Media |
+| HU09 | Programar turnos de trabajo | Media | Baja | Media | Baja |
+| HU10 | Realizar seguimiento de gastos | Alta | Alta | Media | Baja |
+| HU11 | Gestionar servicios adicionales | Media | Baja | Baja | Baja |
+|*HU12 | Notificaciones de comentarios | Media | Baja | Media | Baja |
+|*HU13 | Crear promociones | Alta | Media | Media | Baja |
+| HU14 | Registro de proveedores | Alta | Media | Media | Baja |
+|*HU15 | Seguimiento del cliente | Media | Media | Baja | Media |
+| HU16 | Notificaciones de cambio de agenda | Media | Baja | Alta | Media |
+| HU17 | Estado de las habitaciones | Media | Baja | Alta | Media |
+| HU18 | Información de procedimientos según el caso | Baja | Baja | Alta | Baja |
+| HU19 | Registrar el estado de suministros | Alta | Baja | Media | Baja |
+| HU20 | Reportar problemas | Media | Baja | Media | Baja |
+|*HU21 | Administrar facturas de servicios | Media | Baja | Alta | Alta |
 
 ### 2.3.3. User Journey Mapping.
 
 **Registration:**
 Why would they trust us?
-
-- Optimizacion de costos e incremento de eficiencia.
-- Accesible.
+<br>
+Good:
+- Interfaz facil e intuitiva.
 - Escalabilidad a estructuras grandes.
+- Herramienta All in one.
+<br>
+Bad:
+- Poco reconocimiento.
+- Algunos ya cuentan con un software.
 
 **Onboarding and first use:**
 How can they feel successful?
-
-- Facil de entender
-- Optimizacion de tiempo
+<br>
+Good:
+- Optimizacion de costos e incremento de eficiencia.
+- Manejo de multi tareas.
 - Conexion con el staff mas rapida.
+<br>
+Bad:
+- Configurar los cuartos y cuentas de empleado
 
 **Sharing:**
 Why would they invite others?
-
+<br>
+Good:
 - Accesible.
 - Escalable para establecimientos pequeños y grandes.
 - Facil de configurar.
+<br>
+Bad:
+- Competitividad.
+- Falta de interes en el producto
 
 ### 2.3.4. Empathy Mapping.
 
@@ -522,28 +568,28 @@ Why would they invite others?
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
-Escenario: Supervizor quiere revisar el estado de los cuartos y darles sus tareas a los empleados mientras tambien debe
-de revisar el inventario.
+Escenario: Supervizor quiere revisar el estado de los cuartos y darles sus tareas a los empleados mientras tambien debe de revisar el inventario.
 
 As Is:
 
-| Fases    |                                                                           |                                                                           |                                                           |                                                                      |
-|----------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|
-| Doing    | Verificando el estado actual de los cuartos                               | Revisando el inventario de elementos de limpieza y toallas                | Asignando tareas al personal de limpieza                  | Comunicándose con el personal para coordinar las tareas              |
-| Thinking | Reflexionando sobre la disponibilidad de los cuartos para nuevos clientes | Evaluando la cantidad de elementos de limpieza y toallas disponibles      | Considerando la carga de trabajo del personal de limpieza | Pensando en cómo mejorar la comunicación con el personal             |
-| Feeling  | Preocupado por la disponibilidad de cuartos para nuevos clientes          | Preocupado por la cantidad de elementos de limpieza y toallas disponibles | Ansioso por asignar tareas de manera efectiva al personal | Frustrado por la falta de una comunicación eficiente con el personal |
+
+| Fases     |       |       |        |    |
+|----------|----------------|------|---------|-----|
+| Doing          | Verificando el estado actual de los cuartos | Revisando el inventario de elementos de limpieza y toallas | Asignando tareas al personal de limpieza | Comunicándose con el personal para coordinar las tareas |
+| Thinking       | Reflexionando sobre la disponibilidad de los cuartos para nuevos clientes | Evaluando la cantidad de elementos de limpieza y toallas disponibles | Considerando la carga de trabajo del personal de limpieza | Pensando en cómo mejorar la comunicación con el personal |
+| Feeling        | Preocupado por la disponibilidad de cuartos para nuevos clientes | Preocupado por la cantidad de elementos de limpieza y toallas disponibles | Ansioso por asignar tareas de manera efectiva al personal | Frustrado por la falta de una comunicación eficiente con el personal |
 
 **Segmento 2**  
-Escenario: Empleado realiza sus actividades y desea hacerle saber al supervizor que ya termino o si este le puede dar
-mas tareas.
+Escenario: Empleado realiza sus actividades y desea hacerle saber al supervizor que ya termino o si este le puede dar mas tareas.
+
 
 As Is:
 
-| Fases    |                                                                  |                                                                       |                                                                     |                                                                        |
-|----------|------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------|
-| Doing    | Realizando tareas de limpieza asignadas                          | Notificando al supervisor cuando terminan las tareas de limpieza      | Verificando el stock de elementos de limpieza y toallas             | Comunicándose con el supervisor sobre cualquier problema               |
-| Thinking | Reflexionando sobre la eficacia de las tareas de limpieza        | Evaluando la necesidad de reabastecer elementos de limpieza y toallas | Considerando cómo mejorar la comunicación con el supervisor         | Pensando en soluciones para mejorar el proceso de limpieza             |
-| Feeling  | Comprometido con la calidad de las tareas de limpieza realizadas | Satisfecho al completar las tareas de limpieza asignadas              | Preocupado por la disponibilidad de elementos de limpieza y toallas | Interesado en mejorar la comunicación y colaboración con el supervisor |
+| Fases     |       |       |        |    |
+|----------|----------------|------|---------|-----|
+| Doing          | Realizando tareas de limpieza asignadas | Notificando al supervisor cuando terminan las tareas de limpieza | Verificando el stock de elementos de limpieza y toallas | Comunicándose con el supervisor sobre cualquier problema |
+| Thinking       | Reflexionando sobre la eficacia de las tareas de limpieza | Evaluando la necesidad de reabastecer elementos de limpieza y toallas | Considerando cómo mejorar la comunicación con el supervisor | Pensando en soluciones para mejorar el proceso de limpieza |
+| Feeling        | Comprometido con la calidad de las tareas de limpieza realizadas | Satisfecho al completar las tareas de limpieza asignadas | Preocupado por la disponibilidad de elementos de limpieza y toallas | Interesado en mejorar la comunicación y colaboración con el supervisor |
 
 ## 2.4. Ubiquitous Language.
 
