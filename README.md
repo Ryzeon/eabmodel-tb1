@@ -705,6 +705,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 Link de Figma:https://www.figma.com/file/zjc0u4ks9Eu23b6k7DoKLU/Figma-basics?type=design&node-id=401-12&mode=design&t=zBdnRH5DDUeap9uP-0
 
 User Goal: Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones.
+
 <img src="https://i.imgur.com/b1bQLzn.png" style="width:60%">  
 
 User Goal: Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros.
