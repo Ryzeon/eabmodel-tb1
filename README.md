@@ -688,12 +688,14 @@ Los siguientes elementos se han cosiderado para mejorar la experiencia del usuar
 
 ![Colores Generales](/assets/StyleGuidelines/colores.png)
 
-Se eligieron este esquema debido a como el color azul y blanco representan un entorno ordenado, relajado y poco complejo que son caracteristicas las cuales ayudaran con los procesos de gestion que pueden llegar a ser estresantes o caoticos.
+Se eligieron este esquema debido a como el color azul y blanco representan un entorno ordenado, relajado y poco complejo
+que son caracteristicas las cuales ayudaran con los procesos de gestion que pueden llegar a ser estresantes o caoticos.
 
-**Tipografia:** Para la tipografia se esta usando Roboto principalmente por su simplicidad y popularidad en las paginas web, representa bien las letras y hace que nuestro texto se vea ordenado sin verse abrumador.
+**Tipografia:** Para la tipografia se esta usando Roboto principalmente por su simplicidad y popularidad en las paginas
+web, representa bien las letras y hace que nuestro texto se vea ordenado sin verse abrumador.
 ![Tipografias generales](/assets/StyleGuidelines/roboto.png)  
-**Branding** Nuestro logotipo se muestra como unas llaves de hotel junto con el nombre del producto InnControl, pensamos en un logo minimalista que con el hecho de verse el logo se pueda distinguir quienes somos.
-
+**Branding** Nuestro logotipo se muestra como unas llaves de hotel junto con el nombre del producto InnControl, pensamos
+en un logo minimalista que con el hecho de verse el logo se pueda distinguir quienes somos.
 
 ![Branding general](assets/StyleGuidelines/innControl.png)
 
@@ -713,13 +715,15 @@ Color Terniario: 6A9CDE y 003785
 <img src="assets\StyleGuidelines\mockupDesktop\rooms-text-mockup.png" alt="Text Style Preview web" width="1000" height="600">
 
 **Button Styles:** (Button, dropdowns, Switches)
-Nuestros Botones van a ser rectangulares con bordes curvados de 4px, los colores varian entre 6A9CDE, 003785 y DBEFFE siendo el primero tipo de boton el que se usara más.
+Nuestros Botones van a ser rectangulares con bordes curvados de 4px, los colores varian entre 6A9CDE, 003785 y DBEFFE
+siendo el primero tipo de boton el que se usara más.
 
 Los DropDowns y Switches se implementaran con una menor frequencia sin embargo se usara el color DBEFFE o EEEEEE.
 
 <img src="assets\StyleGuidelines\mockupDesktop\rooms-buttons-mockup.png" alt="Button Preview web" width="270" height="600">
 
 **Icons:** (Fondo blanco con los iconos que vamos a usar)
+
 Los iconos que estaremos usando seran de las redes sociales en el caso de la landing page junto a otros relacionados a los beneficios. Seguidamente, se estaran utilizando menos iconos en la web aplication siendo los mas prominentes la lupa, icono de empleados, tareas cuartos e inventario.
 
 <img src="assets\StyleGuidelines\mockupDesktop\rooms-icons-mockup.png" alt="Icons Preview web" width="390" height="58">
@@ -734,7 +738,8 @@ Estaremos usando nav vars, carruseles y cards para poner informacion de testimon
 
 ### 4.2.1. Organization Systems.
 
-De sistema de Organizacion usaremos un sistema Sequencial donde el usuario debera de seguir un camino para conseguir su objetivo paso por paso esto principalmente por las diferentes tareas que puede realizar.
+De sistema de Organizacion usaremos un sistema Sequencial donde el usuario debera de seguir un camino para conseguir su
+objetivo paso por paso esto principalmente por las diferentes tareas que puede realizar.
 
 ### 4.2.2. Labeling Systems.
 
@@ -744,11 +749,15 @@ De esta manera sera facil de reconocer y entender
 
 ### 4.2.3. SEO Tags and Meta Tags
 
-**Meta & SEO (Search Engine Optimization) Tags:**  
+**Meta & SEO (Search Engine Optimization) Tags:**
 
 * Titulo: ```<title> El Control Que Necesitas | Software de Gestion de Hoteles/Hostales </title> ```
-* Descripcion: ```<meta name = "description" content = "Controla tus cuartos, empleados e inventario en un solo lugar, La solucion que buscas para cualquier tamaño"/> ```
-* Palabras Clave: ```<meta name = "keyword" content = "Gestion Hotel, Hotel Manager software, software hotelero, software hoteleros más utilizados, Controlar tu Hotel/Hostal, Gestion hostal"/> ```
+*
+
+Descripcion: ```<meta name = "description" content = "Controla tus cuartos, empleados e inventario en un solo lugar, La solucion que buscas para cualquier tamaño"/> ```
+
+* Palabras
+  Clave: ```<meta name = "keyword" content = "Gestion Hotel, Hotel Manager software, software hotelero, software hoteleros más utilizados, Controlar tu Hotel/Hostal, Gestion hostal"/> ```
 
 ### 4.2.4. Searching Systems.
 
@@ -758,14 +767,12 @@ De esta manera sera facil de reconocer y entender
 
 ### 4.2.5. Navigation Systems.
 
-La navegacion de la web app se estara basando en un Sistema de navegacion Global donde por medio de las cards en el dashboard o los labels en el nav bar el usuario se redirija a la seccion selecionada.
+La navegacion de la web app se estara basando en un Sistema de navegacion Global donde por medio de las cards en el
+dashboard o los labels en el nav bar el usuario se redirija a la seccion selecionada.
 
 ## 4.3. Landing Page UI Design.
 
 ### 4.3.1. Landing Page Wireframe.
-
-
-
 
 ![Landing page Wireframe](/assets/StyleGuidelines/Lan-Wireframe.png)
 
@@ -923,21 +930,21 @@ Se presenta una idea de como se ven los demas user flow diagrams en base a este 
 
 ![ContainerDiagram](/assets/SoftwareArchitecture/ContainerDiagram/structurizr-84133-Container-001.png)
 
-
 ### 4.6.3. Software Architecture Components Diagrams.
 
+![ComponentDiagram-1](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-001.png)
 
-![ComponentDiagram-2](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-002.png)  
+![ComponentDiagram-2](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-002.png)
 
-![ComponentDiagram-3](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-003.png)  
+![ComponentDiagram-3](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-003.png)
 
-![ComponentDiagram-4](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-004.png)  
+![ComponentDiagram-4](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-004.png)
 
-![ComponentDiagram-5](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-005.png)  
+![ComponentDiagram-5](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-005.png)
 
-![ComponentDiagram-6](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-006.png)  
+![ComponentDiagram-6](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-006.png)
 
-![ComponentDiagram-7](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-007.png)  
+![ComponentDiagram-7](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-007.png)
 
 ## 4.7. Software Object-Oriented Design.
 
@@ -970,61 +977,330 @@ Encapsulation (state es privado porque solo se debe de modificar el estado mas n
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
+En la esta sección, se detallara las herramientas, convenciones, referencias y configuraciones utlizadas a lo largo
+del desarrollo del proyecto.
+
 ## 5.1. Software Configuration Management.
+
+En los siguientes puntos, detallaremos las herramientas, convenciones, referencias y configuraciones empleadas a lo
+largo del desarrollo del proyecto, los cuales contribuyeron a mantener la base en el trabajo realizado.
 
 ### 5.1.1. Software Development Environment Configuration.
 
-Especificaciones de donde vamos a hacer el proyecto (vscode supongo)
-extensiones tmbn? nose bn q quieren aca
+Figma: https://www.figma.com/
+
+Es una herramienta visual, donde diseñamos el prototipo de la pagina web. Se usó para crear los wireframes, mock-ups,
+asi como los desktop and mobile application del proyecto.
+
+LucidChart: https://lucid.app/
+
+Es una plataforma, la cual tiene opciones que nos ayudaron en la creación de diagramas, mapas y flujos usando plantillas
+y tableros. Fue usado en el deasarollo del Diagram class, también para los Wireflows and User Flow.
+Landing Page
+
+Software Development
+Para el desarollo de la landing page, se usaron las tecnologías basicas del desarrollo web: HTML, CSS Y JS. Añadiendole
+frameworks como lo es Tailwind css para facilitar el desarrollo de la misma.
+
+Frontend Web Applications
+
+Para el desarrollo del Frontend (aplicación web) se usó HTML5, CSS3 Y JS. Añadiendo tambien el uso de Angular Material.
+
+Web Services
+
+Para el desarrollo del servicio web, se utilizó Java junto con Spring Boot. Asi como un RESTful API style para la parte
+de la arquitectura.
+
+Software Deployment
+
+Netlify: https://www.netlify.com/
+
+Es una plataforma en la cual hospedamos la lading page del proyecto, se integra con repositorios en Git.
+
+Software Documentation
+
+Vertabelo: https://vertabelo.com/
+
+Es una herramienta online la cual ayuda en el desarrollo y creacion de base de datos. Se usó para la base de datos del
+proyecto.
+
+Structurizr: https://www.structurizr.com/
+
+Esta plataforma permite el modelado de diagramas de arquitectura de software. Así creamos el modelo C4 de todo el
+proyecto.
 
 ### 5.1.2. Source Code Management.
 
-El gitjab donde tengamos el proyecto
+Para la gestion y actualización del proyecto, se creó una organizacion vía GitHub, en la cual se iba registrando las
+modificaciones y actualizaciones del proyecto a lo largo de su creación y ciclo de vida. Se organizó de la siguiente
+manera:
+
+Organization: https://github.com/upc-pre-20241-si729-wx55-eabmodel
+Landing Page Repository: https://github.com/upc-pre-20241-si729-wx55-eabmodel/landing-page
+Report Repository: https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project
+Para controlar de manera eficiente los cambios en el codigo, usamos GitFlow para definir el flujo de trabajo, siendo
+creada las dos ramas principales:
+
+master: También llamada "main", es donde se encuentra la versión más estable y lista del proyecto que van a pasar a
+producción.
+branches: Contiene las features, va a la par con el "main"
+
+Ramas auxiliares:
+
+feature: Son las ramas donde se desarrollan las funcionalidades del proyecto. Luego de completarlas, se fusionan con la
+rama branch.
+
+La nomenclatura para los features fueron las siguientes: feature/name. Por ejemplo, feature/sign-in, para ingresar a la
+aplicación web.
+
+release: Son las ramas donde se prepara la próxima versión del programa. En esta, se realizan las pruebas finales y se
+corrigen pequeños errores antes del lanzamiento definitivo. Finalizado este proceso, los cambios se fusionan con la rama
+develop, y luego a la rama main.
+
+Se utilizó el formato "feature/chapter n" para la nomenclatura de las versiones del proyecto, por ejemplo: "
+release/x.y.z". En donde:
+
+X, Y y Z son números enteros positivos, donde cada uno se incrementa de manera numérica.
+
+Commit Conventions
+
+Para el formato de los commits se siguió la estructura de Conventional Commits 1.0.0, la cual tiene la siguiente
+estructura:
+
+``` < type > [optional scope]: < description > ```
+Donde:
+
+type: Es el tipo de cambio. Tenemos valores como: fix, feat, build, chore, ci, docs, style, refactor, perf, test, etc.
+scope: Indica donde se realizó el commit (opcional).
+description: Menciona las actualizaciones del codigo.
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-Que usamos con css (en caso usemos software para SASS)
-supongo q tmbn cositas de como hacemo el code capas algun tipo de codigo para comunicarse entre comments
+Para el desarrollo del código en HTML y CSS se decidió seguir la convención de Google HTML/CSS Style Guide. Entre las
+más importantes destacan:
+
+El tipo de documento debe especificarse al principio del archivo mediante el uso de meta tags.
+El elemento `<title>` debe estar dentro de las etiquetas `<head>`.
+La sangría debe tener dos espacios.
+Debe utilizar letras minúsculas para elementos HTML, atributos, propiedades, valores y selectores de CSS.
+Los atributos de los elementos HTML deben estar entre comillas. Cada elemento HTML debe tener su correspondiente
+etiqueta de cierre.
+Se recomienda evitar largas líneas de código. Es importante indicar el ancho y alto de las imágenes, así como el texto
+alternativo (alt).
+Para el código JavaScript, seguimos la convención de la Guía de estilo Java de Google de terminar cada línea con un
+punto y coma, usar Camelcase para variables y funciones y encerrar valores de cadena entre comillas simples.
+Al desarrollar pruebas de aceptación con el lenguaje Gherkin, se utilizan las "Convenciones de Gherkin para
+especificaciones legibles", que incluyen palabras clave como "Dar", "Cuándo", "Entonces" y "Y", sangría específica y
+comentarios separadores.
+Java sigue el estándar Google Java Style Guid, que determina el formato de los nombres de paquetes, clases y métodos, la
+sangría de la tabla, la división de líneas largas y los nombres de archivos Java que coinciden con el nombre de la
+clase. contenida en el mismo.
+Se recomienda insertar un salto de línea después de cada declaración.
 
 ### 5.1.4. Software Deployment Configuration.
 
-Configuraciones de donde y como deployeamos el proyecto
+En esta sección, nos enfocaremos en desplegar nuestra Landing Page utilizando el servicio automatizado de Netlify. Para
+alcanzar este objetivo, detallaremos los pasos necesarios para lograrlo.
+
+1. Debemos tener el repositorio de la Landing Page en GitHub.
+   ![img.png](assets/software-deployment/github-repo.png)
+2. Debemos iniciar session en https://www.netlify.com/ o crear una cuenta si no la tenemos.
+   ![img.png](assets/software-deployment/netlify-login.png)
+3. Una vez dentro de la plataforma, seleccionamos la opción 'Sites" y en 'Add new site' seleccionamos 'Import an
+   existing project'.
+   ![img.png](assets/software-deployment/netlify-add-site.png)
+4. Seleccionamos Deploy with Github y autorizamos a Netlify a acceder a nuestros repositorios.
+   ![img.png](assets/software-deployment/netlify-deploy-from-github.png)
+5. Seleccionamos la cuenta u organización y buscamos el repositorio de la Landing Page.
+   ![img.png](assets/software-deployment/netlify-select-repository.png)
+6. Por ultimo asinamos el nombre del proyecto y seleccionamos el branch, en este caso 'develop' y damos click en 'Deploy
+   site'.
+   ![img.png](assets/software-deployment/netlify-deploy-site.png)
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-### 5.2.X. Sprint n
+## 5.2.1 Spring 1
 
-#### 5.2.X.1. Sprint Planning n.
+#### 5.2.1.1 Sprint Planning 1
 
-Explicar como vamos a plannear el sprint?
+A continuación, se presentará el sprint planning 1 donde se mostrarán las evidencias de planificación e implementación
+del landing page.
 
-#### 5.2.X.2. Sprint Backlog n.
+**Sprint Backlog 1**
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 1</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 8/04/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 14:00 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Modalidad remota por Discord.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Eabmodel Team
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Todos los miembros del equipo eabmodel.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 0 Review Summary</td>
+            <td> Dado que es nuestro primer sprint de desarrollo no existe
+                un summary del sprint anterior.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Retrospective Summary</td>
+            <td>
+        Durante este sprint, el objetivo es crear el landing page empleando HTML, CSS, JavaScript y Bootstrap. También se abordaron las conversaciones sobre el contenido textual que se integrará en el landing page, así como el diseño previamente establecido en Figma. Al término de este sprint, el landing page debe estar activo en Netlify, permitiendo que cualquier usuario acceda y visualice la página a través del enlace proporcionado.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 1 Velocity</td>
+            <td> 8
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story Points</td>
+            <td> 8
+            <td>
+        </tr>
+    </tbody>
+</table>
 
-![SprintBacklog n](image.jpg) Nica hago la tabla
+#### 5.2.1.2 Sprint Backlog 1.
 
-#### 5.2.X.3. Development Evidence for Sprint Review.
+En esta secciones se muestra las tareas que se realizaron en el sprint 1, se adjunta la captura del tablero y el link.
+Link del tablero: https://github.com/orgs/upc-pre-20241-si729-wx55-eabmodel/projects/4
+![img.png](assets/software-deployment/spring-backlog-1.png)
 
-![Sprint review development Evidence](image.jpg)
+#### 5.2.1.3. Development Evidence for Sprint Review.
 
-#### 5.2.X.4. Testing Suite Evidence for Sprint Review.
+<table>
+    <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Committed on (Date)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td rowspan="1000">landing-page</td>
+    </tr>
+    <tr>
+        <td rowspan="4">develop</td>
+    </tr>
+    <tr>
+        <td> 7afbf0cf4a5aeaea47261be421cce705a46963da</td>
+        <td> Initial commit</td>
+        <td></td>
+        <td> 10/04/2024</td>
+    </tr>
+    <tr>
+        <td> f4b14dd5e8cb4c7431f8377d1a79e22012afe9d9</td>
+        <td> feat: init tailwind framework.</td>
+        <td></td>
+        <td> 10/04/2024 </td>
+    </tr>
+    <tr>
+        <td> 6d54ebb4fdb66947d88017c4ba2d0dd49ed554cb </td>
+        <td> chore: removed unused files. </td>
+        <td></td>
+        <td> 11/04/2024 </td>
+    </tr>
+    <tr>
+        <td rowspan="5">feature/navbar</td>
+    </tr>
+    <tr>
+        <td> 09c36cffa1f500e66a4a76e3c9e9bd127ab95e8e </td>
+        <td> feat: added color to readme.md </td>
+        <td></td>
+        <td> 10/04/2024 </td>
+    </tr>
+    <tr>
+        <td> faba38772a3156daa586c9e51ced9f7b1a439aa4 </td>
+        <td> feat(navbar): added logo and banner to assets/img. </td>
+        <td></td>
+        <td> 10/04/2024 </td>
+    </tr>
+    <tr>
+        <td> 46cd4aa7f6270c2ae2cd6f7ec16fb836f64a57ab </td>
+        <td> feat(navbar): init logo. </td>
+        <td></td>
+        <td> 10/04/2024 </td>
+    </tr>
+    <tr>
+        <td> faba38772a3156daa586c9e51ced9f7b1a439aa4 </td>
+        <td> feat(navbar): added logo and banner to assets/img. </td>
+        <td></td>
+        <td> 10/04/2024 </td>
+    </tr>
+    </tbody>
+</table>
 
-![Sprint review Testing suite Evidence](image.jpg)
+#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
-#### 5.2.X.5. Execution Evidence for Sprint Review.
+Al ser un landing page, no se requiere de una suite de pruebas para su desarrollo.
 
-![Sprint review Execution Evidence](image.jpg)
+#### 5.2.1.5. Execution Evidence for Sprint Review.
 
-#### 5.2.X.6. Services Documentation Evidence for Sprint Review.
+En esta entrega el equipo de eabmodel logro implementar el landing page, el cual se encuentra en la siguiente URL:
+https://inncontrol.netlify.app/
 
-![Sprint review Services Documentation Evidence](image.jpg)
+#### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
-#### 5.2.X.7. Software Deployment Evidence for Sprint Review.
+En este sprint, se completó el desarrollo del landing page, al ser landing page no se requiere de documentación de
+servicios.
 
-![Sprint review Software Deployment Evidence](image.jpg)
+#### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
-#### 5.2.X.8. Team Collaboration Insights during Sprint.
+En el este sprint, se completó el desarrollo del landing page y se utilizó un conjunto de herramientas para su
+despliegue:
 
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+* Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del
+* landing page.
+* GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el
+* desarrollo del landing page.
+* GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo
+* conjunto del equipo.
+* Netlify: Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada
+* para sitios web estáticos.
+
+#### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+El equipo desarrollo la landing page usando ramas para cada 'feature' el uso de ramas permitió que cada miembro del
+equipo trabajara en una parte del proyecto sin interferir en el trabajo de los demás. Al terminar cada 'feature' se
+comprueba que no tenga conflictos con la rama principal y se procede a hacer un 'pull request' para que se integre con
+la rama principal.
+A continuación, se muestra una imagen de la colaboración del equipo en GitHub.
+
+![img.png](assets/software-deployment/github-insights.png)
+![img.png](assets/software-deployment/github-commits.png)
 
 ## 5.3. Validation Interviews.
 
@@ -1122,9 +1398,4 @@ https://www.infobae.com/peru/2023/10/29/asociacion-de-hoteles-y-restaurantes-ale
 
 datos, gráficos, imágenes, esquemas, mapas de otros autores
 
-
-
-
-
-
-
+![Imagen de algo no nuestro lol](image.jpg)
