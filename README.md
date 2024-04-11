@@ -1048,8 +1048,6 @@ despliegue:
 * Netlify: Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada
 * para sitios web estáticos.
 
-![Sprint review Software Deployment Evidence](image.jpg)
-
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
 El equipo desarrollo la landing page usando ramas para cada 'feature' el uso de ramas permitió que cada miembro del
@@ -1057,7 +1055,9 @@ equipo trabajara en una parte del proyecto sin interferir en el trabajo de los d
 comprueba que no tenga conflictos con la rama principal y se procede a hacer un 'pull request' para que se integre con
 la rama principal.
 A continuación, se muestra una imagen de la colaboración del equipo en GitHub.
-![Sprint review Team Collaboration Insights](image.jpg) imagenes de colaboraciones github
+
+![img.png](assets/software-deployment/github-insights.png)
+![img.png](assets/software-deployment/github-commits.png)
 
 ## 5.3. Validation Interviews.
 
