@@ -818,13 +818,13 @@ En esta sección, se presentarán los diagramas de clases, en las cuales se repr
 
 ### 4.7.2. Class Dictionary.
 
-Inherit (ave(superclase) -> (subclase)canario )
-Polymorphism (Ej. funcion de persona hablar() -> Peruano hablar() , Gringo hablar() todos tienen una funcion que
-contiene persona y van cambiando sus formas)
-Abstraction (Ej. Solo muestra el usuario, pero esta su edad, correo y veces usada que uso app en la base de datos (fuera
+Inherit (TaskManager(superclase) -> (subclase)task )
+Polymorphism (funcion de editar() -> editarEstado() , editarTask())
+
+Abstraction (La cuenta empleado y gerente muestra el usuario, pero esta su edad y correo la base de datos (fuera
 de vista))
-Encapsulation (cuando tienes tus variables y metodos en la misma clase las estas encapsulando, aun mas se encapsulan en
-Private y Public )
+
+Encapsulation (state es privado porque solo se debe de modificar el estado mas no los valores de estado )
 
 ## 4.8. Database Design.
 
