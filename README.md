@@ -969,10 +969,22 @@ Link del tablero: https://github.com/orgs/upc-pre-20241-si729-wx55-eabmodel/proj
 ![Sprint review Services Documentation Evidence](image.jpg)
 
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
+En el este sprint, se completó el desarrollo del landing page y se utilizó un conjunto de herramientas para su
+despliegue:
+
+* Git: Utilizado como sistema de control de versiones para facilitar el trabajo en equipo durante el desarrollo del
+* landing page.
+* GitFlow: Implementado como flujo de trabajo para gestionar el progreso individual de cada miembro del equipo en el
+* desarrollo del landing page.
+* GitHub: Empleado como plataforma colaborativa para almacenar las versiones del proyecto y facilitar el desarrollo
+* conjunto del equipo.
+* Netlify: Utilizado como plataforma para automatizar la hospedaje y despliegue del landing page, especialmente diseñada
+* para sitios web estáticos.
 
 ![Sprint review Software Deployment Evidence](image.jpg)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
 El equipo desarrollo la landing page usando ramas para cada 'feature' el uso de ramas permitió que cada miembro del
 equipo trabajara en una parte del proyecto sin interferir en el trabajo de los demás. Al terminar cada 'feature' se
 comprueba que no tenga conflictos con la rama principal y se procede a hacer un 'pull request' para que se integre con
