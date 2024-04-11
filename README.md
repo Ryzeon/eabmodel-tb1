@@ -421,6 +421,20 @@ Destaca la necesidad de mejorar la comunicación interna y la organización del 
 Reconoce que la comunicación entre diferentes niveles de personal aún enfrenta desafíos, lo que a veces resulta en pérdida de tiempo. 
 Además, menciona como frustraciones la falta de comunicación efectiva y la dificultad con la base de datos en Excel, mientras que sus objetivos laborales incluyen mejorar la eficiencia del servicio y evitar problemas recurrentes para los clientes.
 
+Nombre: Ariana Valdivia
+<br>
+Edad: 23 años
+<br>
+Ocupación: Gerencia de hoteles
+<br>
+![Imagen de entrevistaS1](assets/interviewsimages/Entrevista-segmento1.png)
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210192_upc_edu_pe/EbcOtEjQSFNFhCflycuXypgB4tLtFUuJI_Ho4k7dC6P0KA?e=XbXG43&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<br>
+Ariana Valdivia, gerente del Hotel Oasis
+Comparte su punto de vista sobre la digitalización de los sistemas de gestion hotelera y la distribucion entre empleados y sus tareas-
+Menciona la importancia de la buena comunicación que tiene entre ella como gerente y sus emppleados.
+Reconoce sus problemas y frustraciones recalcando la importancia que tendría nuestra aplicación en su vida, ayudandole y facilitando la mejora en la gestión de procesos de su hotel.
+
 **Segmento 2**  
 Nombre: Arian Godinez Vargas
 <br>
