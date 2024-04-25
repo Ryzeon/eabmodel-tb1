@@ -304,21 +304,36 @@ funcionalidad que desee agregar el gestor.
 
 #### 1.2.2.1. Lean UX Problem Statement.
 
-Observamos que en la industria hotelera, muchos establecimientos enfrentan desafíos significativos en la gestión interna
+
+En el estado actual de la industria de hoteleria y hospedaje muchos establecimientos enfrentan desafíos significativos en la gestión interna
 de sus operaciones. La falta de coordinación y eficiencia en la gestión del inventario, el personal, los espacios y los
 servicios afecta negativamente tanto la experiencia del usuario como la eficiencia operativa. Esta falta de coordinación
 puede llevar a errores en la asignación de recursos, retrasos en la atención al cliente y una experiencia general
 insatisfactoria para los huéspedes.
 
-Además, los gerentes de hoteles se enfrentan a la presión de mantener altos estándares de calidad y eficiencia, mientras
+Lo que otros productos han fallado en realizar son los rapidos cambios en la digitalizacion dejando sus softwares obsoletos o con cambios que resultan ser pobres en experiencia de usuario. Además, los gerentes de hoteles se enfrentan a la presión de mantener altos estándares de calidad y eficiencia, mientras
 lidian con procesos manuales y sistemas obsoletos que consumen tiempo y recursos. Esta falta de herramientas adecuadas
 para la gestión puede tener un impacto directo en la rentabilidad del negocio y en la satisfacción del cliente.
 
+Nuestro producto se enfocara en proporcionar funcionalidades mas intuitivas al usuario, un mejor sistema de gestion para poder observar todos los aspectos necesarios, la capacidad de poder mantener una comunicacion entre gerentes y empleados y fomentando la accesibilidad para modelos de negocio pequeños que tienen la capacidad de digitalizarse.
+
+Nuestro enfoque principal sera el ofrecer este servicio a los gerentes de hotel para que evaluen con sus empleados los beneficios que proveemos. 
+
 Como resultado, nos enfrentamos al siguiente problema: ¿Cómo podemos proporcionar a los gerentes de hoteles una
 plataforma de gestión accesible y eficiente que les permita coordinar de manera efectiva el inventario, los empleados,
-los espacios y los servicios, para mejorar la experiencia del usuario y optimizar los procesos operativos?
+los espacios y los servicios, para mejorar la experiencia del usuario y optimizar los procesos operativos en un 45%?
+
+Nuestro producto se encargara de esto al proporcionar un servicio de gestion que pueda digitalizar, optimizar y solucionar los procesos de gestion en procesos de hoteleria y hostales. 
+
+Sabremos que tuvimos exito cuando se pueda observar un minimo de 45% de satisfaccion en encuestas de control donde los gerentes y empleados que utilizaron la aplicacion hayan logrado una mejorada calidad de trabajo y asimismo un crecimiento de 5% en la industria turistica.
+
+
 
 #### 1.2.2.2. Lean UX Assumptions.
+
+**Business Assumptions:**
+
+
 
 | Business Assumptions                                                                                                                                                  | User Assumptions                                                                                                                                                                                                                                                                                                         |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
