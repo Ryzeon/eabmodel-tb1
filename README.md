@@ -38,17 +38,43 @@
 
 | Version | Fecha      | Autor   | Descripcion de Modificacion |
 |---------|------------|---------|-----------------------------|
-| 0.0     | 19/03/2024 | Grupo 1 | Se crea el documento        |
+| 0.0     | 24/03/2024 | Alex |  Crea documento      |
+| 0.4     | 10/04/2024 | Sebastian R | Se aplican mejoras a las secciones del chapter 1 y 2 siendo especificamente Journey Mapping, Entrevistas y Competidores        |
+| 0.5     | 10/03/2024 | Sebastian P | Se realiza un review a los mockups y wireframes         |
+| 0.6     | 10/03/2024 | Josue | Realiza cambios en diagramas de clases y user flow        |
+| 0.7     | 11/03/2024 | Sebastian | Se realizan cambios a la investigacion y el lean UX        |
+| 0.8     | 10/03/2024 | Piero |  Se realizan cambios a toda la seccion 5.1       |
+| 1.1     | 24/04/2024 | Sebastian | Realiza correcciones observadas en clase      |
+
+
+
 
 </div>
 
 # Project Report Collaboration Insights
 
-[URL del repositorio](https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project)
+Repositorio: (https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project)
 
+### TB1
 
+Para la entrega del TB1 se han hecho las respectivas divisiones por cada capitulo con el objetivo de tener un workflow saludable y se pueda realizar una retroalimentacion activa, para cada actividad asignada se ha entregado un conjunto de sub indices por cada capitulo a los integrantes del grupo dejando la posibilidad de realizar correcciones entre los mismos integrantes.
 
-(Imagenes de los commits cada entrega)
+Se muestran evidencias de los commits realizados en la entrega de la TB1
+
+<img src="assets/colaboration-insights/colaboration.png" alt="imagen de las colaboraciones">  
+
+[Colaboraciones del repositorio]
+
+<img src="assets/colaboration-insights/commits.png" alt="imagen de los commits">  
+[Registro de los commits donde se realizaron la mayor cantidad]
+
+En ambos casos se puede observar el incremento de modificaciones y revisiones en la primera semana de abril.
+
+---
+
+### TP1
+
+---
 
 # Contenido
 
@@ -180,8 +206,8 @@
 
 | Criterio Especifico                                                                                                                                  | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Sebastian Ramirez Hoffmann:<br> *TB1:*  Participe en secciones del capitulo 1,2 y 4 <br> Manuel Sebastian Peña Rivera: <br> *TB1:*  Participe en secciones del capitulo 1,2, 3 y 4 que contienen entrevistas, empathy map, product backlog, impact map, user task matrix, general style guidelines, web applications desktop and mobile wireframes, web applications desktop and mobile mockups, user flow<br/> Alex Avila Asto: <br/> TB1: Participe en las secciones del capitulo 2 y 5                                                                                | SebastianRamirezHoffmann:<br> Con los conocimientos adquiridos y las experiencias vividas siento que el proceso que hacemos es escencial para que grandes proyectos puedan salir adelante. <br> Manuel Sebastian Peña Rivera:<br> Realizar la investigación necesaria para el proyecto permite conocer la realidad de los desafíos que presentan y como nuestro programa puede solucionar el problema es nuestro objetivo en mente  <br/> Alex Avila Asto: <br/> Al realizar el informe adquire informacion valiosa con la cual me di cuenta que el rubo hotelero presenta bastante problemas con respecto a la implentacion de la tecnologia. |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | Sebastian Ramirez Hoffmann:<br> *TB1:* Tengo un familiar en el rubro de hoteleria pero no tuvo la oportunidad de participar. no obstante me dio substancial informacion respecto a la gestion de proyectos.  <br> Manuel Sebastian Peña Rivera:<br>  No solo la investigación realizada, sino que la entrevista que realice me permitió conocer sobre las dificultades y experiencia laboral del gerente en el rubro de hospedaje. <br/>Alex Avila Asto:<br/>El rubo de mi familia es hotelero, lo cual me ayudo para poder realizar junto con mis compañero el informe. | SebastianRamirezHoffmann:<br> Con esta nueva informacion siento que la siguiente iteracion del proyecto sera mejor que la anterior. <br> Manuel Sebastian Peña Rivera:<br> Con la información reunida de la entrevista espero poder adaptar las necesidades al proyecto y que nuestro proyecto le sirva para mejorar la eficiencia de su trabajo <br/> Alex Avila Asto: Con esta informacion estoy convencido que nuestro proyecto tendra un buen impacto en el rubo hotelero.                                                                                                                                                                 |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Sebastian Ramirez Hoffmann**: [<br> **TB1:** <br>  Como team leader tuve la asignacion de proporcionarle sus partes a mis compañeros, de estas tareas asignadas realice los sub indices del **capitulo 1** especificamente siendo Lean UX Process y parte de las correcciones de antecedentes y problematica.<br> Del **capitulo 2** participe en el analisis de competidores y realice partes del needfinding de las entrevistas, asimismo como el recuadro As-Is.<br> Del **capitulo 3** realice To-Be scenario mapping.<br> Finalmente participe activamente en el **capitulo 4** en el subindice 4.6 y parte del 4.6 participando en los diagramas de contenedores y contexto asimismo como en el diagrama de base de datos. Respecto al **capitulo 5** apoye realizando revisiones del capitulo y mis aportes a la Landing Page ] <br><br> **Manuel Sebastian Peña Rivera**: <br> *TB1:*  Participe en secciones del capitulo 1,2, 3 y 4 que contienen entrevistas, empathy map, product backlog, impact map, user task matrix, general style guidelines, web applications desktop and mobile wireframes, web applications desktop and mobile mockups, user flow<br/> **Alex Avila Asto**: <br/> TB1: Participe en las secciones del capitulo 2 y 5                                                                                | **SebastianRamirezHoffmann**:<br>  Como conclusion fue gracias a mi participacion en los primeros capitulos, los cuales dejan una idea general de lo que somos como empresa y lo que representa nuestro producto ayudandome a poder dar observaciones y controles de calidad asi como observaciones de lo que mis compañeros van realizando  <br><br> **Manuel Sebastian Peña Rivera**:<br> Realizar la investigación necesaria para el proyecto permite conocer la realidad de los desafíos que presentan y como nuestro programa puede solucionar el problema es nuestro objetivo en mente  <br/> **Alex Avila Asto**: <br/> Al realizar el informe adquire informacion valiosa con la cual me di cuenta que el rubo hotelero presenta bastante problemas con respecto a la implentacion de la tecnologia. |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | **Sebastian Ramirez Hoffmann**:[<br> **TB1:**<br> He realizado parte de la investigacion del proyecto tanto entrevistas como revisar articulos, por lo que he revisado estadisticas en base a la importancia del producto en el mercado, asimismo con el analisis de competidores apoye a darles la idea general del proyecto a mis colegas, al tener familiares que se especializan en el mercado orientado a nuestro producto recibi ideas externas por parte de estos mismos para comunicar a mis compañeros en congregaciones que se dieron en grupo.]<br> **Manuel Sebastian Peña Rivera**:<br>  No solo la investigación realizada, sino que la entrevista que realice me permitió conocer sobre las dificultades y experiencia laboral del gerente en el rubro de hospedaje. <br/>**Alex Avila Asto**:<br/>El rubo de mi familia es hotelero, lo cual me ayudo para poder realizar junto con mis compañero el informe. | **SebastianRamirezHoffmann**:<br>Fue gracias a las investigaciones que que logre tener una idea mas concreta de lo que debemos de hacer como empresa para asegurar la efectividad de nuestro proyecto tomando en consideracion las necesidades y competidores existentes en el mercado.<br> Manuel Sebastian Peña Rivera:<br> Con la información reunida de la entrevista espero poder adaptar las necesidades al proyecto y que nuestro proyecto le sirva para mejorar la eficiencia de su trabajo <br/> **Alex Avila Ast**o: Con esta informacion estoy convencido que nuestro proyecto tendra un buen impacto en el rubo hotelero.                                                                                                                                                                 |
 
 # Capítulo I: Introducción
 
@@ -191,7 +217,7 @@
 
 Nuestra startup "InnControl" es un servicio de gestion orientado a negocios en el rubro de hospedajes u hotelería el
 cual provee un seguimiento de inventario, empleados, espacios, tiempos y servicios utilizados en el proceso del
-servicio. Asimismo mantendrá igualmente un contacto tanto con los proveedores del negocio como sus mismos empleados y
+servicio. Asimismo mantendrá igualmente un contacto tanto con los empleados como sus gerentes.
 gerentes.
 
 #### 1.1.2. Perfiles de integrantes del equipo
@@ -594,7 +620,21 @@ As Is:
 ## 2.4. Ubiquitous Language.
 
 ```
-Texto ubiquo: Definicion de este
+Vacant: Se refiere al estado de la habitacion cuando esta se encuentra libre para utilizar.
+
+InService: Se refiere al estado de servicio donde la habitacion puede estar en medio de una limpieza, restocking o mantenimiento.
+
+Occupied: Cuando la habitacion se encuentra Ocupada por un cliente del local.
+Manager(Gerente): Encargado de supervizar las tareas, empleados, providers y habitaciones.
+
+Employees(Empleados): Estos empleados idependientemente de su labor que puede variar entre limpieza, servicio al cuarto o restockers reciben tareas por parte del gerente.
+
+Tasks: Tareas orientadas para los empleados como puede ser el servicio de limpieza a una habitacion o el restocking de los productos.
+
+Items: Los items se refieren a los productos consumibles que se utilizan en los cuartos ya pueden ser jabones, toallas, shampoo etc. todos estos se deben registrar con un stock para poder gestionar el inventario de estos.
+
+Provider: Los providers se van a proporcionar como un atributo de los items para facilitar la filtracion de productos provenientes de un provider especificio.
+
 ```
 
 ---
