@@ -366,35 +366,33 @@ En esta seccion se busca el lado mas emocional y empatizar con el usuario para d
 
 
 Que busca lograr el usuario?
-Quiero notificar a mi supervisor que necesito ciertos materiales para realizar mis tareas.
+Quiero notificar a mi supervisor que necesito ciertos materiales para realizar mis tareas.<br>
 Como se quiere sentir el usuario en este proceso?
-Quiero sentirme como si tuviera una linea directa con el supervisor.
+Quiero sentirme como si tuviera una linea directa con el supervisor.<br>
 Como nuestro producto acerca al usuario a un logro personal?
-Quiero sentirme escuchado y tomado en consideracion
+Quiero sentirme escuchado y tomado en consideracion.<br>
 Porque nuestro usuario buscaria nuestro producto?
-Quiero que mis tareas se puedan realizar sin problemas.
+Quiero que mis tareas se puedan realizar sin problemas.<br>
 Que cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?
-Sabremos que tuvimos exito cuando el usuario presente una comunicacion efectiva con su supervizor utilizando nuestro producto en el area laboral.
-
+Sabremos que tuvimos exito cuando el usuario presente una comunicacion efectiva con su supervizor utilizando nuestro producto en el area laboral.<br><br>
 Que busca lograr el usuario?
-Quiero revisar los estados de cuarto.
+Quiero revisar los estados de cuarto.<br>
 Como se quiere sentir el usuario en este proceso?
-Quiero sentirme como que con solo ver ya puedo saber en que estado se encuentra un cuarto.
+Quiero sentirme como que con solo ver ya puedo saber en que estado se encuentra un cuarto.<br>
 Como nuestro producto acerca al usuario a un logro personal?
-Quiero sentir que puedo manejarme y organizarme.
+Quiero sentir que puedo manejarme y organizarme.<br>
 Porque nuestro usuario buscaria nuestro producto?
-Quiero realizar mis tareas de manera que sea tan facil como mirar por la ventana.
+Quiero realizar mis tareas de manera que sea tan facil como mirar por la ventana.<br>
 Que cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?
-Sabremos que tuvimos exito cuando el usuario presente un monitoreo rapido de habitaciones utilizando nuestro producto en el area laboral.
-
+Sabremos que tuvimos exito cuando el usuario presente un monitoreo rapido de habitaciones utilizando nuestro producto en el area laboral.<br><br>
 Que busca lograr el usuario?
-Quiero mantenerme comunicado con mi (gerente/empleado) para poder (entregar/recibir) tareas.
+Quiero mantenerme comunicado con mi (gerente/empleado) para poder (entregar/recibir) tareas.<br>
 Como se quiere sentir el usuario en este proceso?
-Quiero sentirme como que puedo ver todos los aspectos logisticos del hotel en un solo lugar.
+Quiero sentirme como que puedo ver todos los aspectos logisticos del hotel en un solo lugar.<br>
 Como nuestro producto acerca al usuario a un logro personal?
-Quiero sentir que tengo el control de mis acciones.
+Quiero sentir que tengo el control de mis acciones.<br>
 Porque nuestro usuario buscaria nuestro producto?
-Quiero hacer mas trabajo en menor tiempo y que no me cueste mucho hacerlo.
+Quiero hacer mas trabajo en menor tiempo y que no me cueste mucho hacerlo.<br><br>
 Que cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?
 Sabremos que tuvimos exito cuando el usuario tenga una facilidad en comunicarse y realizar sus tareas en el area laboral utilizando nuestro producto.
 
@@ -412,31 +410,11 @@ Tomando en cuenta las restricciones anteriormente seleccionadas realizamos las s
 
 Desarollar un gestor de hoteleria y hostales orientado a realizar la mayoria de prorcesos de gestion principales siendo:
 
-- El monitoreo de estados de cuartos - notifica sin la necesidad de usar algun sistema de comunicacion como whatsapp el estado actual de un cuarto. Tomar en consideracion las validaciones necesarias.
-- La entrega de tareas - entrega las tareas remotamente a los empleados sin necesidad de que se tenga que decir una palabra entre usuarios asimismo permite el monitoreo de esta. Tomar en consideracion que solo el usuario con la tarea asignada puede terminar esta tarea.
-- La revision de inventario - permite que se pueda hacer un seguimiento de los items que se tienen en la bodega del negocio los cuales se deben registrar cuando son agregados o quitados. Tomar en consideracion que podemos agregar los proovedores de dichos productos.
-- La comunicacion empleado/gerente - sistema de comunicacion para emergencias o dudas donde se mantiene una linea de comunicacion directa y sin distractores entre el gerente y el empleado, de misma manera puede servir para monitorear que mensajes se han mandado.
-
-
-
-
-
-**Business Assumptions UX Ver1:**
-
-| Business Assumptions                                                                                                                                                  | User Assumptions                                                                                                                                                                                                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. Creemos que nuestros clientes tiene la necesidad de mejorar su servicio y reducir sus costos por medio de una gestion optimizada.                                  | 1. Quien es el usuario? Los gestores de hoteles y hostales, y sus empleados.                                                                                                                                                                                                                                             |
-| 2.Estas necesidades se resolveran con un gestor de hoteleria y hostales.                                                                                              | 2. Donde encaja nuestro producto en sus vidas?                                                                                                                                                                                                                                                                           |
-| 3. Nuestros usuarios iniciales seran los mismos hostales y hoteles pequeños                                                                                           | 3. Que problema soluciona nuestro producto?                                                                                                                                                                                                                                                                              |
-| 4. El valor #1 que el cliente quiere de nuestro servicio es el control de su establecimiento.                                                                         | 4. Donde y cuando se usa nuestro producto? El producto se utiliza en contextos donde se requiera optimizar el sistema de gestion de un hostal u hotel, se puede usar a cualquier hora aunque es preferible que se use cuando se esta en un horario de atencion para hacerle un seguimiento a los estados de los cuartos. |
-| 5. El usuario tambien tendra como beneficios el monitoreo en tiempo real del estado de sus locales.                                                                   | 5. Que caracteristicas son importantes? Las caracteristicas mas importantes en este proyecto seran la supervicion de cuartos y sus cambios de estado, la asignacion de personal a sus respectivas tareas, el contacto inmediato entre empleados y supervisores y finalmente el registro y reabastecimiento de estos      |
-| 6. Conseguiremos a nuestros clientes de las campañas de marketing digital                                                                                             | 6. Nuestro Producto debe de ser facil e intuitivo de usar y debe de ser agradable a la vista.                                                                                                                                                                                                                            |
-| 7. Haremos dinero por medio de los pagos que recibiremos por usar nuestro software                                                                                    |                                                                                                                                                                                                                                                                                                                          |
-| 8. Nuestro principal competido en el mercado seran otros softwares de otros paises o más avanzados y populares.                                                       |                                                                                                                                                                                                                                                                                                                          |
-| 9. Lograremos vencerlos por medio de nuestra interfaz amigable, funcionalidades originales y un mejor sistema de gestion el cual facilitara la expriencia de usuario. |                                                                                                                                                                                                                                                                                                                          |
-| 10. Nuestro mayor riesgo de producto es la falta de interes o inversion por parte del cliente.                                                                        |                                                                                                                                                                                                                                                                                                                          |
-| 11. Se resolvera este riesgo haciendo que nuestro servicio funcione de manera impecable y haciendo campañas de marketing digital efectivas y honestas.                |                                                                                                                                                                                                                                                                                                                          |
-| 12. el assumption que nos puede generar problemas en caso sea incorrecto es la falta de necesidad por parte del segmento objetivo                                     |                                                                                                                                                                                                                                                                                                                          |
+- **El monitoreo de estados de cuartos** - notifica sin la necesidad de usar algun sistema de comunicacion como whatsapp el estado actual de un cuarto. Tomar en consideracion las validaciones necesarias.
+- **La entrega de tareas** - entrega las tareas remotamente a los empleados sin necesidad de que se tenga que decir una palabra entre usuarios asimismo permite el monitoreo de esta. Tomar en consideracion que solo el usuario con la tarea asignada puede terminar esta tarea.
+- **La revision de inventario** - permite que se pueda hacer un seguimiento de los items que se tienen en la bodega del negocio los cuales se deben registrar cuando son agregados o quitados. Tomar en consideracion que podemos agregar los proovedores de dichos productos.
+- **La comunicacion empleado/gerente** - sistema de comunicacion para emergencias o dudas donde se mantiene una linea de comunicacion directa y sin distractores entre el gerente y el empleado, de misma manera puede servir para monitorear que mensajes se han mandado.
+  
 
 #### 1.2.2.3. Lean UX Hypotheses Statements.
 
@@ -446,12 +424,26 @@ Siguiendo el formato de las hypotesis usaremos la tabla de hipotesis.
 
 |Business Outcome|Persona|User Outcome|Feature/Solution|
 |-|-|-|-|
-|Conseguiremos una retencion de usuarios optima | Si los gerentes de hoteles/hostales | entregar tareas a sus empleados | con el sistema de comunicacion para emergencias o dudas |
+|Conseguiremos una retencion de usuarios optima | Si los gerentes de hoteles/hostales | entregan tareas a sus empleados | con el sistema de comunicacion para emergencias o dudas |
 |Conseguiremos una retencion de usuarios optima | Si los gerentes de hoteles/hostales | logran monitorear los estados de cuarto | con el sistema de monitoreo de cuartos |
 |Conseguiremos una retencion de usuarios optima | Si los gerentes de hoteles/hostales | se sienten en control de sus actividades | con las herramientas de gestion que estamos ofreciendo, estas siendo monitoreo de estados de cuartos, entrega de tareas, revision de inventario y sistema de comunicaciones |
 |Conseguiremos una retencion de usuarios optima | Si los gerentes de hoteles/hostales | Notifican de los items necesitados al gerente | con el sistema de comunicacion entre empleado y gerente |
 |Conseguiremos una ganancia | Si los gerentes de hoteles/hostales | agregan cuentas de empleados | proveendo al usuario de la posibilidad de mejorar su cuenta |
 |Conseguiremos una referencia | Si los gerentes de hoteles/hostales y empleados | logran una comunicacion entre gerente y empleado efectiva | con el sistema de comunicacion entre empleado y gerente |
+
+
+**Que es lo mas importante que debemos aprender**
+
+Debemos de analizar que es lo que debemos aprender de nuestras hypotesis, entonces llegamos a nuestras siguientes conclusiones:
+
+Debemos de investigar si los usuarios estaran interesados en nuestra propuestas de hypotesis y asimismo si es que realmente la necesitan.
+En temas tecnicos debemos tener un conocimiento solido en la creacion de las vistas para las soluciones mencionadas.
+
+**Minimum viable product**
+
+Los MVP nos sirven para aprender cosas a corto plazo. para realizar esto se hace la pregunta: 
+What’s the most important thing we need to learn first?
+Lo primero que debemos de confirmar para nuestro proyecto es **si realmente se esta requiriendo en el mercado**, es por esta misma razon que tendremos que realizar una serie de entrevistas para poder probar que si existe una necesidad que estamos satisfaciendo.
 
 
 #### 1.2.2.4. Lean UX Canvas.
