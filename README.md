@@ -281,7 +281,7 @@ y hoteleria.
 
 Who (¿Quién lo usa?): Lo usan como administradores los gerentes o supervisores de los establecimientos ya que este
 servicio es una herramienta para ellos, si bien se pueden automatizar funciones como la notificacion para empleados, lo
-principal seria que los mismos supervizores hagan seguimiento de los procesos que se estan llevando al cabo en caso de
+principal seria que los mismos supervisores hagan seguimiento de los procesos que se estan llevando al cabo en caso de
 que se tenga que hacer alguna operacion manual.
 
 How Much (¿Cuánto costaría?): La aplicacion web tendra sus funcionalidades core a forma de un pago inicial y luego
@@ -357,7 +357,7 @@ En esta seccion creamos un Proto-Persona como un assumption de como son nuestros
 |Demografica|Comportmamiento|Necesidades / Obstaculos|
 |-|-|-|
 |Alex:<br>35 años <br> Gestor de hotel/hostal| - Trabaja en un hotel/hostal <br> -Gana lo suficiente <br> - Enfocado en la gestion de tareas <br> - Busca que todo este en orden | - Necesita aumentar el area de gestion <br> -Necesita mejorar la asignacion de tareas <br> - Requiere de una mejor comunicacion con los demas empleados a quienes asigna las tareas <br> - Obstaculo: El hotel utiliza herramientas obsoletas o no tiene alguna para asignar tareas <br> - Obstaculo: Utilizan medios no formales como whatsapp para comunicarse lo que complica la comunicacion eficiente. <br> - Busca mejorar la organizacion del hotel/hostal |
-|Carla:<br> 27 años <br> Empleada de limpieza | -Gana lo minimo <br> -Enfocada en el cumplimiento de tareas <br> -busca terminar su trabajo de manera rapida|- Necesita un medio de comunicacion directo con su gestor <br> -Necesita una manera de notificar la falta de algun objeto que necesite <br> -Necesita notificar que cuartos ya estan listos y saber cuales debe de preparar <br> -Obstaculo: Todos hablan en el mismo grupo de whatsapp y se pierden tareas <br> - Obstaculo: No hay un registro seguro de las tareas que se les fueron asignadas <br> - Busca comunicar de inmediato a su supervizor el estado de una habitacion <br> -Busca avisar si falta algun objeto necesario para la preparacion de la habitacion |
+|Carla:<br> 27 años <br> Empleada de limpieza | -Gana lo minimo <br> -Enfocada en el cumplimiento de tareas <br> -busca terminar su trabajo de manera rapida|- Necesita un medio de comunicacion directo con su gestor <br> -Necesita una manera de notificar la falta de algun objeto que necesite <br> -Necesita notificar que cuartos ya estan listos y saber cuales debe de preparar <br> -Obstaculo: Todos hablan en el mismo grupo de whatsapp y se pierden tareas <br> - Obstaculo: No hay un registro seguro de las tareas que se les fueron asignadas <br> - Busca comunicar de inmediato a su supervisor el estado de una habitacion <br> -Busca avisar si falta algun objeto necesario para la preparacion de la habitacion |
 
 Esta tabla refleja los dos principales usuarios que tenemos como assumption junto con sus necesidades y comportamientos en el area laboral.
 
@@ -375,7 +375,7 @@ Quiero sentirme escuchado y tomado en consideracion.<br>
 Porque nuestro usuario buscaria nuestro producto?
 Quiero que mis tareas se puedan realizar sin problemas.<br>
 Que cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?
-Sabremos que tuvimos exito cuando el usuario presente una comunicacion efectiva con su supervizor utilizando nuestro producto en el area laboral.<br><br>
+Sabremos que tuvimos exito cuando el usuario presente una comunicacion efectiva con su supervisor utilizando nuestro producto en el area laboral.<br><br>
 Que busca lograr el usuario?
 Quiero revisar los estados de cuarto.<br>
 Como se quiere sentir el usuario en este proceso?
@@ -527,12 +527,12 @@ Esta seccion de preguntas se enfocan en el punto de vista de los usuarios de seg
 1. ¿Que opiniones tiene del area laboral en el entorno de Hoteleria/Hostales?
 2. ¿Como consigues la informacion de que tareas debes de realizar?
 3. ¿Como notificas a tu supervisor de alguna falta de inventario?
-4. ¿Mantienes una comunicacion efectiva con el gerente/supervizor en horas laborales?
+4. ¿Mantienes una comunicacion efectiva con el gerente/supervisor en horas laborales?
 5. ¿Que frustraciones y objetivos tienes en tu area laboral?
 
 ### 2.2.2. Registro de entrevistas.
 
-**Segmento 1**  
+**Segmento 2**  
 Nombre: Elisa Rivera Del Rio
 <br>
 Edad: 55 años
@@ -551,6 +551,7 @@ Distritos: Magdalena
 
 Elisa nos da su opinion respecto a la digitalizacion mencionando que es **necesaria**, mencionando que es importante mantener un sistema desde el huesped al software que integre todo, tambien dice como un **obstaculo** que en hoteles pequeños estos softwares son poco accesibles economicamente. Nos menciona que hay varias areas supervizadas por jefes donde se **quiere** digitalizar el proceso donde organizar las funcionalidades del dia a dia. Adicionalmente cuenta como no existe un inventario de productos digitalizado, manipulan todo lo relacionado de forma manual, menciona que le **gustaria** un software que se encarge de hacer eso. Asimismo relata de la falta de una linea de comunicacion directa con los empleados y como siente que se **necesita** que este deberia ser accesible desde el celular. Finalizando la entrevista menciona como **quisiera** sistematizar y digitalizar los procesos de gestion y que es una **frustracion** respecto a como los gastos de servicio realizan que se vuelva dificil el adquirir estos sistemas.
 
+---
 
 Nombre: Catalina Paredes
 <br>
@@ -569,6 +570,8 @@ Distrito: Distrito de Trujillo, Trujillo
 <br>
 
 Catalina nos comparte que considera que la digitalizacion de los sistemas de gestion serian **recibidos correctamente**, mencionando que se utilizaria para las **necesidades** de la busqueda, edicion y gestion de reservas y servicios. Menciona que se **asignan tareas dependiendo del tipo de empleado** en una reunion antes de una jornada laboral. Relata de como utilizan un excel para su gestion de items y menciona que le **gustaria** mejorarlo debido a que necesita que sus **datos se puedan ingresar, retirar y buscar** sin necesidad de saber mucho de excel. Finalmente nos menciona que **no siente** que existe una comunicacion fluida ya que **necesita ir hasta areas dedicadas como al area de mantenimiento para solicitar equipo necesario** o si existe un cambio de tareas **necesita** de avisar al empleado presencialmente mencionando como le **gustaria** implementar ese tiempo en otras tareas. Terminando la entrevista nos comenta sus **frustraciones con la comunicacion y administracion de datos** que tiene y de sus **objetivos** menciona como quiere superar y mejorar estos problemas y brindar un servicio mas completo para evitar inconvenientes al cliente ya que estos problemas segun nos cuenta son constantes.
+
+---
 
 Nombre: Ariana Valdivia
 <br>
@@ -589,13 +592,14 @@ Distrito: Miraflores, Surquillo, Surco.
 
 Ariana cuenta que ella y su equipo cuentan con sistemas de gestion de inventario, para dar horarios y sus tareas. Respecto a la digitalizacion, menciona que los procesos empresariales se vuelven menos tediosos gracias al poder **gestionar mas en menos tiempo**. menciona que, en el sistema que tienen se asignan las tareas a sus empleados, **cada empleado sabe que hacer al dia y al finalizar el dia se revisa si se cumplieron estas tareas**. Comparte que en su analisis de inventario se organizan sabiendo **cuantos items tienen, cuando llegaron y cuanto pedir a sus proveedores diariamente**. Intentan de mantener la comunicacion por charlas y conferencias para los trabajadores de la empresa. **Necesitan** que la relacion con el trabajador sea buena para que la eficiencia de estos aumente. Menciona que las **frustraciones** que tiene se originan por un **proceso no cumplido en el dia**, intenta que los procesos esten realizados. Comenta que sus **objetivos** son proporcionar al usuario con la mejor atencion.
 
-**Segmento 2**  
+---
+
+**Segmento 1**  
 Nombre: Arian Godinez Vargas
 <br>
 Edad: 20 años
 <br>
-Ocupación: Empleado de Hotel (limpieza)  
-<br>
+Ocupación: Empleado de Hotel (limpieza)
 <br>
 Browser: Chrome
 <br>
@@ -606,6 +610,8 @@ Distrito: Cercado de Lima.
 ![Imagen de entrevistaS2.1](assets/interviewsimages/EntrevistaAS2.png)
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=FP7xJZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.4]</a> <br>
 Arian nos relata su día laboral cómo staff en un Hotel el cual prefiere que mantengamos anónimo. Nos comenta que en su trabajo tienen un sistema implementado que permite **saber el estado de las habitaciones asignadas**, sin embargo, presentan como **obstáculo** la comunicación entre los empleados y los supervisores, él nos comenta que es ineficiente el sistema de manejo de inventario y **necesita** un sistema especializado en administración, ya que tiene que estar contactándose con su supervisor constantemente. Es por ello por lo que nos comenta que es **necesaria** una plataforma que agilice el proceso de comunicación y de administración. Arian explica que **quiere** dejar de usar aplicaciones informales de comunicación como WhatsApp. También nos comenta que a él le **gustaría** hacer un acuerdo con su supervisor para mejorar el sistema que usan actualmente, debido a que se complica el trabajo y el manejo de inventario junto a la pésima comunicación, lo que le causa **frustración**. 
+
+---
 
 Nombre: Esau Carretero
 <br>
@@ -633,6 +639,12 @@ Edad: 22 años
 <br>
 Ocupación: Empleado de Hotel 
 <br>
+Browser: GoogleChrome y OperaGX
+<br>
+Device: Celular y computadora
+<br>
+Distrito: Lima Central
+<br>
 ![Imagen de entrevistaS2.3](assets/interviewsimages/EntrevistaArS1.png) 
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERnPx07H66pLuGgoQ-VcVisBL7dmBuURtltLTevZ401FwA?e=m7Z67t&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.6]</a> <br>  
 En esta ocacion Nicola cuenta como se hace uso de Whatsapp como herramienta y de como debe de hacer un proceso complicado para notificar respecto al inventario al gestor, de esta misma manera tambien menciona como se van cambiando los turnos y tipos de asignaturas lo que representa que no siempre estara haciendo lo mismo.
@@ -649,7 +661,8 @@ En base al segundo segmento se puede observar que la comunicacion si teien oport
 ### 2.3.1. User Personas.
 
 **Segmento 1:**  
-<br/> <img src="https://i.imgur.com/krhyFim.png" style="width:60%"> 
+<br/> 
+<img src="assets/user-personas/user-persona-segmento-2.png" style="width:100%"> 
 
 
 **Segmento 2:**
@@ -731,7 +744,7 @@ Bad:
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
-Escenario: Supervizor quiere revisar el estado de los cuartos y darles sus tareas a los empleados mientras tambien debe de revisar el inventario.
+Escenario: supervisor quiere revisar el estado de los cuartos y darles sus tareas a los empleados mientras tambien debe de revisar el inventario.
 
 As Is:
 
@@ -743,7 +756,7 @@ As Is:
 | Feeling        | Preocupado por la disponibilidad de cuartos para nuevos clientes | Preocupado por la cantidad de elementos de limpieza y toallas disponibles | Ansioso por asignar tareas de manera efectiva al personal | Frustrado por la falta de una comunicación eficiente con el personal |
 
 **Segmento 2**  
-Escenario: Empleado realiza sus actividades y desea hacerle saber al supervizor que ya termino o si este le puede dar mas tareas.
+Escenario: Empleado realiza sus actividades y desea hacerle saber al supervisor que ya termino o si este le puede dar mas tareas.
 
 
 As Is:
