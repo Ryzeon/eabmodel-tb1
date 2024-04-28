@@ -46,6 +46,7 @@
 | 0.8     | 10/03/2024 | Piero |  Se realizan cambios a toda la seccion 5.1       |
 | 1.1     | 24/04/2024 | Sebastian | Realiza correcciones observadas en clase      |
 | 1.2    | 27/04/2024 | Sebastian | Finaliza proceso LeanUX corregido      |
+
 | 1.5    | 28/04/2024 | Sebastian  P | Realiza cambios en la bibliografia, cambio de formato a APA   |
 
 
@@ -533,6 +534,70 @@ Esta seccion de preguntas se enfocan en el punto de vista de los usuarios de seg
 
 ### 2.2.2. Registro de entrevistas.
 
+**Segmento 1**  
+Nombre: Arian Godinez Vargas
+<br>
+Edad: 20 años
+<br>
+Ocupación: Empleado de Hotel (limpieza)
+<br>
+Browser: Chrome
+<br>
+Device: Influencia en la marca Apple
+<br>
+Distrito: Cercado de Lima.
+<br>
+Timing: 
+<br>
+![Imagen de entrevistaS2.1](assets/interviewsimages/EntrevistaAS2.png)
+<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=FP7xJZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.4]</a> <br>
+Arian nos relata su día laboral cómo staff en un Hotel el cual prefiere que mantengamos anónimo. Nos comenta que en su trabajo tienen un sistema implementado que permite **saber el estado de las habitaciones asignadas**, sin embargo, presentan como **obstáculo** la comunicación entre los empleados y los supervisores, él nos comenta que es ineficiente el sistema de manejo de inventario y **necesita** un sistema especializado en administración, ya que tiene que estar contactándose con su supervisor constantemente. Es por ello por lo que nos comenta que es **necesaria** una plataforma que agilice el proceso de comunicación y de administración. Arian explica que **quiere** dejar de usar aplicaciones informales de comunicación como WhatsApp. También nos comenta que a él le **gustaría** hacer un acuerdo con su supervisor para mejorar el sistema que usan actualmente, debido a que se complica el trabajo y el manejo de inventario junto a la pésima comunicación, lo que le causa **frustración**. 
+
+---
+
+Nombre: Esau Carretero
+<br>
+Edad: 19 años
+<br>
+Ocupación: Trabaja en un hotel part-time
+<br>
+Browser: GoogleChrome y OperaGX
+<br>
+Device: Celular y computadora
+<br>
+Distrito: Jesus Maria
+<br>
+Timing: 
+<br>
+
+![Imagen de entrevistaS2.2](assets/interviewsimages/EntrevistaES2.png) 
+<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETIBRYdwzYtAliQA0IkQx1cBurdKw6YSE4nBrVncTpjaAQ?e=0bhNc0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.5]</a> <br>  
+
+Esau comenta respecto a como **siente** que su espacio laboral es bueno pero que al momento de comunicarse debe de moverse en el hotel para encontrar a sus supervisores y otros compañeros, asimismo de como **necesitan** whatsapp para que se les entreguen sus tareas. Ademas de como para avisarle a su gerente **necesita** de mandarle un mensaje de whatsapp o correo. El piensa que **whatsapp es un sistema que es propenso a *enredarse*** ya que todos hablan por un solo canal. Finalizando la entrevista nos comenta de como **siente** que entre sus compañeros se generan **frustraciones** de por donde empezar sus tareas y que de **objetivo** tiene el realizar un trabajo optimo.
+
+---
+
+Nombre: Nicola Estefan Romero
+<br>
+Edad: 22 años
+<br>
+Ocupación: Empleado de Hotel 
+<br>
+Browser: Brave
+<br>
+Device: Celular y laptop
+<br>
+Distrito: Lima Central
+<br>
+Timing: 
+<br>
+![Imagen de entrevistaS2.3](assets/interviewsimages/EntrevistaArS1.png) 
+<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERnPx07H66pLuGgoQ-VcVisBL7dmBuURtltLTevZ401FwA?e=m7Z67t&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.6]</a> <br>  
+Nicola comenta sobre su trabajo actual y el sistema que utilizan en el hotel. Su trabajo presenta como **obstáculo** la pobre optimización que tiene y la poca capacidad de usuarios, por lo que se cae constantemente, por lo que recurre a usar aplicaciones como WhatsApp para la comunicación. También, nos aclara sobre lo **necesario** que es el sistema en los días más concurridos. Además, nos comenta que le genera **frustración** la mala comunicación, debido a que a veces no entiende la tarea asignada, además de que a él **quisiera** poder administrar mejor el inventario y automatizarlo. Nicola explica que le **gustaría** mejorar el sistema para realizar un trabajo bien hecho y así poder dar una buena experiencia los clientes.
+
+
+---
+
 **Segmento 2**  
 Nombre: Elisa Rivera Del Rio
 <br>
@@ -602,72 +667,20 @@ Ariana cuenta que ella y su equipo cuentan con sistemas de gestion de inventario
 
 ---
 
-**Segmento 1**  
-Nombre: Arian Godinez Vargas
-<br>
-Edad: 20 años
-<br>
-Ocupación: Empleado de Hotel (limpieza)
-<br>
-Browser: Chrome
-<br>
-Device: Influencia en la marca Apple
-<br>
-Distrito: Cercado de Lima.
-<br>
-Timing: 
-<br>
-![Imagen de entrevistaS2.1](assets/interviewsimages/EntrevistaAS2.png)
-<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=FP7xJZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.4]</a> <br>
-Arian nos relata su día laboral cómo staff en un Hotel el cual prefiere que mantengamos anónimo. Nos comenta que en su trabajo tienen un sistema implementado que permite **saber el estado de las habitaciones asignadas**, sin embargo, presentan como **obstáculo** la comunicación entre los empleados y los supervisores, él nos comenta que es ineficiente el sistema de manejo de inventario y **necesita** un sistema especializado en administración, ya que tiene que estar contactándose con su supervisor constantemente. Es por ello por lo que nos comenta que es **necesaria** una plataforma que agilice el proceso de comunicación y de administración. Arian explica que **quiere** dejar de usar aplicaciones informales de comunicación como WhatsApp. También nos comenta que a él le **gustaría** hacer un acuerdo con su supervisor para mejorar el sistema que usan actualmente, debido a que se complica el trabajo y el manejo de inventario junto a la pésima comunicación, lo que le causa **frustración**. 
-
----
-
-Nombre: Esau Carretero
-<br>
-Edad: 19 años
-<br>
-Ocupación: Trabaja en un hotel part-time
-<br>
-Browser: GoogleChrome y OperaGX
-<br>
-Device: Celular y computadora
-<br>
-Distrito: Jesus Maria
-<br>
-Timing: 
-<br>
-
-![Imagen de entrevistaS2.2](assets/interviewsimages/EntrevistaES2.png) 
-<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETIBRYdwzYtAliQA0IkQx1cBurdKw6YSE4nBrVncTpjaAQ?e=0bhNc0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.5]</a> <br>  
-
-Esau comenta respecto a como **siente** que su espacio laboral es bueno pero que al momento de comunicarse debe de moverse en el hotel para encontrar a sus supervisores y otros compañeros, asimismo de como **necesitan** whatsapp para que se les entreguen sus tareas. Ademas de como para avisarle a su gerente **necesita** de mandarle un mensaje de whatsapp o correo. El piensa que **whatsapp es un sistema que es propenso a *enredarse*** ya que todos hablan por un solo canal. Finalizando la entrevista nos comenta de como **siente** que entre sus compañeros se generan **frustraciones** de por donde empezar sus tareas y que de **objetivo** tiene el realizar un trabajo optimo.
-
----
-
-Nombre: Nicola Estefan Romero
-<br>
-Edad: 22 años
-<br>
-Ocupación: Empleado de Hotel 
-<br>
-Browser: Brave
-<br>
-Device: Celular y laptop
-<br>
-Distrito: Lima Central
-<br>
-Timing: 
-<br>
-![Imagen de entrevistaS2.3](assets/interviewsimages/EntrevistaArS1.png) 
-<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERnPx07H66pLuGgoQ-VcVisBL7dmBuURtltLTevZ401FwA?e=m7Z67t&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.6]</a> <br>  
-Nicola comenta sobre su trabajo actual y el sistema que utilizan en el hotel. Su trabajo presenta como **obstáculo** la pobre optimización que tiene y la poca capacidad de usuarios, por lo que se cae constantemente, por lo que recurre a usar aplicaciones como WhatsApp para la comunicación. También, nos aclara sobre lo **necesario** que es el sistema en los días más concurridos. Además, nos comenta que le genera **frustración** la mala comunicación, debido a que a veces no entiende la tarea asignada, además de que a él **quisiera** poder administrar mejor el inventario y automatizarlo. Nicola explica que le **gustaría** mejorar el sistema para realizar un trabajo bien hecho y así poder dar una buena experiencia los clientes.
 
 ### 2.2.3. Análisis de entrevistas.
 
-**Segmento 1:**
-En base al segmento uno se hace un analisis donde se llega a la conclusion de que la necesidad de una aplicacion orientada a la gestion de empleados y sus tareas son necesarias junto con un seguimiento de inventario para reducir los tiempos y mejorar la disponibilidad.  
-**Segmento 2:**
+**Segmento 1: (Empleados):**
+
+Estadisticas y Aspectos comunes:
+En las entrevistas realizadas encontramos que 66% del segmento utiliza el browser de google, asimismo se muestra que todos los entrevistados usan WhatsApp para su comunicacion, adicionalmente todos mencionan almenos una discomformidad con la comunicacion que se mantiene con sus superiores. Observamos que piensan en sus demas colegas del area laboral.
+
+Caracteristicas Objetivas:
+Se requiere un sistema de comunicacion para este segmento, hay una necesidad en saber que hacer en e
+Caracteristicas Subjetivas:
+Todos los entrevistados
+
+**Segmento 2: (Gerentes)**
 En base al segundo segmento se puede observar que la comunicacion si teien oportunidades de mejora, que el proceso de notificacion de inventario no esta completamente digitalizado y finalmente que recibir tareas y notificar del cumplimiento de estas es necesario.
 
 ## 2.3. Needfinding.
