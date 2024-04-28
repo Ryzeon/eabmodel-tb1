@@ -508,7 +508,7 @@ En esta seccion realizamos preguntas simples para tener una demografica e inform
 3. ¿A qué se dedica?
 4. ¿Que browser y dispositivos usa?
 
-Las siguientes preguntas se realizaron para responder nuestra pregunta ya mencionada en el capitulo anterior: "Los usuarios estarán interesados en nuestra "innovadora" propuesta dado que existen otros productos similares y asimismo, realmente la necesitan?"
+Las siguientes preguntas se realizaron para responder nuestra pregunta ya mencionada en el capitulo anterior: "Los usuarios estarán interesados en nuestra "innovadora" propuesta dado que existen otros productos similares y asimismo, realmente la necesitan?" previo a las entrevistas ya se habian preguntado el distrito de los usuarios para contactarlos.
 
 **Entrevistas usuario segmento (Gestor de Hotel/Hostal)**
 
@@ -540,8 +540,10 @@ Edad: 55 años
 Ocupación: Gerencia de Hoteles
 <br>
 Browser Preferido: Google
+<br>
 Dispositivos: Computadoras (Windows), celulares android y telefonos domesticos.
-
+<br>
+Distritos: Magdalena
 
 
 ![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaS2P.png)  
@@ -559,6 +561,8 @@ Ocupación: Gerencia de Hoteles
 Browser: OperaGX y Chrome
 <br>
 Dispositivos: Celular y Laptop
+<br>
+Distrito: Distrito de Trujillo, Trujillo
 
 ![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaCatalina.png)  
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/Ef4Ze3ZRF69HvFOvKfLItfkBK0acikKuHuZnMlg5bXvq5g?e=FxDvdB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.2]</a> <br>
@@ -568,17 +572,22 @@ Catalina nos comparte que considera que la digitalizacion de los sistemas de ges
 
 Nombre: Ariana Valdivia
 <br>
-Edad: 23 años
+Edad: 29 años
 <br>
-Ocupación: Gerencia de hoteles
+Ocupación: Gerencia de hoteles (3 sedes)
 <br>
+Browser: N/A
+<br>
+Device: N/A
+<br>
+Distrito: Miraflores, Surquillo, Surco.
+<br>
+
 ![Imagen de entrevistaS1](assets/interviewsimages/Entrevista-segmento1.png)
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ET8_u1p88ApJt2fvshZRbcAB2CEChNVgjXxNuPbqCmw1SA?e=xCeIhO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.3]</a> <br>
 <br>
-Ariana Valdivia, gerente del Hotel Oasis
-Comparte su punto de vista sobre la digitalización de los sistemas de gestion hotelera y la distribucion entre empleados y sus tareas-
-Menciona la importancia de la buena comunicación que tiene entre ella como gerente y sus emppleados.
-Reconoce sus problemas y frustraciones recalcando la importancia que tendría nuestra aplicación en su vida, ayudandole y facilitando la mejora en la gestión de procesos de su hotel.
+
+Ariana cuenta que ella y su equipo cuentan con sistemas de gestion de inventario, para dar horarios y sus tareas. Respecto a la digitalizacion, menciona que los procesos empresariales se vuelven menos tediosos gracias al poder **gestionar mas en menos tiempo**. menciona que, en el sistema que tienen se asignan las tareas a sus empleados, **cada empleado sabe que hacer al dia y al finalizar el dia se revisa si se cumplieron estas tareas**. Comparte que en su analisis de inventario se organizan sabiendo **cuantos items tienen, cuando llegaron y cuanto pedir a sus proveedores diariamente**. Intentan de mantener la comunicacion por charlas y conferencias para los trabajadores de la empresa. **Necesitan** que la relacion con el trabajador sea buena para que la eficiencia de estos aumente. Menciona que las **frustraciones** que tiene se originan por un **proceso no cumplido en el dia**, intenta que los procesos esten realizados. Comenta que sus **objetivos** son proporcionar al usuario con la mejor atencion.
 
 **Segmento 2**  
 Nombre: Arian Godinez Vargas
@@ -591,9 +600,26 @@ Ocupación: Empleado de Hotel (limpieza)
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=FP7xJZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.4]</a> <br>
 En la entrevista Arian nos relata como es un dia laboral para el como staff en un Hotel el cual prefiere que mantengamos anonimo, nos habla un poco preocupado pero con la suficiente confianza para comentarnos de los inconvenientes que sufre el, junto a sus colegas respecto a los sistemas de comunicacion entre los empelados y supervizores y de como deben usar herramientas obsoletas para intentar manejarse. 
 
+
+Nombre: Esau Carretero
+<br>
+Edad: 19 años
+<br>
+Ocupación: Trabaja en un hotel part-time
+<br>
+Browser: GoogleChrome y OperaGX
+<br>
+Device: Celular y computadora
+<br>
+Distrito: Jesus Maria
+<br>
+
 ![Imagen de entrevistaS2.2](assets/interviewsimages/EntrevistaES2.png) 
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETIBRYdwzYtAliQA0IkQx1cBurdKw6YSE4nBrVncTpjaAQ?e=0bhNc0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.5]</a> <br>  
-En la entrevista Esau nos menciona como practicante de un hotel, los metodos que se usan para la comunicacion y gestion de empleados donde se se usa Whatsapp como herramienta para entregar tareas y comunicarse con el gerente. Mas tambien nos menciona como este sistema puede generar problemas especialmente cuando estas estructuras son grandes y tienen una alta cantidad de empleados.
+
+Esau comenta respecto a como **siente** que su espacio laboral es bueno pero que al momento de comunicarse debe de moverse en el hotel para encontrar a sus supervisores y otros compañeros, asimismo de como **necesitan** whatsapp para que se les entreguen sus tareas. Ademas de como para avisarle a su gerente **necesita** de mandarle un mensaje de whatsapp o correo. El piensa que **whatsapp es un sistema que es propenso a *enredarse*** ya que todos hablan por un solo canal. Finalizando la entrevista nos comenta de como **siente** que entre sus compañeros se generan **frustraciones** de por donde empezar sus tareas y que de **objetivo** tiene el realizar un trabajo optimo.
+
+---
 
 Nombre: Nicola Estefan Romero
 <br>
