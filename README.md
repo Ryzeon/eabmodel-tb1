@@ -38,17 +38,44 @@
 
 | Version | Fecha      | Autor   | Descripcion de Modificacion |
 |---------|------------|---------|-----------------------------|
-| 0.0     | 19/03/2024 | Grupo 1 | Se crea el documento        |
+| 0.0     | 24/03/2024 | Alex |  Crea documento      |
+| 0.4     | 10/04/2024 | Sebastian R | Se aplican mejoras a las secciones del chapter 1 y 2 siendo especificamente Journey Mapping, Entrevistas y Competidores        |
+| 0.5     | 10/03/2024 | Sebastian P | Se realiza un review a los mockups y wireframes         |
+| 0.6     | 10/03/2024 | Josue | Realiza cambios en diagramas de clases y user flow        |
+| 0.7     | 11/03/2024 | Sebastian | Se realizan cambios a la investigacion y el lean UX        |
+| 0.8     | 10/03/2024 | Piero |  Se realizan cambios a toda la seccion 5.1       |
+| 1.1     | 24/04/2024 | Sebastian | Realiza correcciones observadas en clase      |
+| 1.2    | 24/04/2024 | Sebastian | Finaliza proceso LeanUX corregido      |
+
+
+
 
 </div>
 
 # Project Report Collaboration Insights
 
-[URL del repositorio](https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project)
+Repositorio: (https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project)
 
+### TB1
 
+Para la entrega del TB1 se han hecho las respectivas divisiones por cada capitulo con el objetivo de tener un workflow saludable y se pueda realizar una retroalimentacion activa, para cada actividad asignada se ha entregado un conjunto de sub indices por cada capitulo a los integrantes del grupo dejando la posibilidad de realizar correcciones entre los mismos integrantes.
 
-(Imagenes de los commits cada entrega)
+Se muestran evidencias de los commits realizados en la entrega de la TB1
+
+<img src="assets/colaboration-insights/colaboration.png" alt="imagen de las colaboraciones">  
+
+[Colaboraciones del repositorio]
+
+<img src="assets/colaboration-insights/commits.png" alt="imagen de los commits">  
+[Registro de los commits donde se realizaron la mayor cantidad]
+
+En ambos casos se puede observar el incremento de modificaciones y revisiones en la primera semana de abril.
+
+---
+
+### TP1
+
+---
 
 # Contenido
 
@@ -180,8 +207,8 @@
 
 | Criterio Especifico                                                                                                                                  | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 |------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | Sebastian Ramirez Hoffmann:<br> *TB1:*  Participe en secciones del capitulo 1,2 y 4 <br> Manuel Sebastian Peña Rivera: <br> *TB1:*  Participe en secciones del capitulo 1,2, 3 y 4 que contienen entrevistas, empathy map, product backlog, impact map, user task matrix, general style guidelines, web applications desktop and mobile wireframes, web applications desktop and mobile mockups, user flow<br/> Alex Avila Asto: <br/> TB1: Participe en las secciones del capitulo 2 y 5                                                                                | SebastianRamirezHoffmann:<br> Con los conocimientos adquiridos y las experiencias vividas siento que el proceso que hacemos es escencial para que grandes proyectos puedan salir adelante. <br> Manuel Sebastian Peña Rivera:<br> Realizar la investigación necesaria para el proyecto permite conocer la realidad de los desafíos que presentan y como nuestro programa puede solucionar el problema es nuestro objetivo en mente  <br/> Alex Avila Asto: <br/> Al realizar el informe adquire informacion valiosa con la cual me di cuenta que el rubo hotelero presenta bastante problemas con respecto a la implentacion de la tecnologia. |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | Sebastian Ramirez Hoffmann:<br> *TB1:* Tengo un familiar en el rubro de hoteleria pero no tuvo la oportunidad de participar. no obstante me dio substancial informacion respecto a la gestion de proyectos.  <br> Manuel Sebastian Peña Rivera:<br>  No solo la investigación realizada, sino que la entrevista que realice me permitió conocer sobre las dificultades y experiencia laboral del gerente en el rubro de hospedaje. <br/>Alex Avila Asto:<br/>El rubo de mi familia es hotelero, lo cual me ayudo para poder realizar junto con mis compañero el informe. | SebastianRamirezHoffmann:<br> Con esta nueva informacion siento que la siguiente iteracion del proyecto sera mejor que la anterior. <br> Manuel Sebastian Peña Rivera:<br> Con la información reunida de la entrevista espero poder adaptar las necesidades al proyecto y que nuestro proyecto le sirva para mejorar la eficiencia de su trabajo <br/> Alex Avila Asto: Con esta informacion estoy convencido que nuestro proyecto tendra un buen impacto en el rubo hotelero.                                                                                                                                                                 |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Sebastian Ramirez Hoffmann**: [<br> **TB1:** <br>  Como team leader tuve la asignacion de proporcionarle sus partes a mis compañeros, de estas tareas asignadas realice los sub indices del **capitulo 1** especificamente siendo Lean UX Process y parte de las correcciones de antecedentes y problematica.<br> Del **capitulo 2** participe en el analisis de competidores y realice partes del needfinding de las entrevistas, asimismo como el recuadro As-Is.<br> Del **capitulo 3** realice To-Be scenario mapping.<br> Finalmente participe activamente en el **capitulo 4** en el subindice 4.6 y parte del 4.6 participando en los diagramas de contenedores y contexto asimismo como en el diagrama de base de datos. Respecto al **capitulo 5** apoye realizando revisiones del capitulo y mis aportes a la Landing Page ] <br><br> **Manuel Sebastian Peña Rivera**: <br> *TB1:*  Participe en secciones del capitulo 1,2, 3 y 4 que contienen entrevistas, empathy map, product backlog, impact map, user task matrix, general style guidelines, web applications desktop and mobile wireframes, web applications desktop and mobile mockups, user flow<br/> **Alex Avila Asto**: <br/> TB1: Participe en las secciones del capitulo 2 y 5                                                                                | **SebastianRamirezHoffmann**:<br>  Como conclusion fue gracias a mi participacion en los primeros capitulos, los cuales dejan una idea general de lo que somos como empresa y lo que representa nuestro producto ayudandome a poder dar observaciones y controles de calidad asi como observaciones de lo que mis compañeros van realizando  <br><br> **Manuel Sebastian Peña Rivera**:<br> Realizar la investigación necesaria para el proyecto permite conocer la realidad de los desafíos que presentan y como nuestro programa puede solucionar el problema es nuestro objetivo en mente  <br/> **Alex Avila Asto**: <br/> Al realizar el informe adquire informacion valiosa con la cual me di cuenta que el rubo hotelero presenta bastante problemas con respecto a la implentacion de la tecnologia. |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | **Sebastian Ramirez Hoffmann**:[<br> **TB1:**<br> He realizado parte de la investigacion del proyecto tanto entrevistas como revisar articulos, por lo que he revisado estadisticas en base a la importancia del producto en el mercado, asimismo con el analisis de competidores apoye a darles la idea general del proyecto a mis colegas, al tener familiares que se especializan en el mercado orientado a nuestro producto recibi ideas externas por parte de estos mismos para comunicar a mis compañeros en congregaciones que se dieron en grupo.]<br> **Manuel Sebastian Peña Rivera**:<br>  No solo la investigación realizada, sino que la entrevista que realice me permitió conocer sobre las dificultades y experiencia laboral del gerente en el rubro de hospedaje. <br/>**Alex Avila Asto**:<br/>El rubo de mi familia es hotelero, lo cual me ayudo para poder realizar junto con mis compañero el informe. | **SebastianRamirezHoffmann**:<br>Fue gracias a las investigaciones que que logre tener una idea mas concreta de lo que debemos de hacer como empresa para asegurar la efectividad de nuestro proyecto tomando en consideracion las necesidades y competidores existentes en el mercado.<br> Manuel Sebastian Peña Rivera:<br> Con la información reunida de la entrevista espero poder adaptar las necesidades al proyecto y que nuestro proyecto le sirva para mejorar la eficiencia de su trabajo <br/> **Alex Avila Ast**o: Con esta informacion estoy convencido que nuestro proyecto tendra un buen impacto en el rubo hotelero.                                                                                                                                                                 |
 
 # Capítulo I: Introducción
 
@@ -191,7 +218,7 @@
 
 Nuestra startup "InnControl" es un servicio de gestion orientado a negocios en el rubro de hospedajes u hotelería el
 cual provee un seguimiento de inventario, empleados, espacios, tiempos y servicios utilizados en el proceso del
-servicio. Asimismo mantendrá igualmente un contacto tanto con los proveedores del negocio como sus mismos empleados y
+servicio. Asimismo mantendrá igualmente un contacto tanto con los empleados como sus gerentes.
 gerentes.
 
 #### 1.1.2. Perfiles de integrantes del equipo
@@ -278,66 +305,154 @@ funcionalidad que desee agregar el gestor.
 
 #### 1.2.2.1. Lean UX Problem Statement.
 
-Observamos que en la industria hotelera, muchos establecimientos enfrentan desafíos significativos en la gestión interna
+
+En el estado actual de la industria de hoteleria y hospedaje muchos establecimientos enfrentan desafíos significativos en la gestión interna
 de sus operaciones. La falta de coordinación y eficiencia en la gestión del inventario, el personal, los espacios y los
 servicios afecta negativamente tanto la experiencia del usuario como la eficiencia operativa. Esta falta de coordinación
 puede llevar a errores en la asignación de recursos, retrasos en la atención al cliente y una experiencia general
 insatisfactoria para los huéspedes.
 
-Además, los gerentes de hoteles se enfrentan a la presión de mantener altos estándares de calidad y eficiencia, mientras
+Lo que otros productos han fallado en realizar son los rapidos cambios en la digitalizacion dejando sus softwares obsoletos o con cambios que resultan ser pobres en experiencia de usuario. Además, los gerentes de hoteles se enfrentan a la presión de mantener altos estándares de calidad y eficiencia, mientras
 lidian con procesos manuales y sistemas obsoletos que consumen tiempo y recursos. Esta falta de herramientas adecuadas
 para la gestión puede tener un impacto directo en la rentabilidad del negocio y en la satisfacción del cliente.
 
+Nuestro producto se enfocara en proporcionar funcionalidades mas intuitivas al usuario, un mejor sistema de gestion para poder observar todos los aspectos necesarios, la capacidad de poder mantener una comunicacion entre gerentes y empleados y fomentando la accesibilidad para modelos de negocio pequeños que tienen la capacidad de digitalizarse.
+
+Nuestro enfoque principal sera el ofrecer este servicio a los gerentes de hotel para que evaluen con sus empleados los beneficios que proveemos. 
+
 Como resultado, nos enfrentamos al siguiente problema: ¿Cómo podemos proporcionar a los gerentes de hoteles una
 plataforma de gestión accesible y eficiente que les permita coordinar de manera efectiva el inventario, los empleados,
-los espacios y los servicios, para mejorar la experiencia del usuario y optimizar los procesos operativos?
+los espacios y los servicios, para mejorar la experiencia del usuario y optimizar los procesos operativos en un 45%?
+
+Nuestro producto se encargara de esto al proporcionar un servicio de gestion que pueda digitalizar, optimizar y solucionar los procesos de gestion en procesos de hoteleria y hostales. 
+
+Sabremos que tuvimos exito cuando se pueda observar un minimo de 45% de satisfaccion en encuestas de control donde los gerentes y empleados que utilizaron la aplicacion hayan logrado una mejorada calidad de trabajo y asimismo un crecimiento de 5% en la industria turistica.
+
+
 
 #### 1.2.2.2. Lean UX Assumptions.
 
-| Business Assumptions                                                                                                                                                  | User Assumptions                                                                                                                                                                                                                                                                                                         |
-|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 1. Creemos que nuestros clientes tiene la necesidad de mejorar su servicio y reducir sus costos por medio de una gestion optimizada.                                  | 1. Quien es el usuario? Los gestores de hoteles y hostales, y sus empleados.                                                                                                                                                                                                                                             |
-| 2.Estas necesidades se resolveran con un gestor de hoteleria y hostales.                                                                                              | 2. Donde encaja nuestro producto en sus vidas?                                                                                                                                                                                                                                                                           |
-| 3. Nuestros usuarios iniciales seran los mismos hostales y hoteles pequeños                                                                                           | 3. Que problema soluciona nuestro producto?                                                                                                                                                                                                                                                                              |
-| 4. El valor #1 que el cliente quiere de nuestro servicio es el control de su establecimiento.                                                                         | 4. Donde y cuando se usa nuestro producto? El producto se utiliza en contextos donde se requiera optimizar el sistema de gestion de un hostal u hotel, se puede usar a cualquier hora aunque es preferible que se use cuando se esta en un horario de atencion para hacerle un seguimiento a los estados de los cuartos. |
-| 5. El usuario tambien tendra como beneficios el monitoreo en tiempo real del estado de sus locales.                                                                   | 5. Que caracteristicas son importantes? Las caracteristicas mas importantes en este proyecto seran la supervicion de cuartos y sus cambios de estado, la asignacion de personal a sus respectivas tareas, el contacto inmediato entre empleados y supervisores y finalmente el registro y reabastecimiento de estos      |
-| 6. Conseguiremos a nuestros clientes de las campañas de marketing digital                                                                                             | 6. Nuestro Producto debe de ser facil e intuitivo de usar y debe de ser agradable a la vista.                                                                                                                                                                                                                            |
-| 7. Haremos dinero por medio de los pagos que recibiremos por usar nuestro software                                                                                    |                                                                                                                                                                                                                                                                                                                          |
-| 8. Nuestro principal competido en el mercado seran otros softwares de otros paises o más avanzados y populares.                                                       |                                                                                                                                                                                                                                                                                                                          |
-| 9. Lograremos vencerlos por medio de nuestra interfaz amigable, funcionalidades originales y un mejor sistema de gestion el cual facilitara la expriencia de usuario. |                                                                                                                                                                                                                                                                                                                          |
-| 10. Nuestro mayor riesgo de producto es la falta de interes o inversion por parte del cliente.                                                                        |                                                                                                                                                                                                                                                                                                                          |
-| 11. Se resolvera este riesgo haciendo que nuestro servicio funcione de manera impecable y haciendo campañas de marketing digital efectivas y honestas.                |                                                                                                                                                                                                                                                                                                                          |
-| 12. el assumption que nos puede generar problemas en caso sea incorrecto es la falta de necesidad por parte del segmento objetivo                                     |                                                                                                                                                                                                                                                                                                                          |
+**Business Outcome**  
+En esta seccion vamos a usar las metricas de Montaña que ha conceptualizada por Jeff Gothelf e implementaremos algunas de las pirate metrics para poder definir los niveles de la montaña para llegar poder analizar los comportamientos de nuestros usuarios y analizar que parte del User Journey es relevante para nosotros y hacer un assumption de como actuaran nuestros usuarios en base al producto.
 
-#### 1.2.2.3. Lean UX Hypothesis Statements.
+Acquisition: (Base): [1000 visitantes]
+El usuario se percatara de nuestra solucion por medio de las redes sociales como medio de comunicacion asimismo promocionando nuestra landing page, de misma manera intentaremos ofrecer el servicio a los mismos usuarios con metodos de comunicacion directa como por ejemplo ofrecerle el servicio a la institucion donde trabaja (hotel/hostal).
 
-Creemos que al proporcionar una plataforma de gestión hotelera accesible y eficiente, los gerentes podrán coordinar
-mejor sus operaciones, lo que resultará en una experiencia mejorada para los huéspedes y una optimización de los
-procesos internos.
+Activacion: (Plateau):[450 users : 100% users]
+En esta seccion el usuario gerente crea su cuenta registrando su correo ya sea personal o de la institucion, metodos de pago, las dimensiones del negocio es decir la cantidad de habitaciones por piso y finalmente un codigo de autenticacion para los empleados que deban de generar una cuenta.
+De los usuarios que se percatan del producto esperamos que el 45% se anime a utilizarlo.
 
-Sabremos que hemos tenido éxito cuando observemos un aumento en la adopción de la plataforma por parte de los gerentes
-de hoteles y una mayor finalización de tareas dentro de la plataforma con resultados positivos en la satisfacción del
-cliente.
+Retention: (Plateau + 1 level):[60% users]
+De los usuarios que se animaran a utilizarlo esperamos que el 60% de estos continue utilizando nuestro producto diariamente para gestionar a sus empleados y habitaciones. En esta seccion el usuario utiliza las herramientas que le proporciona nuestro producto para la gestion de cuartos, ya tiene a sus empleados asignados y les asigna sus tareas mientras que estos mantienen una comunicacion continua.
 
-Creemos que la aplicación permitirá a los gerentes comprender mejor los aspectos críticos de la gestión hotelera y tomar
-decisiones informadas para mejorar la eficiencia operativa.
+Revenue: (Plateau + 2 levels):[10% users]
+Los usuarios que utilizan nuestro producto son usuarios estrictamente de paga, no obstante si es que llegara la situacion donde su negocio se expande entonces van a tener mas empleados, mas cuartos y excederan el limite que le proporcionamos en su plan inicial. De esta manera se espera que un 10% de los usuarios retenidos que consigan este crecimiento estaran dispuestos a mejorar su plan generandonos un mayor ingreso.
 
-Sabremos que hemos tenido éxito cuando veamos una mejora en la satisfacción del cliente, medida a través de encuestas y
-comentarios positivos, y una reducción en los tiempos de respuesta y errores operativos.
+Referral:(top) [5% users]
+Finalmente de los usuarios que retenimos esperamos que un 5% de estos nos referencien a sus colegas o a nuevos emprendedores indirectamente promocionandonos y aumentando el flujo de usuarios potenciales que podemos obtener.
 
-Creemos que al ofrecer herramientas intuitivas y efectivas, los gerentes podrán dedicar más tiempo a actividades
-estratégicas y de mejora continua, lo que resultará en un aumento en la rentabilidad y competitividad del hotel.
+**Users**  
+En esta seccion creamos un Proto-Persona como un assumption de como son nuestros usuarios enfocandonos mas en el aspecto de actitud.
 
-Sabremos que hemos tenido éxito cuando observemos un aumento en la rentabilidad del hotel, una mejora en las
-calificaciones de satisfacción del cliente y una optimización de los procesos internos de gestión.
+|Demografica|Comportmamiento|Necesidades / Obstaculos|
+|-|-|-|
+|Alex:<br>35 años <br> Gestor de hotel/hostal| - Trabaja en un hotel/hostal <br> -Gana lo suficiente <br> - Enfocado en la gestion de tareas <br> - Busca que todo este en orden | - Necesita aumentar el area de gestion <br> -Necesita mejorar la asignacion de tareas <br> - Requiere de una mejor comunicacion con los demas empleados a quienes asigna las tareas <br> - Obstaculo: El hotel utiliza herramientas obsoletas o no tiene alguna para asignar tareas <br> - Obstaculo: Utilizan medios no formales como whatsapp para comunicarse lo que complica la comunicacion eficiente. <br> - Busca mejorar la organizacion del hotel/hostal |
+|Carla:<br> 27 años <br> Empleada de limpieza | -Gana lo minimo <br> -Enfocada en el cumplimiento de tareas <br> -busca terminar su trabajo de manera rapida|- Necesita un medio de comunicacion directo con su gestor <br> -Necesita una manera de notificar la falta de algun objeto que necesite <br> -Necesita notificar que cuartos ya estan listos y saber cuales debe de preparar <br> -Obstaculo: Todos hablan en el mismo grupo de whatsapp y se pierden tareas <br> - Obstaculo: No hay un registro seguro de las tareas que se les fueron asignadas <br> - Busca comunicar de inmediato a su supervizor el estado de una habitacion <br> -Busca avisar si falta algun objeto necesario para la preparacion de la habitacion |
+
+Esta tabla refleja los dos principales usuarios que tenemos como assumption junto con sus necesidades y comportamientos en el area laboral.
+
+**User Outcomes & Benefits**
+
+En esta seccion se busca el lado mas emocional y empatizar con el usuario para darles los outcomes correctos.
+
+
+Que busca lograr el usuario?
+Quiero notificar a mi supervisor que necesito ciertos materiales para realizar mis tareas.<br>
+Como se quiere sentir el usuario en este proceso?
+Quiero sentirme como si tuviera una linea directa con el supervisor.<br>
+Como nuestro producto acerca al usuario a un logro personal?
+Quiero sentirme escuchado y tomado en consideracion.<br>
+Porque nuestro usuario buscaria nuestro producto?
+Quiero que mis tareas se puedan realizar sin problemas.<br>
+Que cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?
+Sabremos que tuvimos exito cuando el usuario presente una comunicacion efectiva con su supervizor utilizando nuestro producto en el area laboral.<br><br>
+Que busca lograr el usuario?
+Quiero revisar los estados de cuarto.<br>
+Como se quiere sentir el usuario en este proceso?
+Quiero sentirme como que con solo ver ya puedo saber en que estado se encuentra un cuarto.<br>
+Como nuestro producto acerca al usuario a un logro personal?
+Quiero sentir que puedo manejarme y organizarme.<br>
+Porque nuestro usuario buscaria nuestro producto?
+Quiero realizar mis tareas de manera que sea tan facil como mirar por la ventana.<br>
+Que cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?
+Sabremos que tuvimos exito cuando el usuario presente un monitoreo rapido de habitaciones utilizando nuestro producto en el area laboral.<br><br>
+Que busca lograr el usuario?
+Quiero mantenerme comunicado con mi (gerente/empleado) para poder (entregar/recibir) tareas.<br>
+Como se quiere sentir el usuario en este proceso?
+Quiero sentirme como que puedo ver todos los aspectos logisticos del hotel en un solo lugar.<br>
+Como nuestro producto acerca al usuario a un logro personal?
+Quiero sentir que tengo el control de mis acciones.<br>
+Porque nuestro usuario buscaria nuestro producto?
+Quiero hacer mas trabajo en menor tiempo y que no me cueste mucho hacerlo.<br><br>
+Que cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?
+Sabremos que tuvimos exito cuando el usuario tenga una facilidad en comunicarse y realizar sus tareas en el area laboral utilizando nuestro producto.
+
+
+
+
+
+Este analisis de user Outcomes sirve para ambos segmentos en ciertos casos ya que tienen un objetivo similar y se puede comprender el contexto desde ambas perspectivas.
+
+**Solutions**
+
+Si bien Gothelf menciona en su libro LeanUX 3rd Edition que debemos utilizar elementos fisicos como post its y demas para esta entrega realizamos una llamada para definir nuestras soluciones supuestas.
+
+Tomando en cuenta las restricciones anteriormente seleccionadas realizamos las siguiente solucione:
+
+Desarollar un gestor de hoteleria y hostales orientado a realizar la mayoria de prorcesos de gestion principales siendo:
+
+- **El monitoreo de estados de cuartos** - notifica sin la necesidad de usar algun sistema de comunicacion como whatsapp el estado actual de un cuarto. Tomar en consideracion las validaciones necesarias.
+- **La entrega de tareas** - entrega las tareas remotamente a los empleados sin necesidad de que se tenga que decir una palabra entre usuarios asimismo permite el monitoreo de esta. Tomar en consideracion que solo el usuario con la tarea asignada puede terminar esta tarea.
+- **La revision de inventario** - permite que se pueda hacer un seguimiento de los items que se tienen en la bodega del negocio los cuales se deben registrar cuando son agregados o quitados. Tomar en consideracion que podemos agregar los proovedores de dichos productos.
+- **La comunicacion empleado/gerente** - sistema de comunicacion para emergencias o dudas donde se mantiene una linea de comunicacion directa y sin distractores entre el gerente y el empleado, de misma manera puede servir para monitorear que mensajes se han mandado.
+  
+
+#### 1.2.2.3. Lean UX Hipotesis Statements.
+
+**Hipotesis**
+
+Siguiendo el formato de las Hipotesis usaremos la tabla de hipotesis.
+Tomar en cuenta que cada hipotesis empieza con "Creemos que.."
+
+|Business Outcome|Persona|User Outcome|Feature/Solution|
+|-|-|-|-|
+|Conseguiremos una retencion del 20% de usuarios | Si los gerentes de hoteles/hostales | entregan tareas a sus empleados | con el sistema de comunicacion para emergencias o dudas |
+|Conseguiremos una retencion del 20% de usuarios optima | Si los gerentes de hoteles/hostales | logran monitorear los estados de cuarto | con el sistema de monitoreo de cuartos |
+|Conseguiremos una retencion del 60% de usuarios optima | Si los gerentes de hoteles/hostales | se sienten en control de sus actividades | con las herramientas de gestion que estamos ofreciendo, estas siendo monitoreo de estados de cuartos, entrega de tareas, revision de inventario y sistema de comunicaciones |
+|Conseguiremos una retencion del 20% usuarios optima | Si los gerentes de hoteles/hostales | Notifican de los items necesitados al gerente | con el sistema de comunicacion entre empleado y gerente |
+|Conseguiremos que 10% de nuestros usuarios nos genere una ganancia | Si los gerentes de hoteles/hostales | mejoran el plan de su cuenta | proveyendo al usuario de la posibilidad de mejorar su cuenta |
+|Conseguiremos que 5% de nuestro usuarios nos referencien | Si los gerentes de hoteles/hostales y empleados | logran una comunicacion entre gerente y empleado efectiva | con el sistema de comunicacion entre empleado y gerente |
+|Conseguiremos que 45% de nuestra adquisicion de usuarios vengan de nuestra pagina | Si los gerentes de hoteles/hostales y empleados | encuentran nuestra solucion como una posibilidad de mejora | con la landing page implementada |
+
+**Que es lo mas importante que debemos aprender**
+
+Debemos de analizar que es lo que debemos aprender de nuestras Hipotesis, entonces llegamos a nuestra siguiente conclusion respecto a lo mas importante que debemos aprender:
+
+Los usuarios estaran interesados en nuestra "innovadora" propuesta dado que existen otros productos similares y asimismo, realmente la necesitan?
+
+**Minimum viable product**
+
+Los MVP nos sirven para aprender cosas a corto plazo. para realizar esto se hace la pregunta: 
+What’s the most important thing we need to learn first?
+Lo primero que debemos de confirmar para nuestro proyecto es **si realmente se esta requiriendo en el mercado**, es por esta misma razon que tendremos que realizar una serie de entrevistas a gerentes de hotel/hostal y sus empleados para poder probar que si existe una necesidad que estamos satisfaciendo. Adicionalmente crear una landing page realizando un MVP para los usuarios que esten interesados en este producto.
+
 
 #### 1.2.2.4. Lean UX Canvas.
 
-| -                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         | -                                                                                                                                                                                                                                             | -                                                                                                                                                                                                                                                                                                                                                        |
-|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Business Problem <br>¿Qué problema has identificado que necesitas resolver? E"La tecnología ayuda a ofrecer un servicio fluido, proporciona mayor independencia a los huéspedes, automatiza tareas tediosas y brinda una mejor experiencia para todas las partes involucradas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Solution ideas <br>Gestor de hoteleria y hostales orientado a realizar la mayoria de prorcesos de gestion como estado del cuarto, entrega de tareas y revision de inventario.                                                                 | Business Outcomes <br>(Cambios en el comportamiento del usuario) <br>¿Qué cambios en el comportamiento del usuario indicarán que has solucionado un problema real de manera que añada valor a tus clientes? <br> El comportamiento del usuario habrá cambiado cuando este sepa manejarse mejor en situaciones de alta gestion gracias a nuestro producto |
-| User & Customers <br>¿En qué tipo de usuarios y clientes tienes que centrarte primero? <br>Usuario: <br>Negocios de hoteleria que requieran de un sistema de organizacion y gestion. <br>Hoteles y Hostales que requieren de mejorar su servicio. <br>Cliente: Empleados de dichos hoteles y hostales que buscan lograr su trabajo efectivamente.  <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |  UX Canvas                                                                                                                                                                                                                                    | User benefits <br>¿Cuáles son los objetivos que los usuarios intentan obtener? <br> \- Tener una comunicacion entre empleado y gestor mejorando la logistica <br> ¿Qué les motiva a buscar tu solución? <br> \- Los usuarios están motivados a buscar esta solución debido a la accesibilidad e innovacion que ofrece.                                   |
-| Hyphotheses:<br> Creemos que al proporcionar una plataforma de gestión hotelera accesible y eficiente, los gerentes podrán coordinar mejor sus operaciones, lo que resultará en una experiencia mejorada para los huéspedes y una optimización de los procesos internos.<br><br>Sabremos que hemos tenido éxito cuando observemos un aumento en la adopción de la plataforma por parte de los gerentes de hoteles y una mayor finalización de tareas dentro de la plataforma con resultados positivos en la satisfacción del cliente.<br><br>Creemos que la aplicación permitirá a los gerentes comprender mejor los aspectos críticos de la gestión hotelera y tomardecisiones informadas para mejorar la eficiencia operativa.<br><br>Sabremos que hemos tenido éxito cuando veamos una mejora en la satisfacción del cliente, medida a través de encuestas y comentarios positivos, y una reducción en los tiempos de respuesta y errores operativos.<br><br>Creemos que al ofrecer herramientas intuitivas y efectivas, los gerentes podrán dedicar más tiempo a actividades estratégicas y de mejora continua, lo que resultará en un aumento en la rentabilidad y competitividad del hotel. <br><br>Sabremos que hemos tenido éxito cuando observemos un aumento en la rentabilidad del hotel, una mejora en las calificaciones de satisfacción del cliente y una optimización de los procesos internos de gestión. | ¿Qué es la cosa más importante que nosotros necesitamos aprender primero? <br> Lo principal que necesitamos aprender es conectar la base de datos con la pagina web y adicionalmente un repaso en lo que viene siendo la gestión del proyecto | <br> ¿Cuál es la mínima cantidad de trabajo que nosotros necesitamos hacer para aprender la siguiente cosa más importante? <br> Asistir a las clases y solicitar que se nos revise los avances del proyecto para poder hacer un seguimiento saludable del proyecto                                                                                       |
+Finalmente juntamos todo lo que hemos hecho en este proceso y lo agregamos en un Lean UX Canvas (V2) guiandonos del ejemplo que nos proporciona Jeff Gothelf [Anexo 1.1]
+
+<image src ="./assets/lean-ux/lean-ux-canvas/Lean UX Canvas (V2) - Inn Control.jpg" alt ="LeanUX Canvas (V2) [implementando lean UX 3]">
+
 
 ## 1.3. Segmentos objetivo.
 
@@ -594,7 +709,21 @@ As Is:
 ## 2.4. Ubiquitous Language.
 
 ```
-Texto ubiquo: Definicion de este
+Vacant: Se refiere al estado de la habitacion cuando esta se encuentra libre para utilizar.
+
+InService: Se refiere al estado de servicio donde la habitacion puede estar en medio de una limpieza, restocking o mantenimiento.
+
+Occupied: Cuando la habitacion se encuentra Ocupada por un cliente del local.
+Manager(Gerente): Encargado de supervizar las tareas, empleados, providers y habitaciones.
+
+Employees(Empleados): Estos empleados idependientemente de su labor que puede variar entre limpieza, servicio al cuarto o restockers reciben tareas por parte del gerente.
+
+Tasks: Tareas orientadas para los empleados como puede ser el servicio de limpieza a una habitacion o el restocking de los productos.
+
+Items: Los items se refieren a los productos consumibles que se utilizan en los cuartos ya pueden ser jabones, toallas, shampoo etc. todos estos se deben registrar con un stock para poder gestionar el inventario de estos.
+
+Provider: Los providers se van a proporcionar como un atributo de los items para facilitar la filtracion de productos provenientes de un provider especificio.
+
 ```
 
 ---
@@ -1394,8 +1523,15 @@ https://www.mews.com/es/blog/tecnologia-en-operaciones-hoteleras
 
 https://www.infobae.com/peru/2023/10/29/asociacion-de-hoteles-y-restaurantes-alertaron-que-ventas-de-su-sector-han-caido-un-40-no-hay-incentivos/
 
+https://jeffgothelf.com/blog/faq-what-does-a-complete-lean-ux-canvas-look-like/
+
+https://learning.oreilly.com/library/view/lean-ux-3rd/9781098116293/
+
+
+
 # Anexos
 
 datos, gráficos, imágenes, esquemas, mapas de otros autores
 
-![Imagen de algo no nuestro lol](image.jpg)
+<img src = "./assets/anexos/jeffgothelf-leanuxcanvas/leanUxGothelf.png" alt = "Lean UX Canvas (V2) Jeff gothelf">
+<p>Lean UX Canvas hecho por Jeff Gothelf [Anexo 1.1]</p>
