@@ -706,32 +706,33 @@ Con esta informacion estamos sustentando los supuestos por el lado del segmento 
 **Segmento 2:**
 <br/> <img src="assets/user-personas/user-persona-segmento-1.png" style="width:100%"> 
 
-### 2.3.2. User Task Matrix.
+---
 
-| ‎   | ‎  | Segmento 1  | Gerente | Segmento 2  | empleado |
-|------|---------|-------------|--------------|-------------|------------|
-| ID   | Titulo  | Importancia | Frecuencia   | Importancia | Frecuencia |
-| HU01 | Actualizar las habitaciones disponibles |Alta | Media | Alta | Alta |
-| HU02 | Creación de tareas para empleados | Alta | Alta | Alta | Media |
-| HU03 | Notificaciones de inventario | Alta | Media | Alta | Media |
-|*HU04 | Información del desempeño | Alta | Media | Alta | baja |
-| HU05 | Lista de habitaciones ocupadas en tiempo real | Alta | Baja | Alta | Media |
-| HU06 | Alertas de mantemiento | Alta | Baja | Alta | Baja |
-| HU07 | Informar del estado de habitaciones | Media | Media | Alta | Media |
-| HU08 | Administrar permisos de los empleados| Alta | Media | Alta | Media |
-| HU09 | Programar turnos de trabajo | Media | Baja | Media | Baja |
-| HU10 | Realizar seguimiento de gastos | Alta | Alta | Media | Baja |
-| HU11 | Gestionar servicios adicionales | Media | Baja | Baja | Baja |
-|*HU12 | Notificaciones de comentarios | Media | Baja | Media | Baja |
-|*HU13 | Crear promociones | Alta | Media | Media | Baja |
-| HU14 | Registro de proveedores | Alta | Media | Media | Baja |
-|*HU15 | Seguimiento del cliente | Media | Media | Baja | Media |
-| HU16 | Notificaciones de cambio de agenda | Media | Baja | Alta | Media |
-| HU17 | Estado de las habitaciones | Media | Baja | Alta | Media |
-| HU18 | Información de procedimientos según el caso | Baja | Baja | Alta | Baja |
-| HU19 | Registrar el estado de suministros | Alta | Baja | Media | Baja |
-| HU20 | Reportar problemas | Media | Baja | Media | Baja |
-|*HU21 | Administrar facturas de servicios | Media | Baja | Alta | Alta |
+### 2.3.2. User Task Matrix.
+|| Segmento 1 | Empleado | Segmento 2 | Gestor |
+|-------------|-----------|-----------|-----------|--------|
+| Titulo      | Importancia | Frecuencia | Importancia | Frecuencia |
+| Dar a conocer que una habitación está libre | Alta | Media | Alta | Baja |
+| Asignar tareas a los empleados | Alta | Baja | Alta | Alta |
+| Avisar al gestor que se requiere algún ítem para una tarea | Alta | Media | Baja | Media |
+| Avisar de cambios de tareas a otros empleados | Alta | Media | Alta | Alta |
+| Registrar ítems en el inventario | Alta | Media | Alta | Alta |
+| Solicitar pedidos de ítems específicos | Alta | Baja | Alta | Alta |
+| Revisar que los empleados realizaron sus tareas | Alta | Media | Alta | Alta |
+| Programar las tareas del día o semana | Baja | Baja | Alta | Alta |
+| Reportarse con el gestor | Alta | Alta | Media | Media |
+
+
+
+
+
+
+
+
+
+
+
+
 
 ### 2.3.3. User Journey Mapping.
 
