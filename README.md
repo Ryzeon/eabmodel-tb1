@@ -660,7 +660,7 @@ Timing:
 <br>
 ![Imagen de entrevistaS2.3](assets/interviewsimages/EntrevistaArS1.png) 
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERnPx07H66pLuGgoQ-VcVisBL7dmBuURtltLTevZ401FwA?e=m7Z67t&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.6]</a> <br>  
-Nicola comenta sobre su trabajo actual y el sistema que utilizan en el hotel. Su trabajo presenta como **obstáculo** la pobre optimización que tiene y la poca capacidad de usuarios, por lo que se cae constantemente, por lo que recurre a usar aplicaciones como WhatsApp para la comunicación. También, nos aclara sobre lo **necesario** que es el sistema en los días más concurridos. Además, nos comenta que le genera **frustración** la mala comunicación, debido a que a veces no entiende la tarea asignada, además de que a él **quisiera** poder administrar mejor su inventario y automatizarlo. Nicola explica que le **gustaría** mejorar el sistema para realizar un trabajo bien hecho y así poder dar una buena experiencia los clientes.
+Nicola comenta sobre su trabajo actual y el sistema que utilizan en el hotel. Su trabajo presenta como **obstáculo** la pobre optimización que tiene y la poca capacidad de usuarios, por lo que se cae constantemente, por lo que recurre a usar aplicaciones como WhatsApp para la comunicación. También, nos aclara sobre lo **necesario** que es el sistema en los días más concurridos. Además, nos comenta que le genera **frustración** la mala comunicación, debido a que a veces no entiende la tarea asignada, además de que a él **quisiera** poder administrar mejor el inventario y automatizarlo. Nicola explica que le **gustaría** mejorar el sistema para realizar un trabajo bien hecho y así poder dar una buena experiencia los clientes.
 
 ### 2.2.3. Análisis de entrevistas.
 
@@ -679,7 +679,7 @@ En base al segundo segmento se puede observar que la comunicacion si teien oport
 
 
 **Segmento 2:**
-<br/> <img src="https://i.imgur.com/qQcCWVy.png" style="width:60%"> 
+<br/> <img src="assets/user-personas/user-persona-segmento-1.png" style="width:100%"> 
 
 ### 2.3.2. User Task Matrix.
 
