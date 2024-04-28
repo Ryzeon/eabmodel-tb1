@@ -533,7 +533,7 @@ Esta seccion de preguntas se enfocan en el punto de vista de los usuarios de seg
 ### 2.2.2. Registro de entrevistas.
 
 **Segmento 1**  
-Nombre: Elisa Rivera Del Rio
+Nombre: Elisa Rivero Del Rio
 <br>
 Edad: 55 años
 <br>
@@ -556,14 +556,15 @@ Edad: 25 años
 <br>
 Ocupación: Gerencia de Hoteles
 <br>
+Browser: OperaGX y Chrome
+<br>
+Dispositivos: Celular y Laptop
+
 ![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaCatalina.png)  
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/Ef4Ze3ZRF69HvFOvKfLItfkBK0acikKuHuZnMlg5bXvq5g?e=FxDvdB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.2]</a> <br>
 <br>
-Catalina Esteras, gerente del Hotel Royal Inca, 
-comparte sus perspectivas sobre la digitalización de los sistemas de gestión hotelera y la distribución de tareas entre empleados. 
-Destaca la necesidad de mejorar la comunicación interna y la organización del inventario de productos de limpieza. 
-Reconoce que la comunicación entre diferentes niveles de personal aún enfrenta desafíos, lo que a veces resulta en pérdida de tiempo. 
-Además, menciona como frustraciones la falta de comunicación efectiva y la dificultad con la base de datos en Excel, mientras que sus objetivos laborales incluyen mejorar la eficiencia del servicio y evitar problemas recurrentes para los clientes.
+
+Catalina nos comparte que considera que la digitalizacion de los sistemas de gestion serian **recibidos correctamente**, mencionando que se utilizaria para las **necesidades** de la busqueda, edicion y gestion de reservas y servicios. Menciona que se **asignan tareas dependiendo del tipo de empleado** en una reunion antes de una jornada laboral. Relata de como utilizan un excel para su gestion de items y menciona que le **gustaria** mejorarlo debido a que necesita que sus **datos se puedan ingresar, retirar y buscar** sin necesidad de saber mucho de excel. Finalmente nos menciona que **no siente** que existe una comunicacion fluida ya que **necesita ir hasta areas dedicadas como al area de mantenimiento para solicitar equipo necesario** o si existe un cambio de tareas **necesita** de avisar al empleado presencialmente mencionando como le **gustaria** implementar ese tiempo en otras tareas. Terminando la entrevista nos comenta sus **frustraciones con la comunicacion y administracion de datos** que tiene y de sus **objetivos** menciona como quiere superar y mejorar estos problemas y brindar un servicio mas completo para evitar inconvenientes al cliente ya que estos problemas segun nos cuenta son constantes.
 
 Nombre: Ariana Valdivia
 <br>
