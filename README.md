@@ -547,9 +547,8 @@ Dispositivos: Computadoras (Windows), celulares android y telefonos domesticos.
 ![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaS2P.png)  
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/Eci9Xsp-rVtEpOCoNQlvoGcBwGQ6voPj_b6TV2gAkXapcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=y7vQaU"> Url entrevista [Anexo 2.2.1.1]</a> <br>
 
-Elisa nos da su opinion del
+Elisa nos da su opinion respecto a la digitalizacion mencionando que es **necesaria**, mencionando que es importante mantener un sistema desde el huesped al software que integre todo, tambien dice como un **obstaculo** que en hoteles pequeños estos softwares son poco accesibles economicamente. Nos menciona que hay varias areas supervizadas por jefes donde se **quiere** digitalizar el proceso donde organizar las funcionalidades del dia a dia. Adicionalmente cuenta como no existe un inventario de productos digitalizado, manipulan todo lo relacionado de forma manual, menciona que le **gustaria** un software que se encarge de hacer eso. Asimismo relata de la falta de una linea de comunicacion directa con los empleados y como siente que se **necesita** que este deberia ser accesible desde el celular. Finalizando la entrevista menciona como **quisiera** sistematizar y digitalizar los procesos de gestion y que es una **frustracion** respecto a como los gastos de servicio realizan que se vuelva dificil el adquirir estos sistemas.
 
-Elisa nos comenta como en su area laboral de gestion ya existen softwares de gestion pero estos estan orientados a la contabilidad, menciona igualmente que un software orientado al manejo de tareas para el dia seria util para la gerencia de estos modelos de negocios.
 
 Nombre: Catalina Paredes
 <br>
