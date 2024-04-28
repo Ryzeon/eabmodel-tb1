@@ -46,6 +46,8 @@
 | 0.8     | 10/03/2024 | Piero |  Se realizan cambios a toda la seccion 5.1       |
 | 1.1     | 24/04/2024 | Sebastian | Realiza correcciones observadas en clase      |
 | 1.2    | 27/04/2024 | Sebastian | Finaliza proceso LeanUX corregido      |
+| 1.3     | 28/04/2024 | Sebastian P |  Se realizan cambios en la seccion de entrevistas 2.2.2   |
+| 1.4     | 28/04/2024 | Sebastian R | Realiza correcciones observadas en user personas     |
 | 1.5    | 28/04/2024 | Sebastian  P | Realiza cambios en la bibliografia, cambio de formato a APA   |
 
 
