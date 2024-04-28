@@ -533,7 +533,7 @@ Esta seccion de preguntas se enfocan en el punto de vista de los usuarios de seg
 ### 2.2.2. Registro de entrevistas.
 
 **Segmento 1**  
-Nombre: Elisa Rivero Del Rio
+Nombre: Elisa Rivera Del Rio
 <br>
 Edad: 55 años
 <br>
