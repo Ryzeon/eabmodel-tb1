@@ -544,7 +544,9 @@ Browser Preferido: Google
 Dispositivos: Computadoras (Windows), celulares android y telefonos domesticos.
 <br>
 Distritos: Magdalena
-
+<br>
+Timing: 
+<br>
 
 ![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaS2P.png)  
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/Eci9Xsp-rVtEpOCoNQlvoGcBwGQ6voPj_b6TV2gAkXapcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=y7vQaU"> Url entrevista [Anexo 2.2.1.1]</a> <br>
@@ -564,6 +566,9 @@ Browser: OperaGX y Chrome
 Dispositivos: Celular y Laptop
 <br>
 Distrito: Distrito de Trujillo, Trujillo
+<br>
+Timing: 
+<br>
 
 ![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaCatalina.png)  
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/Ef4Ze3ZRF69HvFOvKfLItfkBK0acikKuHuZnMlg5bXvq5g?e=FxDvdB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.2]</a> <br>
@@ -584,6 +589,8 @@ Browser: N/A
 Device: N/A
 <br>
 Distrito: Miraflores, Surquillo, Surco.
+<br>
+Timing: 
 <br>
 
 ![Imagen de entrevistaS1](assets/interviewsimages/Entrevista-segmento1.png)
@@ -607,6 +614,8 @@ Device: Influencia en la marca Apple
 <br>
 Distrito: Cercado de Lima.
 <br>
+Timing: 
+<br>
 ![Imagen de entrevistaS2.1](assets/interviewsimages/EntrevistaAS2.png)
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=FP7xJZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.4]</a> <br>
 Arian nos relata su día laboral cómo staff en un Hotel el cual prefiere que mantengamos anónimo. Nos comenta que en su trabajo tienen un sistema implementado que permite **saber el estado de las habitaciones asignadas**, sin embargo, presentan como **obstáculo** la comunicación entre los empleados y los supervisores, él nos comenta que es ineficiente el sistema de manejo de inventario y **necesita** un sistema especializado en administración, ya que tiene que estar contactándose con su supervisor constantemente. Es por ello por lo que nos comenta que es **necesaria** una plataforma que agilice el proceso de comunicación y de administración. Arian explica que **quiere** dejar de usar aplicaciones informales de comunicación como WhatsApp. También nos comenta que a él le **gustaría** hacer un acuerdo con su supervisor para mejorar el sistema que usan actualmente, debido a que se complica el trabajo y el manejo de inventario junto a la pésima comunicación, lo que le causa **frustración**. 
@@ -625,6 +634,8 @@ Device: Celular y computadora
 <br>
 Distrito: Jesus Maria
 <br>
+Timing: 
+<br>
 
 ![Imagen de entrevistaS2.2](assets/interviewsimages/EntrevistaES2.png) 
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETIBRYdwzYtAliQA0IkQx1cBurdKw6YSE4nBrVncTpjaAQ?e=0bhNc0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.5]</a> <br>  
@@ -639,15 +650,17 @@ Edad: 22 años
 <br>
 Ocupación: Empleado de Hotel 
 <br>
-Browser: GoogleChrome y OperaGX
+Browser: Brave
 <br>
-Device: Celular y computadora
+Device: Celular y laptop
 <br>
 Distrito: Lima Central
 <br>
+Timing: 
+<br>
 ![Imagen de entrevistaS2.3](assets/interviewsimages/EntrevistaArS1.png) 
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERnPx07H66pLuGgoQ-VcVisBL7dmBuURtltLTevZ401FwA?e=m7Z67t&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.6]</a> <br>  
-En esta ocacion Nicola cuenta como se hace uso de Whatsapp como herramienta y de como debe de hacer un proceso complicado para notificar respecto al inventario al gestor, de esta misma manera tambien menciona como se van cambiando los turnos y tipos de asignaturas lo que representa que no siempre estara haciendo lo mismo.
+Nicola comenta sobre su trabajo actual y el sistema que utilizan en el hotel. Su trabajo presenta como **obstáculo** la pobre optimización que tiene y la poca capacidad de usuarios, por lo que se cae constantemente, por lo que recurre a usar aplicaciones como WhatsApp para la comunicación. También, nos aclara sobre lo **necesario** que es el sistema en los días más concurridos. Además, nos comenta que le genera **frustración** la mala comunicación, debido a que a veces no entiende la tarea asignada, además de que a él **quisiera** poder administrar mejor su inventario y automatizarlo. Nicola explica que le **gustaría** mejorar el sistema para realizar un trabajo bien hecho y así poder dar una buena experiencia los clientes.
 
 ### 2.2.3. Análisis de entrevistas.
 
