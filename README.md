@@ -48,7 +48,6 @@
 | 1.2    | 27/04/2024 | Sebastian | Finaliza proceso LeanUX corregido      |
 | 1.3     | 28/04/2024 | Sebastian P |  Se realizan cambios en la seccion de entrevistas 2.2.2   |
 | 1.4     | 28/04/2024 | Sebastian R | Realiza correcciones observadas en user personas     |
-
 | 1.5    | 28/04/2024 | Sebastian  P | Realiza cambios en la bibliografia, cambio de formato a APA   |
 
 
@@ -675,15 +674,25 @@ Ariana cuenta que ella y su equipo cuentan con sistemas de gestion de inventario
 **Segmento 1: (Empleados):**
 
 Estadisticas y Aspectos comunes:
-En las entrevistas realizadas encontramos que 66% del segmento utiliza el browser de google, asimismo se muestra que todos los entrevistados usan WhatsApp para su comunicacion, adicionalmente todos mencionan almenos una discomformidad con la comunicacion que se mantiene con sus superiores. Observamos que piensan en sus demas colegas del area laboral.
+En las entrevistas realizadas encontramos que 67% del segmento utiliza el browser de google, asimismo se muestra que todos los entrevistados usan WhatsApp para su comunicacion, adicionalmente el 100% de los entrevistados mencionan almenos una discomformidad con la comunicacion que se mantiene con sus superiores. Observamos que piensan en sus demas colegas del area laboral.
 
 Caracteristicas Objetivas:
-Se requiere un sistema de comunicacion para este segmento, hay una necesidad en saber que hacer en e
+Se requiere un sistema de comunicacion para este segmento, hay una necesidad en saber que hacer solicitando una entrega de tareas o avisos si es que estas cambian, discomformidad con sistemas lentos. Hacer más, con menos. todos utilizan dispositivos moviles.
+
 Caracteristicas Subjetivas:
-Todos los entrevistados
+Todos los entrevistados tienen una fuerte opinion respecto a la comunicacion como un problema comun, seguido de la falta de servicios actualizados o la falta total de estos que afecta su eficiencia. Todos estan de acuerdo con un cambio parecido al que estaremos desarollando satisfaciendo nuestro supuesto mas importante por el lado del segmento 1.
 
 **Segmento 2: (Gerentes)**
-En base al segundo segmento se puede observar que la comunicacion si teien oportunidades de mejora, que el proceso de notificacion de inventario no esta completamente digitalizado y finalmente que recibir tareas y notificar del cumplimiento de estas es necesario.
+Estadisticas y Aspectos comunes:
+En las entrevistas realizadas solo un 33% de los entrevistados cuenta con un software el cual no presenta problemas. Adicionalmente 100% de los entrevistados creen que es necesario que se puedan realizar las tareas de gestion en un entorno digital.
+
+Caracteristicas Objetivas:
+La implementacion de un sistema de datos el cual pueda agregar, eliminar y actualizar se mantiene como una necesidad entre los 3 el poder asignar tareas para el dia.
+Caracteristicas Subjetivas:
+Todos los entrevistados opinan que la digitalizacion efectua un impacto positivo en su modelo y algunos hasta lo implementan. Aun asi un entrevistado menciona como existe una falta de accesibilidad para este tipo de negocios en estados emergentes. 
+
+Con esta informacion estamos sustentando los supuestos por el lado del segmento 2 y segmento 1
+
 
 ## 2.3. Needfinding.
 
@@ -1151,19 +1160,17 @@ Se presenta una idea de como se ven los demas user flow diagrams en base a este 
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-![ComponentDiagram-1](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-001.png)
+![ComponentDiagram-1](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-002.png)
 
-![ComponentDiagram-2](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-002.png)
+![ComponentDiagram-2](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-003.png)
 
-![ComponentDiagram-3](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-003.png)
+![ComponentDiagram-3](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-004.png)
 
-![ComponentDiagram-4](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-004.png)
+![ComponentDiagram-4](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-005.png)
 
-![ComponentDiagram-5](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-005.png)
+![ComponentDiagram-5](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-006.png)
 
-![ComponentDiagram-6](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-006.png)
-
-![ComponentDiagram-7](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-007.png)
+![ComponentDiagram-6](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-007.png)
 
 ## 4.7. Software Object-Oriented Design.
 
