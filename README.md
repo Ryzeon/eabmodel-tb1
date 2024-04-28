@@ -45,6 +45,7 @@
 | 0.7     | 11/03/2024 | Sebastian | Se realizan cambios a la investigacion y el lean UX        |
 | 0.8     | 10/03/2024 | Piero |  Se realizan cambios a toda la seccion 5.1       |
 | 1.1     | 24/04/2024 | Sebastian | Realiza correcciones observadas en clase      |
+| 1.2    | 24/04/2024 | Sebastian | Finaliza proceso LeanUX corregido      |
 
 
 
@@ -331,7 +332,7 @@ Sabremos que tuvimos exito cuando se pueda observar un minimo de 45% de satisfac
 
 #### 1.2.2.2. Lean UX Assumptions.
 
-**Business Outcome**
+**Business Outcome**  
 En esta seccion vamos a usar las metricas de Montaña que ha conceptualizada por Jeff Gothelf e implementaremos algunas de las pirate metrics para poder definir los niveles de la montaña para llegar poder analizar los comportamientos de nuestros usuarios y analizar que parte del User Journey es relevante para nosotros y hacer un assumption de como actuaran nuestros usuarios en base al producto.
 
 Acquisition: (Base): [1000 visitantes]
@@ -416,43 +417,42 @@ Desarollar un gestor de hoteleria y hostales orientado a realizar la mayoria de 
 - **La comunicacion empleado/gerente** - sistema de comunicacion para emergencias o dudas donde se mantiene una linea de comunicacion directa y sin distractores entre el gerente y el empleado, de misma manera puede servir para monitorear que mensajes se han mandado.
   
 
-#### 1.2.2.3. Lean UX Hypotheses Statements.
+#### 1.2.2.3. Lean UX Hipotesis Statements.
 
-**Hypotheses**
+**Hipotesis**
 
-Siguiendo el formato de las hypotesis usaremos la tabla de hipotesis.
+Siguiendo el formato de las Hipotesis usaremos la tabla de hipotesis.
+Tomar en cuenta que cada hipotesis empieza con "Creemos que.."
 
 |Business Outcome|Persona|User Outcome|Feature/Solution|
 |-|-|-|-|
-|Conseguiremos una retencion de usuarios optima | Si los gerentes de hoteles/hostales | entregan tareas a sus empleados | con el sistema de comunicacion para emergencias o dudas |
-|Conseguiremos una retencion de usuarios optima | Si los gerentes de hoteles/hostales | logran monitorear los estados de cuarto | con el sistema de monitoreo de cuartos |
-|Conseguiremos una retencion de usuarios optima | Si los gerentes de hoteles/hostales | se sienten en control de sus actividades | con las herramientas de gestion que estamos ofreciendo, estas siendo monitoreo de estados de cuartos, entrega de tareas, revision de inventario y sistema de comunicaciones |
-|Conseguiremos una retencion de usuarios optima | Si los gerentes de hoteles/hostales | Notifican de los items necesitados al gerente | con el sistema de comunicacion entre empleado y gerente |
-|Conseguiremos una ganancia | Si los gerentes de hoteles/hostales | agregan cuentas de empleados | proveendo al usuario de la posibilidad de mejorar su cuenta |
-|Conseguiremos una referencia | Si los gerentes de hoteles/hostales y empleados | logran una comunicacion entre gerente y empleado efectiva | con el sistema de comunicacion entre empleado y gerente |
-
+|Conseguiremos una retencion del 20% de usuarios | Si los gerentes de hoteles/hostales | entregan tareas a sus empleados | con el sistema de comunicacion para emergencias o dudas |
+|Conseguiremos una retencion del 20% de usuarios optima | Si los gerentes de hoteles/hostales | logran monitorear los estados de cuarto | con el sistema de monitoreo de cuartos |
+|Conseguiremos una retencion del 60% de usuarios optima | Si los gerentes de hoteles/hostales | se sienten en control de sus actividades | con las herramientas de gestion que estamos ofreciendo, estas siendo monitoreo de estados de cuartos, entrega de tareas, revision de inventario y sistema de comunicaciones |
+|Conseguiremos una retencion del 20% usuarios optima | Si los gerentes de hoteles/hostales | Notifican de los items necesitados al gerente | con el sistema de comunicacion entre empleado y gerente |
+|Conseguiremos que 10% de nuestros usuarios nos genere una ganancia | Si los gerentes de hoteles/hostales | mejoran el plan de su cuenta | proveyendo al usuario de la posibilidad de mejorar su cuenta |
+|Conseguiremos que 5% de nuestro usuarios nos referencien | Si los gerentes de hoteles/hostales y empleados | logran una comunicacion entre gerente y empleado efectiva | con el sistema de comunicacion entre empleado y gerente |
+|Conseguiremos que 45% de nuestra adquisicion de usuarios vengan de nuestra pagina | Si los gerentes de hoteles/hostales y empleados | encuentran nuestra solucion como una posibilidad de mejora | con la landing page implementada |
 
 **Que es lo mas importante que debemos aprender**
 
-Debemos de analizar que es lo que debemos aprender de nuestras hypotesis, entonces llegamos a nuestras siguientes conclusiones:
+Debemos de analizar que es lo que debemos aprender de nuestras Hipotesis, entonces llegamos a nuestra siguiente conclusion respecto a lo mas importante que debemos aprender:
 
-Debemos de investigar si los usuarios estaran interesados en nuestra propuestas de hypotesis y asimismo si es que realmente la necesitan.
-En temas tecnicos debemos tener un conocimiento solido en la creacion de las vistas para las soluciones mencionadas.
+Los usuarios estaran interesados en nuestra "innovadora" propuesta dado que existen otros productos similares y asimismo, realmente la necesitan?
 
 **Minimum viable product**
 
 Los MVP nos sirven para aprender cosas a corto plazo. para realizar esto se hace la pregunta: 
 What’s the most important thing we need to learn first?
-Lo primero que debemos de confirmar para nuestro proyecto es **si realmente se esta requiriendo en el mercado**, es por esta misma razon que tendremos que realizar una serie de entrevistas para poder probar que si existe una necesidad que estamos satisfaciendo.
+Lo primero que debemos de confirmar para nuestro proyecto es **si realmente se esta requiriendo en el mercado**, es por esta misma razon que tendremos que realizar una serie de entrevistas a gerentes de hotel/hostal y sus empleados para poder probar que si existe una necesidad que estamos satisfaciendo. Adicionalmente crear una landing page realizando un MVP para los usuarios que esten interesados en este producto.
 
 
 #### 1.2.2.4. Lean UX Canvas.
 
-| -|-| -|
-|-|-|-|
-| Business Problem <br>¿Qué problema has identificado que necesitas resolver? E"La tecnología ayuda a ofrecer un servicio fluido, proporciona mayor independencia a los huéspedes, automatiza tareas tediosas y brinda una mejor experiencia para todas las partes involucradas.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            | Solution ideas <br>Gestor de hoteleria y hostales orientado a realizar la mayoria de prorcesos de gestion como estado del cuarto, entrega de tareas y revision de inventario.                                                                 | Business Outcomes <br>(Cambios en el comportamiento del usuario) <br>¿Qué cambios en el comportamiento del usuario indicarán que has solucionado un problema real de manera que añada valor a tus clientes? <br> El comportamiento del usuario habrá cambiado cuando este sepa manejarse mejor en situaciones de alta gestion gracias a nuestro producto |
-| User & Customers <br>¿En qué tipo de usuarios y clientes tienes que centrarte primero? <br>Usuario: <br>Negocios de hoteleria que requieran de un sistema de organizacion y gestion. <br>Hoteles y Hostales que requieren de mejorar su servicio. <br>Cliente: Empleados de dichos hoteles y hostales que buscan lograr su trabajo efectivamente.  <br>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |  UX Canvas                                                                                                                                                                                                                                    | User benefits <br>¿Cuáles son los objetivos que los usuarios intentan obtener? <br> \- Tener una comunicacion entre empleado y gestor mejorando la logistica <br> ¿Qué les motiva a buscar tu solución? <br> \- Los usuarios están motivados a buscar esta solución debido a la accesibilidad e innovacion que ofrece.                                   |
-| Hyphotheses:<br> Creemos que al proporcionar una plataforma de gestión hotelera accesible y eficiente, los gerentes podrán coordinar mejor sus operaciones, lo que resultará en una experiencia mejorada para los huéspedes y una optimización de los procesos internos.<br><br>Sabremos que hemos tenido éxito cuando observemos un aumento en la adopción de la plataforma por parte de los gerentes de hoteles y una mayor finalización de tareas dentro de la plataforma con resultados positivos en la satisfacción del cliente.<br><br>Creemos que la aplicación permitirá a los gerentes comprender mejor los aspectos críticos de la gestión hotelera y tomardecisiones informadas para mejorar la eficiencia operativa.<br><br>Sabremos que hemos tenido éxito cuando veamos una mejora en la satisfacción del cliente, medida a través de encuestas y comentarios positivos, y una reducción en los tiempos de respuesta y errores operativos.<br><br>Creemos que al ofrecer herramientas intuitivas y efectivas, los gerentes podrán dedicar más tiempo a actividades estratégicas y de mejora continua, lo que resultará en un aumento en la rentabilidad y competitividad del hotel. <br><br>Sabremos que hemos tenido éxito cuando observemos un aumento en la rentabilidad del hotel, una mejora en las calificaciones de satisfacción del cliente y una optimización de los procesos internos de gestión. | ¿Qué es la cosa más importante que nosotros necesitamos aprender primero? <br> Lo principal que necesitamos aprender es conectar la base de datos con la pagina web y adicionalmente un repaso en lo que viene siendo la gestión del proyecto | <br> ¿Cuál es la mínima cantidad de trabajo que nosotros necesitamos hacer para aprender la siguiente cosa más importante? <br> Asistir a las clases y solicitar que se nos revise los avances del proyecto para poder hacer un seguimiento saludable del proyecto                                                                                       |
+Finalmente juntamos todo lo que hemos hecho en este proceso y lo agregamos en un Lean UX Canvas (V2) guiandonos del ejemplo que nos proporciona Jeff Gothelf [Anexo 1.1]
+
+<image src ="./assets/lean-ux/lean-ux-canvas/Lean UX Canvas (V2) - Inn Control.jpg" alt ="LeanUX Canvas (V2) [implementando lean UX 3]">
+
 
 ## 1.3. Segmentos objetivo.
 
@@ -1523,8 +1523,15 @@ https://www.mews.com/es/blog/tecnologia-en-operaciones-hoteleras
 
 https://www.infobae.com/peru/2023/10/29/asociacion-de-hoteles-y-restaurantes-alertaron-que-ventas-de-su-sector-han-caido-un-40-no-hay-incentivos/
 
+https://jeffgothelf.com/blog/faq-what-does-a-complete-lean-ux-canvas-look-like/
+
+https://learning.oreilly.com/library/view/lean-ux-3rd/9781098116293/
+
+
+
 # Anexos
 
 datos, gráficos, imágenes, esquemas, mapas de otros autores
 
-![Imagen de algo no nuestro lol](image.jpg)
+<img src = "./assets/anexos/jeffgothelf-leanuxcanvas/leanUxGothelf.png" alt = "Lean UX Canvas (V2) Jeff gothelf">
+<p>Lean UX Canvas hecho por Jeff Gothelf [Anexo 1.1]</p>
