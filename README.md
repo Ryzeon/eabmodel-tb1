@@ -45,7 +45,7 @@
 | 0.7     | 11/03/2024 | Sebastian | Se realizan cambios a la investigacion y el lean UX        |
 | 0.8     | 10/03/2024 | Piero |  Se realizan cambios a toda la seccion 5.1       |
 | 1.1     | 24/04/2024 | Sebastian | Realiza correcciones observadas en clase      |
-| 1.2    | 24/04/2024 | Sebastian | Finaliza proceso LeanUX corregido      |
+| 1.2    | 27/04/2024 | Sebastian | Finaliza proceso LeanUX corregido      |
 
 
 
@@ -501,12 +501,18 @@ Finalmente juntamos todo lo que hemos hecho en este proceso y lo agregamos en un
 
 **Preguntas generales:**
 
+En esta seccion realizamos preguntas simples para tener una demografica e informacion de comportamientos que nos interesan como que browser utiliza o que dispositivos usa.
+
 1. ¿Cuál es su nombre?
 2. ¿Qué edad tiene?
 3. ¿A qué se dedica?
 4. ¿Que browser y dispositivos usa?
 
-**Entrevistas usuario segmento 1**
+Las siguientes preguntas se realizaron para responder nuestra pregunta ya mencionada en el capitulo anterior: "Los usuarios estarán interesados en nuestra "innovadora" propuesta dado que existen otros productos similares y asimismo, realmente la necesitan?"
+
+**Entrevistas usuario segmento (Gestor de Hotel/Hostal)**
+
+Esta seccion de preguntas se enfocan en el punto de vista de los usuarios de segmento 2 Gestor de hotel/hostal.
 
 1. Que opiniones tiene respecto a la digitalizacion de los sitemas de gestion en hoteles o modelos de negocio parecidos?
 2. ¿Como le hace saber a los empleados que tareas deben hacer?
@@ -514,7 +520,9 @@ Finalmente juntamos todo lo que hemos hecho en este proceso y lo agregamos en un
 4. ¿En su opinion cree que se mantiene una comunicacion constante y efectiva entre los gerentes/supervisores y los empleados?
 5. ¿Que frustraciones y objetivos/motivaciones tiene en su area laboral?
 
-**Entrevistas usuario segmento 2**
+**Entrevistas usuario segmento (Empleado de Hotel/Hostal)**
+
+Esta seccion de preguntas se enfocan en el punto de vista de los usuarios de segmento 1 Empleado de hotel/hostal.
 
 1. ¿Que opiniones tiene del area laboral en el entorno de Hoteleria/Hostales?
 2. ¿Como consigues la informacion de que tareas debes de realizar?
@@ -531,8 +539,16 @@ Edad: 55 años
 <br>
 Ocupación: Gerencia de Hoteles
 <br>
+Browser Preferido: Google
+Dispositivos: Computadoras (Windows), celulares android y telefonos domesticos.
+
+
+
 ![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaS2P.png)  
-[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=wsbDs5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/Eci9Xsp-rVtEpOCoNQlvoGcBwGQ6voPj_b6TV2gAkXapcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=y7vQaU"> Url entrevista [Anexo 2.2.1.1]</a> <br>
+
+Elisa nos da su opinion del
+
 Elisa nos comenta como en su area laboral de gestion ya existen softwares de gestion pero estos estan orientados a la contabilidad, menciona igualmente que un software orientado al manejo de tareas para el dia seria util para la gerencia de estos modelos de negocios.
 
 Nombre: Catalina Paredes
@@ -542,7 +558,7 @@ Edad: 25 años
 Ocupación: Gerencia de Hoteles
 <br>
 ![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaCatalina.png)  
-[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/Ef4Ze3ZRF69HvFOvKfLItfkBqF2IcPwC7-of_nVp7rDdlA?e=fNPhXd&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/Ef4Ze3ZRF69HvFOvKfLItfkBK0acikKuHuZnMlg5bXvq5g?e=FxDvdB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.2]</a> <br>
 <br>
 Catalina Esteras, gerente del Hotel Royal Inca, 
 comparte sus perspectivas sobre la digitalización de los sistemas de gestión hotelera y la distribución de tareas entre empleados. 
@@ -557,7 +573,7 @@ Edad: 23 años
 Ocupación: Gerencia de hoteles
 <br>
 ![Imagen de entrevistaS1](assets/interviewsimages/Entrevista-segmento1.png)
-[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210192_upc_edu_pe/EbcOtEjQSFNFhCflycuXypgB4tLtFUuJI_Ho4k7dC6P0KA?e=XbXG43&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ET8_u1p88ApJt2fvshZRbcAB2CEChNVgjXxNuPbqCmw1SA?e=xCeIhO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.3]</a> <br>
 <br>
 Ariana Valdivia, gerente del Hotel Oasis
 Comparte su punto de vista sobre la digitalización de los sistemas de gestion hotelera y la distribucion entre empleados y sus tareas-
@@ -572,11 +588,11 @@ Edad: 20 años
 Ocupación: Empleado de Hotel (limpieza)  
 <br>
 ![Imagen de entrevistaS2.1](assets/interviewsimages/EntrevistaAS2.png)
-[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=wsbDs5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
+<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=FP7xJZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.4]</a> <br>
 En la entrevista Arian nos relata como es un dia laboral para el como staff en un Hotel el cual prefiere que mantengamos anonimo, nos habla un poco preocupado pero con la suficiente confianza para comentarnos de los inconvenientes que sufre el, junto a sus colegas respecto a los sistemas de comunicacion entre los empelados y supervizores y de como deben usar herramientas obsoletas para intentar manejarse. 
 
 ![Imagen de entrevistaS2.2](assets/interviewsimages/EntrevistaES2.png) 
-[URL de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202211894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211894_upc_edu_pe%2FDocuments%2FOpenSource%2FEntrevistaES2%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)  
+<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETIBRYdwzYtAliQA0IkQx1cBurdKw6YSE4nBrVncTpjaAQ?e=0bhNc0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.5]</a> <br>  
 En la entrevista Esau nos menciona como practicante de un hotel, los metodos que se usan para la comunicacion y gestion de empleados donde se se usa Whatsapp como herramienta para entregar tareas y comunicarse con el gerente. Mas tambien nos menciona como este sistema puede generar problemas especialmente cuando estas estructuras son grandes y tienen una alta cantidad de empleados.
 
 Nombre: Nicola Estefan Romero
@@ -586,7 +602,7 @@ Edad: 22 años
 Ocupación: Empleado de Hotel 
 <br>
 ![Imagen de entrevistaS2.3](assets/interviewsimages/EntrevistaArS1.png) 
-[URL de la entrevistaS2.3](https://upcedupe-my.sharepoint.com/personal/u202211894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211894_upc_edu_pe%2FDocuments%2FOpenSource%2FEntrevistaArS1%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)  
+<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERnPx07H66pLuGgoQ-VcVisBL7dmBuURtltLTevZ401FwA?e=m7Z67t&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.6]</a> <br>  
 En esta ocacion Nicola cuenta como se hace uso de Whatsapp como herramienta y de como debe de hacer un proceso complicado para notificar respecto al inventario al gestor, de esta misma manera tambien menciona como se van cambiando los turnos y tipos de asignaturas lo que representa que no siempre estara haciendo lo mismo.
 
 ### 2.2.3. Análisis de entrevistas.
@@ -1505,6 +1521,9 @@ Ocupación: _____
 
 # Bibliografía
 
+
+
+
 ``` 
 formato
 
@@ -1535,3 +1554,27 @@ datos, gráficos, imágenes, esquemas, mapas de otros autores
 
 <img src = "./assets/anexos/jeffgothelf-leanuxcanvas/leanUxGothelf.png" alt = "Lean UX Canvas (V2) Jeff gothelf">
 <p>Lean UX Canvas hecho por Jeff Gothelf [Anexo 1.1]</p>
+
+---
+
+<a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/Eci9Xsp-rVtEpOCoNQlvoGcBwGQ6voPj_b6TV2gAkXapcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=y7vQaU</a>
+<p>Link de entrevista 1 segmento 2 [Anexo 2.2.1.1] <p>
+
+<a></a>
+<p>Link de entrevista 1 segmento 2 [Anexo 2.2.1.2] <p>
+
+<a></a>
+<p>Link de entrevista 1 segmento 2 [Anexo 2.2.1.3] <p>
+
+<a></a>
+<p>Link de entrevista 1 segmento 2 [Anexo 2.2.2.1] <p>
+
+<a></a>
+<p>Link de entrevista 1 segmento 2 [Anexo 2.2.2.2] <p>
+
+<a></a>
+<p>Link de entrevista 1 segmento 2 [Anexo 2.2.2.3] <p>
+
+
+---
+
