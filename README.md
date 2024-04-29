@@ -961,7 +961,7 @@ Segmento 2:
 
 ## 3.3. Impact Mapping.
 
-<img src="assets\Impact-mapping\impact-mapping-manager.png" alt="User Manager" width="1000" height="900">
+<img src="assets/Impact-mapping/Impact map manager.png" alt="User Manager" width="1000" height="900">
 
 <img src="assets\Impact-mapping\impact-mapping-employe.png" alt="User Manager" width="1000" height="900">
 
