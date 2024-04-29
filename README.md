@@ -53,6 +53,8 @@
 | 1.7     | 29/04/2024 | Sebastian R   | Realiza cambios en los user stories                                                                                     |
 | 1.8     | 29/04/2024 | Piero Periche | Actualizacion de los diagrama c4 model                                                                                  |
 | 1.9     | 29/04/2024 | Sebastian R   | Finaliza cambios en los user stories                                                                                    |
+| 2.1 | 29/04/2024 | Piero P | Actualiza los impact map de los segmentos |
+| 2.2 | 29/04/2024 | Piero P | Realiza mejoras en los impact map |
 
 </div>
 
@@ -963,7 +965,7 @@ Segmento 2:
 
 <img src="assets/Impact-mapping/Impact map manager.png" alt="User Manager" width="1000" height="900">
 
-<img src="assets\Impact-mapping\impact-mapping-employe.png" alt="User Manager" width="1000" height="900">
+<img src="assets/Impact-mapping/impact map employee" alt="User Manager" width="1000" height="900">
 
 ## 3.4. Product Backlog.
 
