@@ -36,34 +36,34 @@
 
 <div align="center">
 
-| Version | Fecha      | Autor   | Descripcion de Modificacion |
-|---------|------------|---------|-----------------------------|
-| 0.0     | 24/03/2024 | Alex |  Crea documento      |
-| 0.4     | 10/04/2024 | Sebastian R | Se aplican mejoras a las secciones del chapter 1 y 2 siendo especificamente Journey Mapping, Entrevistas y Competidores        |
-| 0.5     | 10/03/2024 | Sebastian P | Se realiza un review a los mockups y wireframes         |
-| 0.6     | 10/03/2024 | Josue | Realiza cambios en diagramas de clases y user flow        |
-| 0.7     | 11/03/2024 | Sebastian | Se realizan cambios a la investigacion y el lean UX        |
-| 0.8     | 10/03/2024 | Piero |  Se realizan cambios a toda la seccion 5.1       |
-| 1.1     | 24/04/2024 | Sebastian | Realiza correcciones observadas en clase      |
-| 1.2    | 27/04/2024 | Sebastian | Finaliza proceso LeanUX corregido      |
-| 1.3     | 28/04/2024 | Sebastian P |  Se realizan cambios en la seccion de entrevistas 2.2.2   |
-| 1.4     | 28/04/2024 | Sebastian R | Realiza correcciones observadas en user personas     |
-| 1.5    | 28/04/2024 | Sebastian  P | Realiza cambios en la bibliografia, cambio de formato a APA   |
-| 1.6    | 28/04/2024 | Sebastian  P | Realiza cambios en los user stories  |
-| 1.7 | 29/04/2024 | Sebastian R | Realiza cambios en los user stories |
-
-
-
+| Version | Fecha      | Autor        | Descripcion de Modificacion                                                                                             |
+|---------|------------|--------------|-------------------------------------------------------------------------------------------------------------------------|
+| 0.0     | 24/03/2024 | Alex         | Crea documento                                                                                                          |
+| 0.4     | 10/04/2024 | Sebastian R  | Se aplican mejoras a las secciones del chapter 1 y 2 siendo especificamente Journey Mapping, Entrevistas y Competidores |
+| 0.5     | 10/03/2024 | Sebastian P  | Se realiza un review a los mockups y wireframes                                                                         |
+| 0.6     | 10/03/2024 | Josue        | Realiza cambios en diagramas de clases y user flow                                                                      |
+| 0.7     | 11/03/2024 | Sebastian    | Se realizan cambios a la investigacion y el lean UX                                                                     |
+| 0.8     | 10/03/2024 | Piero        | Se realizan cambios a toda la seccion 5.1                                                                               |
+| 1.1     | 24/04/2024 | Sebastian    | Realiza correcciones observadas en clase                                                                                |
+| 1.2     | 27/04/2024 | Sebastian    | Finaliza proceso LeanUX corregido                                                                                       |
+| 1.3     | 28/04/2024 | Sebastian P  | Se realizan cambios en la seccion de entrevistas 2.2.2                                                                  |
+| 1.4     | 28/04/2024 | Sebastian R  | Realiza correcciones observadas en user personas                                                                        |
+| 1.5     | 28/04/2024 | Sebastian  P | Realiza cambios en la bibliografia, cambio de formato a APA                                                             |
+| 1.6     | 28/04/2024 | Sebastian  P | Realiza cambios en los user stories                                                                                     |
+| 1.7     | 29/04/2024 | Sebastian R  | Realiza cambios en los user stories                                                                                     |
 
 </div>
 
 # Project Report Collaboration Insights
 
-Repositorio: (https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project)
+Repositorio: (https://github.com/upc-pre-20241-si729-wx55-eabmodel/inncontrol-report-project)
 
 ### TB1
 
-Para la entrega del TB1 se han hecho las respectivas divisiones por cada capitulo con el objetivo de tener un workflow saludable y se pueda realizar una retroalimentacion activa, para cada actividad asignada se ha entregado un conjunto de sub indices por cada capitulo a los integrantes del grupo dejando la posibilidad de realizar correcciones entre los mismos integrantes.
+Para la entrega del TB1 se han hecho las respectivas divisiones por cada capitulo con el objetivo de tener un workflow
+saludable y se pueda realizar una retroalimentacion activa, para cada actividad asignada se ha entregado un conjunto de
+sub indices por cada capitulo a los integrantes del grupo dejando la posibilidad de realizar correcciones entre los
+mismos integrantes.
 
 Se muestran evidencias de los commits realizados en la entrega de la TB1
 
@@ -72,6 +72,7 @@ Se muestran evidencias de los commits realizados en la entrega de la TB1
 [Colaboraciones del repositorio]
 
 <img src="assets/colaboration-insights/commits.png" alt="imagen de los commits">  
+
 [Registro de los commits donde se realizaron la mayor cantidad]
 
 En ambos casos se puede observar el incremento de modificaciones y revisiones en la primera semana de abril.
@@ -210,12 +211,12 @@ En ambos casos se puede observar el incremento de modificaciones y revisiones en
 
 # Student Outcome
 
-| Criterio Especifico                                                                                                                                  | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Sebastian Ramirez Hoffmann**: [<br> **TB1:** <br>  Como team leader tuve la asignacion de proporcionarle sus partes a mis compañeros, de estas tareas asignadas realice los sub indices del **capitulo 1** especificamente siendo Lean UX Process y parte de las correcciones de antecedentes y problematica.<br> Del **capitulo 2** participe en el analisis de competidores y realice partes del needfinding de las entrevistas, asimismo como el recuadro As-Is.<br> Del **capitulo 3** realice To-Be scenario mapping.<br> Finalmente participe activamente en el **capitulo 4** en el subindice 4.6 y parte del 4.6 participando en los diagramas de contenedores y contexto asimismo como en el diagrama de base de datos. Respecto al **capitulo 5** apoye realizando revisiones del capitulo y mis aportes a la Landing Page ] <br><br> **Manuel Sebastian Peña Rivera**: <br> *TB1:*  Participe en secciones del capitulo 1,2, 3 y 4 que contienen entrevistas, empathy map, product backlog, impact map, user task matrix, general style guidelines, web applications desktop and mobile wireframes, web applications desktop and mobile mockups, user flow<br/> **Alex Avila Asto**: <br/> TB1: Participe en las secciones del capitulo 2 y 5                                                                                | **SebastianRamirezHoffmann**:<br>  Como conclusion fue gracias a mi participacion en los primeros capitulos, los cuales dejan una idea general de lo que somos como empresa y lo que representa nuestro producto ayudandome a poder dar observaciones y controles de calidad asi como observaciones de lo que mis compañeros van realizando  <br><br> **Manuel Sebastian Peña Rivera**:<br> Realizar la investigación necesaria para el proyecto permite conocer la realidad de los desafíos que presentan y como nuestro programa puede solucionar el problema es nuestro objetivo en mente  <br/> **Alex Avila Asto**: <br/> Al realizar el informe adquire informacion valiosa con la cual me di cuenta que el rubo hotelero presenta bastante problemas con respecto a la implentacion de la tecnologia. |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | **Sebastian Ramirez Hoffmann**:[<br> **TB1:**<br> He realizado parte de la investigacion del proyecto tanto entrevistas como revisar articulos, por lo que he revisado estadisticas en base a la importancia del producto en el mercado, asimismo con el analisis de competidores apoye a darles la idea general del proyecto a mis colegas, al tener familiares que se especializan en el mercado orientado a nuestro producto recibi ideas externas por parte de estos mismos para comunicar a mis compañeros en congregaciones que se dieron en grupo.]<br> **Manuel Sebastian Peña Rivera**:<br>  No solo la investigación realizada, sino que la entrevista que realice me permitió conocer sobre las dificultades y experiencia laboral del gerente en el rubro de hospedaje. <br/>**Alex Avila Asto**:<br/>El rubo de mi familia es hotelero, lo cual me ayudo para poder realizar junto con mis compañero el informe. | **SebastianRamirezHoffmann**:<br>Fue gracias a las investigaciones que que logre tener una idea mas concreta de lo que debemos de hacer como empresa para asegurar la efectividad de nuestro proyecto tomando en consideracion las necesidades y competidores existentes en el mercado.<br> Manuel Sebastian Peña Rivera:<br> Con la información reunida de la entrevista espero poder adaptar las necesidades al proyecto y que nuestro proyecto le sirva para mejorar la eficiencia de su trabajo <br/> **Alex Avila Ast**o: Con esta informacion estoy convencido que nuestro proyecto tendra un buen impacto en el rubo hotelero.                                                                                                                                                                 |
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Sebastian Ramirez Hoffmann**: [<br> **TB1:** <br>  Como team leader tuve la asignacion de proporcionarle sus partes a mis compañeros, de estas tareas asignadas realice los sub indices del **capitulo 1** especificamente siendo Lean UX Process y parte de las correcciones de antecedentes y problematica.<br> Del **capitulo 2** participe en el analisis de competidores y realice partes del needfinding de las entrevistas, asimismo como el recuadro As-Is.<br> Del **capitulo 3** realice To-Be scenario mapping.<br> Finalmente participe activamente en el **capitulo 4** en el subindice 4.6 y parte del 4.6 participando en los diagramas de contenedores y contexto asimismo como en el diagrama de base de datos. Respecto al **capitulo 5** apoye realizando revisiones del capitulo y mis aportes a la Landing Page ] <br><br> **Manuel Sebastian Peña Rivera**: <br> **TB1:**  <br> Realice secciones del **capitulo 2** entrevistas, user tax matrix y empathy map.<br> Del **capitulo 3** realice el product backlog, impact map<br> Del **capitulo 4** general style guidelines, web applications desktop and mobile wireframes, web applications desktop and mobile mockups y user flow <br> **TP:** He desarrollado los componentes y funciones necesarias del inventario de nuestra aplicacion frontend y he realizado las correciones mencionadas en el TB1 y en clase <br/> **Alex Avila Asto**: <br/> TB1: Participe en las secciones del capitulo 2 y 5   | **SebastianRamirezHoffmann**:<br>  Como conclusion fue gracias a mi participacion en los primeros capitulos, los cuales dejan una idea general de lo que somos como empresa y lo que representa nuestro producto ayudandome a poder dar observaciones y controles de calidad asi como observaciones de lo que mis compañeros van realizando  <br><br> **Manuel Sebastian Peña Rivera**:<br> **TB1:** Mis aportes en los capitulos 2, 3 y 4, permiten tener una mejor vision de nuestro producto y empresa, ademas de identificar las oportunidades de mejora del producto. <br> **TP:** Ademas, con las correciones y cambios realizados, comprendo que siempre se puede seguir investigando y mejorando el trabajo.  <br/> **Alex Avila Asto**: <br/> Al realizar el informe adquire informacion valiosa con la cual me di cuenta que el rubo hotelero presenta bastante problemas con respecto a la implentacion de la tecnologia. |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | **Sebastian Ramirez Hoffmann**:[<br> **TB1:**<br> He realizado parte de la investigacion del proyecto tanto entrevistas como revisar articulos, por lo que he revisado estadisticas en base a la importancia del producto en el mercado, asimismo con el analisis de competidores apoye a darles la idea general del proyecto a mis colegas, al tener familiares que se especializan en el mercado orientado a nuestro producto recibi ideas externas por parte de estos mismos para comunicar a mis compañeros en congregaciones que se dieron en grupo.]<br> **Manuel Sebastian Peña Rivera**:<br>**TB1:**<br> He analizado y realizado entrevistas, las cuales me brindaron ideas importantes y mejoras para tener un mejor desarrollo del producto. **TP:**<br> He investigado y revisado Mountain Goat sobre las user stories para desarrollar features a partir de estas e implementarlas correctamente en el frontend. Además he investigado en la documentacion del Angular Material y sus diversos componentes, para tener un mejor resultado.<br/>**Alex Avila Asto**:<br/>El rubo de mi familia es hotelero, lo cual me ayudo para poder realizar junto con mis compañero el informe.br> | **SebastianRamirezHoffmann**:<br>Fue gracias a las investigaciones que que logre tener una idea mas concreta de lo que debemos de hacer como empresa para asegurar la efectividad de nuestro proyecto tomando en consideracion las necesidades y competidores existentes en el mercado.<br> **Manuel Sebastian Peña Rivera**:<br>**TB1:**<br> Debido a la investigacion pude comprender mejor la situacion y las mejoras que necesitan, tambien pude analizar los objetivos y frustaciones que tienen cada segmento. <br>**TP:**<br> Con la documentacion del Angular Material, me a permitido mejorar el diseño y funcion de los componentes, permitiendome asemejar nuestro mockup a la aplicacion frontend que estamos desarrollando y al agregar los validators me permite limitar y ingresar correctamente los datos. <br/> **Alex Avila Ast**o: Con esta informacion estoy convencido que nuestro proyecto tendra un buen impacto en el rubo hotelero.        |
+| Criterio Especifico                                                                                                                                  | Acciones Realizadas                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  | Conclusiones                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Sebastian Ramirez Hoffmann**: <br> **TB1:** <br>  Como team leader tuve la asignacion de proporcionarle sus partes a mis compañeros, de estas tareas asignadas realice los sub indices del **capitulo 1** especificamente siendo Lean UX Process y parte de las correcciones de antecedentes y problematica.<br> Del **capitulo 2** participe en el analisis de competidores y realice partes del needfinding de las entrevistas, asimismo como el recuadro As-Is.<br> Del **capitulo 3** realice To-Be scenario mapping.<br> Finalmente participe activamente en el **capitulo 4** en el subindice 4.6 y parte del 4.6 participando en los diagramas de contenedores y contexto asimismo como en el diagrama de base de datos. Respecto al **capitulo 5** apoye realizando revisiones del capitulo y mis aportes a la Landing Page <br><br> **Manuel Sebastian Peña Rivera**: <br> *TB1:*  Participe en secciones del capitulo 1,2, 3 y 4 que contienen entrevistas, empathy map, product backlog, impact map, user task matrix, general style guidelines, web applications desktop and mobile wireframes, web applications desktop and mobile mockups, user flow<br/> **Alex Avila Asto**: <br/> TB1: Participe en las secciones del capitulo 2 y 5. Del capitulo apoye en la parte de user personas, empathy map y en la investigacion de las competencias. <br> Finalmente del capitulo 5 apoye en el desarrollo de la landing page y el deploy de la misma.                   | **SebastianRamirezHoffmann**:<br>  Como conclusion fue gracias a mi participacion en los primeros capitulos, los cuales dejan una idea general de lo que somos como empresa y lo que representa nuestro producto ayudandome a poder dar observaciones y controles de calidad asi como observaciones de lo que mis compañeros van realizando  <br><br> **Manuel Sebastian Peña Rivera**:<br> Realizar la investigación necesaria para el proyecto permite conocer la realidad de los desafíos que presentan y como nuestro programa puede solucionar el problema es nuestro objetivo en mente  <br/> <br> **Alex Avila Asto**: <br/> Al realizar el informe adquire informacion valiosa con la cual me di cuenta que el rubo hotelero presenta bastante problemas con respecto a la implentacion de la tecnologia y que nosotros como una start-up tendriamos un gran impacto en pequeñas o grandes empresas hoteleras.                                       |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | **Sebastian Ramirez Hoffmann**: <br> **TB1:**<br> He realizado parte de la investigacion del proyecto tanto entrevistas como revisar articulos, por lo que he revisado estadisticas en base a la importancia del producto en el mercado, asimismo con el analisis de competidores apoye a darles la idea general del proyecto a mis colegas, al tener familiares que se especializan en el mercado orientado a nuestro producto recibi ideas externas por parte de estos mismos para comunicar a mis compañeros en congregaciones que se dieron en grupo. <br> **Manuel Sebastian Peña Rivera**:<br>  No solo la investigación realizada, sino que la entrevista que realice me permitió conocer sobre las dificultades y experiencia laboral del gerente en el rubro de hospedaje. <br/> <br/>**Alex Avila Asto**:<br/> Al tener una familia activa en el sector hotelero, he adquirido un profundo conocimiento sobre los procesos internos de un hotel. Mi experiencia me ha permitido comprender en detalle cómo se gestionan aspectos críticos como la limpieza, el registro de huéspedes y los desafíos inherentes a estas operaciones. Esto incluye la organización de equipos de limpieza, la implementación de sistemas de registro eficientes y la resolución de problemas cotidianos que surgen en la operación diaria de un hotel.                                                                                                                                       | **SebastianRamirezHoffmann**:<br>Fue gracias a las investigaciones que que logre tener una idea mas concreta de lo que debemos de hacer como empresa para asegurar la efectividad de nuestro proyecto tomando en consideracion las necesidades y competidores existentes en el mercado.<br> Manuel Sebastian Peña Rivera:<br> Con la información reunida de la entrevista espero poder adaptar las necesidades al proyecto y que nuestro proyecto le sirva para mejorar la eficiencia de su trabajo <br/> **Alex Avila Ast**o: Con esta informacion estoy convencido que nuestro proyecto tendra un buen impacto en el rubo hotelero.                                                                                                                                                                                                                                                                                                                        |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Sebastian Ramirez Hoffmann**: <br> **TB1:** <br>  Como team leader tuve la asignacion de proporcionarle sus partes a mis compañeros, de estas tareas asignadas realice los sub indices del **capitulo 1** especificamente siendo Lean UX Process y parte de las correcciones de antecedentes y problematica.<br> Del **capitulo 2** participe en el analisis de competidores y realice partes del needfinding de las entrevistas, asimismo como el recuadro As-Is.<br> Del **capitulo 3** realice To-Be scenario mapping.<br> Finalmente participe activamente en el **capitulo 4** en el subindice 4.6 y parte del 4.6 participando en los diagramas de contenedores y contexto asimismo como en el diagrama de base de datos. Respecto al **capitulo 5** apoye realizando revisiones del capitulo y mis aportes a la Landing Page ] <br><br> **Manuel Sebastian Peña Rivera**: <br> **TB1:**  <br> Realice secciones del **capitulo 2** entrevistas, user tax matrix y empathy map.<br> Del **capitulo 3** realice el product backlog, impact map<br> Del **capitulo 4** general style guidelines, web applications desktop and mobile wireframes, web applications desktop and mobile mockups y user flow <br> **TP:** He desarrollado los componentes y funciones necesarias del inventario de nuestra aplicacion frontend y he realizado las correciones mencionadas en el TB1 y en clase <br/> **Alex Avila Asto**: <br/> TB1: Participe en las secciones del capitulo 2 y 5 | **SebastianRamirezHoffmann**:<br>  Como conclusion fue gracias a mi participacion en los primeros capitulos, los cuales dejan una idea general de lo que somos como empresa y lo que representa nuestro producto ayudandome a poder dar observaciones y controles de calidad asi como observaciones de lo que mis compañeros van realizando  <br><br> **Manuel Sebastian Peña Rivera**:<br> **TB1:** Mis aportes en los capitulos 2, 3 y 4, permiten tener una mejor vision de nuestro producto y empresa, ademas de identificar las oportunidades de mejora del producto. <br> **TP:** Ademas, con las correciones y cambios realizados, comprendo que siempre se puede seguir investigando y mejorando el trabajo.  <br/> **Alex Avila Asto**: <br/> Al realizar el informe adquire informacion valiosa con la cual me di cuenta que el rubo hotelero presenta bastante problemas con respecto a la implentacion de la tecnologia.                         |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | **Sebastian Ramirez Hoffmann**: <br> **TB1:**<br> He realizado parte de la investigacion del proyecto tanto entrevistas como revisar articulos, por lo que he revisado estadisticas en base a la importancia del producto en el mercado, asimismo con el analisis de competidores apoye a darles la idea general del proyecto a mis colegas, al tener familiares que se especializan en el mercado orientado a nuestro producto recibi ideas externas por parte de estos mismos para comunicar a mis compañeros en congregaciones que se dieron en grupo.]<br> **Manuel Sebastian Peña Rivera**:<br>**TB1:**<br> He analizado y realizado entrevistas, las cuales me brindaron ideas importantes y mejoras para tener un mejor desarrollo del producto. **TP:**<br> He investigado y revisado Mountain Goat sobre las user stories para desarrollar features a partir de estas e implementarlas correctamente en el frontend. Además he investigado en la documentacion del Angular Material y sus diversos componentes, para tener un mejor resultado.<br/>**Alex Avila Asto**:<br/>El rubo de mi familia es hotelero, lo cual me ayudo para poder realizar junto con mis compañero el informe.br>                                                                                                                                                                                                                                                                                  | **SebastianRamirezHoffmann**:<br>Fue gracias a las investigaciones que que logre tener una idea mas concreta de lo que debemos de hacer como empresa para asegurar la efectividad de nuestro proyecto tomando en consideracion las necesidades y competidores existentes en el mercado.<br> **Manuel Sebastian Peña Rivera**:<br>**TB1:**<br> Debido a la investigacion pude comprender mejor la situacion y las mejoras que necesitan, tambien pude analizar los objetivos y frustaciones que tienen cada segmento. <br>**TP:**<br> Con la documentacion del Angular Material, me a permitido mejorar el diseño y funcion de los componentes, permitiendome asemejar nuestro mockup a la aplicacion frontend que estamos desarrollando y al agregar los validators me permite limitar y ingresar correctamente los datos. <br/> **Alex Avila Ast**o: Con esta informacion estoy convencido que nuestro proyecto tendra un buen impacto en el rubo hotelero. |
 
 # Capítulo I: Introducción
 
@@ -312,66 +313,87 @@ funcionalidad que desee agregar el gestor.
 
 #### 1.2.2.1. Lean UX Problem Statement.
 
-
-En el estado actual de la industria de hoteleria y hospedaje muchos establecimientos enfrentan desafíos significativos en la gestión interna
+En el estado actual de la industria de hoteleria y hospedaje muchos establecimientos enfrentan desafíos significativos
+en la gestión interna
 de sus operaciones. La falta de coordinación y eficiencia en la gestión del inventario, el personal, los espacios y los
 servicios afecta negativamente tanto la experiencia del usuario como la eficiencia operativa. Esta falta de coordinación
 puede llevar a errores en la asignación de recursos, retrasos en la atención al cliente y una experiencia general
 insatisfactoria para los huéspedes.
 
-Lo que otros productos han fallado en realizar son los rapidos cambios en la digitalizacion dejando sus softwares obsoletos o con cambios que resultan ser pobres en experiencia de usuario. Además, los gerentes de hoteles se enfrentan a la presión de mantener altos estándares de calidad y eficiencia, mientras
+Lo que otros productos han fallado en realizar son los rapidos cambios en la digitalizacion dejando sus softwares
+obsoletos o con cambios que resultan ser pobres en experiencia de usuario. Además, los gerentes de hoteles se enfrentan
+a la presión de mantener altos estándares de calidad y eficiencia, mientras
 lidian con procesos manuales y sistemas obsoletos que consumen tiempo y recursos. Esta falta de herramientas adecuadas
 para la gestión puede tener un impacto directo en la rentabilidad del negocio y en la satisfacción del cliente.
 
-Nuestro producto se enfocara en proporcionar funcionalidades mas intuitivas al usuario, un mejor sistema de gestion para poder observar todos los aspectos necesarios, la capacidad de poder mantener una comunicacion entre gerentes y empleados y fomentando la accesibilidad para modelos de negocio pequeños que tienen la capacidad de digitalizarse.
+Nuestro producto se enfocara en proporcionar funcionalidades mas intuitivas al usuario, un mejor sistema de gestion para
+poder observar todos los aspectos necesarios, la capacidad de poder mantener una comunicacion entre gerentes y empleados
+y fomentando la accesibilidad para modelos de negocio pequeños que tienen la capacidad de digitalizarse.
 
-Nuestro enfoque principal sera el ofrecer este servicio a los gerentes de hotel para que evaluen con sus empleados los beneficios que proveemos. 
+Nuestro enfoque principal sera el ofrecer este servicio a los gerentes de hotel para que evaluen con sus empleados los
+beneficios que proveemos.
 
 Como resultado, nos enfrentamos al siguiente problema: ¿Cómo podemos proporcionar a los gerentes de hoteles una
 plataforma de gestión accesible y eficiente que les permita coordinar de manera efectiva el inventario, los empleados,
 los espacios y los servicios, para mejorar la experiencia del usuario y optimizar los procesos operativos en un 45%?
 
-Nuestro producto se encargara de esto al proporcionar un servicio de gestion que pueda digitalizar, optimizar y solucionar los procesos de gestion en procesos de hoteleria y hostales. 
+Nuestro producto se encargara de esto al proporcionar un servicio de gestion que pueda digitalizar, optimizar y
+solucionar los procesos de gestion en procesos de hoteleria y hostales.
 
-Sabremos que tuvimos exito cuando se pueda observar un minimo de 45% de satisfaccion en encuestas de control donde los gerentes y empleados que utilizaron la aplicacion hayan logrado una mejorada calidad de trabajo y asimismo un crecimiento de 5% en la industria turistica.
-
-
+Sabremos que tuvimos exito cuando se pueda observar un minimo de 45% de satisfaccion en encuestas de control donde los
+gerentes y empleados que utilizaron la aplicacion hayan logrado una mejorada calidad de trabajo y asimismo un
+crecimiento de 5% en la industria turistica.
 
 #### 1.2.2.2. Lean UX Assumptions.
 
 **Business Outcome**  
-En esta seccion vamos a usar las metricas de Montaña que ha conceptualizada por Jeff Gothelf e implementaremos algunas de las pirate metrics para poder definir los niveles de la montaña para llegar poder analizar los comportamientos de nuestros usuarios y analizar que parte del User Journey es relevante para nosotros y hacer un assumption de como actuaran nuestros usuarios en base al producto.
+En esta seccion vamos a usar las metricas de Montaña que ha conceptualizada por Jeff Gothelf e implementaremos algunas
+de las pirate metrics para poder definir los niveles de la montaña para llegar poder analizar los comportamientos de
+nuestros usuarios y analizar que parte del User Journey es relevante para nosotros y hacer un assumption de como
+actuaran nuestros usuarios en base al producto.
 
 Acquisition: (Base): [1000 visitantes]
-El usuario se percatara de nuestra solucion por medio de las redes sociales como medio de comunicacion asimismo promocionando nuestra landing page, de misma manera intentaremos ofrecer el servicio a los mismos usuarios con metodos de comunicacion directa como por ejemplo ofrecerle el servicio a la institucion donde trabaja (hotel/hostal).
+El usuario se percatara de nuestra solucion por medio de las redes sociales como medio de comunicacion asimismo
+promocionando nuestra landing page, de misma manera intentaremos ofrecer el servicio a los mismos usuarios con metodos
+de comunicacion directa como por ejemplo ofrecerle el servicio a la institucion donde trabaja (hotel/hostal).
 
 Activacion: (Plateau):[450 users : 100% users]
-En esta seccion el usuario gerente crea su cuenta registrando su correo ya sea personal o de la institucion, metodos de pago, las dimensiones del negocio es decir la cantidad de habitaciones por piso y finalmente un codigo de autenticacion para los empleados que deban de generar una cuenta.
+En esta seccion el usuario gerente crea su cuenta registrando su correo ya sea personal o de la institucion, metodos de
+pago, las dimensiones del negocio es decir la cantidad de habitaciones por piso y finalmente un codigo de autenticacion
+para los empleados que deban de generar una cuenta.
 De los usuarios que se percatan del producto esperamos que el 45% se anime a utilizarlo.
 
 Retention: (Plateau + 1 level):[60% users]
-De los usuarios que se animaran a utilizarlo esperamos que el 60% de estos continue utilizando nuestro producto diariamente para gestionar a sus empleados y habitaciones. En esta seccion el usuario utiliza las herramientas que le proporciona nuestro producto para la gestion de cuartos, ya tiene a sus empleados asignados y les asigna sus tareas mientras que estos mantienen una comunicacion continua.
+De los usuarios que se animaran a utilizarlo esperamos que el 60% de estos continue utilizando nuestro producto
+diariamente para gestionar a sus empleados y habitaciones. En esta seccion el usuario utiliza las herramientas que le
+proporciona nuestro producto para la gestion de cuartos, ya tiene a sus empleados asignados y les asigna sus tareas
+mientras que estos mantienen una comunicacion continua.
 
 Revenue: (Plateau + 2 levels):[10% users]
-Los usuarios que utilizan nuestro producto son usuarios estrictamente de paga, no obstante si es que llegara la situacion donde su negocio se expande entonces van a tener mas empleados, mas cuartos y excederan el limite que le proporcionamos en su plan inicial. De esta manera se espera que un 10% de los usuarios retenidos que consigan este crecimiento estaran dispuestos a mejorar su plan generandonos un mayor ingreso.
+Los usuarios que utilizan nuestro producto son usuarios estrictamente de paga, no obstante si es que llegara la
+situacion donde su negocio se expande entonces van a tener mas empleados, mas cuartos y excederan el limite que le
+proporcionamos en su plan inicial. De esta manera se espera que un 10% de los usuarios retenidos que consigan este
+crecimiento estaran dispuestos a mejorar su plan generandonos un mayor ingreso.
 
 Referral:(top) [5% users]
-Finalmente de los usuarios que retenimos esperamos que un 5% de estos nos referencien a sus colegas o a nuevos emprendedores indirectamente promocionandonos y aumentando el flujo de usuarios potenciales que podemos obtener.
+Finalmente de los usuarios que retenimos esperamos que un 5% de estos nos referencien a sus colegas o a nuevos
+emprendedores indirectamente promocionandonos y aumentando el flujo de usuarios potenciales que podemos obtener.
 
 **Users**  
-En esta seccion creamos un Proto-Persona como un assumption de como son nuestros usuarios enfocandonos mas en el aspecto de actitud.
+En esta seccion creamos un Proto-Persona como un assumption de como son nuestros usuarios enfocandonos mas en el aspecto
+de actitud.
 
-|Demografica|Comportmamiento|Necesidades / Obstaculos|
-|-|-|-|
-|Alex:<br>35 años <br> Gestor de hotel/hostal| - Trabaja en un hotel/hostal <br> -Gana lo suficiente <br> - Enfocado en la gestion de tareas <br> - Busca que todo este en orden | - Necesita aumentar el area de gestion <br> -Necesita mejorar la asignacion de tareas <br> - Requiere de una mejor comunicacion con los demas empleados a quienes asigna las tareas <br> - Obstaculo: El hotel utiliza herramientas obsoletas o no tiene alguna para asignar tareas <br> - Obstaculo: Utilizan medios no formales como whatsapp para comunicarse lo que complica la comunicacion eficiente. <br> - Busca mejorar la organizacion del hotel/hostal |
-|Carla:<br> 27 años <br> Empleada de limpieza | -Gana lo minimo <br> -Enfocada en el cumplimiento de tareas <br> -busca terminar su trabajo de manera rapida|- Necesita un medio de comunicacion directo con su gestor <br> -Necesita una manera de notificar la falta de algun objeto que necesite <br> -Necesita notificar que cuartos ya estan listos y saber cuales debe de preparar <br> -Obstaculo: Todos hablan en el mismo grupo de whatsapp y se pierden tareas <br> - Obstaculo: No hay un registro seguro de las tareas que se les fueron asignadas <br> - Busca comunicar de inmediato a su supervisor el estado de una habitacion <br> -Busca avisar si falta algun objeto necesario para la preparacion de la habitacion |
+| Demografica                                  | Comportmamiento                                                                                                                   | Necesidades / Obstaculos                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|----------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Alex:<br>35 años <br> Gestor de hotel/hostal | - Trabaja en un hotel/hostal <br> -Gana lo suficiente <br> - Enfocado en la gestion de tareas <br> - Busca que todo este en orden | - Necesita aumentar el area de gestion <br> -Necesita mejorar la asignacion de tareas <br> - Requiere de una mejor comunicacion con los demas empleados a quienes asigna las tareas <br> - Obstaculo: El hotel utiliza herramientas obsoletas o no tiene alguna para asignar tareas <br> - Obstaculo: Utilizan medios no formales como whatsapp para comunicarse lo que complica la comunicacion eficiente. <br> - Busca mejorar la organizacion del hotel/hostal                                                                                                         |
+| Carla:<br> 27 años <br> Empleada de limpieza | -Gana lo minimo <br> -Enfocada en el cumplimiento de tareas <br> -busca terminar su trabajo de manera rapida                      | - Necesita un medio de comunicacion directo con su gestor <br> -Necesita una manera de notificar la falta de algun objeto que necesite <br> -Necesita notificar que cuartos ya estan listos y saber cuales debe de preparar <br> -Obstaculo: Todos hablan en el mismo grupo de whatsapp y se pierden tareas <br> - Obstaculo: No hay un registro seguro de las tareas que se les fueron asignadas <br> - Busca comunicar de inmediato a su supervisor el estado de una habitacion <br> -Busca avisar si falta algun objeto necesario para la preparacion de la habitacion |
 
-Esta tabla refleja los dos principales usuarios que tenemos como assumption junto con sus necesidades y comportamientos en el area laboral.
+Esta tabla refleja los dos principales usuarios que tenemos como assumption junto con sus necesidades y comportamientos
+en el area laboral.
 
 **User Outcomes & Benefits**
 
 En esta seccion se busca el lado mas emocional y empatizar con el usuario para darles los outcomes correctos.
-
 
 Que busca lograr el usuario?
 Quiero notificar a mi supervisor que necesito ciertos materiales para realizar mis tareas.<br>
@@ -382,7 +404,8 @@ Quiero sentirme escuchado y tomado en consideracion.<br>
 Porque nuestro usuario buscaria nuestro producto?
 Quiero que mis tareas se puedan realizar sin problemas.<br>
 Que cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?
-Sabremos que tuvimos exito cuando el usuario presente una comunicacion efectiva con su supervisor utilizando nuestro producto en el area laboral.<br><br>
+Sabremos que tuvimos exito cuando el usuario presente una comunicacion efectiva con su supervisor utilizando nuestro
+producto en el area laboral.<br><br>
 Que busca lograr el usuario?
 Quiero revisar los estados de cuarto.<br>
 Como se quiere sentir el usuario en este proceso?
@@ -392,7 +415,8 @@ Quiero sentir que puedo manejarme y organizarme.<br>
 Porque nuestro usuario buscaria nuestro producto?
 Quiero realizar mis tareas de manera que sea tan facil como mirar por la ventana.<br>
 Que cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?
-Sabremos que tuvimos exito cuando el usuario presente un monitoreo rapido de habitaciones utilizando nuestro producto en el area laboral.<br><br>
+Sabremos que tuvimos exito cuando el usuario presente un monitoreo rapido de habitaciones utilizando nuestro producto en
+el area laboral.<br><br>
 Que busca lograr el usuario?
 Quiero mantenerme comunicado con mi (gerente/empleado) para poder (entregar/recibir) tareas.<br>
 Como se quiere sentir el usuario en este proceso?
@@ -402,27 +426,32 @@ Quiero sentir que tengo el control de mis acciones.<br>
 Porque nuestro usuario buscaria nuestro producto?
 Quiero hacer mas trabajo en menor tiempo y que no me cueste mucho hacerlo.<br><br>
 Que cambio de comportamiento podemos observar que nos cuenta que lograron su objetivo?
-Sabremos que tuvimos exito cuando el usuario tenga una facilidad en comunicarse y realizar sus tareas en el area laboral utilizando nuestro producto.
+Sabremos que tuvimos exito cuando el usuario tenga una facilidad en comunicarse y realizar sus tareas en el area laboral
+utilizando nuestro producto.
 
-
-
-
-
-Este analisis de user Outcomes sirve para ambos segmentos en ciertos casos ya que tienen un objetivo similar y se puede comprender el contexto desde ambas perspectivas.
+Este analisis de user Outcomes sirve para ambos segmentos en ciertos casos ya que tienen un objetivo similar y se puede
+comprender el contexto desde ambas perspectivas.
 
 **Solutions**
 
-Si bien Gothelf menciona en su libro LeanUX 3rd Edition que debemos utilizar elementos fisicos como post its y demas para esta entrega realizamos una llamada para definir nuestras soluciones supuestas.
+Si bien Gothelf menciona en su libro LeanUX 3rd Edition que debemos utilizar elementos fisicos como post its y demas
+para esta entrega realizamos una llamada para definir nuestras soluciones supuestas.
 
 Tomando en cuenta las restricciones anteriormente seleccionadas realizamos las siguiente solucione:
 
 Desarollar un gestor de hoteleria y hostales orientado a realizar la mayoria de prorcesos de gestion principales siendo:
 
-- **El monitoreo de estados de cuartos** - notifica sin la necesidad de usar algun sistema de comunicacion como whatsapp el estado actual de un cuarto. Tomar en consideracion las validaciones necesarias.
-- **La entrega de tareas** - entrega las tareas remotamente a los empleados sin necesidad de que se tenga que decir una palabra entre usuarios asimismo permite el monitoreo de esta. Tomar en consideracion que solo el usuario con la tarea asignada puede terminar esta tarea.
-- **La revision de inventario** - permite que se pueda hacer un seguimiento de los items que se tienen en la bodega del negocio los cuales se deben registrar cuando son agregados o quitados. Tomar en consideracion que podemos agregar los proovedores de dichos productos.
-- **La comunicacion empleado/gerente** - sistema de comunicacion para emergencias o dudas donde se mantiene una linea de comunicacion directa y sin distractores entre el gerente y el empleado, de misma manera puede servir para monitorear que mensajes se han mandado.
-  
+- **El monitoreo de estados de cuartos** - notifica sin la necesidad de usar algun sistema de comunicacion como whatsapp
+  el estado actual de un cuarto. Tomar en consideracion las validaciones necesarias.
+- **La entrega de tareas** - entrega las tareas remotamente a los empleados sin necesidad de que se tenga que decir una
+  palabra entre usuarios asimismo permite el monitoreo de esta. Tomar en consideracion que solo el usuario con la tarea
+  asignada puede terminar esta tarea.
+- **La revision de inventario** - permite que se pueda hacer un seguimiento de los items que se tienen en la bodega del
+  negocio los cuales se deben registrar cuando son agregados o quitados. Tomar en consideracion que podemos agregar los
+  proovedores de dichos productos.
+- **La comunicacion empleado/gerente** - sistema de comunicacion para emergencias o dudas donde se mantiene una linea de
+  comunicacion directa y sin distractores entre el gerente y el empleado, de misma manera puede servir para monitorear
+  que mensajes se han mandado.
 
 #### 1.2.2.3. Lean UX Hipotesis Statements.
 
@@ -431,35 +460,39 @@ Desarollar un gestor de hoteleria y hostales orientado a realizar la mayoria de 
 Siguiendo el formato de las Hipotesis usaremos la tabla de hipotesis.
 Tomar en cuenta que cada hipotesis empieza con "Creemos que.."
 
-|Business Outcome|Persona|User Outcome|Feature/Solution|
-|-|-|-|-|
-|Conseguiremos una retencion del 20% de usuarios | Si los gerentes de hoteles/hostales | entregan tareas a sus empleados | con el sistema de comunicacion para emergencias o dudas |
-|Conseguiremos una retencion del 20% de usuarios optima | Si los gerentes de hoteles/hostales | logran monitorear los estados de cuarto | con el sistema de monitoreo de cuartos |
-|Conseguiremos una retencion del 60% de usuarios optima | Si los gerentes de hoteles/hostales | se sienten en control de sus actividades | con las herramientas de gestion que estamos ofreciendo, estas siendo monitoreo de estados de cuartos, entrega de tareas, revision de inventario y sistema de comunicaciones |
-|Conseguiremos una retencion del 20% usuarios optima | Si los gerentes de hoteles/hostales | Notifican de los items necesitados al gerente | con el sistema de comunicacion entre empleado y gerente |
-|Conseguiremos que 10% de nuestros usuarios nos genere una ganancia | Si los gerentes de hoteles/hostales | mejoran el plan de su cuenta | proveyendo al usuario de la posibilidad de mejorar su cuenta |
-|Conseguiremos que 5% de nuestro usuarios nos referencien | Si los gerentes de hoteles/hostales y empleados | logran una comunicacion entre gerente y empleado efectiva | con el sistema de comunicacion entre empleado y gerente |
-|Conseguiremos que 45% de nuestra adquisicion de usuarios vengan de nuestra pagina | Si los gerentes de hoteles/hostales y empleados | encuentran nuestra solucion como una posibilidad de mejora | con la landing page implementada |
+| Business Outcome                                                                  | Persona                                         | User Outcome                                               | Feature/Solution                                                                                                                                                            |
+|-----------------------------------------------------------------------------------|-------------------------------------------------|------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Conseguiremos una retencion del 20% de usuarios                                   | Si los gerentes de hoteles/hostales             | entregan tareas a sus empleados                            | con el sistema de comunicacion para emergencias o dudas                                                                                                                     |
+| Conseguiremos una retencion del 20% de usuarios optima                            | Si los gerentes de hoteles/hostales             | logran monitorear los estados de cuarto                    | con el sistema de monitoreo de cuartos                                                                                                                                      |
+| Conseguiremos una retencion del 60% de usuarios optima                            | Si los gerentes de hoteles/hostales             | se sienten en control de sus actividades                   | con las herramientas de gestion que estamos ofreciendo, estas siendo monitoreo de estados de cuartos, entrega de tareas, revision de inventario y sistema de comunicaciones |
+| Conseguiremos una retencion del 20% usuarios optima                               | Si los gerentes de hoteles/hostales             | Notifican de los items necesitados al gerente              | con el sistema de comunicacion entre empleado y gerente                                                                                                                     |
+| Conseguiremos que 10% de nuestros usuarios nos genere una ganancia                | Si los gerentes de hoteles/hostales             | mejoran el plan de su cuenta                               | proveyendo al usuario de la posibilidad de mejorar su cuenta                                                                                                                |
+| Conseguiremos que 5% de nuestro usuarios nos referencien                          | Si los gerentes de hoteles/hostales y empleados | logran una comunicacion entre gerente y empleado efectiva  | con el sistema de comunicacion entre empleado y gerente                                                                                                                     |
+| Conseguiremos que 45% de nuestra adquisicion de usuarios vengan de nuestra pagina | Si los gerentes de hoteles/hostales y empleados | encuentran nuestra solucion como una posibilidad de mejora | con la landing page implementada                                                                                                                                            |
 
 **Que es lo mas importante que debemos aprender**
 
-Debemos de analizar que es lo que debemos aprender de nuestras Hipotesis, entonces llegamos a nuestra siguiente conclusion respecto a lo mas importante que debemos aprender:
+Debemos de analizar que es lo que debemos aprender de nuestras Hipotesis, entonces llegamos a nuestra siguiente
+conclusion respecto a lo mas importante que debemos aprender:
 
-Los usuarios estaran interesados en nuestra "innovadora" propuesta dado que existen otros productos similares y asimismo, realmente la necesitan?
+Los usuarios estaran interesados en nuestra "innovadora" propuesta dado que existen otros productos similares y
+asimismo, realmente la necesitan?
 
 **Minimum viable product**
 
-Los MVP nos sirven para aprender cosas a corto plazo. para realizar esto se hace la pregunta: 
+Los MVP nos sirven para aprender cosas a corto plazo. para realizar esto se hace la pregunta:
 What’s the most important thing we need to learn first?
-Lo primero que debemos de confirmar para nuestro proyecto es **si realmente se esta requiriendo en el mercado**, es por esta misma razon que tendremos que realizar una serie de entrevistas a gerentes de hotel/hostal y sus empleados para poder probar que si existe una necesidad que estamos satisfaciendo. Adicionalmente crear una landing page realizando un MVP para los usuarios que esten interesados en este producto.
-
+Lo primero que debemos de confirmar para nuestro proyecto es **si realmente se esta requiriendo en el mercado**, es por
+esta misma razon que tendremos que realizar una serie de entrevistas a gerentes de hotel/hostal y sus empleados para
+poder probar que si existe una necesidad que estamos satisfaciendo. Adicionalmente crear una landing page realizando un
+MVP para los usuarios que esten interesados en este producto.
 
 #### 1.2.2.4. Lean UX Canvas.
 
-Finalmente juntamos todo lo que hemos hecho en este proceso y lo agregamos en un Lean UX Canvas (V2) guiandonos del ejemplo que nos proporciona Jeff Gothelf [Anexo 1.1]
+Finalmente juntamos todo lo que hemos hecho en este proceso y lo agregamos en un Lean UX Canvas (V2) guiandonos del
+ejemplo que nos proporciona Jeff Gothelf [Anexo 1.1]
 
 <image src ="./assets/lean-ux/lean-ux-canvas/Lean UX Canvas (V2) - Inn Control.jpg" alt ="LeanUX Canvas (V2) [implementando lean UX 3]">
-
 
 ## 1.3. Segmentos objetivo.
 
@@ -481,26 +514,23 @@ Finalmente juntamos todo lo que hemos hecho en este proceso y lo agregamos en un
 
 **Competitive Analysis Landscape**
 
-| ¿Por qué llevar a cabo este análisis? | Nosotros | Cloudbeds | SiteMinder |
-|---------------------------------------|----------|-----------|------------|
-| **Overview**                          | Nuestra startup está enfocada en desarrollar una plataforma integral para la gestión eficiente de negocios relacionados con la administración de habitaciones, con un enfoque en la industria hotelera. | Cloudbeds ofrece una solución de gestión hotelera basada en la nube que incluye herramientas para la administración de propiedades, reservas y distribución. | SiteMinder proporciona una plataforma de distribución hotelera y una suite de herramientas de gestión que incluyen gestión de tarifas, disponibilidad de habitaciones y canal de reservas en línea. |
-| **Ventaja Competitiva**               | Nuestra plataforma ofrece una solución integral que abarca desde la gestión de habitaciones hasta la comunicación interna y la generación de informes de desempeño del personal. | Cloudbeds se destaca por su interfaz fácil de usar y su capacidad para integrarse con una amplia gama de sistemas y servicios de terceros. | SiteMinder se enfoca en maximizar la visibilidad en línea y la distribución de habitaciones a través de una amplia red de canales de reserva. |
-| **Mercado Objetivo**                  | Nos dirigimos a hoteles independientes y pequeñas cadenas hoteleras que buscan mejorar su eficiencia operativa y experiencia del cliente. | Cloudbeds se enfoca en hoteles boutique y propiedades independientes que buscan una solución completa de gestión hotelera en la nube. | SiteMinder atiende a hoteles de todos los tamaños, desde pequeños establecimientos independientes hasta grandes cadenas hoteleras. |
-| **Perfil de Marketing**               | Nuestra estrategia de marketing se centra en la promoción de nuestra plataforma a través de redes sociales y asociaciones con organizaciones de la industria hotelera. | Cloudbeds utiliza estrategias de marketing digital y participa en eventos de la industria para promover su marca y sus soluciones. | SiteMinder utiliza una combinación de marketing en línea y fuera de línea, incluidas campañas en redes sociales y publicidad en eventos de la industria. |
-| **Perfil del Producto**               | Ofrecemos una variedad de herramientas y servicios, desde la gestión de habitaciones hasta la generación de informes de desempeño del personal, todo dentro de una plataforma fácil de usar y personalizable. | Cloudbeds ofrece funcionalidades como gestión de reservas, administración de canales de distribución y herramientas de informes en una interfaz intuitiva. | SiteMinder proporciona herramientas para gestionar tarifas, disponibilidad de habitaciones y reservas en línea, junto con análisis y generación de informes. |
-| **Precios**  | Nuestro plataforma es de pago y contiene diferentes tipos de planes Starter, Standar y Exclusive  para satisfacer el tamaño del hotel/hostal del usuario segun la cantidad de cuentas de empleado y cuartos. |Cloud beds ofrece una tarifa dinamica segun los datos que ingrese un usuario teniendo los tipos de plan Pro y 360 |SiteMinder ofrece 3 tipos de planes los dos primeros siendo para alojamientos idependientes ofreciendo una prueba gratuita contando con el plano normal y el Plus adicionalemnte cuenta con planes para grupos hoteleros. |
-
+| ¿Por qué llevar a cabo este análisis? | Nosotros                                                                                                                                                                                                      | Cloudbeds                                                                                                                                                    | SiteMinder                                                                                                                                                                                                                |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Overview**                          | Nuestra startup está enfocada en desarrollar una plataforma integral para la gestión eficiente de negocios relacionados con la administración de habitaciones, con un enfoque en la industria hotelera.       | Cloudbeds ofrece una solución de gestión hotelera basada en la nube que incluye herramientas para la administración de propiedades, reservas y distribución. | SiteMinder proporciona una plataforma de distribución hotelera y una suite de herramientas de gestión que incluyen gestión de tarifas, disponibilidad de habitaciones y canal de reservas en línea.                       |
+| **Ventaja Competitiva**               | Nuestra plataforma ofrece una solución integral que abarca desde la gestión de habitaciones hasta la comunicación interna y la generación de informes de desempeño del personal.                              | Cloudbeds se destaca por su interfaz fácil de usar y su capacidad para integrarse con una amplia gama de sistemas y servicios de terceros.                   | SiteMinder se enfoca en maximizar la visibilidad en línea y la distribución de habitaciones a través de una amplia red de canales de reserva.                                                                             |
+| **Mercado Objetivo**                  | Nos dirigimos a hoteles independientes y pequeñas cadenas hoteleras que buscan mejorar su eficiencia operativa y experiencia del cliente.                                                                     | Cloudbeds se enfoca en hoteles boutique y propiedades independientes que buscan una solución completa de gestión hotelera en la nube.                        | SiteMinder atiende a hoteles de todos los tamaños, desde pequeños establecimientos independientes hasta grandes cadenas hoteleras.                                                                                        |
+| **Perfil de Marketing**               | Nuestra estrategia de marketing se centra en la promoción de nuestra plataforma a través de redes sociales y asociaciones con organizaciones de la industria hotelera.                                        | Cloudbeds utiliza estrategias de marketing digital y participa en eventos de la industria para promover su marca y sus soluciones.                           | SiteMinder utiliza una combinación de marketing en línea y fuera de línea, incluidas campañas en redes sociales y publicidad en eventos de la industria.                                                                  |
+| **Perfil del Producto**               | Ofrecemos una variedad de herramientas y servicios, desde la gestión de habitaciones hasta la generación de informes de desempeño del personal, todo dentro de una plataforma fácil de usar y personalizable. | Cloudbeds ofrece funcionalidades como gestión de reservas, administración de canales de distribución y herramientas de informes en una interfaz intuitiva.   | SiteMinder proporciona herramientas para gestionar tarifas, disponibilidad de habitaciones y reservas en línea, junto con análisis y generación de informes.                                                              |
+| **Precios**                           | Nuestro plataforma es de pago y contiene diferentes tipos de planes Starter, Standar y Exclusive  para satisfacer el tamaño del hotel/hostal del usuario segun la cantidad de cuentas de empleado y cuartos.  | Cloud beds ofrece una tarifa dinamica segun los datos que ingrese un usuario teniendo los tipos de plan Pro y 360                                            | SiteMinder ofrece 3 tipos de planes los dos primeros siendo para alojamientos idependientes ofreciendo una prueba gratuita contando con el plano normal y el Plus adicionalemnte cuenta con planes para grupos hoteleros. |
 
 ## 2.1.2. Estrategias y Tácticas Frente a Competidores
 
-
-
-**Análisis SWOT** | Nosotros | Cloudbeds | SiteMinder
---- | --- | --- | ---
-**Fortalezas** | Nuestra plataforma ofrece una solución integral y fácil de usar para la gestión de habitaciones y la comunicación interna. Además, nos destacamos por nuestra flexibilidad de precios y personalización de características. | Cloudbeds tiene una interfaz intuitiva y se integra fácilmente con otros sistemas y servicios de terceros, lo que la convierte en una solución atractiva para hoteles independientes. | SiteMinder cuenta con una amplia red de distribución y visibilidad en línea, lo que ayuda a aumentar las reservas y la ocupación de habitaciones para los hoteles.
-**Debilidades** | Como una startup emergente, podemos enfrentar desafíos en términos de reconocimiento de marca y alcance de mercado en comparación con competidores establecidos como Cloudbeds y SiteMinder. | Cloudbeds puede tener tarifas de suscripción más altas en comparación con otras soluciones, lo que puede limitar su atractivo para hoteles con presupuestos ajustados. | SiteMinder puede enfrentar desafíos en la retención de clientes debido a la competencia en el mercado de distribución hotelera en línea.
-**Oportunidades** | Existe un mercado creciente de hoteles independientes y pequeñas cadenas hoteleras que buscan soluciones integrales y asequibles para mejorar su eficiencia operativa. | Cloudbeds puede expandir su alcance a través de asociaciones estratégicas con proveedores de servicios turísticos y organizaciones de la industria. | SiteMinder puede explorar nuevas oportunidades de crecimiento mediante la expansión a mercados emergentes y el desarrollo de características innovadoras para sus clientes.
-**Amenazas** | La competencia en el mercado de gestión hotelera puede intensificarse, lo que podría dificultar la adquisición de clientes y la retención en el futuro. Además, los cambios en las preferencias del consumidor y las regulaciones gubernamentales pueden afectar la demanda de servicios hoteleros. | Cloudbeds puede enfrentar amenazas de nuevos competidores que ingresan al mercado con soluciones similares pero más económicas. Además, los cambios en la tecnología y la regulación pueden afectar la demanda y la rentabilidad de sus servicios. | SiteMinder puede enfrentar amenazas de la consolidación en la industria hotelera y la competencia de grandes OTAs (agencias de viajes en línea) que ofrecen servicios similares de distribución de habitaciones. Además, los cambios en los algoritmos de búsqueda en línea pueden afectar la visibilidad de los hoteles que utilizan su plataforma.
+ **Análisis SWOT** | Nosotros                                                                                                                                                                                                                                                                                            | Cloudbeds                                                                                                                                                                                                                                          | SiteMinder                                                                                                                                                                                                                                                                                                                                           
+-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ **Fortalezas**    | Nuestra plataforma ofrece una solución integral y fácil de usar para la gestión de habitaciones y la comunicación interna. Además, nos destacamos por nuestra flexibilidad de precios y personalización de características.                                                                         | Cloudbeds tiene una interfaz intuitiva y se integra fácilmente con otros sistemas y servicios de terceros, lo que la convierte en una solución atractiva para hoteles independientes.                                                              | SiteMinder cuenta con una amplia red de distribución y visibilidad en línea, lo que ayuda a aumentar las reservas y la ocupación de habitaciones para los hoteles.                                                                                                                                                                                   
+ **Debilidades**   | Como una startup emergente, podemos enfrentar desafíos en términos de reconocimiento de marca y alcance de mercado en comparación con competidores establecidos como Cloudbeds y SiteMinder.                                                                                                        | Cloudbeds puede tener tarifas de suscripción más altas en comparación con otras soluciones, lo que puede limitar su atractivo para hoteles con presupuestos ajustados.                                                                             | SiteMinder puede enfrentar desafíos en la retención de clientes debido a la competencia en el mercado de distribución hotelera en línea.                                                                                                                                                                                                             
+ **Oportunidades** | Existe un mercado creciente de hoteles independientes y pequeñas cadenas hoteleras que buscan soluciones integrales y asequibles para mejorar su eficiencia operativa.                                                                                                                              | Cloudbeds puede expandir su alcance a través de asociaciones estratégicas con proveedores de servicios turísticos y organizaciones de la industria.                                                                                                | SiteMinder puede explorar nuevas oportunidades de crecimiento mediante la expansión a mercados emergentes y el desarrollo de características innovadoras para sus clientes.                                                                                                                                                                          
+ **Amenazas**      | La competencia en el mercado de gestión hotelera puede intensificarse, lo que podría dificultar la adquisición de clientes y la retención en el futuro. Además, los cambios en las preferencias del consumidor y las regulaciones gubernamentales pueden afectar la demanda de servicios hoteleros. | Cloudbeds puede enfrentar amenazas de nuevos competidores que ingresan al mercado con soluciones similares pero más económicas. Además, los cambios en la tecnología y la regulación pueden afectar la demanda y la rentabilidad de sus servicios. | SiteMinder puede enfrentar amenazas de la consolidación en la industria hotelera y la competencia de grandes OTAs (agencias de viajes en línea) que ofrecen servicios similares de distribución de habitaciones. Además, los cambios en los algoritmos de búsqueda en línea pueden afectar la visibilidad de los hoteles que utilizan su plataforma. 
 
 ## 2.2. Entrevistas.
 
@@ -508,14 +538,17 @@ Finalmente juntamos todo lo que hemos hecho en este proceso y lo agregamos en un
 
 **Preguntas generales:**
 
-En esta seccion realizamos preguntas simples para tener una demografica e informacion de comportamientos que nos interesan como que browser utiliza o que dispositivos usa.
+En esta seccion realizamos preguntas simples para tener una demografica e informacion de comportamientos que nos
+interesan como que browser utiliza o que dispositivos usa.
 
 1. ¿Cuál es su nombre?
 2. ¿Qué edad tiene?
 3. ¿A qué se dedica?
 4. ¿Que browser y dispositivos usa?
 
-Las siguientes preguntas se realizaron para responder nuestra pregunta ya mencionada en el capitulo anterior: "Los usuarios estarán interesados en nuestra "innovadora" propuesta dado que existen otros productos similares y asimismo, realmente la necesitan?" previo a las entrevistas ya se habian preguntado el distrito de los usuarios para contactarlos.
+Las siguientes preguntas se realizaron para responder nuestra pregunta ya mencionada en el capitulo anterior: "Los
+usuarios estarán interesados en nuestra "innovadora" propuesta dado que existen otros productos similares y asimismo,
+realmente la necesitan?" previo a las entrevistas ya se habian preguntado el distrito de los usuarios para contactarlos.
 
 **Entrevistas usuario segmento (Gestor de Hotel/Hostal)**
 
@@ -524,7 +557,8 @@ Esta seccion de preguntas se enfocan en el punto de vista de los usuarios de seg
 1. Que opiniones tiene respecto a la digitalizacion de los sitemas de gestion en hoteles o modelos de negocio parecidos?
 2. ¿Como le hace saber a los empleados que tareas deben hacer?
 3. ¿Como manejan el inventario de productos que utilizan tanto para limpieza como para los cuartos?
-4. ¿En su opinion cree que se mantiene una comunicacion constante y efectiva entre los gerentes/supervisores y los empleados?
+4. ¿En su opinion cree que se mantiene una comunicacion constante y efectiva entre los gerentes/supervisores y los
+   empleados?
 5. ¿Que frustraciones y objetivos/motivaciones tiene en su area laboral?
 
 **Entrevistas usuario segmento (Empleado de Hotel/Hostal)**
@@ -575,10 +609,15 @@ Distrito: Jesus Maria
 Timing: 
 <br>
 
-![Imagen de entrevistaS2.2](assets/interviewsimages/EntrevistaES2.png) 
+![Imagen de entrevistaS2.2](assets/interviewsimages/EntrevistaES2.png)
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETIBRYdwzYtAliQA0IkQx1cBurdKw6YSE4nBrVncTpjaAQ?e=0bhNc0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.5]</a> <br>  
 
-Esau comenta respecto a como **siente** que su espacio laboral es bueno pero que al momento de comunicarse debe de moverse en el hotel para encontrar a sus supervisores y otros compañeros, asimismo de como **necesitan** whatsapp para que se les entreguen sus tareas. Ademas de como para avisarle a su gerente **necesita** de mandarle un mensaje de whatsapp o correo. El piensa que **whatsapp es un sistema que es propenso a *enredarse*** ya que todos hablan por un solo canal. Finalizando la entrevista nos comenta de como **siente** que entre sus compañeros se generan **frustraciones** de por donde empezar sus tareas y que de **objetivo** tiene el realizar un trabajo optimo.
+Esau comenta respecto a como **siente** que su espacio laboral es bueno pero que al momento de comunicarse debe de
+moverse en el hotel para encontrar a sus supervisores y otros compañeros, asimismo de como **necesitan** whatsapp para
+que se les entreguen sus tareas. Ademas de como para avisarle a su gerente **necesita** de mandarle un mensaje de
+whatsapp o correo. El piensa que **whatsapp es un sistema que es propenso a *enredarse*** ya que todos hablan por un
+solo canal. Finalizando la entrevista nos comenta de como **siente** que entre sus compañeros se generan **frustraciones
+** de por donde empezar sus tareas y que de **objetivo** tiene el realizar un trabajo optimo.
 
 ---
 
@@ -619,10 +658,18 @@ Distritos: Magdalena
 Timing: 
 <br>
 
-![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaS2P.png)  
+![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaS2P.png)
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/Eci9Xsp-rVtEpOCoNQlvoGcBwGQ6voPj_b6TV2gAkXapcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=y7vQaU"> Url entrevista [Anexo 2.2.1.1]</a> <br>
 
-Elisa nos da su opinion respecto a la digitalizacion mencionando que es **necesaria**, mencionando que es importante mantener un sistema desde el huesped al software que integre todo, tambien dice como un **obstaculo** que en hoteles pequeños estos softwares son poco accesibles economicamente. Nos menciona que hay varias areas supervizadas por jefes donde se **quiere** digitalizar el proceso donde organizar las funcionalidades del dia a dia. Adicionalmente cuenta como no existe un inventario de productos digitalizado, manipulan todo lo relacionado de forma manual, menciona que le **gustaria** un software que se encarge de hacer eso. Asimismo relata de la falta de una linea de comunicacion directa con los empleados y como siente que se **necesita** que este deberia ser accesible desde el celular. Finalizando la entrevista menciona como **quisiera** sistematizar y digitalizar los procesos de gestion y que es una **frustracion** respecto a como los gastos de servicio realizan que se vuelva dificil el adquirir estos sistemas.
+Elisa nos da su opinion respecto a la digitalizacion mencionando que es **necesaria**, mencionando que es importante
+mantener un sistema desde el huesped al software que integre todo, tambien dice como un **obstaculo** que en hoteles
+pequeños estos softwares son poco accesibles economicamente. Nos menciona que hay varias areas supervizadas por jefes
+donde se **quiere** digitalizar el proceso donde organizar las funcionalidades del dia a dia. Adicionalmente cuenta como
+no existe un inventario de productos digitalizado, manipulan todo lo relacionado de forma manual, menciona que le *
+*gustaria** un software que se encarge de hacer eso. Asimismo relata de la falta de una linea de comunicacion directa
+con los empleados y como siente que se **necesita** que este deberia ser accesible desde el celular. Finalizando la
+entrevista menciona como **quisiera** sistematizar y digitalizar los procesos de gestion y que es una **frustracion**
+respecto a como los gastos de servicio realizan que se vuelva dificil el adquirir estos sistemas.
 
 ---
 
@@ -641,11 +688,21 @@ Distrito: Distrito de Trujillo, Trujillo
 Timing: 
 <br>
 
-![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaCatalina.png)  
+![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaCatalina.png)
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/Ef4Ze3ZRF69HvFOvKfLItfkBK0acikKuHuZnMlg5bXvq5g?e=FxDvdB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.2]</a> <br>
 <br>
 
-Catalina nos comparte que considera que la digitalizacion de los sistemas de gestion serian **recibidos correctamente**, mencionando que se utilizaria para las **necesidades** de la busqueda, edicion y gestion de reservas y servicios. Menciona que se **asignan tareas dependiendo del tipo de empleado** en una reunion antes de una jornada laboral. Relata de como utilizan un excel para su gestion de items y menciona que le **gustaria** mejorarlo debido a que necesita que sus **datos se puedan ingresar, retirar y buscar** sin necesidad de saber mucho de excel. Finalmente nos menciona que **no siente** que existe una comunicacion fluida ya que **necesita ir hasta areas dedicadas como al area de mantenimiento para solicitar equipo necesario** o si existe un cambio de tareas **necesita** de avisar al empleado presencialmente mencionando como le **gustaria** implementar ese tiempo en otras tareas. Terminando la entrevista nos comenta sus **frustraciones con la comunicacion y administracion de datos** que tiene y de sus **objetivos** menciona como quiere superar y mejorar estos problemas y brindar un servicio mas completo para evitar inconvenientes al cliente ya que estos problemas segun nos cuenta son constantes.
+Catalina nos comparte que considera que la digitalizacion de los sistemas de gestion serian **recibidos correctamente**,
+mencionando que se utilizaria para las **necesidades** de la busqueda, edicion y gestion de reservas y servicios.
+Menciona que se **asignan tareas dependiendo del tipo de empleado** en una reunion antes de una jornada laboral. Relata
+de como utilizan un excel para su gestion de items y menciona que le **gustaria** mejorarlo debido a que necesita que
+sus **datos se puedan ingresar, retirar y buscar** sin necesidad de saber mucho de excel. Finalmente nos menciona que *
+*no siente** que existe una comunicacion fluida ya que **necesita ir hasta areas dedicadas como al area de mantenimiento
+para solicitar equipo necesario** o si existe un cambio de tareas **necesita** de avisar al empleado presencialmente
+mencionando como le **gustaria** implementar ese tiempo en otras tareas. Terminando la entrevista nos comenta sus *
+*frustraciones con la comunicacion y administracion de datos** que tiene y de sus **objetivos** menciona como quiere
+superar y mejorar estos problemas y brindar un servicio mas completo para evitar inconvenientes al cliente ya que estos
+problemas segun nos cuenta son constantes.
 
 ---
 
@@ -668,41 +725,59 @@ Timing:
 <a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ET8_u1p88ApJt2fvshZRbcAB2CEChNVgjXxNuPbqCmw1SA?e=xCeIhO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.3]</a> <br>
 <br>
 
-Ariana cuenta que ella y su equipo cuentan con sistemas de gestion de inventario, para dar horarios y sus tareas. Respecto a la digitalizacion, menciona que los procesos empresariales se vuelven menos tediosos gracias al poder **gestionar mas en menos tiempo**. menciona que, en el sistema que tienen se asignan las tareas a sus empleados, **cada empleado sabe que hacer al dia y al finalizar el dia se revisa si se cumplieron estas tareas**. Comparte que en su analisis de inventario se organizan sabiendo **cuantos items tienen, cuando llegaron y cuanto pedir a sus proveedores diariamente**. Intentan de mantener la comunicacion por charlas y conferencias para los trabajadores de la empresa. **Necesitan** que la relacion con el trabajador sea buena para que la eficiencia de estos aumente. Menciona que las **frustraciones** que tiene se originan por un **proceso no cumplido en el dia**, intenta que los procesos esten realizados. Comenta que sus **objetivos** son proporcionar al usuario con la mejor atencion.
+Ariana cuenta que ella y su equipo cuentan con sistemas de gestion de inventario, para dar horarios y sus tareas.
+Respecto a la digitalizacion, menciona que los procesos empresariales se vuelven menos tediosos gracias al poder *
+*gestionar mas en menos tiempo**. menciona que, en el sistema que tienen se asignan las tareas a sus empleados, **cada
+empleado sabe que hacer al dia y al finalizar el dia se revisa si se cumplieron estas tareas**. Comparte que en su
+analisis de inventario se organizan sabiendo **cuantos items tienen, cuando llegaron y cuanto pedir a sus proveedores
+diariamente**. Intentan de mantener la comunicacion por charlas y conferencias para los trabajadores de la empresa. *
+*Necesitan** que la relacion con el trabajador sea buena para que la eficiencia de estos aumente. Menciona que las *
+*frustraciones** que tiene se originan por un **proceso no cumplido en el dia**, intenta que los procesos esten
+realizados. Comenta que sus **objetivos** son proporcionar al usuario con la mejor atencion.
 
 ---
-
 
 ### 2.2.3. Análisis de entrevistas.
 
 **Segmento 1: (Empleados):**
 
 Estadisticas y Aspectos comunes:
-En las entrevistas realizadas encontramos que 67% del segmento utiliza el browser de google, asimismo se muestra que todos los entrevistados usan WhatsApp para su comunicacion, adicionalmente el 100% de los entrevistados mencionan almenos una discomformidad con la comunicacion que se mantiene con sus superiores. Observamos que piensan en sus demas colegas del area laboral.
+En las entrevistas realizadas encontramos que 67% del segmento utiliza el browser de google, asimismo se muestra que
+todos los entrevistados usan WhatsApp para su comunicacion, adicionalmente el 100% de los entrevistados mencionan
+almenos una discomformidad con la comunicacion que se mantiene con sus superiores. Observamos que piensan en sus demas
+colegas del area laboral.
 
 Caracteristicas Objetivas:
-Se requiere un sistema de comunicacion para este segmento, hay una necesidad en saber que hacer solicitando una entrega de tareas o avisos si es que estas cambian, discomformidad con sistemas lentos. Hacer más, con menos. todos utilizan dispositivos moviles.
+Se requiere un sistema de comunicacion para este segmento, hay una necesidad en saber que hacer solicitando una entrega
+de tareas o avisos si es que estas cambian, discomformidad con sistemas lentos. Hacer más, con menos. todos utilizan
+dispositivos moviles.
 
 Caracteristicas Subjetivas:
-Todos los entrevistados tienen una fuerte opinion respecto a la comunicacion como un problema comun, seguido de la falta de servicios actualizados o la falta total de estos que afecta su eficiencia. Todos estan de acuerdo con un cambio parecido al que estaremos desarollando satisfaciendo nuestro supuesto mas importante por el lado del segmento 1.
+Todos los entrevistados tienen una fuerte opinion respecto a la comunicacion como un problema comun, seguido de la falta
+de servicios actualizados o la falta total de estos que afecta su eficiencia. Todos estan de acuerdo con un cambio
+parecido al que estaremos desarollando satisfaciendo nuestro supuesto mas importante por el lado del segmento 1.
 
 **Segmento 2: (Gerentes)**
 Estadisticas y Aspectos comunes:
-En las entrevistas realizadas solo un 33% de los entrevistados cuenta con un software el cual no presenta problemas. Adicionalmente 100% de los entrevistados creen que es necesario que se puedan realizar las tareas de gestion en un entorno digital.
+En las entrevistas realizadas solo un 33% de los entrevistados cuenta con un software el cual no presenta problemas.
+Adicionalmente 100% de los entrevistados creen que es necesario que se puedan realizar las tareas de gestion en un
+entorno digital.
 
 Caracteristicas Objetivas:
-La implementacion de un sistema de datos el cual pueda agregar, eliminar y actualizar se mantiene como una necesidad entre los 3 el poder asignar tareas para el dia.
+La implementacion de un sistema de datos el cual pueda agregar, eliminar y actualizar se mantiene como una necesidad
+entre los 3 el poder asignar tareas para el dia.
 Caracteristicas Subjetivas:
-Todos los entrevistados opinan que la digitalizacion efectua un impacto positivo en su modelo y algunos hasta lo implementan. Aun asi un entrevistado menciona como existe una falta de accesibilidad para este tipo de negocios en estados emergentes. 
+Todos los entrevistados opinan que la digitalizacion efectua un impacto positivo en su modelo y algunos hasta lo
+implementan. Aun asi un entrevistado menciona como existe una falta de accesibilidad para este tipo de negocios en
+estados emergentes.
 
 Con esta informacion estamos sustentando los supuestos por el lado del segmento 2 y segmento 1
-
 
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
 
-**Segmento 1:**  
+**Segmento 1:**
 <br/> 
 <img src="assets/user-personas/user-persona-segmento-2.png" style="width:100%"> 
 
@@ -713,30 +788,19 @@ Con esta informacion estamos sustentando los supuestos por el lado del segmento 
 ---
 
 ### 2.3.2. User Task Matrix.
-|| Segmento 1 | Empleado | Segmento 2 | Gestor |
-|-------------|-----------|-----------|-----------|--------|
-| Titulo      | Importancia | Frecuencia | Importancia | Frecuencia |
-| Dar a conocer que una habitación está libre | Alta | Media | Alta | Baja |
-| Asignar tareas a los empleados | Alta | Baja | Alta | Alta |
-| Avisar al gestor que se requiere algún ítem para una tarea | Alta | Media | Baja | Media |
-| Avisar de cambios de tareas a otros empleados | Alta | Media | Alta | Alta |
-| Registrar ítems en el inventario | Alta | Media | Alta | Alta |
-| Solicitar pedidos de ítems específicos | Alta | Baja | Alta | Alta |
-| Revisar que los empleados realizaron sus tareas | Alta | Media | Alta | Alta |
-| Programar las tareas del día o semana | Baja | Baja | Alta | Alta |
-| Reportarse con el gestor | Alta | Alta | Media | Media |
 
-
-
-
-
-
-
-
-
-
-
-
+|                                                            | Segmento 1  | Empleado   | Segmento 2  | Gestor     |
+|------------------------------------------------------------|-------------|------------|-------------|------------|
+| Titulo                                                     | Importancia | Frecuencia | Importancia | Frecuencia |
+| Dar a conocer que una habitación está libre                | Alta        | Media      | Alta        | Baja       |
+| Asignar tareas a los empleados                             | Alta        | Baja       | Alta        | Alta       |
+| Avisar al gestor que se requiere algún ítem para una tarea | Alta        | Media      | Baja        | Media      |
+| Avisar de cambios de tareas a otros empleados              | Alta        | Media      | Alta        | Alta       |
+| Registrar ítems en el inventario                           | Alta        | Media      | Alta        | Alta       |
+| Solicitar pedidos de ítems específicos                     | Alta        | Baja       | Alta        | Alta       |
+| Revisar que los empleados realizaron sus tareas            | Alta        | Media      | Alta        | Alta       |
+| Programar las tareas del día o semana                      | Baja        | Baja       | Alta        | Alta       |
+| Reportarse con el gestor                                   | Alta        | Alta       | Media       | Media      |
 
 ### 2.3.3. User Journey Mapping.
 
@@ -787,28 +851,28 @@ Bad:
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
-Escenario: supervisor quiere revisar el estado de los cuartos y darles sus tareas a los empleados mientras tambien debe de revisar el inventario.
+Escenario: supervisor quiere revisar el estado de los cuartos y darles sus tareas a los empleados mientras tambien debe
+de revisar el inventario.
 
 As Is:
 
-
-| Fases     |       |       |        |    |
-|----------|----------------|------|---------|-----|
-| Doing          | Verificando el estado actual de los cuartos | Revisando el inventario de elementos de limpieza y toallas | Asignando tareas al personal de limpieza | Comunicándose con el personal para coordinar las tareas |
-| Thinking       | Reflexionando sobre la disponibilidad de los cuartos para nuevos clientes | Evaluando la cantidad de elementos de limpieza y toallas disponibles | Considerando la carga de trabajo del personal de limpieza | Pensando en cómo mejorar la comunicación con el personal |
-| Feeling        | Preocupado por la disponibilidad de cuartos para nuevos clientes | Preocupado por la cantidad de elementos de limpieza y toallas disponibles | Ansioso por asignar tareas de manera efectiva al personal | Frustrado por la falta de una comunicación eficiente con el personal |
+| Fases    |                                                                           |                                                                           |                                                           |                                                                      |
+|----------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|
+| Doing    | Verificando el estado actual de los cuartos                               | Revisando el inventario de elementos de limpieza y toallas                | Asignando tareas al personal de limpieza                  | Comunicándose con el personal para coordinar las tareas              |
+| Thinking | Reflexionando sobre la disponibilidad de los cuartos para nuevos clientes | Evaluando la cantidad de elementos de limpieza y toallas disponibles      | Considerando la carga de trabajo del personal de limpieza | Pensando en cómo mejorar la comunicación con el personal             |
+| Feeling  | Preocupado por la disponibilidad de cuartos para nuevos clientes          | Preocupado por la cantidad de elementos de limpieza y toallas disponibles | Ansioso por asignar tareas de manera efectiva al personal | Frustrado por la falta de una comunicación eficiente con el personal |
 
 **Segmento 2**  
-Escenario: Empleado realiza sus actividades y desea hacerle saber al supervisor que ya termino o si este le puede dar mas tareas.
-
+Escenario: Empleado realiza sus actividades y desea hacerle saber al supervisor que ya termino o si este le puede dar
+mas tareas.
 
 As Is:
 
-| Fases     |       |       |        |    |
-|----------|----------------|------|---------|-----|
-| Doing          | Realizando tareas de limpieza asignadas | Notificando al supervisor cuando terminan las tareas de limpieza | Verificando el stock de elementos de limpieza y toallas | Comunicándose con el supervisor sobre cualquier problema |
-| Thinking       | Reflexionando sobre la eficacia de las tareas de limpieza | Evaluando la necesidad de reabastecer elementos de limpieza y toallas | Considerando cómo mejorar la comunicación con el supervisor | Pensando en soluciones para mejorar el proceso de limpieza |
-| Feeling        | Comprometido con la calidad de las tareas de limpieza realizadas | Satisfecho al completar las tareas de limpieza asignadas | Preocupado por la disponibilidad de elementos de limpieza y toallas | Interesado en mejorar la comunicación y colaboración con el supervisor |
+| Fases    |                                                                  |                                                                       |                                                                     |                                                                        |
+|----------|------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------|
+| Doing    | Realizando tareas de limpieza asignadas                          | Notificando al supervisor cuando terminan las tareas de limpieza      | Verificando el stock de elementos de limpieza y toallas             | Comunicándose con el supervisor sobre cualquier problema               |
+| Thinking | Reflexionando sobre la eficacia de las tareas de limpieza        | Evaluando la necesidad de reabastecer elementos de limpieza y toallas | Considerando cómo mejorar la comunicación con el supervisor         | Pensando en soluciones para mejorar el proceso de limpieza             |
+| Feeling  | Comprometido con la calidad de las tareas de limpieza realizadas | Satisfecho al completar las tareas de limpieza asignadas              | Preocupado por la disponibilidad de elementos de limpieza y toallas | Interesado en mejorar la comunicación y colaboración con el supervisor |
 
 ## 2.4. Ubiquitous Language.
 
@@ -838,56 +902,54 @@ Provider: Los providers se van a proporcionar como un atributo de los items para
 
 Segmento 1:
 
-| Fases          |                        |              |                  |                  |
-|----------------|------------------------|--------------|------------------|------------------|
-| Doing          | Utilizando la herramienta web para verificar el estado de los cuartos y el inventario | Asignando tareas al personal de limpieza a través de la plataforma | Monitoreando el progreso del personal y comunicándose directamente con ellos | Revisando las sugerencias de mejora proporcionadas por la herramienta |
-| Thinking       | Considerando cómo optimizar la asignación de tareas y la gestión del inventario con la herramienta | Evaluando la eficacia de la comunicación y supervisión a través de la plataforma | Reflexionando sobre las mejoras implementadas y la efectividad de la herramienta | Identificando nuevas oportunidades de mejora en la gestión de habitaciones y stock |
-| Feeling        | Satisfecho con la eficiencia y precisión en la gestión de cuartos e inventario | Valorando la comunicación directa y efectiva con el personal | Motivado por las mejoras implementadas y el impacto positivo en la operación | Esperanzado por las nuevas oportunidades de mejora identificadas |
-
+| Fases    |                                                                                                    |                                                                                  |                                                                                  |                                                                                    |
+|----------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| Doing    | Utilizando la herramienta web para verificar el estado de los cuartos y el inventario              | Asignando tareas al personal de limpieza a través de la plataforma               | Monitoreando el progreso del personal y comunicándose directamente con ellos     | Revisando las sugerencias de mejora proporcionadas por la herramienta              |
+| Thinking | Considerando cómo optimizar la asignación de tareas y la gestión del inventario con la herramienta | Evaluando la eficacia de la comunicación y supervisión a través de la plataforma | Reflexionando sobre las mejoras implementadas y la efectividad de la herramienta | Identificando nuevas oportunidades de mejora en la gestión de habitaciones y stock |
+| Feeling  | Satisfecho con la eficiencia y precisión en la gestión de cuartos e inventario                     | Valorando la comunicación directa y efectiva con el personal                     | Motivado por las mejoras implementadas y el impacto positivo en la operación     | Esperanzado por las nuevas oportunidades de mejora identificadas                   |
 
 Segmento 2:
 
-| Fases          |                        |              |                  |                  |
-|----------------|------------------------|--------------|------------------|------------------|
-| Doing          | Utilizando la herramienta web para recibir y completar tareas asignadas | Notificando al supervisor a través de la plataforma cuando las tareas están completas | Actualizando el estado del stock de elementos de limpieza y toallas en la herramienta | Comunicándose con el supervisor a través de la plataforma sobre cualquier problema o solicitud |
-| Thinking       | Reflexionando sobre la eficacia de las tareas asignadas y la comunicación con el supervisor | Evaluando la necesidad de mejorar la gestión de tareas y la comunicación con la herramienta | Considerando cómo mejorar la eficiencia en la gestión de inventario y comunicación | Pensando en soluciones para optimizar el proceso de trabajo y la colaboración con el supervisor |
-| Feeling        | Comprometido con la calidad y eficiencia en la ejecución de tareas asignadas | Satisfecho al completar las tareas de manera efectiva y comunicarlas al supervisor | Preocupado por la disponibilidad y gestión adecuada del inventario | Interesado en mejorar la comunicación y colaboración con el supervisor a través de la herramienta |
-
+| Fases    |                                                                                             |                                                                                             |                                                                                       |                                                                                                   |
+|----------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Doing    | Utilizando la herramienta web para recibir y completar tareas asignadas                     | Notificando al supervisor a través de la plataforma cuando las tareas están completas       | Actualizando el estado del stock de elementos de limpieza y toallas en la herramienta | Comunicándose con el supervisor a través de la plataforma sobre cualquier problema o solicitud    |
+| Thinking | Reflexionando sobre la eficacia de las tareas asignadas y la comunicación con el supervisor | Evaluando la necesidad de mejorar la gestión de tareas y la comunicación con la herramienta | Considerando cómo mejorar la eficiencia en la gestión de inventario y comunicación    | Pensando en soluciones para optimizar el proceso de trabajo y la colaboración con el supervisor   |
+| Feeling  | Comprometido con la calidad y eficiencia en la ejecución de tareas asignadas                | Satisfecho al completar las tareas de manera efectiva y comunicarlas al supervisor          | Preocupado por la disponibilidad y gestión adecuada del inventario                    | Interesado en mejorar la comunicación y colaboración con el supervisor a través de la herramienta |
 
 ## 3.2. User Stories.
 
-| HUX  | Historia de Usuario   | Descripción     | Criterios de Aceptación                                                                                                                                                                                                                                                                                     | Relacionado con (Epic ID) |
-|------|-----------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------| ---------------------------------------------------------------------------------------------------------------|
-| EP01 |   Información del producto   | Como visitante del sitio web, quiero obtener información relacionada al producto que se ofrece.  | Given estoy intersado en el producto <br> When ingreso al sitio web  <br> Then observo la informacion del producto que se esta ofreciendo <br> And tengo una mejor vision de que va la empresa <br> And obtengo informacion util.|  | 
-| HU01 |  Conseguir informacion de la empresa   | Como visitante del sitio web, quiero obtener más información sobre la empresa a cargo del producto.    | Given estoy interesado en conocer informacion de la empresa <br> When navego en la seccion principal del sitio web <br> Then observo la informacion relevante sobre la empresa <br> And me intereso en saber más del producto  | EP01 | 
-| HU02 |  Informarse sobre los beneficios del producto                  | Como visitante del sitio web, quiero informarme sobre los beneficios del producto ofrecido.    | Given que se han establecido umbrales de inventario y preferencias de notificación <br> When los niveles de inventario caen por debajo de los umbrales establecidos <br> Then se envían notificaciones automáticas <br> And las notificaciones incluyen detalles sobre los suministros con bajo inventario. | EP01 |
-| HU03 |   Conocer los testimonios de los clientes pasados     | Como gerente, quiero generar informes de desempeño del personal [revisar en grupo] Para evaluar el rendimiento de los empleados y tomar decisiones basadas en datos.                            | Given que existe una opción para generar informes de desempeño <br> When selecciono el período de tiempo y los criterios de filtro <br> Then se generan informes que incluyen métricas relevantes <br> And puedo filtrar los informes por departamento o empleado.                                          |  EP01 |
-| HU04 | Informarse sobre los diferentes planes de precio del producto | Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones.                                          | Given que hay una lista de habitaciones disponibles <br> When la lista se actualiza automáticamente en tiempo real <br> Then puedo ver el estado de cada habitación ocupada <br> And puedo acceder a detalles adicionales de cada habitación.                                                               |  EP01 |
-| HU05 | Contactar con la empresa                      | Como gerente, quiero ver el estado de las habitaciones para poder revisar si están listas para su uso después del proceso de limpieza.                             | Given que hay una lista de habitaciones disponibles <br> When reviso el estado de una habitación <br> Then puedo ver si está lista para su uso <br> And puedo ver detalles sobre el proceso de limpieza.programada.                                                        | EP01 |
-| EP02 |   Crear cuenta       |Como gerente del hotel/hostal quiero crear una cuenta para utilizar InnControl (aplicacion)                                    |  Given que para ingresar debo loguearme o crear una cuenta <br> When ingrese mis datos como correo, nombre de hotel, habitaciones y numero de empleados <br> Then se me presentara con el plan que se acomoda mejor a las necesidades del negocio <br> And realizo el pago.       | - |
-| HU01 | Crear cuenta empleado | Como empleado quiero que se me de mi codigo de gerente para crear mi cuenta de empleado.                                                | Given que cuando el gerente crea una cuenta se le da una clave de gerente <br> When creo mi cuenta empleado <br> And ingreso el codigo de gerente <br> And Ingreso mis datos <br> Then se me mostrara un mensaje de bienvenida <br> And se mostrara mi dashboard de empleado.                                                                      | EP02
-| HU02 | Crear cuenta gerente                   | Como gerente, quiero crear mi cuenta de gerente para poder darles mi codigo de gerente a mis empleados.                                                      | Given que cuando se paga el plan me solicitan crear una clave de gerente <br> When realizo los procesos de autenticacion <br> Then se mostrara el codigo para compartirselo a mis empleados <br> And les permitira crear sus cuentas. personal.                                                                                            | EP02|
-| EP03 | Gestionar Habitaciones del Hotel             | Como gerente, quiero poder revisar el estado de las habitaciones      | Given que existen habitaciones ya generadas <br> When reviso la seccion de Habitaciones <br> And reviso las habitaciones en su pagina <br> Then puedo ver los estados, reservaciones, el tipo de habitacion, el numero de habitacion y el cliente <br> And se me muestra tambien un boton para cambiar el estado y otro para crear habitaciones                                                                          |-
-| HU01 | Cambiar estado de habitacion                  | Como gerente, quiero realizar un cambio al estado de la habitacion                                                        | Given que hay un boton para cambiar el estado de habitacion <br> When uso el boton <br> And selecciono uno de los estados en el popup <br> Then el estado de habitacion en la tabla se actualiza |EP03  
-| HU02 | Cambiar estado de habitacion            | Como empleado, cambiar el estado de la habitacion de mi tarea para notificar que ya termine mi tarea                          | Given que mis tareas muestran las habitaciones asignadas <br> When termino con mi tarea <br> Then uso el boton para cambiar el estado de habitacion <br> And se manda un aviso al gestor de mis tareas.                                                                                   | EP03
-| HU03 | Crear habitaciones                    | Como gerente | Poner el Gherkin                                                                      |
-| EP03 | Gestionar Inventario   | Como gestor,                                       | Given <br> When  <br> Then <br> And .                                                                                       | -
-| HU01 | Crear Item            | Como gestor.   | Given <br> When  <br> Then <br> And| EP03
-| HU02 | Actualizar Item                            | Como gestor,                                 | Given <br> When  <br> Then <br> And                                                                                                  | EP03 
-| HU03 | Eliminar Item                            | Como gestor,                                 | Given <br> When  <br> Then <br> And                                                                                                  | EP03
-| HU04 | Actualizar Item                            | Como empleado,                                 | Given <br> When  <br> Then <br> And                                                                                                  | EP03
-| EP04 | Gestionar Tareas                            | Como Gerente,                                 | Given <br> When  <br> Then <br> And                                                                                                  | -
-| HU01 | Crear Tarea                            | Como gerente,                                 | Given <br> When  <br> Then <br> And                                                                                                  | EP04
-| HU02 | Finalizar Tarea                            | Como empleado,                                 | Given <br> When  <br> Then <br> And                                                                                                  | EP04
-| HU03 | Eliminar Tarea                            | Como gerente,                                 | Given <br> When  <br> Then <br> And                                                                                                  | EP04
-| HU04 | Asignar/Editar Tarea                            | Como gerente,                                 | Given <br> When  <br> Then <br> And                                                                                                  | EP04
-| EP05 | Gestionar Mensajes                            | Como gerente,                                 | Given <br> When  <br> Then <br> And                                                                                                  | -
-| HU01 | Crear Mensaje                            | Como gerente,                                 | Given <br> When  <br> Then <br> And                                                                                                  | EP05
-| HU02 | Crear Mensaje                            | Como empleado,                                 | Given <br> When  <br> Then <br> And                                                                                                  | EP05
-| HU03 | Revisar Mensaje                            | Como gerente,                                 | Given <br> When  <br> Then <br> And                                                                                                  | EP05
-| HU04 | Revisar Mensaje                            | Como Empleado,                                 | Given <br> When  <br> Then <br> And                                                                                                  | EP05
-| HU05 | Eliminar Mensaje                            | Como gerente,                                 | Given <br> When  <br> Then <br> And                                                                                                  | EP05
-| HU06 | Eliminar Mensaje                            | Como Empleado,                                 | Given <br> When  <br> Then <br> And                                                                                                  | EP05
+| HUX  | Historia de Usuario                                           | Descripción                                                                                                                                                          | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                         | Relacionado con (Epic ID) |
+|------|---------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
+| EP01 | Información del producto                                      | Como visitante del sitio web, quiero obtener información relacionada al producto que se ofrece.                                                                      | Given estoy intersado en el producto <br> When ingreso al sitio web  <br> Then observo la informacion del producto que se esta ofreciendo <br> And tengo una mejor vision de que va la empresa <br> And obtengo informacion util.                                                                                                               |                           | 
+| HU01 | Conseguir informacion de la empresa                           | Como visitante del sitio web, quiero obtener más información sobre la empresa a cargo del producto.                                                                  | Given estoy interesado en conocer informacion de la empresa <br> When navego en la seccion principal del sitio web <br> Then observo la informacion relevante sobre la empresa <br> And me intereso en saber más del producto                                                                                                                   | EP01                      | 
+| HU02 | Informarse sobre los beneficios del producto                  | Como visitante del sitio web, quiero informarme sobre los beneficios del producto ofrecido.                                                                          | Given que se han establecido umbrales de inventario y preferencias de notificación <br> When los niveles de inventario caen por debajo de los umbrales establecidos <br> Then se envían notificaciones automáticas <br> And las notificaciones incluyen detalles sobre los suministros con bajo inventario.                                     | EP01                      |
+| HU03 | Conocer los testimonios de los clientes pasados               | Como gerente, quiero generar informes de desempeño del personal [revisar en grupo] Para evaluar el rendimiento de los empleados y tomar decisiones basadas en datos. | Given que existe una opción para generar informes de desempeño <br> When selecciono el período de tiempo y los criterios de filtro <br> Then se generan informes que incluyen métricas relevantes <br> And puedo filtrar los informes por departamento o empleado.                                                                              | EP01                      |
+| HU04 | Informarse sobre los diferentes planes de precio del producto | Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones.               | Given que hay una lista de habitaciones disponibles <br> When la lista se actualiza automáticamente en tiempo real <br> Then puedo ver el estado de cada habitación ocupada <br> And puedo acceder a detalles adicionales de cada habitación.                                                                                                   | EP01                      |
+| HU05 | Contactar con la empresa                                      | Como gerente, quiero ver el estado de las habitaciones para poder revisar si están listas para su uso después del proceso de limpieza.                               | Given que hay una lista de habitaciones disponibles <br> When reviso el estado de una habitación <br> Then puedo ver si está lista para su uso <br> And puedo ver detalles sobre el proceso de limpieza.programada.                                                                                                                             | EP01                      |
+| EP02 | Crear cuenta                                                  | Como gerente del hotel/hostal quiero crear una cuenta para utilizar InnControl (aplicacion)                                                                          | Given que para ingresar debo loguearme o crear una cuenta <br> When ingrese mis datos como correo, nombre de hotel, habitaciones y numero de empleados <br> Then se me presentara con el plan que se acomoda mejor a las necesidades del negocio <br> And realizo el pago.                                                                      | -                         |
+| HU01 | Crear cuenta empleado                                         | Como empleado quiero que se me de mi codigo de gerente para crear mi cuenta de empleado.                                                                             | Given que cuando el gerente crea una cuenta se le da una clave de gerente <br> When creo mi cuenta empleado <br> And ingreso el codigo de gerente <br> And Ingreso mis datos <br> Then se me mostrara un mensaje de bienvenida <br> And se mostrara mi dashboard de empleado.                                                                   | EP02                      
+| HU02 | Crear cuenta gerente                                          | Como gerente, quiero crear mi cuenta de gerente para poder darles mi codigo de gerente a mis empleados.                                                              | Given que cuando se paga el plan me solicitan crear una clave de gerente <br> When realizo los procesos de autenticacion <br> Then se mostrara el codigo para compartirselo a mis empleados <br> And les permitira crear sus cuentas. personal.                                                                                                 | EP02                      |
+| EP03 | Gestionar Habitaciones del Hotel                              | Como gerente, quiero poder revisar el estado de las habitaciones                                                                                                     | Given que existen habitaciones ya generadas <br> When reviso la seccion de Habitaciones <br> And reviso las habitaciones en su pagina <br> Then puedo ver los estados, reservaciones, el tipo de habitacion, el numero de habitacion y el cliente <br> And se me muestra tambien un boton para cambiar el estado y otro para crear habitaciones | -                         
+| HU01 | Cambiar estado de habitacion                                  | Como gerente, quiero realizar un cambio al estado de la habitacion                                                                                                   | Given que hay un boton para cambiar el estado de habitacion <br> When uso el boton <br> And selecciono uno de los estados en el popup <br> Then el estado de habitacion en la tabla se actualiza                                                                                                                                                | EP03                      
+| HU02 | Cambiar estado de habitacion                                  | Como empleado, cambiar el estado de la habitacion de mi tarea para notificar que ya termine mi tarea                                                                 | Given que mis tareas muestran las habitaciones asignadas <br> When termino con mi tarea <br> Then uso el boton para cambiar el estado de habitacion <br> And se manda un aviso al gestor de mis tareas.                                                                                                                                         | EP03                      
+| HU03 | Crear habitaciones                                            | Como gerente                                                                                                                                                         | Poner el Gherkin                                                                                                                                                                                                                                                                                                                                |
+| EP03 | Gestionar Inventario                                          | Como gestor,                                                                                                                                                         | Given <br> When  <br> Then <br> And .                                                                                                                                                                                                                                                                                                           | -                         
+| HU01 | Crear Item                                                    | Como gestor.                                                                                                                                                         | Given <br> When  <br> Then <br> And                                                                                                                                                                                                                                                                                                             | EP03                      
+| HU02 | Actualizar Item                                               | Como gestor,                                                                                                                                                         | Given <br> When  <br> Then <br> And                                                                                                                                                                                                                                                                                                             | EP03                      
+| HU03 | Eliminar Item                                                 | Como gestor,                                                                                                                                                         | Given <br> When  <br> Then <br> And                                                                                                                                                                                                                                                                                                             | EP03                      
+| HU04 | Actualizar Item                                               | Como empleado,                                                                                                                                                       | Given <br> When  <br> Then <br> And                                                                                                                                                                                                                                                                                                             | EP03                      
+| EP04 | Gestionar Tareas                                              | Como Gerente,                                                                                                                                                        | Given <br> When  <br> Then <br> And                                                                                                                                                                                                                                                                                                             | -                         
+| HU01 | Crear Tarea                                                   | Como gerente,                                                                                                                                                        | Given <br> When  <br> Then <br> And                                                                                                                                                                                                                                                                                                             | EP04                      
+| HU02 | Finalizar Tarea                                               | Como empleado,                                                                                                                                                       | Given <br> When  <br> Then <br> And                                                                                                                                                                                                                                                                                                             | EP04                      
+| HU03 | Eliminar Tarea                                                | Como gerente,                                                                                                                                                        | Given <br> When  <br> Then <br> And                                                                                                                                                                                                                                                                                                             | EP04                      
+| HU04 | Asignar/Editar Tarea                                          | Como gerente,                                                                                                                                                        | Given <br> When  <br> Then <br> And                                                                                                                                                                                                                                                                                                             | EP04                      
+| EP05 | Gestionar Mensajes                                            | Como gerente,                                                                                                                                                        | Given <br> When  <br> Then <br> And                                                                                                                                                                                                                                                                                                             | -                         
+| HU01 | Crear Mensaje                                                 | Como gerente,                                                                                                                                                        | Given <br> When  <br> Then <br> And                                                                                                                                                                                                                                                                                                             | EP05                      
+| HU02 | Crear Mensaje                                                 | Como empleado,                                                                                                                                                       | Given <br> When  <br> Then <br> And                                                                                                                                                                                                                                                                                                             | EP05                      
+| HU03 | Revisar Mensaje                                               | Como gerente,                                                                                                                                                        | Given <br> When  <br> Then <br> And                                                                                                                                                                                                                                                                                                             | EP05                      
+| HU04 | Revisar Mensaje                                               | Como Empleado,                                                                                                                                                       | Given <br> When  <br> Then <br> And                                                                                                                                                                                                                                                                                                             | EP05                      
+| HU05 | Eliminar Mensaje                                              | Como gerente,                                                                                                                                                        | Given <br> When  <br> Then <br> And                                                                                                                                                                                                                                                                                                             | EP05                      
+| HU06 | Eliminar Mensaje                                              | Como Empleado,                                                                                                                                                       | Given <br> When  <br> Then <br> And                                                                                                                                                                                                                                                                                                             | EP05                      
 
 ## 3.3. Impact Mapping.
 
@@ -895,32 +957,32 @@ Segmento 2:
 
 <img src="assets\Impact-mapping\impact-mapping-employe.png" alt="User Manager" width="1000" height="900">
 
-
 ## 3.4. Product Backlog.
 
-| #Orden | User Story ID | Titulo     | Descripción | Story Points (1/2/3/5/8) |
-|--------|---------------|------------|-------------|--------------------------|
-| 1      | HU01          | Actualizar las habitaciones disponibles | Como gerente, quiero poder agregar nuevas habitaciones para mantener actualizado el inventario de habitaciones disponibles. | 8 |
-| 2      | HU02          | Creación de tareas para empleados | Como gerente, quiero poder agregar nuevas habitaciones para mantener actualizado el inventario de habitaciones disponibles. | 8 |
-| 3      | HU03          | Notificaciones de inventario |Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros. | 5 |
-| 4      | * HU04        | Información del desempeño |Como gerente, quiero generar informes de desempeño del personal [revisar en grupo] Para evaluar el rendimiento de los empleados y tomar decisiones basadas en datos.    | 5 |
-| 5      | HU05          | Lista de habitaciones ocupadas en tiempo real |Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones. | 8 |
-| 6      | HU06          | Alertas de mantemiento |Como gerente, quiero recibir alertas de mantenimiento programado para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados. | 5 |
-| 7      | HU07 | Informar del estado de habitaciones | Como gerente, quiero ver el estado de las habitaciones para poder revisar si estan listas para su uso despues del proceso de limpieza.  | 5 |
-| 8      | HU08 | Administrar permisos de los empleados |Como gerente, quiero gestionar el acceso y permisos de los empleados para garantizar la seguridad y la privacidad de la información del negocio.  | 8 |
-| 9      | HU09 | Programar turnos de trabajo |Como gerente, quiero programar turnos de trabajo automáticamente para optimizar la asignación de personal y evitar conflictos de horarios. | 2 |
-| 10     | HU10 | Realizar seguimiento de gastos |Como gerente, quiero poder realizar seguimiento de gastos implementados para controlar los costos y optimizar la rentabilidad del negocio. | 5 |
-| 11     | HU11 | Gestionar servicios adicionales |Como gerente, quiero gestionar la disponibilidad de servicios adicionales para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente. | 3 |
-| 12     | * HU12 | Notificaciones de comentarios |Como gerente, quiero recibir notificaciones de comentarios y opiniones de clientes para responder rápidamente a las necesidades y preocupaciones de los clientes. | 2 |
-| 13     | * HU13 | Crear promociones |Como gerente, quiero poder crear promociones y ofertas especiales para atraer a más clientes y aumentar las ventas.  | 5 |
-| 14     | HU14 | Registro de proveedores |Como gerente, quiero mantener un registro de los proveedores para gestionar eficientemente las relaciones comerciales y los suministros.  | 5 |
-| 15     | * HU15 | Seguimiento del cliente |Como gerente, quiero poder realizar seguimiento de la satisfacción del cliente para identificar áreas de mejora y garantizar una experiencia de calidad. | 5 |
-| 16     | HU16 | Notificaciones de cambio de agenda |Como empleado, quiero recibir notificaciones de cambios en mi agenda laboral para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia. | 8 |
-| 17     | HU17 | Estado de las habitaciones |Como empleado, quiero poder registrar el estado de limpieza de las habitaciones para contribuir al mantenimiento de altos estándares de limpieza y satisfacer las expectativas de los clientes. | 8 |
-| 18     | HU18 | Información de procedimientos según el caso |Como empleado, quiero poder acceder a manuales de procedimientos para tener recursos de referencia que me ayuden a realizar mi trabajo de manera efectiva.  | 5 |
-| 19     | HU19 | Registrar el estado de suministros |Como empleado, quiero poder registrar el estado de los suministros para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento. | 2 |
-| 20     | HU20 | Reportar problemas |Como empleado, quiero poder reportar incidencias o problemas para informar sobre cualquier problema o situación que afecte mi trabajo o la calidad del servicio.   | 5 |
-| 21     | * HU21 | Administrar facturas de servicios |Como gerente, quiero poder generar facturas para los servicios adicionales para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes. | 5 |
+| #Orden | User Story ID | Titulo                                        | Descripción                                                                                                                                                                                     | Story Points (1/2/3/5/8) |
+|--------|---------------|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| 1      | HU01          | Actualizar las habitaciones disponibles       | Como gerente, quiero poder agregar nuevas habitaciones para mantener actualizado el inventario de habitaciones disponibles.                                                                     | 8                        |
+| 2      | HU02          | Creación de tareas para empleados             | Como gerente, quiero poder agregar nuevas habitaciones para mantener actualizado el inventario de habitaciones disponibles.                                                                     | 8                        |
+| 3      | HU03          | Notificaciones de inventario                  | Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros.                                                              | 5                        |
+| 4      | * HU04        | Información del desempeño                     | Como gerente, quiero generar informes de desempeño del personal [revisar en grupo] Para evaluar el rendimiento de los empleados y tomar decisiones basadas en datos.                            | 5                        |
+| 5      | HU05          | Lista de habitaciones ocupadas en tiempo real | Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones.                                          | 8                        |
+| 6      | HU06          | Alertas de mantemiento                        | Como gerente, quiero recibir alertas de mantenimiento programado para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados.                             | 5                        |
+| 7      | HU07          | Informar del estado de habitaciones           | Como gerente, quiero ver el estado de las habitaciones para poder revisar si estan listas para su uso despues del proceso de limpieza.                                                          | 5                        |
+| 8      | HU08          | Administrar permisos de los empleados         | Como gerente, quiero gestionar el acceso y permisos de los empleados para garantizar la seguridad y la privacidad de la información del negocio.                                                | 8                        |
+| 9      | HU09          | Programar turnos de trabajo                   | Como gerente, quiero programar turnos de trabajo automáticamente para optimizar la asignación de personal y evitar conflictos de horarios.                                                      | 2                        |
+| 10     | HU10          | Realizar seguimiento de gastos                | Como gerente, quiero poder realizar seguimiento de gastos implementados para controlar los costos y optimizar la rentabilidad del negocio.                                                      | 5                        |
+| 11     | HU11          | Gestionar servicios adicionales               | Como gerente, quiero gestionar la disponibilidad de servicios adicionales para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente.                                   | 3                        |
+| 12     | * HU12        | Notificaciones de comentarios                 | Como gerente, quiero recibir notificaciones de comentarios y opiniones de clientes para responder rápidamente a las necesidades y preocupaciones de los clientes.                               | 2                        |
+| 13     | * HU13        | Crear promociones                             | Como gerente, quiero poder crear promociones y ofertas especiales para atraer a más clientes y aumentar las ventas.                                                                             | 5                        |
+| 14     | HU14          | Registro de proveedores                       | Como gerente, quiero mantener un registro de los proveedores para gestionar eficientemente las relaciones comerciales y los suministros.                                                        | 5                        |
+| 15     | * HU15        | Seguimiento del cliente                       | Como gerente, quiero poder realizar seguimiento de la satisfacción del cliente para identificar áreas de mejora y garantizar una experiencia de calidad.                                        | 5                        |
+| 16     | HU16          | Notificaciones de cambio de agenda            | Como empleado, quiero recibir notificaciones de cambios en mi agenda laboral para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia.                          | 8                        |
+| 17     | HU17          | Estado de las habitaciones                    | Como empleado, quiero poder registrar el estado de limpieza de las habitaciones para contribuir al mantenimiento de altos estándares de limpieza y satisfacer las expectativas de los clientes. | 8                        |
+| 18     | HU18          | Información de procedimientos según el caso   | Como empleado, quiero poder acceder a manuales de procedimientos para tener recursos de referencia que me ayuden a realizar mi trabajo de manera efectiva.                                      | 5                        |
+| 19     | HU19          | Registrar el estado de suministros            | Como empleado, quiero poder registrar el estado de los suministros para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento.   | 2                        |
+| 20     | HU20          | Reportar problemas                            | Como empleado, quiero poder reportar incidencias o problemas para informar sobre cualquier problema o situación que afecte mi trabajo o la calidad del servicio.                                | 5                        |
+| 21     | * HU21        | Administrar facturas de servicios             | Como gerente, quiero poder generar facturas para los servicios adicionales para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes.     | 5                        |
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines.
@@ -955,7 +1017,9 @@ Color Terniario: 6A9CDE y 003785
 <img src="assets\StyleGuidelines\mockupDesktop\menu-desktop-mockup.png" alt="Background Preview web" width="1400" height="900">
 
 
-**Text Styles:** (H1, H2, p, a,)  Nuestros estilos de texto van a depender del color que tengan detras, para colores mas osucros como 003785 se usa EEEEEE para dar contraste, mientras que si es un color claro se usa 00628D para que el color del texto pueda resaltar.
+**Text Styles:** (H1, H2, p, a,)  Nuestros estilos de texto van a depender del color que tengan detras, para colores mas
+osucros como 003785 se usa EEEEEE para dar contraste, mientras que si es un color claro se usa 00628D para que el color
+del texto pueda resaltar.
 
 <img src="assets\StyleGuidelines\mockupDesktop\rooms-text-mockup.png" alt="Text Style Preview web" width="1000" height="600">
 
@@ -969,7 +1033,9 @@ Los DropDowns y Switches se implementaran con una menor frequencia sin embargo s
 
 **Icons:** (Fondo blanco con los iconos que vamos a usar)
 
-Los iconos que estaremos usando seran de las redes sociales en el caso de la landing page junto a otros relacionados a los beneficios. Seguidamente, se estaran utilizando menos iconos en la web aplication siendo los mas prominentes la lupa, icono de empleados, tareas cuartos e inventario.
+Los iconos que estaremos usando seran de las redes sociales en el caso de la landing page junto a otros relacionados a
+los beneficios. Seguidamente, se estaran utilizando menos iconos en la web aplication siendo los mas prominentes la
+lupa, icono de empleados, tareas cuartos e inventario.
 
 <img src="assets\StyleGuidelines\mockupDesktop\rooms-icons-mockup.png" alt="Icons Preview web" width="390" height="58">
 
@@ -988,7 +1054,8 @@ objetivo paso por paso esto principalmente por las diferentes tareas que puede r
 
 ### 4.2.2. Labeling Systems.
 
-Los lables se usan para representar muchos datos en pocas palabras para este proyecto decidimos que nuestros labels principales son Inventory, Tasks, RoomStates, Messages y Employees
+Los lables se usan para representar muchos datos en pocas palabras para este proyecto decidimos que nuestros labels
+principales son Inventory, Tasks, RoomStates, Messages y Employees
 
 De esta manera sera facil de reconocer y entender
 
@@ -1008,7 +1075,10 @@ Descripcion: ```<meta name = "description" content = "Controla tus cuartos, empl
 
 **Que se busca?:** El Usuario quiere buscar un empleado en especifico  
 **Que resultados se mostraran?:** Se debe de mostrar el empleado con su codigo y tarea activa
-**Interface de busqueda:** En la seccion de inicio se observara un dashboard con todas las funcionalidades de manera resumida en estilo card, asimismo en un nav bar se encontraran los nombres de las funcionalidades. Adicionalmente en la seccion de empleados se observara una lupa que sera el indicador de la interface de busqueda. cada seccion debe de tener su lupa para poder buscar cuartos, items, empleados o tareas especificas.
+**Interface de busqueda:** En la seccion de inicio se observara un dashboard con todas las funcionalidades de manera
+resumida en estilo card, asimismo en un nav bar se encontraran los nombres de las funcionalidades. Adicionalmente en la
+seccion de empleados se observara una lupa que sera el indicador de la interface de busqueda. cada seccion debe de tener
+su lupa para poder buscar cuartos, items, empleados o tareas especificas.
 
 ### 4.2.5. Navigation Systems.
 
@@ -1031,6 +1101,7 @@ Mockup es todo lo relacionado al diseño de la pagina
 ### 4.4.1. Web Applications Wireframes.
 
 #### 4.4.1.1 Desktop Wireframes
+
 Menu Wireframe
 
 <img src="assets\WebApplicationsWireframes\desktop\menu-wireframe.png" alt="Menu Wireframe" width="1400" height="1021">
@@ -1056,6 +1127,7 @@ Employees Wireframe
 <img src="assets\WebApplicationsWireframes\desktop\employees-wireframe.png" alt="Employees Wireframe" width="1400" height="1021">
 
 #### 4.4.1.2 Mobile Wireframes
+
 Menu Wireframe
 
 <img src="assets\WebApplicationsWireframes\mobile\menu-mobile-wireframe.png" alt="Menu Wireframe" width="420" height="900">
@@ -1080,26 +1152,31 @@ Employees Wireframe
 
 <img src="assets\WebApplicationsWireframes\mobile\employees-mobile-wireframe.png" alt="Employees Wireframe" width="420" height="900">
 
-
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario en la herramienta Figma.
+En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario en la herramienta
+Figma.
 
-Link de Figma:https://www.figma.com/file/zjc0u4ks9Eu23b6k7DoKLU/Figma-basics?type=design&node-id=401-12&mode=design&t=zBdnRH5DDUeap9uP-0
+Link de
+Figma:https://www.figma.com/file/zjc0u4ks9Eu23b6k7DoKLU/Figma-basics?type=design&node-id=401-12&mode=design&t=zBdnRH5DDUeap9uP-0
 
-User Goal: Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones.
+User Goal: Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la
+disponibilidad y asignación de habitaciones.
 
 <img src="https://i.imgur.com/b1bQLzn.png" style="width:60%">  
 
-User Goal: Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros.
+User Goal: Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de
+escasez de suministros.
 <img src="https://i.imgur.com/c01OvZr.png" style="width:60%">
 
-User goal: Como empleado, quiero poder registrar el estado de los suministros para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento.
+User goal: Como empleado, quiero poder registrar el estado de los suministros para mantener un control preciso del
+inventario y garantizar que se cuente con los suministros necesarios en todo momento.
 <img src="https://i.imgur.com/ITgJQdH.png" style="width:60%">
 
-User goals : Como gerente, quiero poder asignar tareas a los empleados para distribuir eficientemente las responsabilidades y asegurarme de que las tareas se completen de manera oportuna y efectiva.
+User goals : Como gerente, quiero poder asignar tareas a los empleados para distribuir eficientemente las
+responsabilidades y asegurarme de que las tareas se completen de manera oportuna y efectiva.
 <img src="https://i.imgur.com/ZsZ2cFS.png" style="width:60%">
-   
+
 ### 4.4.3. Web Applications Mock-ups.
 
 #### 4.4.3.1 Desktop Mock-ups.
@@ -1129,6 +1206,7 @@ Employees Mockup
 <img src="assets\WebApplicationsMockups\desktop\employees-mockup.png" alt="Employees mockup" width="1400" height="1021">
 
 #### 4.4.3.2 Mobile Mock-ups.
+
 Diseño en todo aspecto
 
 Menu Mockup
@@ -1193,7 +1271,8 @@ Se presenta una idea de como se ven los demas user flow diagrams en base a este 
 
 ### 4.7.1. Class Diagrams.
 
-En esta sección, se presentarán los diagramas de clases, en las cuales se representan las clases y sus relaciones en el diseño orientado a objetos.
+En esta sección, se presentarán los diagramas de clases, en las cuales se representan las clases y sus relaciones en el
+diseño orientado a objetos.
 <img src="https://i.imgur.com/NzQy4Oy.png" style="width:60%">
 [Link Database Diagram](https://lucid.app/lucidchart/0a661614-a2e4-42cb-b8a2-73a9bc6b6569/edit?viewport_loc=-1210%2C-676%2C2563%2C2874%2C0_0&invitationId=inv_f0bef7c5-6e84-4e61-9298-6777d0880fb6)
 
@@ -1208,9 +1287,6 @@ de vista))
 Encapsulation (state es privado porque solo se debe de modificar el estado mas no los valores de estado )
 
 ## 4.8. Database Design.
-
-
-
 
 ### 4.8.1. Database Diagram.
 
@@ -1618,9 +1694,6 @@ Ocupación: _____
 [URL del video about the team](https://www.example.com)
 
 # Bibliografía
-
-
-
 
 ``` 
 Ostelea (2021, 10 de febrero). ¿Qué es la gestión hotelera y cuál es su importancia en el sector hotelero?.
