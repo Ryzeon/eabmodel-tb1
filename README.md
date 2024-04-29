@@ -39,6 +39,7 @@
 | Version | Fecha      | Autor   | Descripcion de Modificacion |
 |---------|------------|---------|-----------------------------|
 | 0.0     | 19/03/2024 | Grupo 1 | Se crea el documento        |
+| 1.1| 29/04/2024| Piero Periche| Actualizacion de los diagrama c4 model|
 
 </div>
 
@@ -914,37 +915,38 @@ Employees Mockup
 
 Se presenta una idea de como se ven los demas user flow diagrams en base a este user flow diagram.
 
-![Web Aplication User Flow Diagram](/assets/userflow/userflow.jpg)
+![Web Aplication User Flow Diagram](assets/userflow/userflow.jpg)
 
 ## 4.5. Web Applications Prototyping.
 
 [URL del Prototipo (Hecho en figma)](https://www.figma.com/file/dFBkafkPplF301rbQ3hh8t/Untitled?type=design&node-id=0%3A1&mode=design&t=rX9ozCzhstSDIBxh-1)
 
+
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
 
-![ContextDiagram](/assets/SoftwareArchitecture/ContextDiagram/structurizr-84133-SystemContext-001.png)
+![ContextDiagram](https://i.imgur.com/vznJAPI.png)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-![ContainerDiagram](/assets/SoftwareArchitecture/ContainerDiagram/structurizr-84133-Container-001.png)
+![ContainerDiagram](https://i.imgur.com/stwhRMc.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
-![ComponentDiagram-1](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-001.png)
+![ComponentDiagram-1](https://i.imgur.com/XJOrW1h.png)
 
-![ComponentDiagram-2](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-002.png)
+![ComponentDiagram-2](https://i.imgur.com/tE8IIgY.png)
 
-![ComponentDiagram-3](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-003.png)
+![ComponentDiagram-3](https://i.imgur.com/mNps2dZ.png)
 
-![ComponentDiagram-4](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-004.png)
+![ComponentDiagram-4](https://i.imgur.com/QJfEs1U.png)
 
-![ComponentDiagram-5](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-005.png)
+![ComponentDiagram-5](https://i.imgur.com/E6QZXw3.png)
 
-![ComponentDiagram-6](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-006.png)
+![ComponentDiagram-6](https://i.imgur.com/5Y4OtJV.png)
 
-![ComponentDiagram-7](/assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-007.png)
+![ComponentDiagram-7](https://i.imgur.com/IksWjCF.png)
 
 ## 4.7. Software Object-Oriented Design.
 
