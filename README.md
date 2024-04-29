@@ -954,7 +954,7 @@ Se presenta una idea de como se ven los demas user flow diagrams en base a este 
 
 En esta sección, se presentarán los diagramas de clases, en las cuales se representan las clases y sus relaciones en el diseño orientado a objetos.
 <img src="https://i.imgur.com/NzQy4Oy.png" style="width:60%">
-[Link Database Diagram](https://lucid.app/lucidchart/0a661614-a2e4-42cb-b8a2-73a9bc6b6569/edit?viewport_loc=-1210%2C-676%2C2563%2C2874%2C0_0&invitationId=inv_f0bef7c5-6e84-4e61-9298-6777d0880fb6)
+[Link Database Diagram]'(https://lucid.app/lucidchart/0a661614-a2e4-42cb-b8a2-73a9bc6b6569/edit?viewport_loc=-1210%2C-676%2C2563%2C2874%2C0_0&invitationId=inv_f0bef7c5-6e84-4e61-9298-6777d0880fb6)'
 
 ### 4.7.2. Class Dictionary.
 
@@ -973,7 +973,7 @@ Encapsulation (state es privado porque solo se debe de modificar el estado mas n
 
 ### 4.8.1. Database Diagram.
 
-[link vertabelo](https://my.vertabelo.com/public-model-view/7nlLmEzWRwMOp0eaZolkVYXfwkPf61HMA215NLXEs0zbWJcZ03aSFWAfQmF9BJ6i?x=2904&y=3359&zoom=0.4906)
+[link vertabelo]'(https://my.vertabelo.com/public-model-view/7nlLmEzWRwMOp0eaZolkVYXfwkPf61HMA215NLXEs0zbWJcZ03aSFWAfQmF9BJ6i?x=2904&y=3359&zoom=0.4906)'
 
 ![imgDatabaseDesign](/assets/DatabaseDesign/database.jpg)
 
