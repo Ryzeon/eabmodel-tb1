@@ -2695,9 +2695,26 @@ En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web,
 
 A continuacion se mostraran capturas del avance de la aplicacion web avanzada en el sprint 2.
 
-Web app deploy: URL
+Para el deploy de esta se uso netlify.
 
-fotos xd
+![img.png](https://i.imgur.com/DDAAm5i.png)
+
+Web app deploy: URL https://inncontrolapp.netlify.app/inventory
+
+Notificaciones
+![img.png](https://i.imgur.com/683N4w1.png)
+
+Inventario
+![img.png](https://i.imgur.com/3PaqpvB.png)
+
+Tasks
+![img.png](https://i.imgur.com/0OtyD1J.png)
+
+Rooms
+![img.png](https://i.imgur.com/HaelECX.png)
+
+Reports
+![img.png](https://i.imgur.com/tb8eR9d.png)
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
