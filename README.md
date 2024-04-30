@@ -50,6 +50,7 @@
 | 1.4     | 28/04/2024 | Sebastian R | Realiza correcciones observadas en user personas     |
 | 1.5    | 28/04/2024 | Sebastian  P | Realiza cambios en la bibliografia, cambio de formato a APA   |
 | 1.6    | 28/04/2024 | Sebastian  R | Realiza correcion en Journey Mapping y Tax Matrix|
+.
 
 
 
