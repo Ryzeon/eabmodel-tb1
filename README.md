@@ -1622,7 +1622,7 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
      <th> Status (To-do / In-Process / To- Review / Done) </th>
    </tr>
     <tr>
-      th> EP3-US01 </th>
+      <th> EP3-US01 </th>
      <th colspan="3"> Actualizar Habitaciones </th>
       <th> W01  </th>
      <th> Habitacion Component  </th>
@@ -1632,7 +1632,7 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
      <th> Done </th>
    </tr>
    <tr>
-      th> EP3-US02 </th>
+      <th> EP3-US02 </th>
      <th colspan="3"> Crear tasks</th>
       <th> W02  </th>
      <th> Task Component  </th>
@@ -1643,7 +1643,7 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
    </tr>
 
    <tr>
-      th> EP3-US03 </th>
+      <th> EP3-US03 </th>
      <th colspan="3"> Notificaciones Inventario</th>
       <th> W03  </th>
      <th> Notificaciones Component  </th>
@@ -1654,7 +1654,7 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
    </tr>
 
    <tr>
-      th> EP3-US04 </th>
+      <th> EP3-US04 </th>
      <th colspan="3"> Informacion de desempeño</th>
       <th> W04  </th>
      <th> Component  </th>
@@ -1665,7 +1665,7 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
    </tr>
 
 <tr>
-      th> EP3-US05 </th>
+      <th> EP3-US05 </th>
      <th colspan="3"> Listar habitaciones</th>
       <th> W05  </th>
      <th> Rooms View  </th>
@@ -1676,7 +1676,7 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
    </tr>
 
 <tr>
-      th> EP3-US06 </th>
+      <th> EP3-US06 </th>
      <th colspan="3"> Alertas mantenimiento</th>
       <th> W06 </th>
      <th> Maintenance Alerts  </th>
@@ -1687,7 +1687,7 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
    </tr>
 
 <tr>
-      th> EP3-US07 </th>
+      <th> EP3-US07 </th>
      <th colspan="3"> </th>
       <th> W07  </th>
      <th> Room State </th>
@@ -1698,7 +1698,7 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
    </tr>
 
 <tr>
-      th> EP3-US014 </th>
+      <th> EP3-US014 </th>
      <th colspan="3"> </th>
       <th> W08 </th>
      <th> Registro proveedores </th>
@@ -1709,7 +1709,7 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
    </tr>
 
 <tr>
-      th> EP3-US014 </th>
+      <th> EP3-US014 </th>
      <th colspan="3"> </th>
       <th> W08 </th>
      <th> Programar turnos de trabajo </th>
@@ -1720,7 +1720,7 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
    </tr>
 
 <tr>
-      th> EP3-US016 </th>
+      <th> EP3-US016 </th>
      <th colspan="3"> </th>
       <th> W08 </th>
      <th> Notificaciones </th>
@@ -1731,7 +1731,7 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
    </tr>
 
 <tr>
-      th> EP3-US018 </th>
+      <th> EP3-US018 </th>
      <th colspan="3"> </th>
       <th> W08 </th>
      <th> Informacion de procedimientos </th>
@@ -1742,7 +1742,7 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
    </tr>
 
 <tr>
-      th> EP3-US020 </th>
+      <th> EP3-US020 </th>
      <th colspan="3"> </th>
       <th> W08 </th>
      <th> Reporte de problemas </th>
