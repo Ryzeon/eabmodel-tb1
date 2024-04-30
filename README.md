@@ -228,6 +228,7 @@ En ambos casos se puede observar el incremento de modificaciones y revisiones en
 | Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software.                                                             | **Sebastian Ramirez Hoffmann**: <br> **TB1:**<br> He realizado parte de la investigacion del proyecto tanto entrevistas como revisar articulos, por lo que he revisado estadisticas en base a la importancia del producto en el mercado, asimismo con el analisis de competidores apoye a darles la idea general del proyecto a mis colegas, al tener familiares que se especializan en el mercado orientado a nuestro producto recibi ideas externas por parte de estos mismos para comunicar a mis compañeros en congregaciones que se dieron en grupo.]<br> **Manuel Sebastian Peña Rivera**:<br>**TB1:**<br> He analizado y realizado entrevistas, las cuales me brindaron ideas importantes y mejoras para tener un mejor desarrollo del producto. **TP:**<br> He investigado y revisado Mountain Goat sobre las user stories para desarrollar features a partir de estas e implementarlas correctamente en el frontend. Además he investigado en la documentacion del Angular Material y sus diversos componentes, para tener un mejor resultado.<br/>**Alex Avila Asto**:<br/>Al tener una familia activa en el sector hotelero, he adquirido un profundo conocimiento sobre los procesos internos de un hotel. Mi experiencia me ha permitido comprender en detalle cómo se gestionan aspectos críticos como la limpieza, el registro de huéspedes y los desafíos inherentes a estas operaciones. Esto incluye la organización de equipos de limpieza, la implementación de sistemas de registro eficientes y la resolución de problemas cotidianos que surgen en la operación diaria de un hotel. <br> **TP**: En la entrega del TP, tuve que investigar acerca gitflow, angular y angular material para implementar correctamente los componentes de la app <br>                                                   | **SebastianRamirezHoffmann**:<br>Fue gracias a las investigaciones que que logre tener una idea mas concreta de lo que debemos de hacer como empresa para asegurar la efectividad de nuestro proyecto tomando en consideracion las necesidades y competidores existentes en el mercado.<br> **Manuel Sebastian Peña Rivera**:<br>**TB1:**<br> Debido a la investigacion pude comprender mejor la situacion y las mejoras que necesitan, tambien pude analizar los objetivos y frustaciones que tienen cada segmento. <br>**TP:**<br> Con la documentacion del Angular Material, me a permitido mejorar el diseño y funcion de los componentes, permitiendome asemejar nuestro mockup a la aplicacion frontend que estamos desarrollando y al agregar los validators me permite limitar y ingresar correctamente los datos. <br/> **Alex Avila Asto**: <br/> Gracias a la informacion recaudada, tengo una idea clara de lo que nuestra start-up debe hacer para garantizar la efectividad del proyecto, considerando las necesidades y competidores del mercado. <br> **TP**: La documentación de Angular Material y el uso de FakeAPI han sido fundamentales para mejorar nuestros componentes y acelerar el desarrollo. Esta experiencia resalta la importancia de utilizar recursos disponibles para alcanzar nuestros objetivos de manera eficiente en el desarrollo de software.                                                                                                                         |
 
 
+
 # Capítulo I: Introducción
 
 ## 1.1. Startup Profile
@@ -1209,6 +1210,7 @@ Proceso usando los mockups
 <img src ="assets/userflow/userflow_task.png" > 
 
 
+
 ## 4.5. Web Applications Prototyping.
 
 [URL del Prototipo (Hecho en figma)]'(https://www.figma.com/file/dFBkafkPplF301rbQ3hh8t/Untitled?type=design&node-id=0%3A1&mode=design&t=rX9ozCzhstSDIBxh-1)'
@@ -1246,6 +1248,7 @@ Proceso usando los mockups
 
 ![ComponentDiagram-7](https://i.imgur.com/IksWjCF.png)
 
+
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
@@ -1272,6 +1275,7 @@ Encapsulation (state es privado porque solo se debe de modificar el estado mas n
 [link vertabelo]'(https://my.vertabelo.com/public-model-view/7nlLmEzWRwMOp0eaZolkVYXfwkPf61HMA215NLXEs0zbWJcZ03aSFWAfQmF9BJ6i?x=2904&y=3359&zoom=0.4906)'
 
 ![imgDatabaseDesign](https://i.imgur.com/oI6d1Ku.png)
+
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
