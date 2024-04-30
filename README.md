@@ -46,8 +46,6 @@
 
 [URL del repositorio](https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project)
 
-
-
 (Imagenes de los commits cada entrega)
 
 # Contenido
@@ -359,26 +357,23 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 
 **Competitive Analysis Landscape**
 
-| ¿Por qué llevar a cabo este análisis? | Nosotros | Cloudbeds | SiteMinder |
-|---------------------------------------|----------|-----------|------------|
-| **Overview**                          | Nuestra startup está enfocada en desarrollar una plataforma integral para la gestión eficiente de negocios relacionados con la administración de habitaciones, con un enfoque en la industria hotelera. | Cloudbeds ofrece una solución de gestión hotelera basada en la nube que incluye herramientas para la administración de propiedades, reservas y distribución. | SiteMinder proporciona una plataforma de distribución hotelera y una suite de herramientas de gestión que incluyen gestión de tarifas, disponibilidad de habitaciones y canal de reservas en línea. |
-| **Ventaja Competitiva**               | Nuestra plataforma ofrece una solución integral que abarca desde la gestión de habitaciones hasta la comunicación interna y la generación de informes de desempeño del personal. | Cloudbeds se destaca por su interfaz fácil de usar y su capacidad para integrarse con una amplia gama de sistemas y servicios de terceros. | SiteMinder se enfoca en maximizar la visibilidad en línea y la distribución de habitaciones a través de una amplia red de canales de reserva. |
-| **Mercado Objetivo**                  | Nos dirigimos a hoteles independientes y pequeñas cadenas hoteleras que buscan mejorar su eficiencia operativa y experiencia del cliente. | Cloudbeds se enfoca en hoteles boutique y propiedades independientes que buscan una solución completa de gestión hotelera en la nube. | SiteMinder atiende a hoteles de todos los tamaños, desde pequeños establecimientos independientes hasta grandes cadenas hoteleras. |
-| **Perfil de Marketing**               | Nuestra estrategia de marketing se centra en la promoción de nuestra plataforma a través de redes sociales y asociaciones con organizaciones de la industria hotelera. | Cloudbeds utiliza estrategias de marketing digital y participa en eventos de la industria para promover su marca y sus soluciones. | SiteMinder utiliza una combinación de marketing en línea y fuera de línea, incluidas campañas en redes sociales y publicidad en eventos de la industria. |
-| **Perfil del Producto**               | Ofrecemos una variedad de herramientas y servicios, desde la gestión de habitaciones hasta la generación de informes de desempeño del personal, todo dentro de una plataforma fácil de usar y personalizable. | Cloudbeds ofrece funcionalidades como gestión de reservas, administración de canales de distribución y herramientas de informes en una interfaz intuitiva. | SiteMinder proporciona herramientas para gestionar tarifas, disponibilidad de habitaciones y reservas en línea, junto con análisis y generación de informes. |
-| **Precios
-
+| ¿Por qué llevar a cabo este análisis? | Nosotros                                                                                                                                                                                                      | Cloudbeds                                                                                                                                                    | SiteMinder                                                                                                                                                                                          |
+|---------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Overview**                          | Nuestra startup está enfocada en desarrollar una plataforma integral para la gestión eficiente de negocios relacionados con la administración de habitaciones, con un enfoque en la industria hotelera.       | Cloudbeds ofrece una solución de gestión hotelera basada en la nube que incluye herramientas para la administración de propiedades, reservas y distribución. | SiteMinder proporciona una plataforma de distribución hotelera y una suite de herramientas de gestión que incluyen gestión de tarifas, disponibilidad de habitaciones y canal de reservas en línea. |
+| **Ventaja Competitiva**               | Nuestra plataforma ofrece una solución integral que abarca desde la gestión de habitaciones hasta la comunicación interna y la generación de informes de desempeño del personal.                              | Cloudbeds se destaca por su interfaz fácil de usar y su capacidad para integrarse con una amplia gama de sistemas y servicios de terceros.                   | SiteMinder se enfoca en maximizar la visibilidad en línea y la distribución de habitaciones a través de una amplia red de canales de reserva.                                                       |
+| **Mercado Objetivo**                  | Nos dirigimos a hoteles independientes y pequeñas cadenas hoteleras que buscan mejorar su eficiencia operativa y experiencia del cliente.                                                                     | Cloudbeds se enfoca en hoteles boutique y propiedades independientes que buscan una solución completa de gestión hotelera en la nube.                        | SiteMinder atiende a hoteles de todos los tamaños, desde pequeños establecimientos independientes hasta grandes cadenas hoteleras.                                                                  |
+| **Perfil de Marketing**               | Nuestra estrategia de marketing se centra en la promoción de nuestra plataforma a través de redes sociales y asociaciones con organizaciones de la industria hotelera.                                        | Cloudbeds utiliza estrategias de marketing digital y participa en eventos de la industria para promover su marca y sus soluciones.                           | SiteMinder utiliza una combinación de marketing en línea y fuera de línea, incluidas campañas en redes sociales y publicidad en eventos de la industria.                                            |
+| **Perfil del Producto**               | Ofrecemos una variedad de herramientas y servicios, desde la gestión de habitaciones hasta la generación de informes de desempeño del personal, todo dentro de una plataforma fácil de usar y personalizable. | Cloudbeds ofrece funcionalidades como gestión de reservas, administración de canales de distribución y herramientas de informes en una interfaz intuitiva.   | SiteMinder proporciona herramientas para gestionar tarifas, disponibilidad de habitaciones y reservas en línea, junto con análisis y generación de informes.                                        |
+| **Precios                             
 
 ## 2.1.2. Estrategias y Tácticas Frente a Competidores
 
-
-
-**Análisis SWOT** | Nosotros | Cloudbeds | SiteMinder
---- | --- | --- | ---
-**Fortalezas** | Nuestra plataforma ofrece una solución integral y fácil de usar para la gestión de habitaciones y la comunicación interna. Además, nos destacamos por nuestra flexibilidad de precios y personalización de características. | Cloudbeds tiene una interfaz intuitiva y se integra fácilmente con otros sistemas y servicios de terceros, lo que la convierte en una solución atractiva para hoteles independientes. | SiteMinder cuenta con una amplia red de distribución y visibilidad en línea, lo que ayuda a aumentar las reservas y la ocupación de habitaciones para los hoteles.
-**Debilidades** | Como una startup emergente, podemos enfrentar desafíos en términos de reconocimiento de marca y alcance de mercado en comparación con competidores establecidos como Cloudbeds y SiteMinder. | Cloudbeds puede tener tarifas de suscripción más altas en comparación con otras soluciones, lo que puede limitar su atractivo para hoteles con presupuestos ajustados. | SiteMinder puede enfrentar desafíos en la retención de clientes debido a la competencia en el mercado de distribución hotelera en línea.
-**Oportunidades** | Existe un mercado creciente de hoteles independientes y pequeñas cadenas hoteleras que buscan soluciones integrales y asequibles para mejorar su eficiencia operativa. | Cloudbeds puede expandir su alcance a través de asociaciones estratégicas con proveedores de servicios turísticos y organizaciones de la industria. | SiteMinder puede explorar nuevas oportunidades de crecimiento mediante la expansión a mercados emergentes y el desarrollo de características innovadoras para sus clientes.
-**Amenazas** | La competencia en el mercado de gestión hotelera puede intensificarse, lo que podría dificultar la adquisición de clientes y la retención en el futuro. Además, los cambios en las preferencias del consumidor y las regulaciones gubernamentales pueden afectar la demanda de servicios hoteleros. | Cloudbeds puede enfrentar amenazas de nuevos competidores que ingresan al mercado con soluciones similares pero más económicas. Además, los cambios en la tecnología y la regulación pueden afectar la demanda y la rentabilidad de sus servicios. | SiteMinder puede enfrentar amenazas de la consolidación en la industria hotelera y la competencia de grandes OTAs (agencias de viajes en línea) que ofrecen servicios similares de distribución de habitaciones. Además, los cambios en los algoritmos de búsqueda en línea pueden afectar la visibilidad de los hoteles que utilizan su plataforma.
+ **Análisis SWOT** | Nosotros                                                                                                                                                                                                                                                                                            | Cloudbeds                                                                                                                                                                                                                                          | SiteMinder                                                                                                                                                                                                                                                                                                                                           
+-------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ **Fortalezas**    | Nuestra plataforma ofrece una solución integral y fácil de usar para la gestión de habitaciones y la comunicación interna. Además, nos destacamos por nuestra flexibilidad de precios y personalización de características.                                                                         | Cloudbeds tiene una interfaz intuitiva y se integra fácilmente con otros sistemas y servicios de terceros, lo que la convierte en una solución atractiva para hoteles independientes.                                                              | SiteMinder cuenta con una amplia red de distribución y visibilidad en línea, lo que ayuda a aumentar las reservas y la ocupación de habitaciones para los hoteles.                                                                                                                                                                                   
+ **Debilidades**   | Como una startup emergente, podemos enfrentar desafíos en términos de reconocimiento de marca y alcance de mercado en comparación con competidores establecidos como Cloudbeds y SiteMinder.                                                                                                        | Cloudbeds puede tener tarifas de suscripción más altas en comparación con otras soluciones, lo que puede limitar su atractivo para hoteles con presupuestos ajustados.                                                                             | SiteMinder puede enfrentar desafíos en la retención de clientes debido a la competencia en el mercado de distribución hotelera en línea.                                                                                                                                                                                                             
+ **Oportunidades** | Existe un mercado creciente de hoteles independientes y pequeñas cadenas hoteleras que buscan soluciones integrales y asequibles para mejorar su eficiencia operativa.                                                                                                                              | Cloudbeds puede expandir su alcance a través de asociaciones estratégicas con proveedores de servicios turísticos y organizaciones de la industria.                                                                                                | SiteMinder puede explorar nuevas oportunidades de crecimiento mediante la expansión a mercados emergentes y el desarrollo de características innovadoras para sus clientes.                                                                                                                                                                          
+ **Amenazas**      | La competencia en el mercado de gestión hotelera puede intensificarse, lo que podría dificultar la adquisición de clientes y la retención en el futuro. Además, los cambios en las preferencias del consumidor y las regulaciones gubernamentales pueden afectar la demanda de servicios hoteleros. | Cloudbeds puede enfrentar amenazas de nuevos competidores que ingresan al mercado con soluciones similares pero más económicas. Además, los cambios en la tecnología y la regulación pueden afectar la demanda y la rentabilidad de sus servicios. | SiteMinder puede enfrentar amenazas de la consolidación en la industria hotelera y la competencia de grandes OTAs (agencias de viajes en línea) que ofrecen servicios similares de distribución de habitaciones. Además, los cambios en los algoritmos de búsqueda en línea pueden afectar la visibilidad de los hoteles que utilizan su plataforma. 
 
 ## 2.2. Entrevistas.
 
@@ -396,7 +391,8 @@ calificaciones de satisfacción del cliente y una optimización de los procesos 
 1. Que opiniones tiene respecto a la digitalizacion de los sitemas de gestion en hoteles o modelos de negocio parecidos?
 2. ¿Como le hace saber a los empleados que tareas deben hacer?
 3. ¿Como manejan el inventario de productos que utilizan tanto para limpieza como para los cuartos?
-4. ¿En su opinion cree que se mantiene una comunicacion constante y efectiva entre los gerentes/supervisores y los empleados?
+4. ¿En su opinion cree que se mantiene una comunicacion constante y efectiva entre los gerentes/supervisores y los
+   empleados?
 5. ¿Que frustraciones y objetivos/motivaciones tiene en su area laboral?
 
 **Entrevistas usuario segmento 2**
@@ -460,9 +456,12 @@ Ocupación: Empleado de Hotel (limpieza)
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=wsbDs5&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)  
 En la entrevista Arian nos relata como es un dia laboral para el como staff en un Hotel el cual prefiere que mantengamos anonimo, nos habla un poco preocupado pero con la suficiente confianza para comentarnos de los inconvenientes que sufre el, junto a sus colegas respecto a los sistemas de comunicacion entre los empelados y supervizores y de como deben usar herramientas obsoletas para intentar manejarse. 
 
-![Imagen de entrevistaS2.2](assets/interviewsimages/EntrevistaES2.png) 
+![Imagen de entrevistaS2.2](assets/interviewsimages/EntrevistaES2.png)
 [URL de la entrevista](https://upcedupe-my.sharepoint.com/personal/u202211894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202211894_upc_edu_pe%2FDocuments%2FOpenSource%2FEntrevistaES2%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview)  
-En la entrevista Esau nos menciona como practicante de un hotel, los metodos que se usan para la comunicacion y gestion de empleados donde se se usa Whatsapp como herramienta para entregar tareas y comunicarse con el gerente. Mas tambien nos menciona como este sistema puede generar problemas especialmente cuando estas estructuras son grandes y tienen una alta cantidad de empleados.
+En la entrevista Esau nos menciona como practicante de un hotel, los metodos que se usan para la comunicacion y gestion
+de empleados donde se se usa Whatsapp como herramienta para entregar tareas y comunicarse con el gerente. Mas tambien
+nos menciona como este sistema puede generar problemas especialmente cuando estas estructuras son grandes y tienen una
+alta cantidad de empleados.
 
 Nombre: Nicola Estefan Romero
 <br>
@@ -477,15 +476,19 @@ En esta ocacion Nicola cuenta como se hace uso de Whatsapp como herramienta y de
 ### 2.2.3. Análisis de entrevistas.
 
 **Segmento 1:**
-En base al segmento uno se hace un analisis donde se llega a la conclusion de que la necesidad de una aplicacion orientada a la gestion de empleados y sus tareas son necesarias junto con un seguimiento de inventario para reducir los tiempos y mejorar la disponibilidad.  
+En base al segmento uno se hace un analisis donde se llega a la conclusion de que la necesidad de una aplicacion
+orientada a la gestion de empleados y sus tareas son necesarias junto con un seguimiento de inventario para reducir los
+tiempos y mejorar la disponibilidad.  
 **Segmento 2:**
-En base al segundo segmento se puede observar que la comunicacion si teien oportunidades de mejora, que el proceso de notificacion de inventario no esta completamente digitalizado y finalmente que recibir tareas y notificar del cumplimiento de estas es necesario.
+En base al segundo segmento se puede observar que la comunicacion si teien oportunidades de mejora, que el proceso de
+notificacion de inventario no esta completamente digitalizado y finalmente que recibir tareas y notificar del
+cumplimiento de estas es necesario.
 
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
 
-**Segmento 1:**  
+**Segmento 1:**
 <br/> <img src="https://i.imgur.com/krhyFim.png" style="width:60%"> 
 
 
@@ -494,30 +497,30 @@ En base al segundo segmento se puede observar que la comunicacion si teien oport
 
 ### 2.3.2. User Task Matrix.
 
-| ‎   | ‎  | Segmento 1  | Gerente | Segmento 2  | empleado |
-|------|---------|-------------|--------------|-------------|------------|
-| ID   | Titulo  | Importancia | Frecuencia   | Importancia | Frecuencia |
-| HU01 | Actualizar las habitaciones disponibles |Alta | Media | Alta | Alta |
-| HU02 | Creación de tareas para empleados | Alta | Alta | Alta | Media |
-| HU03 | Notificaciones de inventario | Alta | Media | Alta | Media |
-|*HU04 | Información del desempeño | Alta | Media | Alta | baja |
-| HU05 | Lista de habitaciones ocupadas en tiempo real | Alta | Baja | Alta | Media |
-| HU06 | Alertas de mantemiento | Alta | Baja | Alta | Baja |
-| HU07 | Informar del estado de habitaciones | Media | Media | Alta | Media |
-| HU08 | Administrar permisos de los empleados| Alta | Media | Alta | Media |
-| HU09 | Programar turnos de trabajo | Media | Baja | Media | Baja |
-| HU10 | Realizar seguimiento de gastos | Alta | Alta | Media | Baja |
-| HU11 | Gestionar servicios adicionales | Media | Baja | Baja | Baja |
-|*HU12 | Notificaciones de comentarios | Media | Baja | Media | Baja |
-|*HU13 | Crear promociones | Alta | Media | Media | Baja |
-| HU14 | Registro de proveedores | Alta | Media | Media | Baja |
-|*HU15 | Seguimiento del cliente | Media | Media | Baja | Media |
-| HU16 | Notificaciones de cambio de agenda | Media | Baja | Alta | Media |
-| HU17 | Estado de las habitaciones | Media | Baja | Alta | Media |
-| HU18 | Información de procedimientos según el caso | Baja | Baja | Alta | Baja |
-| HU19 | Registrar el estado de suministros | Alta | Baja | Media | Baja |
-| HU20 | Reportar problemas | Media | Baja | Media | Baja |
-|*HU21 | Administrar facturas de servicios | Media | Baja | Alta | Alta |
+| ‎     | ‎                                             | Segmento 1  | Gerente    | Segmento 2  | empleado   |
+|-------|-----------------------------------------------|-------------|------------|-------------|------------|
+| ID    | Titulo                                        | Importancia | Frecuencia | Importancia | Frecuencia |
+| HU01  | Actualizar las habitaciones disponibles       | Alta        | Media      | Alta        | Alta       |
+| HU02  | Creación de tareas para empleados             | Alta        | Alta       | Alta        | Media      |
+| HU03  | Notificaciones de inventario                  | Alta        | Media      | Alta        | Media      |
+| *HU04 | Información del desempeño                     | Alta        | Media      | Alta        | baja       |
+| HU05  | Lista de habitaciones ocupadas en tiempo real | Alta        | Baja       | Alta        | Media      |
+| HU06  | Alertas de mantemiento                        | Alta        | Baja       | Alta        | Baja       |
+| HU07  | Informar del estado de habitaciones           | Media       | Media      | Alta        | Media      |
+| HU08  | Administrar permisos de los empleados         | Alta        | Media      | Alta        | Media      |
+| HU09  | Programar turnos de trabajo                   | Media       | Baja       | Media       | Baja       |
+| HU10  | Realizar seguimiento de gastos                | Alta        | Alta       | Media       | Baja       |
+| HU11  | Gestionar servicios adicionales               | Media       | Baja       | Baja        | Baja       |
+| *HU12 | Notificaciones de comentarios                 | Media       | Baja       | Media       | Baja       |
+| *HU13 | Crear promociones                             | Alta        | Media      | Media       | Baja       |
+| HU14  | Registro de proveedores                       | Alta        | Media      | Media       | Baja       |
+| *HU15 | Seguimiento del cliente                       | Media       | Media      | Baja        | Media      |
+| HU16  | Notificaciones de cambio de agenda            | Media       | Baja       | Alta        | Media      |
+| HU17  | Estado de las habitaciones                    | Media       | Baja       | Alta        | Media      |
+| HU18  | Información de procedimientos según el caso   | Baja        | Baja       | Alta        | Baja       |
+| HU19  | Registrar el estado de suministros            | Alta        | Baja       | Media       | Baja       |
+| HU20  | Reportar problemas                            | Media       | Baja       | Media       | Baja       |
+| *HU21 | Administrar facturas de servicios             | Media       | Baja       | Alta        | Alta       |
 
 ### 2.3.3. User Journey Mapping.
 
@@ -568,28 +571,28 @@ Bad:
 ### 2.3.5. As-is Scenario Mapping.
 
 **Segmento 1**  
-Escenario: Supervizor quiere revisar el estado de los cuartos y darles sus tareas a los empleados mientras tambien debe de revisar el inventario.
+Escenario: Supervizor quiere revisar el estado de los cuartos y darles sus tareas a los empleados mientras tambien debe
+de revisar el inventario.
 
 As Is:
 
-
-| Fases     |       |       |        |    |
-|----------|----------------|------|---------|-----|
-| Doing          | Verificando el estado actual de los cuartos | Revisando el inventario de elementos de limpieza y toallas | Asignando tareas al personal de limpieza | Comunicándose con el personal para coordinar las tareas |
-| Thinking       | Reflexionando sobre la disponibilidad de los cuartos para nuevos clientes | Evaluando la cantidad de elementos de limpieza y toallas disponibles | Considerando la carga de trabajo del personal de limpieza | Pensando en cómo mejorar la comunicación con el personal |
-| Feeling        | Preocupado por la disponibilidad de cuartos para nuevos clientes | Preocupado por la cantidad de elementos de limpieza y toallas disponibles | Ansioso por asignar tareas de manera efectiva al personal | Frustrado por la falta de una comunicación eficiente con el personal |
+| Fases    |                                                                           |                                                                           |                                                           |                                                                      |
+|----------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|
+| Doing    | Verificando el estado actual de los cuartos                               | Revisando el inventario de elementos de limpieza y toallas                | Asignando tareas al personal de limpieza                  | Comunicándose con el personal para coordinar las tareas              |
+| Thinking | Reflexionando sobre la disponibilidad de los cuartos para nuevos clientes | Evaluando la cantidad de elementos de limpieza y toallas disponibles      | Considerando la carga de trabajo del personal de limpieza | Pensando en cómo mejorar la comunicación con el personal             |
+| Feeling  | Preocupado por la disponibilidad de cuartos para nuevos clientes          | Preocupado por la cantidad de elementos de limpieza y toallas disponibles | Ansioso por asignar tareas de manera efectiva al personal | Frustrado por la falta de una comunicación eficiente con el personal |
 
 **Segmento 2**  
-Escenario: Empleado realiza sus actividades y desea hacerle saber al supervizor que ya termino o si este le puede dar mas tareas.
-
+Escenario: Empleado realiza sus actividades y desea hacerle saber al supervizor que ya termino o si este le puede dar
+mas tareas.
 
 As Is:
 
-| Fases     |       |       |        |    |
-|----------|----------------|------|---------|-----|
-| Doing          | Realizando tareas de limpieza asignadas | Notificando al supervisor cuando terminan las tareas de limpieza | Verificando el stock de elementos de limpieza y toallas | Comunicándose con el supervisor sobre cualquier problema |
-| Thinking       | Reflexionando sobre la eficacia de las tareas de limpieza | Evaluando la necesidad de reabastecer elementos de limpieza y toallas | Considerando cómo mejorar la comunicación con el supervisor | Pensando en soluciones para mejorar el proceso de limpieza |
-| Feeling        | Comprometido con la calidad de las tareas de limpieza realizadas | Satisfecho al completar las tareas de limpieza asignadas | Preocupado por la disponibilidad de elementos de limpieza y toallas | Interesado en mejorar la comunicación y colaboración con el supervisor |
+| Fases    |                                                                  |                                                                       |                                                                     |                                                                        |
+|----------|------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------|------------------------------------------------------------------------|
+| Doing    | Realizando tareas de limpieza asignadas                          | Notificando al supervisor cuando terminan las tareas de limpieza      | Verificando el stock de elementos de limpieza y toallas             | Comunicándose con el supervisor sobre cualquier problema               |
+| Thinking | Reflexionando sobre la eficacia de las tareas de limpieza        | Evaluando la necesidad de reabastecer elementos de limpieza y toallas | Considerando cómo mejorar la comunicación con el supervisor         | Pensando en soluciones para mejorar el proceso de limpieza             |
+| Feeling  | Comprometido con la calidad de las tareas de limpieza realizadas | Satisfecho al completar las tareas de limpieza asignadas              | Preocupado por la disponibilidad de elementos de limpieza y toallas | Interesado en mejorar la comunicación y colaboración con el supervisor |
 
 ## 2.4. Ubiquitous Language.
 
@@ -605,21 +608,19 @@ Texto ubiquo: Definicion de este
 
 Segmento 1:
 
-| Fases          |                        |              |                  |                  |
-|----------------|------------------------|--------------|------------------|------------------|
-| Doing          | Utilizando la herramienta web para verificar el estado de los cuartos y el inventario | Asignando tareas al personal de limpieza a través de la plataforma | Monitoreando el progreso del personal y comunicándose directamente con ellos | Revisando las sugerencias de mejora proporcionadas por la herramienta |
-| Thinking       | Considerando cómo optimizar la asignación de tareas y la gestión del inventario con la herramienta | Evaluando la eficacia de la comunicación y supervisión a través de la plataforma | Reflexionando sobre las mejoras implementadas y la efectividad de la herramienta | Identificando nuevas oportunidades de mejora en la gestión de habitaciones y stock |
-| Feeling        | Satisfecho con la eficiencia y precisión en la gestión de cuartos e inventario | Valorando la comunicación directa y efectiva con el personal | Motivado por las mejoras implementadas y el impacto positivo en la operación | Esperanzado por las nuevas oportunidades de mejora identificadas |
-
+| Fases    |                                                                                                    |                                                                                  |                                                                                  |                                                                                    |
+|----------|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
+| Doing    | Utilizando la herramienta web para verificar el estado de los cuartos y el inventario              | Asignando tareas al personal de limpieza a través de la plataforma               | Monitoreando el progreso del personal y comunicándose directamente con ellos     | Revisando las sugerencias de mejora proporcionadas por la herramienta              |
+| Thinking | Considerando cómo optimizar la asignación de tareas y la gestión del inventario con la herramienta | Evaluando la eficacia de la comunicación y supervisión a través de la plataforma | Reflexionando sobre las mejoras implementadas y la efectividad de la herramienta | Identificando nuevas oportunidades de mejora en la gestión de habitaciones y stock |
+| Feeling  | Satisfecho con la eficiencia y precisión en la gestión de cuartos e inventario                     | Valorando la comunicación directa y efectiva con el personal                     | Motivado por las mejoras implementadas y el impacto positivo en la operación     | Esperanzado por las nuevas oportunidades de mejora identificadas                   |
 
 Segmento 2:
 
-| Fases          |                        |              |                  |                  |
-|----------------|------------------------|--------------|------------------|------------------|
-| Doing          | Utilizando la herramienta web para recibir y completar tareas asignadas | Notificando al supervisor a través de la plataforma cuando las tareas están completas | Actualizando el estado del stock de elementos de limpieza y toallas en la herramienta | Comunicándose con el supervisor a través de la plataforma sobre cualquier problema o solicitud |
-| Thinking       | Reflexionando sobre la eficacia de las tareas asignadas y la comunicación con el supervisor | Evaluando la necesidad de mejorar la gestión de tareas y la comunicación con la herramienta | Considerando cómo mejorar la eficiencia en la gestión de inventario y comunicación | Pensando en soluciones para optimizar el proceso de trabajo y la colaboración con el supervisor |
-| Feeling        | Comprometido con la calidad y eficiencia en la ejecución de tareas asignadas | Satisfecho al completar las tareas de manera efectiva y comunicarlas al supervisor | Preocupado por la disponibilidad y gestión adecuada del inventario | Interesado en mejorar la comunicación y colaboración con el supervisor a través de la herramienta |
-
+| Fases    |                                                                                             |                                                                                             |                                                                                       |                                                                                                   |
+|----------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
+| Doing    | Utilizando la herramienta web para recibir y completar tareas asignadas                     | Notificando al supervisor a través de la plataforma cuando las tareas están completas       | Actualizando el estado del stock de elementos de limpieza y toallas en la herramienta | Comunicándose con el supervisor a través de la plataforma sobre cualquier problema o solicitud    |
+| Thinking | Reflexionando sobre la eficacia de las tareas asignadas y la comunicación con el supervisor | Evaluando la necesidad de mejorar la gestión de tareas y la comunicación con la herramienta | Considerando cómo mejorar la eficiencia en la gestión de inventario y comunicación    | Pensando en soluciones para optimizar el proceso de trabajo y la colaboración con el supervisor   |
+| Feeling  | Comprometido con la calidad y eficiencia en la ejecución de tareas asignadas                | Satisfecho al completar las tareas de manera efectiva y comunicarlas al supervisor          | Preocupado por la disponibilidad y gestión adecuada del inventario                    | Interesado en mejorar la comunicación y colaboración con el supervisor a través de la herramienta |
 
 ## 3.2. User Stories.
 
@@ -642,40 +643,41 @@ Segmento 2:
 | HU18 | Información de procedimientos según el caso   | Como empleado, quiero poder acceder a manuales de procedimientos para tener recursos de referencia que me ayuden a realizar mi trabajo de manera efectiva.                                      | Given que existe un sistema para acceder a manuales de procedimientos <br> When busco un manual específico <br> Then puedo acceder al contenido relevante <br> And me ayuda a realizar mi trabajo de manera efectiva.                                                                                       |
 | HU19 | Registrar el estado de suministros            | Como empleado, quiero poder registrar el estado de los suministros para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento.   | Given que hay una lista de suministros disponibles <br> When registro el estado de un suministro <br> Then el estado se actualiza correctamente <br> And se garantiza el control preciso del inventario.                                                                                                    |
 | HU20 | Reportar problemas                            | Como empleado, quiero poder reportar incidencias o problemas para informar sobre cualquier problema o situación que afecte mi trabajo o la calidad del servicio.                                | Given que existe una opción para reportar problemas <br> When reporto una incidencia o problema <br> Then se registra la incidencia correctamente <br> And se toman medidas para resolver el problema.                                                                                                      |
-             
+
              |
+
 ## 3.3. Impact Mapping.
 
 <img src="assets\Impact-mapping\impact-mapping-manager.png" alt="User Manager" width="1000" height="900">
 
 <img src="assets\Impact-mapping\impact-mapping-employe.png" alt="User Manager" width="1000" height="900">
 
-
 ## 3.4. Product Backlog.
 
-| #Orden | User Story ID | Titulo     | Descripción | Story Points (1/2/3/5/8) |
-|--------|---------------|------------|-------------|--------------------------|
-| 1      | HU01          | Actualizar las habitaciones disponibles | Como gerente, quiero poder agregar nuevas habitaciones para mantener actualizado el inventario de habitaciones disponibles. | 8 |
-| 2      | HU02          | Creación de tareas para empleados | Como gerente, quiero poder agregar nuevas habitaciones para mantener actualizado el inventario de habitaciones disponibles. | 8 |
-| 3      | HU03          | Notificaciones de inventario |Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros. | 5 |
-| 4      | * HU04        | Información del desempeño |Como gerente, quiero generar informes de desempeño del personal [revisar en grupo] Para evaluar el rendimiento de los empleados y tomar decisiones basadas en datos.    | 5 |
-| 5      | HU05          | Lista de habitaciones ocupadas en tiempo real |Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones. | 8 |
-| 6      | HU06          | Alertas de mantemiento |Como gerente, quiero recibir alertas de mantenimiento programado para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados. | 5 |
-| 7      | HU07 | Informar del estado de habitaciones | Como gerente, quiero ver el estado de las habitaciones para poder revisar si estan listas para su uso despues del proceso de limpieza.  | 5 |
-| 8      | HU08 | Administrar permisos de los empleados |Como gerente, quiero gestionar el acceso y permisos de los empleados para garantizar la seguridad y la privacidad de la información del negocio.  | 8 |
-| 9      | HU09 | Programar turnos de trabajo |Como gerente, quiero programar turnos de trabajo automáticamente para optimizar la asignación de personal y evitar conflictos de horarios. | 2 |
-| 10     | HU10 | Realizar seguimiento de gastos |Como gerente, quiero poder realizar seguimiento de gastos implementados para controlar los costos y optimizar la rentabilidad del negocio. | 5 |
-| 11     | HU11 | Gestionar servicios adicionales |Como gerente, quiero gestionar la disponibilidad de servicios adicionales para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente. | 3 |
-| 12     | * HU12 | Notificaciones de comentarios |Como gerente, quiero recibir notificaciones de comentarios y opiniones de clientes para responder rápidamente a las necesidades y preocupaciones de los clientes. | 2 |
-| 13     | * HU13 | Crear promociones |Como gerente, quiero poder crear promociones y ofertas especiales para atraer a más clientes y aumentar las ventas.  | 5 |
-| 14     | HU14 | Registro de proveedores |Como gerente, quiero mantener un registro de los proveedores para gestionar eficientemente las relaciones comerciales y los suministros.  | 5 |
-| 15     | * HU15 | Seguimiento del cliente |Como gerente, quiero poder realizar seguimiento de la satisfacción del cliente para identificar áreas de mejora y garantizar una experiencia de calidad. | 5 |
-| 16     | HU16 | Notificaciones de cambio de agenda |Como empleado, quiero recibir notificaciones de cambios en mi agenda laboral para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia. | 8 |
-| 17     | HU17 | Estado de las habitaciones |Como empleado, quiero poder registrar el estado de limpieza de las habitaciones para contribuir al mantenimiento de altos estándares de limpieza y satisfacer las expectativas de los clientes. | 8 |
-| 18     | HU18 | Información de procedimientos según el caso |Como empleado, quiero poder acceder a manuales de procedimientos para tener recursos de referencia que me ayuden a realizar mi trabajo de manera efectiva.  | 5 |
-| 19     | HU19 | Registrar el estado de suministros |Como empleado, quiero poder registrar el estado de los suministros para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento. | 2 |
-| 20     | HU20 | Reportar problemas |Como empleado, quiero poder reportar incidencias o problemas para informar sobre cualquier problema o situación que afecte mi trabajo o la calidad del servicio.   | 5 |
-| 21     | * HU21 | Administrar facturas de servicios |Como gerente, quiero poder generar facturas para los servicios adicionales para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes. | 5 |
+| #Orden | User Story ID | Titulo                                        | Descripción                                                                                                                                                                                     | Story Points (1/2/3/5/8) |
+|--------|---------------|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------|
+| 1      | HU01          | Actualizar las habitaciones disponibles       | Como gerente, quiero poder agregar nuevas habitaciones para mantener actualizado el inventario de habitaciones disponibles.                                                                     | 8                        |
+| 2      | HU02          | Creación de tareas para empleados             | Como gerente, quiero poder agregar nuevas habitaciones para mantener actualizado el inventario de habitaciones disponibles.                                                                     | 8                        |
+| 3      | HU03          | Notificaciones de inventario                  | Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros.                                                              | 5                        |
+| 4      | * HU04        | Información del desempeño                     | Como gerente, quiero generar informes de desempeño del personal [revisar en grupo] Para evaluar el rendimiento de los empleados y tomar decisiones basadas en datos.                            | 5                        |
+| 5      | HU05          | Lista de habitaciones ocupadas en tiempo real | Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones.                                          | 8                        |
+| 6      | HU06          | Alertas de mantemiento                        | Como gerente, quiero recibir alertas de mantenimiento programado para garantizar que el mantenimiento se realice de manera oportuna y evitar problemas inesperados.                             | 5                        |
+| 7      | HU07          | Informar del estado de habitaciones           | Como gerente, quiero ver el estado de las habitaciones para poder revisar si estan listas para su uso despues del proceso de limpieza.                                                          | 5                        |
+| 8      | HU08          | Administrar permisos de los empleados         | Como gerente, quiero gestionar el acceso y permisos de los empleados para garantizar la seguridad y la privacidad de la información del negocio.                                                | 8                        |
+| 9      | HU09          | Programar turnos de trabajo                   | Como gerente, quiero programar turnos de trabajo automáticamente para optimizar la asignación de personal y evitar conflictos de horarios.                                                      | 2                        |
+| 10     | HU10          | Realizar seguimiento de gastos                | Como gerente, quiero poder realizar seguimiento de gastos implementados para controlar los costos y optimizar la rentabilidad del negocio.                                                      | 5                        |
+| 11     | HU11          | Gestionar servicios adicionales               | Como gerente, quiero gestionar la disponibilidad de servicios adicionales para ofrecer una experiencia personalizada y maximizar la satisfacción del cliente.                                   | 3                        |
+| 12     | * HU12        | Notificaciones de comentarios                 | Como gerente, quiero recibir notificaciones de comentarios y opiniones de clientes para responder rápidamente a las necesidades y preocupaciones de los clientes.                               | 2                        |
+| 13     | * HU13        | Crear promociones                             | Como gerente, quiero poder crear promociones y ofertas especiales para atraer a más clientes y aumentar las ventas.                                                                             | 5                        |
+| 14     | HU14          | Registro de proveedores                       | Como gerente, quiero mantener un registro de los proveedores para gestionar eficientemente las relaciones comerciales y los suministros.                                                        | 5                        |
+| 15     | * HU15        | Seguimiento del cliente                       | Como gerente, quiero poder realizar seguimiento de la satisfacción del cliente para identificar áreas de mejora y garantizar una experiencia de calidad.                                        | 5                        |
+| 16     | HU16          | Notificaciones de cambio de agenda            | Como empleado, quiero recibir notificaciones de cambios en mi agenda laboral para estar al tanto de los cambios en mi horario de trabajo y planificar en consecuencia.                          | 8                        |
+| 17     | HU17          | Estado de las habitaciones                    | Como empleado, quiero poder registrar el estado de limpieza de las habitaciones para contribuir al mantenimiento de altos estándares de limpieza y satisfacer las expectativas de los clientes. | 8                        |
+| 18     | HU18          | Información de procedimientos según el caso   | Como empleado, quiero poder acceder a manuales de procedimientos para tener recursos de referencia que me ayuden a realizar mi trabajo de manera efectiva.                                      | 5                        |
+| 19     | HU19          | Registrar el estado de suministros            | Como empleado, quiero poder registrar el estado de los suministros para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento.   | 2                        |
+| 20     | HU20          | Reportar problemas                            | Como empleado, quiero poder reportar incidencias o problemas para informar sobre cualquier problema o situación que afecte mi trabajo o la calidad del servicio.                                | 5                        |
+| 21     | * HU21        | Administrar facturas de servicios             | Como gerente, quiero poder generar facturas para los servicios adicionales para facturar los servicios adicionales proporcionados a los clientes y registrar los ingresos correspondientes.     | 5                        |
+
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines.
@@ -710,7 +712,9 @@ Color Terniario: 6A9CDE y 003785
 <img src="assets\StyleGuidelines\mockupDesktop\menu-desktop-mockup.png" alt="Background Preview web" width="1400" height="900">
 
 
-**Text Styles:** (H1, H2, p, a,)  Nuestros estilos de texto van a depender del color que tengan detras, para colores mas osucros como 003785 se usa EEEEEE para dar contraste, mientras que si es un color claro se usa 00628D para que el color del texto pueda resaltar.
+**Text Styles:** (H1, H2, p, a,)  Nuestros estilos de texto van a depender del color que tengan detras, para colores mas
+osucros como 003785 se usa EEEEEE para dar contraste, mientras que si es un color claro se usa 00628D para que el color
+del texto pueda resaltar.
 
 <img src="assets\StyleGuidelines\mockupDesktop\rooms-text-mockup.png" alt="Text Style Preview web" width="1000" height="600">
 
@@ -724,7 +728,9 @@ Los DropDowns y Switches se implementaran con una menor frequencia sin embargo s
 
 **Icons:** (Fondo blanco con los iconos que vamos a usar)
 
-Los iconos que estaremos usando seran de las redes sociales en el caso de la landing page junto a otros relacionados a los beneficios. Seguidamente, se estaran utilizando menos iconos en la web aplication siendo los mas prominentes la lupa, icono de empleados, tareas cuartos e inventario.
+Los iconos que estaremos usando seran de las redes sociales en el caso de la landing page junto a otros relacionados a
+los beneficios. Seguidamente, se estaran utilizando menos iconos en la web aplication siendo los mas prominentes la
+lupa, icono de empleados, tareas cuartos e inventario.
 
 <img src="assets\StyleGuidelines\mockupDesktop\rooms-icons-mockup.png" alt="Icons Preview web" width="390" height="58">
 
@@ -743,7 +749,8 @@ objetivo paso por paso esto principalmente por las diferentes tareas que puede r
 
 ### 4.2.2. Labeling Systems.
 
-Los lables se usan para representar muchos datos en pocas palabras para este proyecto decidimos que nuestros labels principales son Inventory, Tasks, RoomStates, Messages y Employees
+Los lables se usan para representar muchos datos en pocas palabras para este proyecto decidimos que nuestros labels
+principales son Inventory, Tasks, RoomStates, Messages y Employees
 
 De esta manera sera facil de reconocer y entender
 
@@ -763,7 +770,10 @@ Descripcion: ```<meta name = "description" content = "Controla tus cuartos, empl
 
 **Que se busca?:** El Usuario quiere buscar un empleado en especifico  
 **Que resultados se mostraran?:** Se debe de mostrar el empleado con su codigo y tarea activa
-**Interface de busqueda:** En la seccion de inicio se observara un dashboard con todas las funcionalidades de manera resumida en estilo card, asimismo en un nav bar se encontraran los nombres de las funcionalidades. Adicionalmente en la seccion de empleados se observara una lupa que sera el indicador de la interface de busqueda. cada seccion debe de tener su lupa para poder buscar cuartos, items, empleados o tareas especificas.
+**Interface de busqueda:** En la seccion de inicio se observara un dashboard con todas las funcionalidades de manera
+resumida en estilo card, asimismo en un nav bar se encontraran los nombres de las funcionalidades. Adicionalmente en la
+seccion de empleados se observara una lupa que sera el indicador de la interface de busqueda. cada seccion debe de tener
+su lupa para poder buscar cuartos, items, empleados o tareas especificas.
 
 ### 4.2.5. Navigation Systems.
 
@@ -786,6 +796,7 @@ Mockup es todo lo relacionado al diseño de la pagina
 ### 4.4.1. Web Applications Wireframes.
 
 #### 4.4.1.1 Desktop Wireframes
+
 Menu Wireframe
 
 <img src="assets\WebApplicationsWireframes\desktop\menu-wireframe.png" alt="Menu Wireframe" width="1400" height="1021">
@@ -811,6 +822,7 @@ Employees Wireframe
 <img src="assets\WebApplicationsWireframes\desktop\employees-wireframe.png" alt="Employees Wireframe" width="1400" height="1021">
 
 #### 4.4.1.2 Mobile Wireframes
+
 Menu Wireframe
 
 <img src="assets\WebApplicationsWireframes\mobile\menu-mobile-wireframe.png" alt="Menu Wireframe" width="420" height="900">
@@ -835,26 +847,31 @@ Employees Wireframe
 
 <img src="assets\WebApplicationsWireframes\mobile\employees-mobile-wireframe.png" alt="Employees Wireframe" width="420" height="900">
 
-
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario en la herramienta Figma.
+En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario en la herramienta
+Figma.
 
-Link de Figma:https://www.figma.com/file/zjc0u4ks9Eu23b6k7DoKLU/Figma-basics?type=design&node-id=401-12&mode=design&t=zBdnRH5DDUeap9uP-0
+Link de
+Figma:https://www.figma.com/file/zjc0u4ks9Eu23b6k7DoKLU/Figma-basics?type=design&node-id=401-12&mode=design&t=zBdnRH5DDUeap9uP-0
 
-User Goal: Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones.
+User Goal: Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la
+disponibilidad y asignación de habitaciones.
 
 <img src="https://i.imgur.com/b1bQLzn.png" style="width:60%">  
 
-User Goal: Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros.
+User Goal: Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de
+escasez de suministros.
 <img src="https://i.imgur.com/c01OvZr.png" style="width:60%">
 
-User goal: Como empleado, quiero poder registrar el estado de los suministros para mantener un control preciso del inventario y garantizar que se cuente con los suministros necesarios en todo momento.
+User goal: Como empleado, quiero poder registrar el estado de los suministros para mantener un control preciso del
+inventario y garantizar que se cuente con los suministros necesarios en todo momento.
 <img src="https://i.imgur.com/ITgJQdH.png" style="width:60%">
 
-User goals : Como gerente, quiero poder asignar tareas a los empleados para distribuir eficientemente las responsabilidades y asegurarme de que las tareas se completen de manera oportuna y efectiva.
+User goals : Como gerente, quiero poder asignar tareas a los empleados para distribuir eficientemente las
+responsabilidades y asegurarme de que las tareas se completen de manera oportuna y efectiva.
 <img src="https://i.imgur.com/ZsZ2cFS.png" style="width:60%">
-   
+
 ### 4.4.3. Web Applications Mock-ups.
 
 #### 4.4.3.1 Desktop Mock-ups.
@@ -884,6 +901,7 @@ Employees Mockup
 <img src="assets\WebApplicationsMockups\desktop\employees-mockup.png" alt="Employees mockup" width="1400" height="1021">
 
 #### 4.4.3.2 Mobile Mock-ups.
+
 Diseño en todo aspecto
 
 Menu Mockup
@@ -950,7 +968,8 @@ Se presenta una idea de como se ven los demas user flow diagrams en base a este 
 
 ### 4.7.1. Class Diagrams.
 
-En esta sección, se presentarán los diagramas de clases, en las cuales se representan las clases y sus relaciones en el diseño orientado a objetos.
+En esta sección, se presentarán los diagramas de clases, en las cuales se representan las clases y sus relaciones en el
+diseño orientado a objetos.
 <img src="https://i.imgur.com/NzQy4Oy.png" style="width:60%">
 [Link Database Diagram](https://lucid.app/lucidchart/0a661614-a2e4-42cb-b8a2-73a9bc6b6569/edit?viewport_loc=-1210%2C-676%2C2563%2C2874%2C0_0&invitationId=inv_f0bef7c5-6e84-4e61-9298-6777d0880fb6)
 
@@ -965,9 +984,6 @@ de vista))
 Encapsulation (state es privado porque solo se debe de modificar el estado mas no los valores de estado )
 
 ## 4.8. Database Design.
-
-
-
 
 ### 4.8.1. Database Diagram.
 
@@ -1192,74 +1208,279 @@ del landing page.
 #### 5.2.1.2 Sprint Backlog 1.
 
 En esta secciones se muestra las tareas que se realizaron en el sprint 1, se adjunta la captura del tablero y el link.
-Link del tablero: https://github.com/orgs/upc-pre-20241-si729-wx55-eabmodel/projects/4
+Link del tablero: https://trello.com/invite/b/04LwhMg6/ATTI57ddb6a8fd60366401126bb6e4edfec367B8E3E8/inncontrol-landing
 ![img.png](assets/software-deployment/spring-backlog-1.png)
+
+
+<table> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 1 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+    <tr>
+      <th> EP1-US01 </th>
+     <th colspan="3"> Barra de navegación en la Landing Page </th>
+      <th> W01  </th>
+     <th> Navbar Section  </th>
+     <th> Implementar la navbar con menu de hamburgesa </th>
+     <th> 0.3  </th>
+     <th> Alex Avila </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> EP1-US02 </th>
+     <th colspan="3"> Seccion About US </th>
+      <th> W02  </th>
+     <th> About Us Section  </th>
+     <th> Implementar el contenido about us  </th>
+     <th> 0.3  </th>
+     <th> Alex Avila </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> EP1-US03 </th>
+     <th colspan="3"> Product Info </th>
+      <th> W03  </th>
+     <th> Product Info </th>
+     <th> Implementar información del producto </th>
+     <th>  0.5 </th> 
+     <th> Alex Avila </th>
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> EP1-US04 </th>
+     <th colspan="3"> Informarse sobre los beneficios del producto </th>
+      <th> W04  </th>
+     <th> Product Benefits </th>
+     <th> Apartado donde muestre los beneficios </th>
+     <th> 0.3 </th> 
+     <th> Alex Avila </th>
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> EP1-US05 </th>
+     <th colspan="3"> Conocer los testimonios de los clientes pasados </th>
+      <th> W05  </th>
+     <th> Testimonials Section </th>
+     <th> Vista con testimonios de clientes. </th>
+     <th> 1 </th> 
+     <th> Alex Avila </th>
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> EP1-US06 </th>
+     <th colspan="3"> Informarse sobre los diferentes planes de precio del producto </th>
+      <th> W06  </th>
+     <th> Prices </th>
+     <th> Informacion de precios </th>
+     <th> 1 </th> 
+     <th> Alex Avila </th>
+     <th> Done </th>
+   </tr>
+   <tr>
+<th> EP1-US07 </th>
+     <th colspan="3"> Contactar con la empresa </th>
+      <th> W07  </th>
+     <th> Contact us </th>
+     <th> Formulario de contacto </th>
+     <th> 1 </th> 
+     <th> Alex Avila </th>
+     <th> Done </th>
+   </tr>
+</table>
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
 <table>
-    <thead>
+  <thead>
     <tr>
-        <th>Repository</th>
-        <th>Branch</th>
-        <th>Commit Id</th>
-        <th>Commit Message</th>
-        <th>Commit Message Body</th>
-        <th>Committed on (Date)</th>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committer</th>
+      <th>Committed on (Date)</th>
     </tr>
-    </thead>
-    <tbody>
-    <tr>
-        <td rowspan="1000">landing-page</td>
-    </tr>
-    <tr>
-        <td rowspan="4">develop</td>
-    </tr>
-    <tr>
-        <td> 7afbf0cf4a5aeaea47261be421cce705a46963da</td>
-        <td> Initial commit</td>
-        <td></td>
-        <td> 10/04/2024</td>
-    </tr>
-    <tr>
-        <td> f4b14dd5e8cb4c7431f8377d1a79e22012afe9d9</td>
-        <td> feat: init tailwind framework.</td>
-        <td></td>
-        <td> 10/04/2024 </td>
-    </tr>
-    <tr>
-        <td> 6d54ebb4fdb66947d88017c4ba2d0dd49ed554cb </td>
-        <td> chore: removed unused files. </td>
-        <td></td>
-        <td> 11/04/2024 </td>
-    </tr>
-    <tr>
-        <td rowspan="5">feature/navbar</td>
-    </tr>
-    <tr>
-        <td> 09c36cffa1f500e66a4a76e3c9e9bd127ab95e8e </td>
-        <td> feat: added color to readme.md </td>
-        <td></td>
-        <td> 10/04/2024 </td>
-    </tr>
-    <tr>
-        <td> faba38772a3156daa586c9e51ced9f7b1a439aa4 </td>
-        <td> feat(navbar): added logo and banner to assets/img. </td>
-        <td></td>
-        <td> 10/04/2024 </td>
-    </tr>
-    <tr>
-        <td> 46cd4aa7f6270c2ae2cd6f7ec16fb836f64a57ab </td>
-        <td> feat(navbar): init logo. </td>
-        <td></td>
-        <td> 10/04/2024 </td>
-    </tr>
-    <tr>
-        <td> faba38772a3156daa586c9e51ced9f7b1a439aa4 </td>
-        <td> feat(navbar): added logo and banner to assets/img. </td>
-        <td></td>
-        <td> 10/04/2024 </td>
-    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td rowspan="1000000">inncontrol-landing-page</td>
+  </tr>
+            <tr>
+                <td rowspan="19">feature/about-us</td>
+            </tr>
+                <tr>
+                    <td>c9e478ed9c61de9c22947c5ca5e6ffe753a43736</td>
+                    <td>feat(about-us): finish about us.</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-24T07:08:46Z</td>
+                </tr>
+                <tr>
+                    <td>26bfbecc2619335758a12a763e405b85d96a220a</td>
+                    <td>feat(benefits): finish benefits section.</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-24T06:55:24Z</td>
+                </tr>
+                <tr>
+                    <td>e733b13637d2665bce90cd4cc6ba6d74e64ab324</td>
+                    <td>feat(body): fix img size.</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-24T06:33:31Z</td>
+                </tr>
+                <tr>
+                    <td>eeb80582d720fa6a73afd4da031d7eeeb57b6367</td>
+                    <td>feat(body): implemented body, and buttons.</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-24T06:22:24Z</td>
+                </tr>
+                <tr>
+                    <td>bb9f5bc9158d608a6055222f717f36d99d7c6bc7</td>
+                    <td>feat(navbar): reformat navbar now using vanilla css with bootstrap.</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-24T05:20:16Z</td>
+                </tr>
+                <tr>
+                    <td>6d54ebb4fdb66947d88017c4ba2d0dd49ed554cb</td>
+                    <td>chore: removed unused files.</td>
+                    <td></td>
+                    <td>GitHub</td>
+                    <td>2024-04-11T08:28:27Z</td>
+                </tr>
+                <tr>
+                    <td>810da7f789ef8df9ea58f8e20fd047d0ad97e726</td>
+                    <td>feat(navbar): added sign in blue box in navbar for devices.</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-10T10:02:31Z</td>
+                </tr>
+                <tr>
+                    <td>09d4db0c499e8aa2f8095ed89bc05f9349117bc7</td>
+                    <td>chore: removed unused files.</td>
+                    <td></td>
+                    <td>GitHub</td>
+                    <td>2024-04-10T09:46:39Z</td>
+                </tr>
+                <tr>
+                    <td>767bed94bed1cc3b951331f81655e619434d0347</td>
+                    <td>feat(navbar): added navbar.</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-10T09:44:30Z</td>
+                </tr>
+                <tr>
+                    <td>d3c68956fe1c2e6d191a7437128e6437552c3af3</td>
+                    <td>feat(navbar): import flowbite libary.</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-10T09:44:12Z</td>
+                </tr>
+                <tr>
+                    <td>55b656f9a65cfce29e418b16571a0fe1fb4f4974</td>
+                    <td>feat(navbar): tailwind build.</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-10T09:43:41Z</td>
+                </tr>
+                <tr>
+                    <td>e7ee47fdc7ff227b36809e3a8d500548af9c6681</td>
+                    <td>docs(navbar): added colors info to README.md</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-10T09:43:08Z</td>
+                </tr>
+                <tr>
+                    <td>52aace60ce0d33412a33f869cb04b8764027309d</td>
+                    <td>feat(navbar): import colors to tailwind config.</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-10T09:42:44Z</td>
+                </tr>
+                <tr>
+                    <td>46cd4aa7f6270c2ae2cd6f7ec16fb836f64a57ab</td>
+                    <td>feat(navbar): init logo.</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-10T09:01:35Z</td>
+                </tr>
+                <tr>
+                    <td>faba38772a3156daa586c9e51ced9f7b1a439aa4</td>
+                    <td>feat(navbar): added logo and banner to assets/img.</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-10T09:01:20Z</td>
+                </tr>
+                <tr>
+                    <td>09c36cffa1f500e66a4a76e3c9e9bd127ab95e8e</td>
+                    <td>feat: added color to readme.md</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-10T09:00:54Z</td>
+                </tr>
+                <tr>
+                    <td>f4b14dd5e8cb4c7431f8377d1a79e22012afe9d9</td>
+                    <td>feat: init tailwind framework.</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-10T08:34:04Z</td>
+                </tr>
+                <tr>
+                    <td>7afbf0cf4a5aeaea47261be421cce705a46963da</td>
+                    <td>Initial commit</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-10T08:13:29Z</td>
+                </tr>
+            <tr>
+                <td rowspan="5">feature/contact-us</td>
+            </tr>
+                <tr>
+                    <td>dfe242e68343a8d938bb0426b4d40815cbffac3a</td>
+                    <td>feat(contact-us): contact us form.</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-24T07:59:17Z</td>
+                </tr>
+                <tr>
+                    <td>89ee5ee09a6f2c581634d59fbfc689ace6573382</td>
+                    <td>feat(pricing): finish pricing section.</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-24T07:27:40Z</td>
+                </tr>
+                <tr>
+                    <td>6d928bd41deaf1d59e83a35b730353e41ddbef16</td>
+                    <td>feat(pricing): created section.</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-24T07:20:41Z</td>
+                </tr>
+                <tr>
+                    <td>a1bd4a51c7d9c5e44b9dbd794a71fb98e1d68a9a</td>
+                    <td>feat(testimonials): done</td>
+                    <td></td>
+                    <td>Ryzeon</td>
+                    <td>2024-04-24T07:19:12Z</td>
+                </tr>
     </tbody>
 </table>
 
@@ -1271,6 +1492,7 @@ Al ser un landing page, no se requiere de una suite de pruebas para su desarroll
 
 En esta entrega el equipo de eabmodel logro implementar el landing page, el cual se encuentra en la siguiente URL:
 https://inncontrol.netlify.app/
+![img.png](assets/software-deployment/page-deploy.png)
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -1299,8 +1521,1223 @@ comprueba que no tenga conflictos con la rama principal y se procede a hacer un 
 la rama principal.
 A continuación, se muestra una imagen de la colaboración del equipo en GitHub.
 
-![img.png](assets/software-deployment/github-insights.png)
-![img.png](assets/software-deployment/github-commits.png)
+![img.png](https://i.imgur.com/MZciJpC.png)
+![img.png](https://i.imgur.com/5MJMkJn.png)
+
+## 5.2.2 Spring 2
+
+#### 5.2.2.1 Sprint Planning 2
+
+A continuación, se presentará el sprint planning 1 donde se mostrarán las evidencias de planificación e implementación
+de la appliacion web
+
+**Sprint Backlog 2**
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 2</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 22/04/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 14:00 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Modalidad remota por Discord.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Eabmodel Team
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Todos los miembros del equipo eabmodel.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 1 Review Summary</td>
+            <td> Se implemento el landing page siguiento las historias de usuario y se hizo deploy con Netflify.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 2 Retrospective Summary</td>
+            <td>
+               En este spring trabajaremos en lo que seria es desarrollo de la aplicacion web donde se incluiran las
+               siguiendo las historias de usuario, Asimismo en este spring se trabajara la correction de TB1.
+               Al finalizar este spring tendremos la base de la applicacion web version standalone.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 1 Velocity</td>
+            <td> 96
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story Points</td>
+            <td>  89
+            <td>
+        </tr>
+    </tbody>
+</table>
+
+#### 5.2.2.2 Sprint Backlog 1.
+
+En esta secciones se muestra las tareas que se realizaron en el sprint 2, se adjunta la captura del tablero y el link.
+Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426dcb3b5f6291907BFE60C/inncontrol-frontend
+![img.png](https://i.imgur.com/YACPUsB.jpeg)
+
+
+<table> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 2 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+    <tr>
+      <th> EP3-US01 </th>
+     <th colspan="3"> Actualizar Habitaciones </th>
+      <th> W01  </th>
+     <th> Habitacion Component  </th>
+     <th> Implementar actualizar habitaciones.</th>
+     <th> 1  </th>
+     <th> Sebastian Hoffmann </th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> EP3-US02 </th>
+     <th colspan="3"> Crear tasks</th>
+      <th> W02  </th>
+     <th> Task Component  </th>
+     <th> Implementar creacion de task</th>
+     <th> 1  </th>
+     <th> Sebastian Hoffmann </th> 
+     <th> Done </th>
+   </tr>
+
+   <tr>
+      <th> EP3-US03 </th>
+     <th colspan="3"> Notificaciones Inventario</th>
+      <th> W03  </th>
+     <th> Notificaciones Component  </th>
+     <th> Implementar notificaciones</th>
+     <th> 2  </th>
+     <th> Sebastian Hoffmann </th> 
+     <th> Done </th>
+   </tr>
+
+   <tr>
+      <th> EP3-US04 </th>
+     <th colspan="3"> Informacion de desempeño</th>
+      <th> W04  </th>
+     <th> Component  </th>
+     <th> Implementar informacion desempeño</th>
+     <th> 1  </th>
+     <th> Josue Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+
+<tr>
+      <th> EP3-US05 </th>
+     <th colspan="3"> Listar habitaciones</th>
+      <th> W05  </th>
+     <th> Rooms View  </th>
+     <th> Implementar vista de las habitaciones</th>
+     <th> 0.5  </th>
+     <th> Josue Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+
+<tr>
+      <th> EP3-US06 </th>
+     <th colspan="3"> Alertas mantenimiento</th>
+      <th> W06 </th>
+     <th> Maintenance Alerts  </th>
+     <th> Alertas de mantenimiento </th>
+     <th> 1  </th>
+     <th> Josue Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+
+<tr>
+      <th> EP3-US07 </th>
+     <th colspan="3"> </th>
+      <th> W07  </th>
+     <th> Room State </th>
+     <th> - </th>
+     <th> 1  </th>
+     <th> Josue Hidalgo / Piero Periche </th> 
+     <th> Done </th>
+   </tr>
+
+<tr>
+      <th> EP3-US014 </th>
+     <th colspan="3"> </th>
+      <th> W08 </th>
+     <th> Registro proveedores </th>
+     <th> - </th>
+     <th> 2  </th>
+     <th> Manuel Peña </th> 
+     <th> Done </th>
+   </tr>
+
+<tr>
+      <th> EP3-US014 </th>
+     <th colspan="3"> </th>
+      <th> W08 </th>
+     <th> Programar turnos de trabajo </th>
+     <th> Vista de programacion de turnos </th>
+     <th> 3  </th>
+     <th> Alex Avila </th> 
+     <th> Done </th>
+   </tr>
+
+<tr>
+      <th> EP3-US016 </th>
+     <th colspan="3"> </th>
+      <th> W08 </th>
+     <th> Notificaciones </th>
+     <th> Vista de noticaciones </th>
+     <th> 2  </th>
+     <th> Alex Avila </th> 
+     <th> Done </th>
+   </tr>
+
+<tr>
+      <th> EP3-US018 </th>
+     <th colspan="3"> </th>
+      <th> W08 </th>
+     <th> Informacion de procedimientos </th>
+     <th> - </th>
+     <th> 2  </th>
+     <th> Alex Avila </th> 
+     <th> Done </th>
+   </tr>
+
+<tr>
+      <th> EP3-US020 </th>
+     <th colspan="3"> </th>
+      <th> W08 </th>
+     <th> Reporte de problemas </th>
+     <th> - </th>
+     <th> 1  </th>
+     <th> Alex Avila </th> 
+     <th> Done </th>
+   </tr>
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+A continuación, se presentan los commits realizados en el repositorio de la aplicación web en Github.
+Repositorio en github: https://github.com/upc-pre-20241-si729-wx55-eabmodel/inncontrol-frontend
+
+<table>
+    <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Committed on (Date)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td rowspan="1000000">inncontrol-frontend</td>
+    </tr>
+    <tr>
+        <td rowspan="5">feature/check-room-real-time</td>
+    </tr>
+    <tr>
+        <td>a059e2aa1999ce292f632db58577a47c87fc955c</td>
+        <td>docs(readme): test.</td>
+        <td></td>
+        <td>2024-04-24T03:04:45Z</td>
+    </tr>
+    <tr>
+        <td>3f28bd74cacd157a7f01a02d89c0bd7b7ed4a55b</td>
+        <td>feat(home): added toolbar content in home components</td>
+        <td></td>
+        <td>2024-04-23T17:32:25Z</td>
+    </tr>
+    <tr>
+        <td>e059f22f0ae4cf6cd83a7533dd0f3f3837c9cafe</td>
+        <td>docs(readme): fixed typo in title.</td>
+        <td></td>
+        <td>2024-04-23T01:42:59Z</td>
+    </tr>
+    <tr>
+        <td>7ad50bfbf0d6d7cddd55fce537f033cdaa6e0b73</td>
+        <td>initial commit</td>
+        <td></td>
+        <td>2024-04-23T01:28:17Z</td>
+    </tr>
+    <tr>
+        <td rowspan="5">feature/expense-tracking</td>
+    </tr>
+    <tr>
+        <td>075ad3d399fa806ee265ef8b8405ad3d19536bad</td>
+        <td>refactor(expenses): relocated.</td>
+        <td></td>
+        <td>2024-04-29T10:44:54Z</td>
+    </tr>
+    <tr>
+        <td>4722492ab0fe34a683cc1d97d63b95798b3a1097</td>
+        <td>refactor(performance-report): relocated.</td>
+        <td></td>
+        <td>2024-04-29T08:25:46Z</td>
+    </tr>
+    <tr>
+        <td>afbf7fc24b9655e8718383b60208ebdbbff041a2</td>
+        <td>style(notifications-view): update styles.</td>
+        <td></td>
+        <td>2024-04-29T04:07:12Z</td>
+    </tr>
+    <tr>
+        <td>c00eeed68316a1ee65d3ba2490907485bc30a576</td>
+        <td>refactor(app): organize imports.</td>
+        <td></td>
+        <td>2024-04-29T03:01:11Z</td>
+    </tr>
+    <tr>
+        <td rowspan="10">feature/fake-api</td>
+    </tr>
+    <tr>
+        <td>11d639e7fa2ed703a47d2acaf15085cc773d785c</td>
+        <td>feat(gitignore): untrack fuse_hidden</td>
+        <td></td>
+        <td>2024-04-26T03:35:16Z</td>
+    </tr>
+    <tr>
+        <td>f0e80e2f08c0521d88a9f4f98831808ad13dbe11</td>
+        <td>feat(gitignore): untrack fuse_hidden</td>
+        <td></td>
+        <td>2024-04-26T03:35:10Z</td>
+    </tr>
+    <tr>
+        <td>aba2f29da72d50d7fb5cfc7a1896d2d65e5397b9</td>
+        <td>refactor(routes): refactor routes.</td>
+        <td></td>
+        <td>2024-04-26T03:07:39Z</td>
+    </tr>
+    <tr>
+        <td>8d527e1d856bc561dd4b0635ddbe1ba69ec99df4</td>
+        <td>feat(toolbar): added search content component.</td>
+        <td></td>
+        <td>2024-04-26T03:07:07Z</td>
+    </tr>
+    <tr>
+        <td>d7b46d747f5af0bb937555f2cb6abd17824187cd</td>
+        <td>feat(pages): added room state page.</td>
+        <td></td>
+        <td>2024-04-26T03:06:50Z</td>
+    </tr>
+    <tr>
+        <td>3c10fa226a1c0316e85a74f785697acfdf06044c</td>
+        <td>feat(pages): added messages page.</td>
+        <td></td>
+        <td>2024-04-26T03:06:40Z</td>
+    </tr>
+    <tr>
+        <td>6c979b50ca218eac5496158cb409d8c14f5c8813</td>
+        <td>feat(pages): added employees page.</td>
+        <td></td>
+        <td>2024-04-26T03:06:33Z</td>
+    </tr>
+    <tr>
+        <td>7d114501cc76afc08c67718d20cb177093a6f27e</td>
+        <td>feat(pages): added task page.</td>
+        <td></td>
+        <td>2024-04-26T03:06:24Z</td>
+    </tr>
+    <tr>
+        <td>7bea1b14dc691fee0f9ce25329dbc44e2f21249e</td>
+        <td>refactor(index): change page title.</td>
+        <td></td>
+        <td>2024-04-26T02:15:37Z</td>
+    </tr>
+    <tr>
+        <td rowspan="5">feature/inventory-page-add-item</td>
+    </tr>
+    <tr>
+        <td>b9556c932e3fbe14ed4bab3f5992ec26f4f3d02b</td>
+        <td>refactor(inventory-add-item): relocated to supply bounded context.</td>
+        <td></td>
+        <td>2024-04-29T02:56:13Z</td>
+    </tr>
+    <tr>
+        <td>64630eb5880c2dd4d29808a483fbad3e372a145a</td>
+        <td>refactor(inventory-content): relocated to supply bounded context.</td>
+        <td></td>
+        <td>2024-04-29T02:53:47Z</td>
+    </tr>
+    <tr>
+        <td>4f8f37e9a112c49bc5f75c52811e774c021cd9ec</td>
+        <td>refactor(app): organize imports.</td>
+        <td></td>
+        <td>2024-04-29T02:48:23Z</td>
+    </tr>
+    <tr>
+        <td>c2f0c6de5909209102e7059ceb2df23b005c1e6d</td>
+        <td>fix(inventory-table): added filter styles</td>
+        <td></td>
+        <td>2024-04-28T17:32:04Z</td>
+    </tr>
+    <tr>
+        <td rowspan="8">feature/inventory-page-content</td>
+    </tr>
+    <tr>
+        <td>64630eb5880c2dd4d29808a483fbad3e372a145a</td>
+        <td>refactor(inventory-content): relocated to supply bounded context.</td>
+        <td></td>
+        <td>2024-04-29T02:53:47Z</td>
+    </tr>
+    <tr>
+        <td>9b54e96ae5f283540748ee20189ced032632f13c</td>
+        <td>feat(inventory): added inventory-content page component</td>
+        <td></td>
+        <td>2024-04-24T23:28:12Z</td>
+    </tr>
+    <tr>
+        <td>5a47c92710a8ab8d8994874d528b59fc21ef1959</td>
+        <td>feat(inventory): added inventory-content page component</td>
+        <td></td>
+        <td>2024-04-24T23:15:42Z</td>
+    </tr>
+    <tr>
+        <td>a059e2aa1999ce292f632db58577a47c87fc955c</td>
+        <td>docs(readme): test.</td>
+        <td></td>
+        <td>2024-04-24T03:04:45Z</td>
+    </tr>
+    <tr>
+        <td>3f28bd74cacd157a7f01a02d89c0bd7b7ed4a55b</td>
+        <td>feat(home): added toolbar content in home components</td>
+        <td></td>
+        <td>2024-04-23T17:32:25Z</td>
+    </tr>
+    <tr>
+        <td>e059f22f0ae4cf6cd83a7533dd0f3f3837c9cafe</td>
+        <td>docs(readme): fixed typo in title.</td>
+        <td></td>
+        <td>2024-04-23T01:42:59Z</td>
+    </tr>
+    <tr>
+        <td>7ad50bfbf0d6d7cddd55fce537f033cdaa6e0b73</td>
+        <td>initial commit</td>
+        <td></td>
+        <td>2024-04-23T01:28:17Z</td>
+    </tr>
+    <tr>
+        <td rowspan="11">feature/page-routing</td>
+    </tr>
+    <tr>
+        <td>aba2f29da72d50d7fb5cfc7a1896d2d65e5397b9</td>
+        <td>refactor(routes): refactor routes.</td>
+        <td></td>
+        <td>2024-04-26T03:07:39Z</td>
+    </tr>
+    <tr>
+        <td>8d527e1d856bc561dd4b0635ddbe1ba69ec99df4</td>
+        <td>feat(toolbar): added search content component.</td>
+        <td></td>
+        <td>2024-04-26T03:07:07Z</td>
+    </tr>
+    <tr>
+        <td>d7b46d747f5af0bb937555f2cb6abd17824187cd</td>
+        <td>feat(pages): added room state page.</td>
+        <td></td>
+        <td>2024-04-26T03:06:50Z</td>
+    </tr>
+    <tr>
+        <td>3c10fa226a1c0316e85a74f785697acfdf06044c</td>
+        <td>feat(pages): added messages page.</td>
+        <td></td>
+        <td>2024-04-26T03:06:40Z</td>
+    </tr>
+    <tr>
+        <td>6c979b50ca218eac5496158cb409d8c14f5c8813</td>
+        <td>feat(pages): added employees page.</td>
+        <td></td>
+        <td>2024-04-26T03:06:33Z</td>
+    </tr>
+    <tr>
+        <td>7d114501cc76afc08c67718d20cb177093a6f27e</td>
+        <td>feat(pages): added task page.</td>
+        <td></td>
+        <td>2024-04-26T03:06:24Z</td>
+    </tr>
+    <tr>
+        <td>7bea1b14dc691fee0f9ce25329dbc44e2f21249e</td>
+        <td>refactor(index): change page title.</td>
+        <td></td>
+        <td>2024-04-26T02:15:37Z</td>
+    </tr>
+    <tr>
+        <td>8f4b403caef2b60c9f52bd10929ae6af394d3d6f</td>
+        <td>feat(toolbar-logo): added logo and render in toolbar component.</td>
+        <td></td>
+        <td>2024-04-26T02:15:11Z</td>
+    </tr>
+    <tr>
+        <td>6ce2f55661bc40dbde7b716fcb5509832c281296</td>
+        <td>feat(routing): crated base routes.</td>
+        <td></td>
+        <td>2024-04-26T01:54:10Z</td>
+    </tr>
+    <tr>
+        <td>e00dac440c2f445f482139ecf1ddab028df916bb</td>
+        <td>feat(home-page): init home page.</td>
+        <td></td>
+        <td>2024-04-26T01:53:48Z</td>
+    </tr>
+    <tr>
+        <td rowspan="9">feature/pages-implementation</td>
+    </tr>
+    <tr>
+        <td>71aa8cb49a42f4c46766db4e44e6eaa9967a8bc3</td>
+        <td>feat(404): page not found.</td>
+        <td></td>
+        <td>2024-04-29T07:40:46Z</td>
+    </tr>
+    <tr>
+        <td>c84835e8fd4b3be80610782fcfd91823dad8a5e0</td>
+        <td>feat(messages-page): implemented report form view.</td>
+        <td></td>
+        <td>2024-04-29T04:06:17Z</td>
+    </tr>
+    <tr>
+        <td>683432c2ce98d297548500e16baa65982aa239b9</td>
+        <td>feat(task-page): implemented task view.</td>
+        <td></td>
+        <td>2024-04-29T03:59:41Z</td>
+    </tr>
+    <tr>
+        <td>930c312497164bb9ef63bfab11cf0763c6a93a46</td>
+        <td>feat(inventory-page): implemented inventory view.</td>
+        <td></td>
+        <td>2024-04-29T03:55:37Z</td>
+    </tr>
+    <tr>
+        <td>5bc2ffd828cf14fbabdc4b96b1811c3cd1627228</td>
+        <td>feat(inventory-page): added inventory component into routing.</td>
+        <td></td>
+        <td>2024-04-29T03:55:20Z</td>
+    </tr>
+    <tr>
+        <td>cb6da50de53c31423c5193612d6361391b23bcf8</td>
+        <td>feat(inventory-page): added inventory page routing.</td>
+        <td></td>
+        <td>2024-04-29T03:54:55Z</td>
+    </tr>
+    <tr>
+        <td>c00eeed68316a1ee65d3ba2490907485bc30a576</td>
+        <td>refactor(app): organize imports.</td>
+        <td></td>
+        <td>2024-04-29T03:01:11Z</td>
+    </tr>
+    <tr>
+        <td>b9556c932e3fbe14ed4bab3f5992ec26f4f3d02b</td>
+        <td>refactor(inventory-add-item): relocated to supply bounded context.</td>
+        <td></td>
+        <td>2024-04-29T02:56:13Z</td>
+    </tr>
+    <tr>
+        <td rowspan="5">feature/performance-report</td>
+    </tr>
+    <tr>
+        <td>4722492ab0fe34a683cc1d97d63b95798b3a1097</td>
+        <td>refactor(performance-report): relocated.</td>
+        <td></td>
+        <td>2024-04-29T08:25:46Z</td>
+    </tr>
+    <tr>
+        <td>afbf7fc24b9655e8718383b60208ebdbbff041a2</td>
+        <td>style(notifications-view): update styles.</td>
+        <td></td>
+        <td>2024-04-29T04:07:12Z</td>
+    </tr>
+    <tr>
+        <td>c00eeed68316a1ee65d3ba2490907485bc30a576</td>
+        <td>refactor(app): organize imports.</td>
+        <td></td>
+        <td>2024-04-29T03:01:11Z</td>
+    </tr>
+    <tr>
+        <td>b9556c932e3fbe14ed4bab3f5992ec26f4f3d02b</td>
+        <td>refactor(inventory-add-item): relocated to supply bounded context.</td>
+        <td></td>
+        <td>2024-04-29T02:56:13Z</td>
+    </tr>
+    <tr>
+        <td rowspan="9">feature/procedures-information</td>
+    </tr>
+    <tr>
+        <td>a21d0861c265dce97aaa84e3e490745584b0df1a</td>
+        <td>fix(start.sh):corrected server startup errors</td>
+        <td></td>
+        <td>2024-04-25T05:43:41Z</td>
+    </tr>
+    <tr>
+        <td>806a356803c0b2bcf971d4c2db7e4045b54a5055</td>
+        <td>feat(base.service):added data base service</td>
+        <td></td>
+        <td>2024-04-25T05:43:41Z</td>
+    </tr>
+    <tr>
+        <td>c52e71aeb7e1c77ff76f75c830ba892a5366ffad</td>
+        <td>chore: unused.</td>
+        <td></td>
+        <td>2024-04-25T05:43:41Z</td>
+    </tr>
+    <tr>
+        <td>2e1ec9e19852647214b67a175f4fe206b1967903</td>
+        <td>chore: unused.</td>
+        <td></td>
+        <td>2024-04-25T05:43:41Z</td>
+    </tr>
+    <tr>
+        <td>5054bd6805866b26a472961c6650e48bbbc24a6a</td>
+        <td>chore: unused files.</td>
+        <td></td>
+        <td>2024-04-25T05:43:41Z</td>
+    </tr>
+    <tr>
+        <td>9b54e96ae5f283540748ee20189ced032632f13c</td>
+        <td>feat(inventory): added inventory-content page component</td>
+        <td></td>
+        <td>2024-04-24T23:28:12Z</td>
+    </tr>
+    <tr>
+        <td>5a47c92710a8ab8d8994874d528b59fc21ef1959</td>
+        <td>feat(inventory): added inventory-content page component</td>
+        <td></td>
+        <td>2024-04-24T23:15:42Z</td>
+    </tr>
+    <tr>
+        <td>cf84cd42ce4b8b84fac738d1f2ba12dd56527f16</td>
+        <td>fix(start.sh):corrected server startup errors</td>
+        <td></td>
+        <td>2024-04-24T22:35:21Z</td>
+    </tr>
+    <tr>
+        <td rowspan="9">feature/report-problems</td>
+    </tr>
+    <tr>
+        <td>7ff1acac8ee80bf0b8dff955182c0591c077b8d9</td>
+        <td>feat(report-api): handle api service error in a snackbar.</td>
+        <td></td>
+        <td>2024-04-25T19:20:31Z</td>
+    </tr>
+    <tr>
+        <td>220a70a4c5a1ef1db55758f63e83b0a68a5d741f</td>
+        <td>fix: imports.</td>
+        <td></td>
+        <td>2024-04-25T09:55:08Z</td>
+    </tr>
+    <tr>
+        <td>60f16053bce6e2afa9887e80ba8a05b9b980eff6</td>
+        <td>feat(report-api): done implemented fake-api with reports.</td>
+        <td></td>
+        <td>2024-04-25T09:53:29Z</td>
+    </tr>
+    <tr>
+        <td>97bce4940479bd567fde0f9b0b32dcab28e924db</td>
+        <td>feat(report-api): implemented base service into report-api service.</td>
+        <td></td>
+        <td>2024-04-25T09:52:15Z</td>
+    </tr>
+    <tr>
+        <td>a185b6b7882381e5d51757cbf951985e1dc65850</td>
+        <td>feat(report-entity): created report entity.</td>
+        <td></td>
+        <td>2024-04-25T09:51:57Z</td>
+    </tr>
+    <tr>
+        <td>d4e6367a68fa17bada678c518ef8632e9bc90b45</td>
+        <td>feat(report): added reports fake end-point.</td>
+        <td></td>
+        <td>2024-04-25T09:35:16Z</td>
+    </tr>
+    <tr>
+        <td>a940788b72eb73ba9e239fb8dd0cbfc43b276008</td>
+        <td>chore: remove unused import.</td>
+        <td></td>
+        <td>2024-04-25T08:57:29Z</td>
+    </tr>
+    <tr>
+        <td>ab52fa1b83a3906374b990d6758d43735eef7aaf</td>
+        <td>feat(report-form): added snackbar.</td>
+        <td></td>
+        <td>2024-04-25T08:56:49Z</td>
+    </tr>
+    <tr>
+        <td rowspan="11">feature/room-status</td>
+    </tr>
+    <tr>
+        <td>bf55547afd3f6e679973416a3a59b76719c90039</td>
+        <td>refactor(room-status): relocated.</td>
+        <td></td>
+        <td>2024-04-29T08:45:21Z</td>
+    </tr>
+    <tr>
+        <td>6d4675e9c374aeeb38ef1793380bf295768f3e71</td>
+        <td>stle(room-reports):change size-fount of title</td>
+        <td></td>
+        <td>2024-04-29T01:45:30Z</td>
+    </tr>
+    <tr>
+        <td>3862509f44d82bdaf8096d33521ee66600164cd1</td>
+        <td>fix(room-reports):fix error title</td>
+        <td></td>
+        <td>2024-04-29T01:29:29Z</td>
+    </tr>
+    <tr>
+        <td>fbae3e5652995bffca7dcbc25db6e3385f1b3407</td>
+        <td>feat(room.entity):add new entity</td>
+        <td></td>
+        <td>2024-04-29T01:25:19Z</td>
+    </tr>
+    <tr>
+        <td>1e2c19a9ee1003f2ce65246ce2ae059b0fba9b0a</td>
+        <td>feat(app.module):add new imports</td>
+        <td></td>
+        <td>2024-04-29T01:25:05Z</td>
+    </tr>
+    <tr>
+        <td>57d9b54e48520dd8c1e65af082f8140d64a9f419</td>
+        <td>feat(room-create-dialog):add new component</td>
+        <td></td>
+        <td>2024-04-29T01:24:39Z</td>
+    </tr>
+    <tr>
+        <td>de316d4ec9c697b4b84975ceff039fcfcf22b623</td>
+        <td>feat(room-reports-component):add new component.Shows all rooms in all their states.</td>
+        <td></td>
+        <td>2024-04-29T01:24:20Z</td>
+    </tr>
+    <tr>
+        <td>ee9a2afeeac4bae908b6ce6af951c48b88d902d6</td>
+        <td>feat(room-creation-component):add new component.It is in charge of the creation of rooms</td>
+        <td></td>
+        <td>2024-04-29T01:23:00Z</td>
+    </tr>
+    <tr>
+        <td>3d43fe541e753482de1e2afb33b140b09bf33aa6</td>
+        <td>feat(app.component):add new component</td>
+        <td></td>
+        <td>2024-04-28T18:19:13Z</td>
+    </tr>
+    <tr>
+        <td>63589049ef53cc0abcfba67eec545881b3d0400f</td>
+        <td>feat(performance-report): created new component which shows the performance of the users with respect to the
+            tasks
+        </td>
+        <td></td>
+        <td>2024-04-28T18:18:35Z</td>
+    </tr>
+    <tr>
+        <td rowspan="11">feature/schedule-notifications</td>
+    </tr>
+    <tr>
+        <td>afbf7fc24b9655e8718383b60208ebdbbff041a2</td>
+        <td>style(notifications-view): update styles.</td>
+        <td></td>
+        <td>2024-04-29T04:07:12Z</td>
+    </tr>
+    <tr>
+        <td>e5b6e4f664770bf3e4fd65cd15733ed097126d8f</td>
+        <td>refactor(notifications-card): done notifications card.</td>
+        <td></td>
+        <td>2024-04-28T09:55:10Z</td>
+    </tr>
+    <tr>
+        <td>b3a212d83f0178cf65673bce03a3161bda8ac45a</td>
+        <td>refactor(notifications-view): show notifications as card.</td>
+        <td></td>
+        <td>2024-04-28T09:54:48Z</td>
+    </tr>
+    <tr>
+        <td>e9467fdff4d189daa5be3b812e81e68d28fdff67</td>
+        <td>refactor(notifications-badge): refactor notifications service usage.</td>
+        <td></td>
+        <td>2024-04-27T00:53:51Z</td>
+    </tr>
+    <tr>
+        <td>4b058c528ac7c610b25b262568d0576bd88527af</td>
+        <td>chore(renamed): renamed notifications view component.</td>
+        <td></td>
+        <td>2024-04-27T00:53:21Z</td>
+    </tr>
+    <tr>
+        <td>c18cc0916670ef53cfde4523b9b7a8dc8ee4355f</td>
+        <td>feat(notifications-view): added close button, and text about notifications.</td>
+        <td></td>
+        <td>2024-04-27T00:52:20Z</td>
+    </tr>
+    <tr>
+        <td>bc724529e2e400815d6703d10899f49bfafa4d15</td>
+        <td>feat(notifications-service): added notification service.</td>
+        <td></td>
+        <td>2024-04-27T00:51:59Z</td>
+    </tr>
+    <tr>
+        <td>1eae5a0607c93df3a0d58939e9695cc8fb03d6b3</td>
+        <td>feat(notifications-badge): open notifications dialog, and parse notifications.</td>
+        <td></td>
+        <td>2024-04-26T22:39:46Z</td>
+    </tr>
+    <tr>
+        <td>5d0dba016277cbbdc3ffd203d19ed7fa3282b6e7</td>
+        <td>feat(toolbar): render notifications badge.</td>
+        <td></td>
+        <td>2024-04-26T22:34:00Z</td>
+    </tr>
+    <tr>
+        <td>487d5b2cbc50da2a5485ea3df9ea22bc0d528bc0</td>
+        <td>feat(notifications-badge): created notification badge using mat badge and mat icons.</td>
+        <td></td>
+        <td>2024-04-26T22:33:45Z</td>
+    </tr>
+    <tr>
+        <td rowspan="10">feature/schedule-work-shifts</td>
+    </tr>
+    <tr>
+        <td>0ed7b575f5905aa7ef327fc8a23da88e5d73a16c</td>
+        <td>feat(schedule-view): added schedule component</td>
+        <td></td>
+        <td>2024-04-26T05:51:36Z</td>
+    </tr>
+    <tr>
+        <td>fdc3ab20bf76b2833c354632ea6b156e2566c044</td>
+        <td>feat(schedule-view): init scheduled view component.</td>
+        <td></td>
+        <td>2024-04-26T02:40:44Z</td>
+    </tr>
+    <tr>
+        <td>53a3b2605b760826fed33fc499de0282d8598893</td>
+        <td>feat(schedule-entity): added schedule entity model.</td>
+        <td></td>
+        <td>2024-04-26T02:40:05Z</td>
+    </tr>
+    <tr>
+        <td>0b13ba78a2757c6930aec26beb2d33e14b66633b</td>
+        <td>feat(schedule-service): added schedule service.</td>
+        <td></td>
+        <td>2024-04-26T02:39:25Z</td>
+    </tr>
+    <tr>
+        <td>a21d0861c265dce97aaa84e3e490745584b0df1a</td>
+        <td>fix(start.sh):corrected server startup errors</td>
+        <td></td>
+        <td>2024-04-25T05:43:41Z</td>
+    </tr>
+    <tr>
+        <td>806a356803c0b2bcf971d4c2db7e4045b54a5055</td>
+        <td>feat(base.service):added data base service</td>
+        <td></td>
+        <td>2024-04-25T05:43:41Z</td>
+    </tr>
+    <tr>
+        <td>c52e71aeb7e1c77ff76f75c830ba892a5366ffad</td>
+        <td>chore: unused.</td>
+        <td></td>
+        <td>2024-04-25T05:43:41Z</td>
+    </tr>
+    <tr>
+        <td>2e1ec9e19852647214b67a175f4fe206b1967903</td>
+        <td>chore: unused.</td>
+        <td></td>
+        <td>2024-04-25T05:43:41Z</td>
+    </tr>
+    <tr>
+        <td>5054bd6805866b26a472961c6650e48bbbc24a6a</td>
+        <td>chore: unused files.</td>
+        <td></td>
+        <td>2024-04-25T05:43:41Z</td>
+    </tr>
+    <tr>
+        <td rowspan="10">feature/state-room</td>
+    </tr>
+    <tr>
+        <td>6fadda4c36581f535581e569ef3cd360a8ca488c</td>
+        <td>fix(room-component):correction import service</td>
+        <td></td>
+        <td>2024-04-26T02:45:52Z</td>
+    </tr>
+    <tr>
+        <td>51575bd54b432a7407c0c58ccecab1ca54ca84c5</td>
+        <td>feat(app.module):add new modules</td>
+        <td></td>
+        <td>2024-04-26T02:45:01Z</td>
+    </tr>
+    <tr>
+        <td>f88609486195feb7e47aaf3e66c79be041e2232b</td>
+        <td>feat(state-entity):creation of the room-entity</td>
+        <td></td>
+        <td>2024-04-26T02:43:07Z</td>
+    </tr>
+    <tr>
+        <td>95058ea027ed75d7e4362e5003b35c23cae0bd43</td>
+        <td>feat(state-room):creation of the room-state component</td>
+        <td></td>
+        <td>2024-04-26T02:42:19Z</td>
+    </tr>
+    <tr>
+        <td>1f44b048b1a5afc1b855d458362e4fe5f6ee0378</td>
+        <td>feat(room-service):creation of the room-api-service</td>
+        <td></td>
+        <td>2024-04-26T02:41:30Z</td>
+    </tr>
+    <tr>
+        <td>cf9ef6fa5f3d954cd7b075af742c431fd99ad7d3</td>
+        <td>feat(room-entity):creation of the room entity</td>
+        <td></td>
+        <td>2024-04-26T02:40:54Z</td>
+    </tr>
+    <tr>
+        <td>cf84cd42ce4b8b84fac738d1f2ba12dd56527f16</td>
+        <td>fix(start.sh):corrected server startup errors</td>
+        <td></td>
+        <td>2024-04-24T22:35:21Z</td>
+    </tr>
+    <tr>
+        <td>0aa6314d17c2ab85c32bde6ff25291a38edb6636</td>
+        <td>feat(base.service):added data base service</td>
+        <td></td>
+        <td>2024-04-24T22:34:48Z</td>
+    </tr>
+    <tr>
+        <td>1af645c799df80c951cee0051af4587936fd44bc</td>
+        <td>chore: unused.</td>
+        <td></td>
+        <td>2024-04-24T03:15:13Z</td>
+    </tr>
+    <tr>
+        <td rowspan="11">feature/state-room-live</td>
+    </tr>
+    <tr>
+        <td>e7e0a4d63d431452d24f0df0deecb671f16e80ee</td>
+        <td>fix(room-state-live):adds a component that shows the rooms that are currently occupied</td>
+        <td></td>
+        <td>2024-04-26T16:47:03Z</td>
+    </tr>
+    <tr>
+        <td>6fadda4c36581f535581e569ef3cd360a8ca488c</td>
+        <td>fix(room-component):correction import service</td>
+        <td></td>
+        <td>2024-04-26T02:45:52Z</td>
+    </tr>
+    <tr>
+        <td>51575bd54b432a7407c0c58ccecab1ca54ca84c5</td>
+        <td>feat(app.module):add new modules</td>
+        <td></td>
+        <td>2024-04-26T02:45:01Z</td>
+    </tr>
+    <tr>
+        <td>f88609486195feb7e47aaf3e66c79be041e2232b</td>
+        <td>feat(state-entity):creation of the room-entity</td>
+        <td></td>
+        <td>2024-04-26T02:43:07Z</td>
+    </tr>
+    <tr>
+        <td>95058ea027ed75d7e4362e5003b35c23cae0bd43</td>
+        <td>feat(state-room):creation of the room-state component</td>
+        <td></td>
+        <td>2024-04-26T02:42:19Z</td>
+    </tr>
+    <tr>
+        <td>1f44b048b1a5afc1b855d458362e4fe5f6ee0378</td>
+        <td>feat(room-service):creation of the room-api-service</td>
+        <td></td>
+        <td>2024-04-26T02:41:30Z</td>
+    </tr>
+    <tr>
+        <td>cf9ef6fa5f3d954cd7b075af742c431fd99ad7d3</td>
+        <td>feat(room-entity):creation of the room entity</td>
+        <td></td>
+        <td>2024-04-26T02:40:54Z</td>
+    </tr>
+    <tr>
+        <td>cf84cd42ce4b8b84fac738d1f2ba12dd56527f16</td>
+        <td>fix(start.sh):corrected server startup errors</td>
+        <td></td>
+        <td>2024-04-24T22:35:21Z</td>
+    </tr>
+    <tr>
+        <td>0aa6314d17c2ab85c32bde6ff25291a38edb6636</td>
+        <td>feat(base.service):added data base service</td>
+        <td></td>
+        <td>2024-04-24T22:34:48Z</td>
+    </tr>
+    <tr>
+        <td>1af645c799df80c951cee0051af4587936fd44bc</td>
+        <td>chore: unused.</td>
+        <td></td>
+        <td>2024-04-24T03:15:13Z</td>
+    </tr>
+    <tr>
+        <td rowspan="11">feature/supply-status</td>
+    </tr>
+    <tr>
+        <td>d42c101b696a27a002079e7135c5d0259c8c13bd</td>
+        <td>chore(supply-status): remove unused component.</td>
+        <td></td>
+        <td>2024-04-29T02:27:13Z</td>
+    </tr>
+    <tr>
+        <td>0163f446d95047d1dd8aaacb53be5ffb22c9c5dd</td>
+        <td>feat(supply-status-live): added supply status live component</td>
+        <td></td>
+        <td>2024-04-28T22:18:27Z</td>
+    </tr>
+    <tr>
+        <td>4025d70597834a0d24f6359305d8abbcc91a262a</td>
+        <td>feat(supply-status): added supply status component</td>
+        <td></td>
+        <td>2024-04-28T22:18:15Z</td>
+    </tr>
+    <tr>
+        <td>13bdcdb25028a28bce5f9525966acdc2fe4d834c</td>
+        <td>feat(service): added supply service</td>
+        <td></td>
+        <td>2024-04-28T22:17:51Z</td>
+    </tr>
+    <tr>
+        <td>b28766fd34bf659a9bc6c320e5d105b2f874068c</td>
+        <td>feat(module): added imports and declarations</td>
+        <td></td>
+        <td>2024-04-28T22:17:05Z</td>
+    </tr>
+    <tr>
+        <td>8b4b227ecbcd5c4b8d3bee4328b6a17b8b955c28</td>
+        <td>feat(supply-entity): added supply entity</td>
+        <td></td>
+        <td>2024-04-28T22:16:07Z</td>
+    </tr>
+    <tr>
+        <td>11d639e7fa2ed703a47d2acaf15085cc773d785c</td>
+        <td>feat(gitignore): untrack fuse_hidden</td>
+        <td></td>
+        <td>2024-04-26T03:35:16Z</td>
+    </tr>
+    <tr>
+        <td>aba2f29da72d50d7fb5cfc7a1896d2d65e5397b9</td>
+        <td>refactor(routes): refactor routes.</td>
+        <td></td>
+        <td>2024-04-26T03:07:39Z</td>
+    </tr>
+    <tr>
+        <td>8d527e1d856bc561dd4b0635ddbe1ba69ec99df4</td>
+        <td>feat(toolbar): added search content component.</td>
+        <td></td>
+        <td>2024-04-26T03:07:07Z</td>
+    </tr>
+    <tr>
+        <td>d7b46d747f5af0bb937555f2cb6abd17824187cd</td>
+        <td>feat(pages): added room state page.</td>
+        <td></td>
+        <td>2024-04-26T03:06:50Z</td>
+    </tr>
+    <tr>
+        <td rowspan="7">feature/task-creation</td>
+    </tr>
+    <tr>
+        <td>51abdd6b1bee2a913816b9d0d9b37eb9c5083a9f</td>
+        <td>chore(display): deleted unused files</td>
+        <td></td>
+        <td>2024-04-28T16:44:38Z</td>
+    </tr>
+    <tr>
+        <td>2ad5df61f4ef1e3e41086924fc735069e1c136b3</td>
+        <td>fix(display): made the corrections to the table and methods including the process</td>
+        <td></td>
+        <td>2024-04-28T16:36:06Z</td>
+    </tr>
+    <tr>
+        <td>e5b6e4f664770bf3e4fd65cd15733ed097126d8f</td>
+        <td>refactor(notifications-card): done notifications card.</td>
+        <td></td>
+        <td>2024-04-28T09:55:10Z</td>
+    </tr>
+    <tr>
+        <td>b3a212d83f0178cf65673bce03a3161bda8ac45a</td>
+        <td>refactor(notifications-view): show notifications as card.</td>
+        <td></td>
+        <td>2024-04-28T09:54:48Z</td>
+    </tr>
+    <tr>
+        <td>9584b7d3412b3e194cea636d6ae1e32ed8dfdb32</td>
+        <td>fix(display): task table</td>
+        <td></td>
+        <td>2024-04-28T06:18:02Z</td>
+    </tr>
+    <tr>
+        <td>cbe09a15bbb112038d08faa4f685c5dc2bb2f281</td>
+        <td>fix(display): added task table component with task create</td>
+        <td></td>
+        <td>2024-04-28T04:56:37Z</td>
+    </tr>
+    <tr>
+        <td rowspan="8">feature/task-table</td>
+    </tr>
+    <tr>
+        <td>550e5cf0bd7519c72a9bda087363eb6cfbcab4b4</td>
+        <td>fix(display): added task table component</td>
+        <td></td>
+        <td>2024-04-25T01:35:43Z</td>
+    </tr>
+    <tr>
+        <td>9b54e96ae5f283540748ee20189ced032632f13c</td>
+        <td>feat(inventory): added inventory-content page component</td>
+        <td></td>
+        <td>2024-04-24T23:28:12Z</td>
+    </tr>
+    <tr>
+        <td>5a47c92710a8ab8d8994874d528b59fc21ef1959</td>
+        <td>feat(inventory): added inventory-content page component</td>
+        <td></td>
+        <td>2024-04-24T23:15:42Z</td>
+    </tr>
+    <tr>
+        <td>a059e2aa1999ce292f632db58577a47c87fc955c</td>
+        <td>docs(readme): test.</td>
+        <td></td>
+        <td>2024-04-24T03:04:45Z</td>
+    </tr>
+    <tr>
+        <td>3f28bd74cacd157a7f01a02d89c0bd7b7ed4a55b</td>
+        <td>feat(home): added toolbar content in home components</td>
+        <td></td>
+        <td>2024-04-23T17:32:25Z</td>
+    </tr>
+    <tr>
+        <td>e059f22f0ae4cf6cd83a7533dd0f3f3837c9cafe</td>
+        <td>docs(readme): fixed typo in title.</td>
+        <td></td>
+        <td>2024-04-23T01:42:59Z</td>
+    </tr>
+    <tr>
+        <td>7ad50bfbf0d6d7cddd55fce537f033cdaa6e0b73</td>
+        <td>initial commit</td>
+        <td></td>
+        <td>2024-04-23T01:28:17Z</td>
+    </tr>
+    <tr>
+        <td rowspan="6">feature/update-rooms</td>
+    </tr>
+    <tr>
+        <td>afbf7fc24b9655e8718383b60208ebdbbff041a2</td>
+        <td>style(notifications-view): update styles.</td>
+        <td></td>
+        <td>2024-04-29T04:07:12Z</td>
+    </tr>
+    <tr>
+        <td>c00eeed68316a1ee65d3ba2490907485bc30a576</td>
+        <td>refactor(app): organize imports.</td>
+        <td></td>
+        <td>2024-04-29T03:01:11Z</td>
+    </tr>
+    <tr>
+        <td>b9556c932e3fbe14ed4bab3f5992ec26f4f3d02b</td>
+        <td>refactor(inventory-add-item): relocated to supply bounded context.</td>
+        <td></td>
+        <td>2024-04-29T02:56:13Z</td>
+    </tr>
+    <tr>
+        <td>64630eb5880c2dd4d29808a483fbad3e372a145a</td>
+        <td>refactor(inventory-content): relocated to supply bounded context.</td>
+        <td></td>
+        <td>2024-04-29T02:53:47Z</td>
+    </tr>
+    <tr>
+        <td>4f8f37e9a112c49bc5f75c52811e774c021cd9ec</td>
+        <td>refactor(app): organize imports.</td>
+        <td></td>
+        <td>2024-04-29T02:48:23Z</td>
+    </tr>
+    </tbody>
+</table>
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+En el alcance del sprint 2 se ha desarrollado el frontend de la aplicación web, por lo tanto no tenemos testing.
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+A continuacion se mostraran capturas del avance de la aplicacion web avanzada en el sprint 2.
+
+Para el deploy de esta se uso netlify.
+
+![img.png](https://i.imgur.com/DDAAm5i.png)
+
+Web app deploy: URL https://inncontrolapp.netlify.app/inventory
+
+Notificaciones
+![img.png](https://i.imgur.com/683N4w1.png)
+
+Inventario
+![img.png](https://i.imgur.com/3PaqpvB.png)
+
+Tasks
+![img.png](https://i.imgur.com/0OtyD1J.png)
+
+Rooms
+![img.png](https://i.imgur.com/HaelECX.png)
+
+Reports
+![img.png](https://i.imgur.com/tb8eR9d.png)
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+A continuación, se presenta la documentación de los servicios utilizados.
+En este spring usamos json-server (https://www.npmjs.com/package/json-server) para simular una api
+
+![img.png](https://i.imgur.com/QazDJ3c.png)
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+
+Siguiendo el spring 1, usamos netlify para el deploy de la aplicacion web.
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+
+El equipo desarrollo la apliacion web uso ramas para cada 'feature' el uso de ramas permitió que cada miembro del
+equipo trabajara en una parte del proyecto sin interferir en el trabajo de los demás. Al terminar cada 'feature' se
+comprueba que no tenga conflictos con la rama principal y se procede a hacer un 'pull request' para que se integre con
+la rama principal.
+
+A continuación, se muestra una imagen de la colaboración del equipo en GitHub.
+
+![img.png](https://i.imgur.com/ZiPvJVO.png)
+![img.png](https://i.imgur.com/d2LOv3d.png)
 
 ## 5.3. Validation Interviews.
 
