@@ -3094,7 +3094,9 @@ Ocupación: _____
 
 # Conclusiones
 
-{texto}
+**TB1**:
+**TP1**:
+**TB2**: Respecto a esta entrega nos enfocamos en realizar la parte del back end de nuestra solucion donde por medio del uso del aproach de Domain Driven Design utilizando Spring Boot y el IDE de InteliJ IDEA donde hemos separado nuestros bounded context e implementando las operaciones necesarias para las necesidades de nuestra solucion. Cabe mencionar que adicionalmente a esta entrega realizamos cambios segun las correciones que se nos mencionaron en entregas anteriores. En conclusion hemos implementado las herramientas e implementamos las metodologias Sprint para realizar la entrega.
 
 # Conclusiones y recomendaciones.
 
