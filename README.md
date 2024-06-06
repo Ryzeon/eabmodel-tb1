@@ -54,6 +54,8 @@
 | 1.7     | 29/04/2024 | Sebastian R   | Realiza cambios en los user stories                                                                                     |
 | 1.8     | 29/04/2024 | Piero Periche | Actualizacion de los diagrama c4 model                                                                                  |
 | 1.9     | 29/04/2024 | Sebastian R   | Finaliza cambios en los user stories                                                                                    |
+| 20.9    | 28/04/2024 | Josue H.      | Realiza cambios en diagramas de clases                                                                                  |
+
 | 2.1 | 29/04/2024 | Piero P | Actualiza los impact map de los segmentos |
 | 2.2 | 29/04/2024 | Piero P | Realiza mejoras en los impact map |
 
