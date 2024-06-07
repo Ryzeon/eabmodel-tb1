@@ -790,10 +790,11 @@ En esta seccion hacemos un journey mapping para comprender el camino que recorre
 
 **Segmento 1:**
 
-![Empathy Map S1](assets/empathymaps/Empathy-map-Manager.png)
+![Empathy Map S1](assets/empathymaps/Empathy-map-Empleado.png)
+
 **Segmento 2:**
 
-![Empathy Map S2](assets/empathymaps/Empathy-map-Empleado.png)
+![Empathy Map S2](assets/empathymaps/Empathy-map-Manager.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
