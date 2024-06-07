@@ -3261,12 +3261,766 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
      <th> Done </th>
    </tr>
 </table>
-5.2.3.3. Development Evidence for Sprint Review.
-5.2.3.4. Testing Suite Evidence for Sprint Review.
-5.2.3.5. Execution Evidence for Sprint Review.
-5.2.3.6. Services Documentation Evidence for Sprint Review.
-5.2.3.7. Software Deployment Evidence for Sprint Review.
-5.2.3.8. Team Collaboration Insights during Sprint.
+5.2.3.3. Development Evidence for Sprint Review. <br>
+A continuación, se presentan los commits realizados en el repositorio de la aplicación web en Github.
+Repositorio en github: https://github.com/upc-pre-20241-si729-wx55-eabmodel/inncontrol-frontend
+
+<table>
+    <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Committed on (Date)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td rowspan="1000000">inncontrol-frontend</td>
+    </tr>
+        <td rowspan="16">feature/task-delete</td>
+    </tr>
+    <tr>
+        <td>d51a4ebcf4e8f83b0e8e8616179ca2f9a0a1b6cb</td>
+        <td>fix(task-create-dialog): added minor changes for display</td>
+        <td></td>
+        <td>2024-05-17</td>
+    </tr>
+    <tr>
+        <td>6cdcfcf94f119bba2371ae473edf72ccf95a7f23</td>
+        <td>feat(task-create): added tasks endpoint</td>
+        <td></td>
+        <td>2024-05-17</td>
+    </tr>
+    <tr>
+        <td>a19048f70138558123a2c9a02dc48a0023afda47</td>
+        <td>feat(task-create-api): added tasks api service methods get and post</td>
+        <td></td>
+        <td>2024-05-17Z</td>
+    </tr>
+    <tr>
+        <td>5d120ccbebf06abf2c98d64c55070b0ac760ba64</td>
+        <td>feat(task-content): added tasks from api displayed</td>
+        <td></td>
+        <td>2024-05-17</td>
+    </tr>
+    <tr>
+        <td>642c629e04b2ec1608798a1980fde958a6fea2a8</td>
+        <td>feat(task-api-service): changed task api service</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>bf67a1af59bdd3cbc2b32fd994adb77d8675fe47</td>
+        <td>feat(task-content-create): changed task content</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>95cee17743606fca040ca84b4e2655f65f90a6a6</td>
+        <td>feat(task-card): added task card component</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>ffe497f1b3c0f6701d8717204761dc406351f56f</td>
+        <td>feat(task-content): changed task creation, using now base service</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>de0ffcd13c81aa621fc531626fbb5a977b023684</td>
+        <td>feat(task-content): changed task creation, using now base service</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>830567ff3c00d665fa1779d182fabe6f751f2573</td>
+        <td>feat(task-content): changed task creation, using now base service</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>022a9ff90a9de99478ba4fc7771a263e65c1a49f</td>
+        <td>feat(task-edit-dialog): added task edit dialog component</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>8f6efda563cb727e472987fa43ccffe2dff703d6</td>
+        <td>feat(task-edit-content): added task edit dialog to the task content</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>f88c170744b73aa86ec8677ab92cf1dc722c9408</td>
+        <td>feat(task-edit-content): added task edit dialog to the task content</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>799476f8960fcb60aa5f2ae5f64c43db63405b86</td>
+        <td>feat(task-entity): renamed variable</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>709c7e99688e4e3294f67545f065c5562031c611</td>
+        <td>feat(task-delete): added delete method</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td rowspan="15">feature/messages</td>
+    </tr>
+    <tr>
+        <td>e6a1f7a3d8e95859f5d27e1782f187bb0017c4af</td>
+        <td>feature(interactions): added the messages section</td>
+        <td></td>
+        <td>2024-05-17</td>
+    </tr>
+    <tr>
+        <td>0363eba99b86eb1f206ccc6815e7ae9e2e7e7ac8</td>
+        <td>fix(interactions): fixed the routing and implemented the shared searching component</td>
+        <td></td>
+        <td>2024-05-17</td>
+    </tr>
+    <tr>
+        <td>b6bc9ad10af4514bbd2df8e0de1a39f02eecea16</td>
+        <td>feature(interactions): added the cards to the messages section</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>c36d4b7ad3ebe2de9d5bfeda89a0a4e365c2a481</td>
+        <td>feature(interactions): implemented the dialog and made an entity for concat</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>4ed281e2a305c2f371081ee2feddb5f6182b3367</td>
+        <td>chore(fake-api): updated db.json</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>2ec484b8e80d23f973047f909b4cd24283c60960</td>
+        <td>feat(shared-services): added the patch method.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>c300fd3ae91c5e9a0c465cd2cb37a8fb2f4a1f69</td>
+        <td>fix: renames variables.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>8b3b38835f8561a9ebf711c9b9493da43b43e2ca</td>
+        <td>feat(interactions): added the dialog and functionality for adding cards.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>9c5b9110afbbd25663680c4daf9fe91a4ee0dc22</td>
+        <td>feat(interactions): added the dialog and functionality for adding cards.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>e046d5ba8e14eef5c5b2ddde50962f6bc84d8282</td>
+        <td>Merge remote-tracking branch 'origin/feature/messages' into feature/messages</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>662b715aa0ddbf2bb0ad432f95d24da19f2f79f7</td>
+        <td>fix(interactions): changeState typo.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>97b3d2e17d3dbf489afd8cfbbee711a8bb16be25</td>
+        <td>feat: change card hover styles.</td>
+        <td></td>
+        <td>2024-05-20</td>
+    </tr>
+    <tr>
+        <td>2adb64d8ff13ad147463922359f6259abcc81818</td>
+        <td>feat: move shared styles to global.</td>
+        <td></td>
+        <td>2024-05-20</td>
+    </tr>
+    <tr>
+        <td>936ccde87591eb6a61ada2d45f00e501330732e5</td>
+        <td>Merge branch 'develop' into feature/messages</td>
+        <td></td>
+        <td>2024-05-20</td>
+    </tr>
+    <tr>
+        <td rowspan="15">feature/control-panel</td>
+    </tr>
+    <tr>
+        <td>318b7173dce53e42dcb982ef556476c1d0c700e1</td>
+        <td>feat: created panel card icon enum.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>ce9cbe6c691f284087c94200b3d6f96f9a021f9e</td>
+        <td>feat: created panel card model.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>924c8e47c530f7271277f5cfcdd2e5aa2c52feee</td>
+        <td>feat: init panel card icon component.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>b03d12ce654aafc8424d4f20f2c871f6aabcbf72</td>
+        <td>feat: init panel card view component.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>fdc50ac406ef9e169f956feddcf53b2c5a0400df</td>
+        <td>feat: init panel card content component.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>8509857b1deea58d78a796365c420e1fc67fb3c6</td>
+        <td>feat: init panel schedule content component.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>7abd971c9a895c9f583ed33ae7ee740119812eae</td>
+        <td>feat: added control to routing.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>72b9c32caf9cbc9fda559a70fb8ee829c735668d</td>
+        <td>feat: added control panel page.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>be500c2661cc2541798cfd1389f93ed5fd1d2f3d</td>
+        <td>feat: imports svg to PanelCardIcon</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>75217ff3f4c0bf3fe118ca548345bf6957c4f3c2</td>
+        <td>feat: created panel icon view</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>282e624bab6d779852bd5fa89107ac63eb578af6</td>
+        <td>feat: handling cards into panel cards container.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>5edc16d4ef880266edc1b125a0472e40e0a03fea</td>
+        <td>style: card panel title more big.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>54d49e149b57833a3e562a84bae880162ee70ed9</td>
+        <td>feat: init schedule view.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>d4e31fb873d1ddda84eab99568965590d4a61fe5</td>
+        <td>Merge branch 'develop' into feature/control-panel</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td rowspan="13">feature/schedule</td>
+    </tr>
+    <tr>
+        <td>ee16b8a9e6b8e06559523520ccd52b9fcc77f969</td>
+        <td>feat: added calendar view dependency.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>32c19ede86438ec487d1c1317c549451b65ba5a7</td>
+        <td>docs: added new libraries.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>422992df29431314c6f7ec4ba700d8c37aeea9f1</td>
+        <td>feat: init schedule view component.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>fc2c776bc157019f2eaf68afdf477d0dd4ee3b66</td>
+        <td>feat: import schedule page into routing.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>9658f91cb707e9c24befd69d9ff68eef4dafba6d</td>
+        <td>feat: added schedule page content.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>53de74ba5f6e33e7d574ddb14b919d1ba769797e</td>
+        <td>feat: init task api service.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>0c5619e159088369c51ebf3940bc3509393ca862</td>
+        <td>feat: added calendar view.</td>
+        <td></td>
+        <td>2024-05-30</td>
+    </tr>
+    <tr>
+        <td>ab91642c871747ebdc0c662613112aa6214d3aec</td>
+        <td>feat: added input field for small view in control panel.</td>
+        <td></td>
+        <td>2024-05-30</td>
+    </tr>
+    <tr>
+        <td>33654f5aab4475fba619b26f5f4d03564c5d4909</td>
+        <td>feat: added schedule view to control panel page.</td>
+        <td></td>
+        <td>2024-05-30</td>
+    </tr>
+    <tr>
+        <td>0bb578112d65623c602bc53f31886899ba8a43a5</td>
+        <td>feat(schedule): added auto scroll for time.</td>
+        <td></td>
+        <td>2024-06-07</td>
+    </tr>
+    <tr>
+        <td>861c44f8e28336dd14c0f7f748da826c2fd8e2f3</td>
+        <td>style: added margin to schedule.</td>
+        <td></td>
+        <td>2024-06-07</td>
+    </tr>
+    <tr>
+        <td>5114ddd6bd0757de83bda53a55f72358ebca22fd</td>
+        <td>style: added margin.</td>
+        <td></td>
+        <td>2024-06-07</td>
+    </tr>
+    <tr>
+        <td rowspan="7">feature/sidebar</td>
+    </tr>
+    <tr>
+        <td>7107dee77a71631afc33088f7cc5ec433d407127</td>
+        <td>feat: fix 404 page.</td>
+        <td></td>
+        <td>2024-05-30</td>
+    </tr>
+    <tr>
+        <td>b5bca628b3ce4916ea429b985a510c789eb8e805</td>
+        <td>feat: added sidebar navigation.</td>
+        <td></td>
+        <td>2024-05-30</td>
+    </tr>
+    <tr>
+        <td>40df7e4502aae97aceaafc5123cc25fa3b1baa48</td>
+        <td>feat: create sidebar item.</td>
+        <td></td>
+        <td>2024-05-30</td>
+    </tr>
+    <tr>
+        <td>7dc6132659281437773fffb2e2092320dc19efa6</td>
+        <td>refactor: move panel card icon to shared to make it reusable by other components.</td>
+        <td></td>
+        <td>2024-05-30</td>
+    </tr>
+    <tr>
+        <td>52061fe7f8ebcc530d246f0c133d4a514de1402f</td>
+        <td>feat: finish navbar.</td>
+        <td></td>
+        <td>2024-05-30</td>
+    </tr>
+    <tr>
+        <td>ed37904772fbea063da7bddb632291e20ad06445</td>
+        <td>feat: added notification bell.</td>
+        <td></td>
+        <td>2024-05-31</td>
+    </tr>
+    <tr>
+        <td rowspan="19">feature/account-manager-content</td>
+    </tr>
+    <tr>
+        <td>2ebd860975324dbe7fbdd705d2dc5365ed43ccfc</td>
+        <td>feat:add new component about user manager.|is responsible for validating accounts at the password and user level.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>0c1aa6efa6b574aba4c75439629de07d8f7e7fce</td>
+        <td>feat:add user entity, this contains the attributes and functions of user</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>813774612a82cf5989cbc1758daf39b6237fde05</td>
+        <td>feat:add user service.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>48a5e46032116f8d3f753f6fff8d76ff2ecf24c2</td>
+        <td>feat:add sign-up component</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>510029cbf6c33ed5207445d497377ab48620bc12</td>
+        <td>feat:add new button for rol user</td>
+        <td></td>
+        <td>2024-05-20</td>
+    </tr>
+    <tr>
+        <td>dc642a779b501eb2cbeb9ae668eba424b976d682</td>
+        <td>feat:add new enum</td>
+        <td></td>
+        <td>2024-05-20</td>
+    </tr>
+    <tr>
+        <td>31e96c88917128938e64788ceacdf9dd67031485</td>
+        <td>feat:fix login-component y signup-component</td>
+        <td></td>
+        <td>2024-05-20</td>
+    </tr>
+    <tr>
+        <td>fb67075bbd0e1f4a9d0b6195d849f2790421865b</td>
+        <td>add: new component about manager-account</td>
+        <td></td>
+        <td>2024-05-20</td>
+    </tr>
+    <tr>
+        <td>d91788e59ef12e9f03bdfc71c41426b1e8a1c8d2</td>
+        <td>feat:add new component</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>2935274ea6c4e34813cc3fd7cd49e29e555ff533</td>
+        <td>feat:add validation</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>04bf1375e9284dcd6f77f4766dbfd092c58b809e</td>
+        <td>feat:add new parametter</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>000e60a1a7f04bde6899b22d355da787e1386039</td>
+        <td>feat:add new method, updateUser for users with specific id</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>d8af08584b99246c27aae24ac8b5045952190310</td>
+        <td>feat:add new method,full name.</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>60adfc5f24b11a53760068201dad6feb291245a8</td>
+        <td>feat:add new data</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>56e64c9d24abc4f0c9c385e32b5c1c68d68376d4</td>
+        <td>feat:add new route</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>f3277ba3ff5cb0c6a6ca7574930aeab1dda81c9d</td>
+        <td>feat:add new functionalities</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>58510e6a6ead5367c4861ad241c06e2edf4fb027</td>
+        <td>feat:add new functionalities</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>e72e5309e7eb3a7bca0e2c187096268481e407d5</td>
+        <td>Merge branch 'develop' into feature/account-manager-content.</td>
+        <td></td>
+        <td>2024-05-31</td>
+    </tr>
+    <tr>
+        <td rowspan="5">feature/tasks-search</td>
+    </tr>
+    <tr>
+        <td>0efd3b11d4583b11215f21d561effa16130ec1a1</td>
+        <td>feat(task-search): added search filter for tasks</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>f40a05de89b505fd32672fa5bca4c98f50901c43</td>
+        <td>fix(tasks-date-update): fixed bug with the update option for the date</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>64f12181f6f1508c48287cca9ea577a96fb3e9ae</td>
+        <td>fix(tasks-employee-update): fixed bug with the update option for the employee (minor fixes)</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>6053b3b7b021ea1863c60e3d021392c3df562959</td>
+        <td>feat(tasks-reset-filter-button): added reset filter button</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td rowspan="6">feature/room-management</td>
+    </tr>
+    <tr>
+        <td>a0c99c077db0c5ec5496d779a5c538d40c196dc8</td>
+        <td>feat: add api service and created entity rooms</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>b68b7ede9edb49d0444d2e7d32c2f8a3f56becbb</td>
+        <td>feat: add entity rooms</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>599133b9589eff721e972a34d8bd1dc420afe0c2</td>
+        <td>feat: created room card and added actions</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>2a29194ad282b0b604fbf8f8ecc776e47071c7d7</td>
+        <td>fix: return to old room entity.</td>
+        <td></td>
+        <td>2024-06-05</td>
+    </tr>
+    <tr>
+        <td>eefa261c0b2f894075d378d2f76f5562e4915bc1</td>
+        <td>Merge branch 'develop' into feature/room-management</td>
+        <td></td>
+        <td>2024-06-05</td>
+    </tr
+    <tr>
+        <td rowspan="4">feature/toolbar-implementation</td>
+    </tr>
+    <tr>
+        <td>5b0a27021879ddb794e0ab10dc64867b8b0a3ce9</td>
+        <td>feat(sidebar-mobile): added function to only apear when its for mobile</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td>91424f701b4e2995f9f8de3f3c1775490b3b1d39</td>
+        <td>feat(sidebar-mobile): added function to only apear when its for mobile</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td>f920a8b814bc57364172009a074c7a1fb2b873c8</td>
+        <td>feat(sidebar-mobile): added function to only apear when its for mobile</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td rowspan="15">feature/inventory</td>
+    </tr>
+    <tr>
+        <td>a6b6c1a340a247cafdfc65cedaead72844aa3303</td>
+        <td>feat(inventory): added inventory entity and inventory api service</td>
+        <td></td>
+        <td>2024-05-24</td>
+    </tr>
+    <tr>
+        <td>0b8cf79f7ee4a14580b7a313897464d63ec0af3c</td>
+        <td>chore(fake-api): updated db.json</td>
+        <td></td>
+        <td>2024-05-24</td>
+    </tr>
+    <tr>
+        <td>803519d5c879c4de3dfb1d768e466d84a85ef8f8</td>
+        <td>feat(inventory): added inventory card container</td>
+        <td></td>
+        <td>2024-05-24</td>
+    </tr>
+    <tr>
+        <td>6834ac4109f6ccaec7b65e69108f53e3b42ffc51</td>
+        <td>feat(inventory): added inventory card component</td>
+        <td></td>
+        <td>2024-05-24</td>
+    </tr>
+    <tr>
+        <td>58fbed56dd7f7a42289c343b13246927373c90b2</td>
+        <td>feat(inventory): added inventory card dialog component</td>
+        <td></td>
+        <td>2024-05-24</td>
+    </tr>
+    <tr>
+        <td>22aab6cd758bb57eddf27c0b638dd4347ecded31</td>
+        <td>feat(inventory-create): added inventory create dialog and inventory creation</td>
+        <td></td>
+        <td>2024-05-24</td>
+    </tr>
+    <tr>
+        <td>5de7834bb7e885abb11a934ce4592b75777d1c30</td>
+        <td>feat(inventory-update): added inventory update components</td>
+        <td></td>
+        <td>2024-05-24</td>
+    </tr>
+    <tr>
+        <td>3eba989233c9cb003682e32c16afd3a22932d5b0</td>
+        <td>feat(inventory-delete): added inventory delete components</td>
+        <td></td>
+        <td>2024-05-29</td>
+    </tr>
+    <tr>
+        <td>b038e839b135bf4d0cb9350c0e0a352e4407b307</td>
+        <td>fix(inventory-delete): fixed bug with delete dialog</td>
+        <td></td>
+        <td>2024-06-01</td>
+    </tr>
+    <tr>
+        <td>3b3f306475049d0577d22774ce7f22a4cc8d52af</td>
+        <td>fix(inventory-create): fixed bug with create dialog</td>
+        <td></td>
+        <td>2024-06-01</td>
+    </tr>
+    <tr>
+        <td>c484f81242d3cd3fa5f2928442f6946a754859c3</td>
+        <td>fix(inventory): fixed bug with cards information dialog</td>
+        <td></td>
+        <td>2024-06-01</td>
+    </tr>
+    <tr>
+        <td>09c8148d4abbfbe811336c634f6c0149fb526d3d</td>
+        <td>fix(inventory): fixed bug with cards menu button</td>
+        <td></td>
+        <td>2024-06-02</td>
+    </tr>
+    <tr>
+        <td>5b4df06812635c0a2c696cad865b0001248e3aca</td>
+        <td>chore: remove unused dependency.</td>
+        <td></td>
+        <td>2024-06-05</td>
+    </tr>
+    <tr>
+        <td>e2200effe103f6c31237d0c3f76e5c12dc8faabc</td>
+        <td>Merge branch 'develop' into feature/inventory-delete</td>
+        <td></td>
+        <td>2024-06-05</td>
+    </tr>
+    <tr>
+        <td rowspan="5">feature/employees</td>
+    </tr>
+    <tr>
+        <td>2aa616ac15994cb0a0037db4d13691abb847e18f</td>
+        <td>feat(employees): implemented employee vista.</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td>408af94ab05aca103fc07d4b06513055e0857fba</td>
+        <td>feat(employees): implemented employee vista.</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td>62049c5fa2caea7f64baddff398298dc7c192db3</td>
+        <td>Merge pull request #33 from upc-pre-20241-si729-wx55-eabmodel/develop emplyess</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td>910864035d58b2dab9f63f9627e8c9eeeadace0f</td>
+        <td>feat(employees): implemented employee DIALOG.</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td rowspan="4">feature/routing</td>
+    </tr>
+    <tr>
+        <td>8c1cccdca2ace8c71630028dde5b0c4eb6cf23bf</td>
+        <td>feat(routing): added routing for user view by id.</td>
+        <td></td>
+        <td>2024-06-07</td>
+    </tr>
+    <tr>
+        <td>790f7d3d1d0b32bbc9320d28eeb9415f7e11c955</td>
+        <td>feat(routing): implemented user routing :id</td>
+        <td></td>
+        <td>2024-06-07</td>
+    </tr>
+    <tr>
+        <td>5d62f678619b687b673ad9476cb255dc6d860f97</td>
+        <td>feat(routing): added hash routing.</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td rowspan="5">feature/iam</td>
+    </tr>
+    <tr>
+        <td>49ea5a629f95293939ff602daaabeead66d88a50</td>
+        <td>feat(shared): create iam storage service.</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td>a8e8680dd3cd94836c8a4b46ac4332bbd894201c</td>
+        <td>fix(iam): fix http request.</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td>33ede401ca371dac2dab3d71e9372ee6a877da90</td>
+        <td>feat(iam): added guard for routing.</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td>56ead9e9051820b8c5a0b4345417f1e8eebcdef7</td>
+        <td>feat(iam): added login.</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    </tbody>
+</table> <br>
+5.2.3.4. Testing Suite Evidence for Sprint Review. <br>
+5.2.3.5. Execution Evidence for Sprint Review. <br>
+5.2.3.6. Services Documentation Evidence for Sprint Review. <br>
+5.2.3.7. Software Deployment Evidence for Sprint Review. <br>
+5.2.3.8. Team Collaboration Insights during Sprint. <br>
 
 
 ## 5.3. Validation Interviews.
