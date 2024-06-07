@@ -994,14 +994,14 @@ En nuestra web app y landing page estaremos usando los colores ya mencionados en
 Color Secundario: BAE0FC
 Color Terniario: 6A9CDE y 003785
 
-<img src="assets\StyleGuidelines\mockupDesktop\menu-desktop-mockup.png" alt="Background Preview web" width="1400" height="900">
+<img src="assets/WebApplicationsMockups/desktop/MockupMenu.png" alt="Background Preview web">
 
 
 **Text Styles:** (H1, H2, p, a,)  Nuestros estilos de texto van a depender del color que tengan detras, para colores mas
 osucros como 003785 se usa EEEEEE para dar contraste, mientras que si es un color claro se usa 00628D para que el color
 del texto pueda resaltar.
 
-<img src="assets\StyleGuidelines\mockupDesktop\rooms-text-mockup.png" alt="Text Style Preview web" width="1000" height="600">
+<img src="https://i.imgur.com/RHkThgK.png" alt="Text Style Preview web" >
 
 **Button Styles:** (Button, dropdowns, Switches)
 Nuestros Botones van a ser rectangulares con bordes curvados de 4px, los colores varian entre 6A9CDE, 003785 y DBEFFE
@@ -1009,7 +1009,7 @@ siendo el primero tipo de boton el que se usara más.
 
 Los DropDowns y Switches se implementaran con una menor frequencia sin embargo se usara el color DBEFFE o EEEEEE.
 
-<img src="assets\StyleGuidelines\mockupDesktop\rooms-buttons-mockup.png" alt="Button Preview web" width="270" height="600">
+<img src="https://i.imgur.com/VD4UrdZ.png" alt="Button Preview web" >
 
 **Icons:** (Fondo blanco con los iconos que vamos a usar)
 
@@ -1017,13 +1017,13 @@ Los iconos que estaremos usando seran de las redes sociales en el caso de la lan
 los beneficios. Seguidamente, se estaran utilizando menos iconos en la web aplication siendo los mas prominentes la
 lupa, icono de empleados, tareas cuartos e inventario.
 
-<img src="assets\StyleGuidelines\mockupDesktop\rooms-icons-mockup.png" alt="Icons Preview web" width="390" height="58">
+<img src="https://i.imgur.com/qt5Pwcd.png" alt="Icons Preview web" >
 
 **Misc** (Cosas como nav var o slideshows que pensemos usar)
 
 Estaremos usando nav vars, carruseles y cards para poner informacion de testimonios y beneficios.
 
-<img src="assets\StyleGuidelines\mockupDesktop\header-mockup.png" alt="Miscellaneos preview web" width="1402" height="78">
+<img src="https://i.imgur.com/cLpfmZM.png" alt="Miscellaneos preview web" >
 
 ## 4.2. Information Architecture.
 
@@ -1084,53 +1084,53 @@ Mockup es todo lo relacionado al diseño de la pagina
 
 Menu Wireframe
 
-<img src="assets\WebApplicationsWireframes\desktop\menu-wireframe.png" alt="Menu Wireframe" width="1400" height="1021">
+<img src="assets\WebApplicationsWireframes\desktop\WireframeMenu.png" alt="Menu Wireframe">
 
 Rooms Wireframe
 
-<img src="assets\WebApplicationsWireframes\desktop\rooms-wireframe.png" alt="Rooms Wireframe" width="1400" height="1021">
+<img src="assets\WebApplicationsWireframes\desktop\WireframeRooms.png" alt="Rooms Wireframe">
 
 Task Wireframe
 
-<img src="assets\WebApplicationsWireframes\desktop\tasks-wireframe.png" alt="Tasks Wireframe" width="1400" height="1021">
+<img src="assets\WebApplicationsWireframes\desktop\WireframeTasks.png" alt="Tasks Wireframe" >
 
 Inventory Wireframe
 
-<img src="assets\WebApplicationsWireframes\desktop\inventory-wireframe.png" alt="Inventory Wireframe" width="1400" height="1021">
+<img src="assets\WebApplicationsWireframes\desktop\WireframeInventory.png" alt="Inventory Wireframe" >
 
 Messages Wireframe
 
-<img src="assets\WebApplicationsWireframes\desktop\messages-wireframe.png" alt="Messages Wireframe" width="1400" height="1021">
+<img src="assets\WebApplicationsWireframes\desktop\WireframeMessages.png" alt="Messages Wireframe" >
 
 Employees Wireframe
 
-<img src="assets\WebApplicationsWireframes\desktop\employees-wireframe.png" alt="Employees Wireframe" width="1400" height="1021">
+<img src="assets\WebApplicationsWireframes\desktop\WireframeEmployees.png" alt="Employees Wireframe" >
 
 #### 4.4.1.2 Mobile Wireframes
 
 Menu Wireframe
 
-<img src="assets\WebApplicationsWireframes\mobile\menu-mobile-wireframe.png" alt="Menu Wireframe" width="420" height="900">
+<img src="assets\WebApplicationsWireframes\mobile\MWireframeMenu.png" alt="Menu Wireframe">
 
 Rooms Wireframe
 
-<img src="assets\WebApplicationsWireframes\mobile\rooms-mobile-wireframe.png" alt="Rooms Wireframe" width="420" height="900">
+<img src="assets\WebApplicationsWireframes\mobile\MWRooms.png" alt="Rooms Wireframe">
 
 Task Wireframe
 
-<img src="assets\WebApplicationsWireframes\mobile\tasks-mobile-wireframe.png" alt="Tasks Wireframe" width="420" height="900">
+<img src="assets\WebApplicationsWireframes\mobile\MWTasks.png" alt="Tasks Wireframe">
 
 Inventory Wireframe
 
-<img src="assets\WebApplicationsWireframes\mobile\inventory-mobile-wireframe.png" alt="Inventory Wireframe" width="420" height="900">
+<img src="assets\WebApplicationsWireframes\mobile\MWInventory.png" alt="Inventory Wireframe" >
 
 Messages Wireframe
 
-<img src="assets\WebApplicationsWireframes\mobile\messages-mobile-wireframe.png" alt="Messages Wireframe" width="420" height="900">
+<img src="assets\WebApplicationsWireframes\mobile\MWireframeMessage.png" alt="Messages Wireframe">
 
 Employees Wireframe
 
-<img src="assets\WebApplicationsWireframes\mobile\employees-mobile-wireframe.png" alt="Employees Wireframe" width="420" height="900">
+<img src="assets\WebApplicationsWireframes\mobile\MWEmployees.png" alt="Employees Wireframe">
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
@@ -1138,79 +1138,81 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 Figma.
 
 Link de
-Figma:https://www.figma.com/file/zjc0u4ks9Eu23b6k7DoKLU/Figma-basics?type=design&node-id=401-12&mode=design&t=zBdnRH5DDUeap9uP-0
+Figma:https://www.figma.com/design/zjc0u4ks9Eu23b6k7DoKLU/Figma-basics?node-id=401-12&t=W3c7go1XQdSU8lRz-1
 
 User Goal: Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la
 disponibilidad y asignación de habitaciones.
 
-<img src="https://i.imgur.com/b1bQLzn.png" style="width:60%">  
+<img src="assets\WebApplicationsWireframes\desktop\WireframeRooms.png" style="width:60%">  
 
 User Goal: Como gerente, quiero recibir notificaciones de baja en el inventario para tomar medidas rápidas en caso de escasez de suministros.  
-<img src="https://i.imgur.com/c01OvZr.png" style="width:60%">
+<img src="assets\WebApplicationsWireframes\desktop\WireframeInventory.png" style="width:60%">
 
 User goal: Como empleado, quiero poder registrar el estado de los suministros para mantener un control preciso del
 inventario y garantizar que se cuente con los suministros necesarios en todo momento.
-<img src="https://i.imgur.com/ITgJQdH.png" style="width:60%">
+<img src="https://i.imgur.com/kXAyJOb.png" style="width:60%">
 
 User goals : Como gerente, quiero poder asignar tareas a los empleados para distribuir eficientemente las
 responsabilidades y asegurarme de que las tareas se completen de manera oportuna y efectiva.
-<img src="https://i.imgur.com/ZsZ2cFS.png" style="width:60%">
+<img src="https://i.imgur.com/DdMeWtm.png" style="width:60%">
 
 ### 4.4.3. Web Applications Mock-ups.
 
 #### 4.4.3.1 Desktop Mock-ups.
 
+Se presentan los mockups para desktop.
+
 Menu Mockup
 
-<img src="assets\WebApplicationsMockups\desktop\menu-mockup.png" alt="Menu mockup" width="1400" height="1021">
+<img src="assets\WebApplicationsMockups\desktop\MockupMenu.png" alt="Menu mockup">
 
 Rooms Mockup
 
-<img src="assets\WebApplicationsMockups\desktop\rooms-mockup.png" alt="Rooms mockup" width="1400" height="1021">
+<img src="assets\WebApplicationsMockups\desktop/MockupRooms.png" alt="Rooms mockup" >
 
 Task Mockup
 
-<img src="assets\WebApplicationsMockups\desktop\tasks-mockup.png" alt="Tasks mockup" width="1400" height="1021">
+<img src="assets\WebApplicationsMockups\desktop/MockupTasks.png" alt="Tasks mockup">
 
 Inventory Mockup
 
-<img src="assets\WebApplicationsMockups\desktop\inventory-mockup.png" alt="Inventory mockup" width="1400" height="1021">
+<img src="assets\WebApplicationsMockups\desktop/MockupInventory.png" alt="Inventory mockup" >
 
 Messages Mockup
 
-<img src="assets\WebApplicationsMockups\desktop\messages-mockup.png" alt="Messages mockup" width="1400" height="1021">
+<img src="assets\WebApplicationsMockups\desktop/MockupMessages.png" alt="Messages mockup">
 
 Employees Mockup
 
-<img src="assets\WebApplicationsMockups\desktop\employees-mockup.png" alt="Employees mockup" width="1400" height="1021">
+<img src="assets\WebApplicationsMockups\desktop/MockupEmployees.png" alt="Employees mockup">
 
 #### 4.4.3.2 Mobile Mock-ups.
 
-Diseño en todo aspecto
+Aqui se muestran los mockups para estilo mobile.
 
 Menu Mockup
 
-<img src="assets\WebApplicationsMockups\mobile\menu-mobile-mockup.png" alt="Menu mockup" width="420" height="900">
+<img src="assets\WebApplicationsMockups\mobile/MMockupMenu.png" alt="Menu mockup" >
 
 Rooms Mockup
 
-<img src="assets\WebApplicationsMockups\mobile\rooms-mobile-mockup.png" alt="Rooms mockup" width="420" height="900">
+<img src="assets\WebApplicationsMockups\mobile/MMockupRooms.png" alt="Rooms mockup">
 
 Task Mockup
 
-<img src="assets\WebApplicationsMockups\mobile\tasks-mobile-mockup.png" alt="Tasks mockup" width="420" height="900">
+<img src="assets\WebApplicationsMockups\mobile/MMockupTasks.png" alt="Tasks mockup">
 
 Inventory Mockup
 
-<img src="assets\WebApplicationsMockups\mobile\inventory-mobile-mockup.png" alt="Inventory mockup" width="420" height="900">
+<img src="assets\WebApplicationsMockups\mobile/MMockupInventory.png" alt="Inventory mockup">
 
 Messages Mockup
 
-<img src="assets\WebApplicationsMockups\mobile\messages-mobile-mockup.png" alt="Messages mockup" width="420" height="900">
+<img src="assets\WebApplicationsMockups\mobile/MMockupMessages.png" alt="Messages mockup">
 
 Employees Mockup
 
-<img src="assets\WebApplicationsMockups\mobile\employees-mobile-mockup.png" alt="Employees mockup" width="420" height="900">
+<img src="assets\WebApplicationsMockups\mobile/MMockupEmployees.png" alt="Employees mockup">
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
