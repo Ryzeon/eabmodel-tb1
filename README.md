@@ -29,6 +29,7 @@
 | Piero Fernando Periche Quiroga | u202210192 |
 |  Manuel Sebastian Peña Rivera  | U202210138 |
 |    Josue Hidalgo Bustamante    | U20219880  |
+| Erick Armando Cueva Elera      | U201910151 |
 
 </div>
 
@@ -270,6 +271,7 @@ gerentes.
 | Ramírez Hoffmann, Sebastián <br/> <img src="https://avatars.githubusercontent.com/u/129230632?v=4" style="width:60%"> | U20221894         | Ingeniería de software | C++, Python, Js, Reactjs, NodeJs, expressjs, MongoDB, SQL.  Paciencia, Liderazgo, Logico |
 | Periche Quiroga, Piero <br/> <img src="https://avatars.githubusercontent.com/u/164218254?v=4" style="width:60%">      | U202210192        | Ingeniería de software | C++, SQL, Js. Responsabilidad y buen ambiente de equipo                                  |
 | Hidalgo Bustamante, Josue <br/> <img src="https://i.imgur.com/zrpMQ7R.jpg" style="width:60%">                              | U20219880         | Ingeniería de software | C++, SQL,  MongoDB, Js, Reactjs, NodeJs,. Paciencia y Responsabilidad.                   |
+| Cueva Elera, Erick Armando <br/> <img src="https://avatars.githubusercontent.com/u/89040344?v=4" style="width:60%">    | U201910151        | Ingeniería de software | C++, SQL, Vue, Flutter. Responsabilidad, buena comunicación grupal, paciencia y predispuesto a la mejora contínua. |
 
 ## 1.2. Solution Profile
 
@@ -788,10 +790,11 @@ En esta seccion hacemos un journey mapping para comprender el camino que recorre
 
 **Segmento 1:**
 
-![Empathy Map S1](assets/empathymaps/Empathy-map-Manager.png)
+![Empathy Map S1](assets/empathymaps/Empathy-map-Empleado.png)
+
 **Segmento 2:**
 
-![Empathy Map S2](assets/empathymaps/Empathy-map-Empleado.png)
+![Empathy Map S2](assets/empathymaps/Empathy-map-Manager.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
