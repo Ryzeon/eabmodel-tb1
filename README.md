@@ -3210,7 +3210,7 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
       <th> EP3-US014 </th>
      <th colspan="3"> </th>
       <th> W08 </th>
-     <th> Registro proveedores </th>
+     <th> Employee Bounded Context </th>
      <th> - </th>
      <th> 2  </th>
      <th> Josue hidalgo </th> 
@@ -3219,9 +3219,9 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
 
 <tr>
       <th> EP3-US014 </th>
-     <th colspan="3"> </th>
+     <th colspan="3">Programar turnos de trabajo </th>
       <th> W08 </th>
-     <th> Programar turnos de trabajo </th>
+     <th> Bounded Context Task </th>
      <th> Vista de programacion de turnos </th>
      <th> 3  </th>
      <th> Alex Avila </th> 
@@ -3230,9 +3230,9 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
 
 <tr>
       <th> EP3-US016 </th>
-     <th colspan="3"> </th>
+     <th colspan="3"> Notificaciones  </th>
       <th> W08 </th>
-     <th> Notificaciones </th>
+     <th> Bounded Context Room </th>
      <th> Vista de noticaciones </th>
      <th> 2  </th>
      <th> Alex Avila </th> 
@@ -3241,9 +3241,9 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
 
 <tr>
       <th> EP3-US018 </th>
-     <th colspan="3"> </th>
+     <th colspan="3"> Informacion de procedimientos </th>
       <th> W08 </th>
-     <th> Informacion de procedimientos </th>
+     <th> Bounded Context Room </th>
      <th> - </th>
      <th> 2  </th>
      <th> Alex Avila </th> 
@@ -3252,9 +3252,9 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
 
 <tr>
       <th> EP3-US020 </th>
-     <th colspan="3"> </th>
+     <th colspan="3">Reporte de problemas  </th>
       <th> W08 </th>
-     <th> Reporte de problemas </th>
+     <th> Bounded Context Inventory </th>
      <th> - </th>
      <th> 1  </th>
      <th> Alex Avila </th> 
