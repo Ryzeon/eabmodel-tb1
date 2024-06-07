@@ -3342,13 +3342,15 @@ Ocupación: _____
 
 # Conclusiones
 
-**TB1**: En base a la primera entrega hemos utilizado los procesos Lean UX para poder definir los supuestos necesarios de nuestra solucion asimismo como la investigacion por medio de needfinding
-**TP1**:
+**TB1**: En base a la primera entrega hemos utilizado los procesos Lean UX para poder definir los supuestos necesarios de nuestra solucion asimismo como la investigacion por medio de needfinding hemos identificado que se nos solicita para realizar una solucion efectiva para nuestro segmento, adicionalmente nos enfocamos respecto al diseño de nuestro proyecto e hicimos la landing page de manera adecuada. En conclusion el uso de los procesos Lean UX y las herramientas que nos facilitan la implementacion de sus diagramas en conjunto con el material del curso resultan necesarios e indispensables para la correcta planeacion de nuestro proyecto. 
+**TP1**: Para el TP1 desarollamos el front end de nuestra aplicacion utilizando Angular 17 y Angular Material subsecuentemente nos aseguramos que se cumplan los objetivos de nuestro product backlog y bajo las reuniones Sprint logramos organizar y asignar los objetivos propuestos para poder realizar nuestro proyecto. Finalmente cabe mencionar que realizamos correcciones de la entrega anterior y nos proponemos en mejorar nuestra eficiencia grupal.
 **TB2**: Respecto a esta entrega nos enfocamos en realizar la parte del back end de nuestra solucion donde por medio del uso del aproach de Domain Driven Design utilizando Spring Boot y el IDE de InteliJ IDEA donde hemos separado nuestros bounded context e implementando las operaciones necesarias para las necesidades de nuestra solucion. Cabe mencionar que adicionalmente a esta entrega realizamos cambios segun las correciones que se nos mencionaron en entregas anteriores. En conclusion hemos implementado las herramientas e implementamos las metodologias Sprint para realizar la entrega.
 
 # Conclusiones y recomendaciones.
 
-{texto}
+Como una conclusion general hemos aprendido a lo largo del curso hasta esta entrega que la eficiencia y efectividad al desarollar un proyecto es necesario realizar como base todos los aspectos que observamos en los procesos Lean UX y el modelado de solucion igualmente, son estos mismos los cuales nos ayudan a identificar riesgos, oportunidades y potenciales soluciones para nuestro proyecto y el uso de las reuniones sprint nos ayudan a organizar las tareas asignadas en base al desarollo de una aplicacion ya sea en la etapa de front o back end ya que ayuda mucho a mantener un seguimiento. Finalmente son las entrevistas a los usuarios segmento las cuales tienen la mayor cantidad de valor al proveernos de toda la informacion y validacion para el proyecto.
+
+Como recomendaciones observamos la oportunidad de mejorar la administracion de tiempo. No obstante si consideramos entregas anteriores hemos mejorado mucho. Adicionalmente aprendimos la importancia de leer los enunciados y objetivos del trabajo. Esperamos que esta entrega cumpla con las pautas esperadas.
 
 # Video About-the-Team.
 
