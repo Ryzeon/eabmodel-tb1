@@ -4057,12 +4057,21 @@ Repositorio en github: https://github.com/upc-pre-20241-si729-wx55-eabmodel/innc
 
 ### 5.3.2. Registro de Entrevistas.
 
-**Segmento 1**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
+**Segmento 1**  <br> 
+Nombre: Ariana Valdivia <br> 
+Edad: 29 años <br> 
+Ocupación: Gerencia de hoteles (3 sedes) <br> 
+Browser: N/A <br> 
+Device: N/A <br> 
+Distrito: Miraflores, Surquillo, Surco. <br> 
+Timing: 13 minutos <br> 
 ![Imagen de entrevista](image.jpg)  
-{texto mucho}
+
+Analisis <br>
+En la entrevista Ariana nos menciona y nos deja claro su aprobación en el software que venimos desarrollando. Estando satisfecha con el aspecto visual y las multiples opciones de tarea que brindamos en InnControl.
+Nos menciona la utilidad y el provecho maximo que le va a sacar, mejorando y optimizando la gestion interna del hotel. Mencionando tambien como punto de mejora un punto del aspecto visual (Frontend), el cual veremos implementado cuando el programa este terminado.
+En resumen, cumplimos sus espectativas con el software que desarrollamos.
+ <br> 
 
 **Segmento 2**  
 Nombre: _____
