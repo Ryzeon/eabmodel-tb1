@@ -781,26 +781,16 @@ En esta seccion hacemos un journey mapping para comprender el camino que recorre
 
 **Segmento 1:**
 
-![Empathy Map S1](assets/empathymaps/Empathy-map-Manager.png)
+![Empathy Map S2](assets/empathymaps/Empathy-map-Empleado.png)
+
 **Segmento 2:**
 
-![Empathy Map S2](assets/empathymaps/Empathy-map-Empleado.png)
+![Empathy Map S1](assets/empathymaps/Empathy-map-Manager.png)
 
 ### 2.3.5. As-is Scenario Mapping.
 
+
 **Segmento 1**  
-
-Escenario: supervisor quiere revisar el estado de los cuartos y darles sus tareas a los empleados mientras tambien debe de revisar el inventario.
-
-As Is:
-
-| Fases    |                                                                           |                                                                           |                                                           |                                                                      |
-|----------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|
-| Doing    | Verificando el estado actual de los cuartos                               | Revisando el inventario de elementos de limpieza y toallas                | Asignando tareas al personal de limpieza                  | Comunicándose con el personal para coordinar las tareas              |
-| Thinking | Reflexionando sobre la disponibilidad de los cuartos para nuevos clientes | Evaluando la cantidad de elementos de limpieza y toallas disponibles      | Considerando la carga de trabajo del personal de limpieza | Pensando en cómo mejorar la comunicación con el personal             |
-| Feeling  | Preocupado por la disponibilidad de cuartos para nuevos clientes          | Preocupado por la cantidad de elementos de limpieza y toallas disponibles | Ansioso por asignar tareas de manera efectiva al personal | Frustrado por la falta de una comunicación eficiente con el personal |
-
-**Segmento 2**  
 
 Escenario: Empleado realiza sus actividades y desea hacerle saber al supervisor que ya termino o si este le puede dar mas tareas.
 
@@ -812,6 +802,19 @@ As Is:
 | Doing    | Realizando tareas de limpieza asignadas                          | Notificando al supervisor cuando terminan las tareas de limpieza      | Verificando el stock de elementos de limpieza y toallas             | Comunicándose con el supervisor sobre cualquier problema               |
 | Thinking | Reflexionando sobre la eficacia de las tareas de limpieza        | Evaluando la necesidad de reabastecer elementos de limpieza y toallas | Considerando cómo mejorar la comunicación con el supervisor         | Pensando en soluciones para mejorar el proceso de limpieza             |
 | Feeling  | Comprometido con la calidad de las tareas de limpieza realizadas | Satisfecho al completar las tareas de limpieza asignadas              | Preocupado por la disponibilidad de elementos de limpieza y toallas | Interesado en mejorar la comunicación y colaboración con el supervisor |
+
+**Segmento 2**  
+
+Escenario: supervisor quiere revisar el estado de los cuartos y darles sus tareas a los empleados mientras tambien debe de revisar el inventario.
+
+As Is:
+
+| Fases    |                                                                           |                                                                           |                                                           |                                                                      |
+|----------|---------------------------------------------------------------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|----------------------------------------------------------------------|
+| Doing    | Verificando el estado actual de los cuartos                               | Revisando el inventario de elementos de limpieza y toallas                | Asignando tareas al personal de limpieza                  | Comunicándose con el personal para coordinar las tareas              |
+| Thinking | Reflexionando sobre la disponibilidad de los cuartos para nuevos clientes | Evaluando la cantidad de elementos de limpieza y toallas disponibles      | Considerando la carga de trabajo del personal de limpieza | Pensando en cómo mejorar la comunicación con el personal             |
+| Feeling  | Preocupado por la disponibilidad de cuartos para nuevos clientes          | Preocupado por la cantidad de elementos de limpieza y toallas disponibles | Ansioso por asignar tareas de manera efectiva al personal | Frustrado por la falta de una comunicación eficiente con el personal |
+
 
 ## 2.4. Ubiquitous Language.
 
@@ -901,10 +904,9 @@ Segmento 2:
 
 ## 3.3. Impact Mapping.
 
-<img src="assets/Impact-mapping/Impact map manager.png" alt="User Manager" width="1000" height="900">
-
 <img src="assets/Impact-mapping/impact map employee" alt="User Manager" width="1000" height="900">
 
+<img src="assets/Impact-mapping/Impact map manager.png" alt="User Manager" width="1000" height="900">
 
 ## 3.4. Product Backlog.
 https://trello.com/invite/b/VKcGEXxg/ATTI53870853c3d20c6c6e0471d9086963148FEDED5D/product-backlog
@@ -1061,6 +1063,7 @@ dashboard o los labels en el nav bar el usuario se redirija a la seccion selecio
 ### 4.3.2. Landing Page Mock-up.
 
 Mockup es todo lo relacionado al diseño de la pagina
+
 ![Landing page mockup](assets/StyleGuidelines/Lan-Mockup.png)
 
 ## 4.4. Web Applications UX/UI Design.
