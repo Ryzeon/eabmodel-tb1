@@ -3261,6 +3261,12 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
      <th> Done </th>
    </tr>
 </table>
+5.2.3.3. Development Evidence for Sprint Review.
+5.2.3.4. Testing Suite Evidence for Sprint Review.
+5.2.3.5. Execution Evidence for Sprint Review.
+5.2.3.6. Services Documentation Evidence for Sprint Review.
+5.2.3.7. Software Deployment Evidence for Sprint Review.
+5.2.3.8. Team Collaboration Insights during Sprint.
 
 
 ## 5.3. Validation Interviews.
