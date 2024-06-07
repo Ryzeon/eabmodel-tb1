@@ -4074,12 +4074,24 @@ En resumen, cumplimos sus espectativas con el software que desarrollamos.
  <br> 
 
 **Segmento 2**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+Nombre: Catalina Paredes <br>
+Edad: 25 años <br>
+Ocupación: Gerencia de hoteles (Cusco) <br>
+Distrito: Cusco <br>
+Timing: 9 minutos <br>
+![Imagen de entrevista](https://i.imgur.com/0Qrk6EX.png)
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/EZZ3L_UbEOBCum2u81FITtIBtnYWH-hqxE207QyoUmp_Ag?e=CjjHtO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
+
+Analisis <br>
+En la entrevista, Catalina Paredes expresa su aprobación general hacia el software InnControl que se está desarrollando. Ella considera que el diseño visual es funcional y conciso, destacando especialmente la utilidad del calendario que permite organizar las tareas por día, semana y mes.
+
+Catalina menciona que el software facilitará la administración de tareas, habitaciones e inventarios, lo cual será beneficioso tanto para empleados nuevos como para los actuales. Además, valora positivamente la funcionalidad de los mensajes directos, lo que mejorará la comunicación interna.
+
+Como puntos de mejora, sugiere agrandar un poco las letras en la fila superior y considera que podría agregarse un fondo para mejorar la apariencia visual. Catalina también expresa que el diseño actual supera sus expectativas iniciales, ya que encuentra la interfaz más accesible y manejable que lo que había imaginado.
+
+En resumen, Catalina está satisfecha con el avance del software, ya que considera que cubrirá las necesidades administrativas del hotel y mejorará la eficiencia operativa. Sus expectativas han sido cumplidas con el desarrollo del software hasta el momento.
+<br>
 ### 5.3.3. Evaluaciones según heurísticas.
 
 | HEURÍSTICA                                    | EVALUACIÓN ✅❌ | NOTA    |
