@@ -98,7 +98,21 @@ Se muestran evidencias de los commits realizados en la entrega del TP
 ---
 
 ### TB2
+Para la entrega del TB2 se realizo cambios de mejora continua para el Front end y el report-project stament. Se inicio el desarrollo del Back en y para ello se asigno a cada integrante un bounded context para desarollar y conectar con el Front end.
 
+Se muestran evidencias de los commits realizados en la entrega del TB2
+
+**Front end:**
+
+<img src="assets/colaboration-insights/tb2-colaboration-front-end.png" alt="imagen de las colaboraciones TB2"> 
+
+[Colaboraciones del repositorio]
+
+<img src="assets/colaboration-insights/tb2-commits-front-end.png" alt="imagen de los commits">   
+
+[Registro de donde se realizaron la mayor cantidad de commits]
+
+**Back end:**
 
 # Contenido
 
