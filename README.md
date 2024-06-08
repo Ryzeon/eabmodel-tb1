@@ -5193,7 +5193,9 @@ En resumen, Alonso está satisfecho con el actual desarrollo del software, y cre
 
 ## 5.4. Video About-the-Product.
 
-[URL del video about the product](https://www.example.com)
+Aqui se hace una demostracion del video about the product donde mostramos los diferentes features implementados en la solucion.
+
+[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESVCFEtZ5B9FtaVy3z2DeoMBHxRJnk194gGyKyYdixSjhA?e=IG3rP0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESVCFEtZ5B9FtaVy3z2DeoMBHxRJnk194gGyKyYdixSjhA?e=IG3rP0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # Conclusiones
 
@@ -5205,7 +5207,9 @@ En resumen, Alonso está satisfecho con el actual desarrollo del software, y cre
 
 # Video About-the-Team.
 
-[URL del video about the team](https://www.example.com)
+En el video about the team se muestran testimonios del trabajo realizado.
+
+[https://youtu.be/BL7pSCoY93Y](https://youtu.be/BL7pSCoY93Y)
 
 # Bibliografía
 
