@@ -5050,7 +5050,72 @@ Repositorio en github: https://github.com/upc-pre-20241-si729-wx55-eabmodel/innc
 
 ### 5.3.2. Registro de Entrevistas.
 
-**Segmento 1**  <br> 
+**Segmento 1**  
+Nombre: Arian Godinez Vargas
+<br>
+Edad: 20 años
+<br>
+Ocupación: Empleado de Hotel (limpieza)
+<br>
+Browser: Chrome
+<br>
+Device: Influencia en la marca Apple
+<br>
+Distrito: Cercado de Lima.
+<br>
+Timing: 
+<br>
+<img src = https://i.imgur.com/HKjCGCI.png>
+
+<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=FP7xJZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=FP7xJZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D Url entrevista [Anexo 2.2.1.4]</a> minuto[00:00] <br>
+Arian comenta de como hay diferentes oportunidades de mejora respecto a nuestra solucion dice que estamos en el camino correcto mas nos faltan mejorar aspectos como el diseño de profiles en base a la saturacion de informacion y de como se requiere de mejorar la implementacion de calendario y las cards. Finalmente nos menciono a como el proyecto si cumple con las expectativas iniciales y de como se logro con el objetivo inicial asimismo de como las observaciones son mas en base al diseño mas alla de la funcionalidad.
+
+---
+
+Nombre: Esau Carretero
+<br>
+Edad: 19 años
+<br>
+Ocupación: Trabaja en un hotel part-time
+<br>
+Browser: GoogleChrome y OperaGX
+<br>
+Device: Celular y computadora
+<br>
+Distrito: Jesus Maria
+<br>
+Timing: 
+<br>
+
+![Imagen de entrevistaS1.2](assets/interviewsimages/Entrevista-Segmento1Esau.png)<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETIBRYdwzYtAliQA0IkQx1cBurdKw6YSE4nBrVncTpjaAQ?e=0bhNc0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.5]</a> minuto[06:03] <br>  
+
+Esau comenta como la solucion supera sus expectativas y de como siente que como herramienta se logro cumplir con lo esperado, como observaciones nos menciono un comentario parecido a como se debe de implementar el calendario en una vista asignada. Finalmente nos menciona de como siente que solucionamos el problema de la comunicacion entre los trabajadores y los gerentes.
+
+---
+
+Nombre: Nicola Estefan Romero
+<br>
+Edad: 22 años
+<br>
+Ocupación: Empleado de Hotel 
+<br>
+Browser: Brave
+<br>
+Device: Celular y laptop
+<br>
+Distrito: Lima Central
+<br>
+Timing: 
+<br>
+
+<img src = https://i.imgur.com/wg6F6yL.png>
+
+<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERnPx07H66pLuGgoQ-VcVisBL7dmBuURtltLTevZ401FwA?e=m7Z67t&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.6]</a> minuto[10:23] <br>  
+Nicola nos cuenta como esta de acuerdo con las caracteristicas observadas y como hemos realizado de manera correcta la implementacion de los componentos, como observaciones tambien nos menciona de como implementar algun color de fondo nos puede ayudar a distinguir mejor los cards y de como el calendario deberia de estar en una vista aparte. Finalmente nos compartio su contento respecto a la solucion.
+
+---
+
+**Segmento 2**  <br> 
 Nombre: Ariana Valdivia <br> 
 Edad: 29 años <br> 
 Ocupación: Gerencia de hoteles (3 sedes) <br> 
@@ -5066,7 +5131,6 @@ Nos menciona la utilidad y el provecho maximo que le va a sacar, mejorando y opt
 En resumen, cumplimos sus espectativas con el software que desarrollamos.
  <br> 
 
-**Segmento 2**  
 Nombre: Catalina Paredes <br>
 Edad: 25 años <br>
 Ocupación: Gerencia de hoteles (Cusco) <br>
@@ -5086,7 +5150,6 @@ Como puntos de mejora, sugiere agrandar un poco las letras en la fila superior y
 En resumen, Catalina está satisfecha con el avance del software, ya que considera que cubrirá las necesidades administrativas del hotel y mejorará la eficiencia operativa. Sus expectativas han sido cumplidas con el desarrollo del software hasta el momento.
 <br>
 
-**Segmento 3** <br>
 Nombre: Alonso Holguin <br>
 Edad: 26 años <br>
 Ocupación: Gerencia de hotel (Trujillo) <br>
