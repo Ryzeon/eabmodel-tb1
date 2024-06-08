@@ -5085,6 +5085,25 @@ Como puntos de mejora, sugiere agrandar un poco las letras en la fila superior y
 
 En resumen, Catalina está satisfecha con el avance del software, ya que considera que cubrirá las necesidades administrativas del hotel y mejorará la eficiencia operativa. Sus expectativas han sido cumplidas con el desarrollo del software hasta el momento.
 <br>
+
+**Segmento 3** <br>
+Nombre: Alonso Holguin <br>
+Edad: 26 años <br>
+Ocupación: Gerencia de hotel (Trujillo) <br>
+Distrito: Trujillo <br>
+Timing: 19 minutos <br>
+![Imagen de entrevista](https://i.imgur.com/5qxW3ux.png)
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910151_upc_edu_pe/ETYvcnUi-mFEq9C8nbeLGUABw-idwHA2bXivQZZfVLUwjw?e=3cl2dc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+
+Análisis <br>
+En la entrevista, Alonso Holguin nos comenta su opinión con respecto a nuestro software. Él considera que el aspecto visual se ve bastante pulido y compacto, sin embargo, cree que la paleta de colores que usamos deberia ser más variada, permitiendo poder organizar dependiendo de lo que se asigne a cada color. <br>
+
+Menciona además, que el mayor beneficio que obtendria del uso de nuestro software sería la optimización de tiempos en cada rubro, ya que contaria con un sistema donde se encuentre toda la información de suma relevancia del hotel. <br>
+
+Como principales puntos de mejora, se encuentra lo antes mencionado, lo cual es agrandar la paleta de colores, que si bien, el aspecto visual actual es ordenado y prolijo, le gustaría más dinamismo, el cual se podria lograr asignando a cada color extra implementado un significado. Además, menciona tambien que le gustaría que en un futuro, se automatice lo más posible todo el sistema, logrando así incluso más eficiencia y comodidad al usar nuestro software. <br>
+
+En resumen, Alonso está satisfecho con el actual desarrollo del software, y cree que nuestro proyecto está en buen camino, ya que considera que estamos proximos a lograr 2 objetivos que tienen las empresas a dia de hoy, los cuales son disminuir tiempos y generar más rentabilidad a largo plazo. <br>
+
 ### 5.3.3. Evaluaciones según heurísticas.
 
 | HEURÍSTICA                                    | EVALUACIÓN ✅❌ | NOTA    |
