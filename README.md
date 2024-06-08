@@ -3116,6 +3116,7 @@ En este sprint, nos enfocaremos en el desarrollo de la aplicación backend, bas�
         </tr>
     </tbody>
 </table>
+
 #### 5.2.3.2 Sprint Backlog 3.
 
 En esta secciones se muestra las tareas que se realizaron en el sprint 3, se adjunta la captura del tablero y el link.
@@ -3283,6 +3284,1807 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
      <th> Done </th>
    </tr>
 </table>
+5.2.3.3. Development Evidence for Sprint Review. <br>
+A continuación, se presentan los commits realizados en el repositorio de la aplicación web en Github.
+Repositorio en github: https://github.com/upc-pre-20241-si729-wx55-eabmodel/inncontrol-frontend
+
+<table>
+    <thead>
+    <tr>
+        <th>Repository</th>
+        <th>Branch</th>
+        <th>Commit Id</th>
+        <th>Commit Message</th>
+        <th>Commit Message Body</th>
+        <th>Committed on (Date)</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td rowspan="1000000">inncontrol-frontend</td>
+    </tr>
+        <td rowspan="16">feature/task-delete</td>
+    </tr>
+    <tr>
+        <td>d51a4ebcf4e8f83b0e8e8616179ca2f9a0a1b6cb</td>
+        <td>fix(task-create-dialog): added minor changes for display</td>
+        <td></td>
+        <td>2024-05-17</td>
+    </tr>
+    <tr>
+        <td>6cdcfcf94f119bba2371ae473edf72ccf95a7f23</td>
+        <td>feat(task-create): added tasks endpoint</td>
+        <td></td>
+        <td>2024-05-17</td>
+    </tr>
+    <tr>
+        <td>a19048f70138558123a2c9a02dc48a0023afda47</td>
+        <td>feat(task-create-api): added tasks api service methods get and post</td>
+        <td></td>
+        <td>2024-05-17Z</td>
+    </tr>
+    <tr>
+        <td>5d120ccbebf06abf2c98d64c55070b0ac760ba64</td>
+        <td>feat(task-content): added tasks from api displayed</td>
+        <td></td>
+        <td>2024-05-17</td>
+    </tr>
+    <tr>
+        <td>642c629e04b2ec1608798a1980fde958a6fea2a8</td>
+        <td>feat(task-api-service): changed task api service</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>bf67a1af59bdd3cbc2b32fd994adb77d8675fe47</td>
+        <td>feat(task-content-create): changed task content</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>95cee17743606fca040ca84b4e2655f65f90a6a6</td>
+        <td>feat(task-card): added task card component</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>ffe497f1b3c0f6701d8717204761dc406351f56f</td>
+        <td>feat(task-content): changed task creation, using now base service</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>de0ffcd13c81aa621fc531626fbb5a977b023684</td>
+        <td>feat(task-content): changed task creation, using now base service</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>830567ff3c00d665fa1779d182fabe6f751f2573</td>
+        <td>feat(task-content): changed task creation, using now base service</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>022a9ff90a9de99478ba4fc7771a263e65c1a49f</td>
+        <td>feat(task-edit-dialog): added task edit dialog component</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>8f6efda563cb727e472987fa43ccffe2dff703d6</td>
+        <td>feat(task-edit-content): added task edit dialog to the task content</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>f88c170744b73aa86ec8677ab92cf1dc722c9408</td>
+        <td>feat(task-edit-content): added task edit dialog to the task content</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>799476f8960fcb60aa5f2ae5f64c43db63405b86</td>
+        <td>feat(task-entity): renamed variable</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>709c7e99688e4e3294f67545f065c5562031c611</td>
+        <td>feat(task-delete): added delete method</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td rowspan="15">feature/messages</td>
+    </tr>
+    <tr>
+        <td>e6a1f7a3d8e95859f5d27e1782f187bb0017c4af</td>
+        <td>feature(interactions): added the messages section</td>
+        <td></td>
+        <td>2024-05-17</td>
+    </tr>
+    <tr>
+        <td>0363eba99b86eb1f206ccc6815e7ae9e2e7e7ac8</td>
+        <td>fix(interactions): fixed the routing and implemented the shared searching component</td>
+        <td></td>
+        <td>2024-05-17</td>
+    </tr>
+    <tr>
+        <td>b6bc9ad10af4514bbd2df8e0de1a39f02eecea16</td>
+        <td>feature(interactions): added the cards to the messages section</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>c36d4b7ad3ebe2de9d5bfeda89a0a4e365c2a481</td>
+        <td>feature(interactions): implemented the dialog and made an entity for concat</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>4ed281e2a305c2f371081ee2feddb5f6182b3367</td>
+        <td>chore(fake-api): updated db.json</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>2ec484b8e80d23f973047f909b4cd24283c60960</td>
+        <td>feat(shared-services): added the patch method.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>c300fd3ae91c5e9a0c465cd2cb37a8fb2f4a1f69</td>
+        <td>fix: renames variables.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>8b3b38835f8561a9ebf711c9b9493da43b43e2ca</td>
+        <td>feat(interactions): added the dialog and functionality for adding cards.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>9c5b9110afbbd25663680c4daf9fe91a4ee0dc22</td>
+        <td>feat(interactions): added the dialog and functionality for adding cards.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>e046d5ba8e14eef5c5b2ddde50962f6bc84d8282</td>
+        <td>Merge remote-tracking branch 'origin/feature/messages' into feature/messages</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>662b715aa0ddbf2bb0ad432f95d24da19f2f79f7</td>
+        <td>fix(interactions): changeState typo.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>97b3d2e17d3dbf489afd8cfbbee711a8bb16be25</td>
+        <td>feat: change card hover styles.</td>
+        <td></td>
+        <td>2024-05-20</td>
+    </tr>
+    <tr>
+        <td>2adb64d8ff13ad147463922359f6259abcc81818</td>
+        <td>feat: move shared styles to global.</td>
+        <td></td>
+        <td>2024-05-20</td>
+    </tr>
+    <tr>
+        <td>936ccde87591eb6a61ada2d45f00e501330732e5</td>
+        <td>Merge branch 'develop' into feature/messages</td>
+        <td></td>
+        <td>2024-05-20</td>
+    </tr>
+    <tr>
+        <td rowspan="15">feature/control-panel</td>
+    </tr>
+    <tr>
+        <td>318b7173dce53e42dcb982ef556476c1d0c700e1</td>
+        <td>feat: created panel card icon enum.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>ce9cbe6c691f284087c94200b3d6f96f9a021f9e</td>
+        <td>feat: created panel card model.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>924c8e47c530f7271277f5cfcdd2e5aa2c52feee</td>
+        <td>feat: init panel card icon component.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>b03d12ce654aafc8424d4f20f2c871f6aabcbf72</td>
+        <td>feat: init panel card view component.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>fdc50ac406ef9e169f956feddcf53b2c5a0400df</td>
+        <td>feat: init panel card content component.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>8509857b1deea58d78a796365c420e1fc67fb3c6</td>
+        <td>feat: init panel schedule content component.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>7abd971c9a895c9f583ed33ae7ee740119812eae</td>
+        <td>feat: added control to routing.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>72b9c32caf9cbc9fda559a70fb8ee829c735668d</td>
+        <td>feat: added control panel page.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>be500c2661cc2541798cfd1389f93ed5fd1d2f3d</td>
+        <td>feat: imports svg to PanelCardIcon</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>75217ff3f4c0bf3fe118ca548345bf6957c4f3c2</td>
+        <td>feat: created panel icon view</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>282e624bab6d779852bd5fa89107ac63eb578af6</td>
+        <td>feat: handling cards into panel cards container.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>5edc16d4ef880266edc1b125a0472e40e0a03fea</td>
+        <td>style: card panel title more big.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>54d49e149b57833a3e562a84bae880162ee70ed9</td>
+        <td>feat: init schedule view.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>d4e31fb873d1ddda84eab99568965590d4a61fe5</td>
+        <td>Merge branch 'develop' into feature/control-panel</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td rowspan="13">feature/schedule</td>
+    </tr>
+    <tr>
+        <td>ee16b8a9e6b8e06559523520ccd52b9fcc77f969</td>
+        <td>feat: added calendar view dependency.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>32c19ede86438ec487d1c1317c549451b65ba5a7</td>
+        <td>docs: added new libraries.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>422992df29431314c6f7ec4ba700d8c37aeea9f1</td>
+        <td>feat: init schedule view component.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>fc2c776bc157019f2eaf68afdf477d0dd4ee3b66</td>
+        <td>feat: import schedule page into routing.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>9658f91cb707e9c24befd69d9ff68eef4dafba6d</td>
+        <td>feat: added schedule page content.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>53de74ba5f6e33e7d574ddb14b919d1ba769797e</td>
+        <td>feat: init task api service.</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>0c5619e159088369c51ebf3940bc3509393ca862</td>
+        <td>feat: added calendar view.</td>
+        <td></td>
+        <td>2024-05-30</td>
+    </tr>
+    <tr>
+        <td>ab91642c871747ebdc0c662613112aa6214d3aec</td>
+        <td>feat: added input field for small view in control panel.</td>
+        <td></td>
+        <td>2024-05-30</td>
+    </tr>
+    <tr>
+        <td>33654f5aab4475fba619b26f5f4d03564c5d4909</td>
+        <td>feat: added schedule view to control panel page.</td>
+        <td></td>
+        <td>2024-05-30</td>
+    </tr>
+    <tr>
+        <td>0bb578112d65623c602bc53f31886899ba8a43a5</td>
+        <td>feat(schedule): added auto scroll for time.</td>
+        <td></td>
+        <td>2024-06-07</td>
+    </tr>
+    <tr>
+        <td>861c44f8e28336dd14c0f7f748da826c2fd8e2f3</td>
+        <td>style: added margin to schedule.</td>
+        <td></td>
+        <td>2024-06-07</td>
+    </tr>
+    <tr>
+        <td>5114ddd6bd0757de83bda53a55f72358ebca22fd</td>
+        <td>style: added margin.</td>
+        <td></td>
+        <td>2024-06-07</td>
+    </tr>
+    <tr>
+        <td rowspan="7">feature/sidebar</td>
+    </tr>
+    <tr>
+        <td>7107dee77a71631afc33088f7cc5ec433d407127</td>
+        <td>feat: fix 404 page.</td>
+        <td></td>
+        <td>2024-05-30</td>
+    </tr>
+    <tr>
+        <td>b5bca628b3ce4916ea429b985a510c789eb8e805</td>
+        <td>feat: added sidebar navigation.</td>
+        <td></td>
+        <td>2024-05-30</td>
+    </tr>
+    <tr>
+        <td>40df7e4502aae97aceaafc5123cc25fa3b1baa48</td>
+        <td>feat: create sidebar item.</td>
+        <td></td>
+        <td>2024-05-30</td>
+    </tr>
+    <tr>
+        <td>7dc6132659281437773fffb2e2092320dc19efa6</td>
+        <td>refactor: move panel card icon to shared to make it reusable by other components.</td>
+        <td></td>
+        <td>2024-05-30</td>
+    </tr>
+    <tr>
+        <td>52061fe7f8ebcc530d246f0c133d4a514de1402f</td>
+        <td>feat: finish navbar.</td>
+        <td></td>
+        <td>2024-05-30</td>
+    </tr>
+    <tr>
+        <td>ed37904772fbea063da7bddb632291e20ad06445</td>
+        <td>feat: added notification bell.</td>
+        <td></td>
+        <td>2024-05-31</td>
+    </tr>
+    <tr>
+        <td rowspan="19">feature/account-manager-content</td>
+    </tr>
+    <tr>
+        <td>2ebd860975324dbe7fbdd705d2dc5365ed43ccfc</td>
+        <td>feat:add new component about user manager.|is responsible for validating accounts at the password and user level.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>0c1aa6efa6b574aba4c75439629de07d8f7e7fce</td>
+        <td>feat:add user entity, this contains the attributes and functions of user</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>813774612a82cf5989cbc1758daf39b6237fde05</td>
+        <td>feat:add user service.</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>48a5e46032116f8d3f753f6fff8d76ff2ecf24c2</td>
+        <td>feat:add sign-up component</td>
+        <td></td>
+        <td>2024-05-19</td>
+    </tr>
+    <tr>
+        <td>510029cbf6c33ed5207445d497377ab48620bc12</td>
+        <td>feat:add new button for rol user</td>
+        <td></td>
+        <td>2024-05-20</td>
+    </tr>
+    <tr>
+        <td>dc642a779b501eb2cbeb9ae668eba424b976d682</td>
+        <td>feat:add new enum</td>
+        <td></td>
+        <td>2024-05-20</td>
+    </tr>
+    <tr>
+        <td>31e96c88917128938e64788ceacdf9dd67031485</td>
+        <td>feat:fix login-component y signup-component</td>
+        <td></td>
+        <td>2024-05-20</td>
+    </tr>
+    <tr>
+        <td>fb67075bbd0e1f4a9d0b6195d849f2790421865b</td>
+        <td>add: new component about manager-account</td>
+        <td></td>
+        <td>2024-05-20</td>
+    </tr>
+    <tr>
+        <td>d91788e59ef12e9f03bdfc71c41426b1e8a1c8d2</td>
+        <td>feat:add new component</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>2935274ea6c4e34813cc3fd7cd49e29e555ff533</td>
+        <td>feat:add validation</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>04bf1375e9284dcd6f77f4766dbfd092c58b809e</td>
+        <td>feat:add new parametter</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>000e60a1a7f04bde6899b22d355da787e1386039</td>
+        <td>feat:add new method, updateUser for users with specific id</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>d8af08584b99246c27aae24ac8b5045952190310</td>
+        <td>feat:add new method,full name.</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>60adfc5f24b11a53760068201dad6feb291245a8</td>
+        <td>feat:add new data</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>56e64c9d24abc4f0c9c385e32b5c1c68d68376d4</td>
+        <td>feat:add new route</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>f3277ba3ff5cb0c6a6ca7574930aeab1dda81c9d</td>
+        <td>feat:add new functionalities</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>58510e6a6ead5367c4861ad241c06e2edf4fb027</td>
+        <td>feat:add new functionalities</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>e72e5309e7eb3a7bca0e2c187096268481e407d5</td>
+        <td>Merge branch 'develop' into feature/account-manager-content.</td>
+        <td></td>
+        <td>2024-05-31</td>
+    </tr>
+    <tr>
+        <td rowspan="5">feature/tasks-search</td>
+    </tr>
+    <tr>
+        <td>0efd3b11d4583b11215f21d561effa16130ec1a1</td>
+        <td>feat(task-search): added search filter for tasks</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>f40a05de89b505fd32672fa5bca4c98f50901c43</td>
+        <td>fix(tasks-date-update): fixed bug with the update option for the date</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>64f12181f6f1508c48287cca9ea577a96fb3e9ae</td>
+        <td>fix(tasks-employee-update): fixed bug with the update option for the employee (minor fixes)</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td>6053b3b7b021ea1863c60e3d021392c3df562959</td>
+        <td>feat(tasks-reset-filter-button): added reset filter button</td>
+        <td></td>
+        <td>2024-05-22</td>
+    </tr>
+    <tr>
+        <td rowspan="6">feature/room-management</td>
+    </tr>
+    <tr>
+        <td>a0c99c077db0c5ec5496d779a5c538d40c196dc8</td>
+        <td>feat: add api service and created entity rooms</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>b68b7ede9edb49d0444d2e7d32c2f8a3f56becbb</td>
+        <td>feat: add entity rooms</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>599133b9589eff721e972a34d8bd1dc420afe0c2</td>
+        <td>feat: created room card and added actions</td>
+        <td></td>
+        <td>2024-05-21</td>
+    </tr>
+    <tr>
+        <td>2a29194ad282b0b604fbf8f8ecc776e47071c7d7</td>
+        <td>fix: return to old room entity.</td>
+        <td></td>
+        <td>2024-06-05</td>
+    </tr>
+    <tr>
+        <td>eefa261c0b2f894075d378d2f76f5562e4915bc1</td>
+        <td>Merge branch 'develop' into feature/room-management</td>
+        <td></td>
+        <td>2024-06-05</td>
+    </tr>
+    <tr>
+        <td rowspan="4">feature/toolbar-implementation</td>
+    </tr>
+    <tr>
+        <td>5b0a27021879ddb794e0ab10dc64867b8b0a3ce9</td>
+        <td>feat(sidebar-mobile): added function to only apear when its for mobile</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td>91424f701b4e2995f9f8de3f3c1775490b3b1d39</td>
+        <td>feat(sidebar-mobile): added function to only apear when its for mobile</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td>f920a8b814bc57364172009a074c7a1fb2b873c8</td>
+        <td>feat(sidebar-mobile): added function to only apear when its for mobile</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td rowspan="15">feature/inventory</td>
+    </tr>
+    <tr>
+        <td>a6b6c1a340a247cafdfc65cedaead72844aa3303</td>
+        <td>feat(inventory): added inventory entity and inventory api service</td>
+        <td></td>
+        <td>2024-05-24</td>
+    </tr>
+    <tr>
+        <td>0b8cf79f7ee4a14580b7a313897464d63ec0af3c</td>
+        <td>chore(fake-api): updated db.json</td>
+        <td></td>
+        <td>2024-05-24</td>
+    </tr>
+    <tr>
+        <td>803519d5c879c4de3dfb1d768e466d84a85ef8f8</td>
+        <td>feat(inventory): added inventory card container</td>
+        <td></td>
+        <td>2024-05-24</td>
+    </tr>
+    <tr>
+        <td>6834ac4109f6ccaec7b65e69108f53e3b42ffc51</td>
+        <td>feat(inventory): added inventory card component</td>
+        <td></td>
+        <td>2024-05-24</td>
+    </tr>
+    <tr>
+        <td>58fbed56dd7f7a42289c343b13246927373c90b2</td>
+        <td>feat(inventory): added inventory card dialog component</td>
+        <td></td>
+        <td>2024-05-24</td>
+    </tr>
+    <tr>
+        <td>22aab6cd758bb57eddf27c0b638dd4347ecded31</td>
+        <td>feat(inventory-create): added inventory create dialog and inventory creation</td>
+        <td></td>
+        <td>2024-05-24</td>
+    </tr>
+    <tr>
+        <td>5de7834bb7e885abb11a934ce4592b75777d1c30</td>
+        <td>feat(inventory-update): added inventory update components</td>
+        <td></td>
+        <td>2024-05-24</td>
+    </tr>
+    <tr>
+        <td>3eba989233c9cb003682e32c16afd3a22932d5b0</td>
+        <td>feat(inventory-delete): added inventory delete components</td>
+        <td></td>
+        <td>2024-05-29</td>
+    </tr>
+    <tr>
+        <td>b038e839b135bf4d0cb9350c0e0a352e4407b307</td>
+        <td>fix(inventory-delete): fixed bug with delete dialog</td>
+        <td></td>
+        <td>2024-06-01</td>
+    </tr>
+    <tr>
+        <td>3b3f306475049d0577d22774ce7f22a4cc8d52af</td>
+        <td>fix(inventory-create): fixed bug with create dialog</td>
+        <td></td>
+        <td>2024-06-01</td>
+    </tr>
+    <tr>
+        <td>c484f81242d3cd3fa5f2928442f6946a754859c3</td>
+        <td>fix(inventory): fixed bug with cards information dialog</td>
+        <td></td>
+        <td>2024-06-01</td>
+    </tr>
+    <tr>
+        <td>09c8148d4abbfbe811336c634f6c0149fb526d3d</td>
+        <td>fix(inventory): fixed bug with cards menu button</td>
+        <td></td>
+        <td>2024-06-02</td>
+    </tr>
+    <tr>
+        <td>5b4df06812635c0a2c696cad865b0001248e3aca</td>
+        <td>chore: remove unused dependency.</td>
+        <td></td>
+        <td>2024-06-05</td>
+    </tr>
+    <tr>
+        <td>e2200effe103f6c31237d0c3f76e5c12dc8faabc</td>
+        <td>Merge branch 'develop' into feature/inventory-delete</td>
+        <td></td>
+        <td>2024-06-05</td>
+    </tr>
+    <tr>
+        <td rowspan="5">feature/employees</td>
+    </tr>
+    <tr>
+        <td>2aa616ac15994cb0a0037db4d13691abb847e18f</td>
+        <td>feat(employees): implemented employee vista.</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td>408af94ab05aca103fc07d4b06513055e0857fba</td>
+        <td>feat(employees): implemented employee vista.</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td>62049c5fa2caea7f64baddff398298dc7c192db3</td>
+        <td>Merge pull request #33 from upc-pre-20241-si729-wx55-eabmodel/develop emplyess</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td>910864035d58b2dab9f63f9627e8c9eeeadace0f</td>
+        <td>feat(employees): implemented employee DIALOG.</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td rowspan="4">feature/routing</td>
+    </tr>
+    <tr>
+        <td>8c1cccdca2ace8c71630028dde5b0c4eb6cf23bf</td>
+        <td>feat(routing): added routing for user view by id.</td>
+        <td></td>
+        <td>2024-06-07</td>
+    </tr>
+    <tr>
+        <td>790f7d3d1d0b32bbc9320d28eeb9415f7e11c955</td>
+        <td>feat(routing): implemented user routing :id</td>
+        <td></td>
+        <td>2024-06-07</td>
+    </tr>
+    <tr>
+        <td>5d62f678619b687b673ad9476cb255dc6d860f97</td>
+        <td>feat(routing): added hash routing.</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td rowspan="5">feature/iam</td>
+    </tr>
+    <tr>
+        <td>49ea5a629f95293939ff602daaabeead66d88a50</td>
+        <td>feat(shared): create iam storage service.</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td>a8e8680dd3cd94836c8a4b46ac4332bbd894201c</td>
+        <td>fix(iam): fix http request.</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td>33ede401ca371dac2dab3d71e9372ee6a877da90</td>
+        <td>feat(iam): added guard for routing.</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    <tr>
+        <td>56ead9e9051820b8c5a0b4345417f1e8eebcdef7</td>
+        <td>feat(iam): added login.</td>
+        <td></td>
+        <td>2024-06-06</td>
+    </tr>
+    </tbody>
+</table> <br>
+5.2.3.4. Testing Suite Evidence for Sprint Review. <br>
+<table>
+  <thead>
+    <tr>
+      <th>Repository</th>
+      <th>Branch</th>
+      <th>Commit Id</th>
+      <th>Commit Message</th>
+      <th>Commit Message Body</th>
+      <th>Committed on (Date)</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td rowspan="1000000">inncontrol-backend</td>
+  </tr>
+            <tr>
+                <td rowspan="163">develop</td>
+            </tr>
+                <tr>
+                    <td>87a17537a5dc5447756aa60d0d727b4da124df1f</td>
+                    <td>fix(Employee):Rename repositories in infrastructure layer</td>
+                    <td></td>
+                    <td>2024-06-07T20:40:26Z</td>
+                </tr>
+                <tr>
+                    <td>23483263f9543e19c72c3f601822e8c2682274c5</td>
+                    <td>refactor: relocated packages.</td>
+                    <td></td>
+                    <td>2024-06-07T20:39:08Z</td>
+                </tr>
+                <tr>
+                    <td>0661013419b91cda1c270f0180012e24ec0534a8</td>
+                    <td>feat(jwt): added jwt secret.</td>
+                    <td></td>
+                    <td>2024-06-07T20:36:51Z</td>
+                </tr>
+                <tr>
+                    <td>0a4bee393fd1c1cf1d68cce098fc4609ace0e8d9</td>
+                    <td>fix(iam): pom.xml dependencies.</td>
+                    <td></td>
+                    <td>2024-06-07T20:36:14Z</td>
+                </tr>
+                <tr>
+                    <td>1f245fa38863055c57369bd708905068b466af30</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:21:04Z</td>
+                </tr>
+                <tr>
+                    <td>392aced8d37ffcc074480f034dd0eb95316b5f9e</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:21:02Z</td>
+                </tr>
+                <tr>
+                    <td>5248ab50e9bbf7ae9467a2accf4a3b986eb2a28e</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:20:59Z</td>
+                </tr>
+                <tr>
+                    <td>4edd9612cb6c466e83db448eabd1f13a780753b6</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:20:57Z</td>
+                </tr>
+                <tr>
+                    <td>516799a7c0b3b07304df51f6dd15e0f9536f741a</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:20:54Z</td>
+                </tr>
+                <tr>
+                    <td>5ee941a3d10a0e7fc6351f4864062a4f449d8000</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:20:52Z</td>
+                </tr>
+                <tr>
+                    <td>75aa6aaa3aaf6851c0460d99d5ef7320367c2293</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:20:49Z</td>
+                </tr>
+                <tr>
+                    <td>e6dfc2a87d84fe4410474f27817f5407f17fc1c8</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:20:45Z</td>
+                </tr>
+                <tr>
+                    <td>ca958f7b7947c3984bbbaa7686c85cd46e2f9d1e</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:14:33Z</td>
+                </tr>
+                <tr>
+                    <td>c74c17d9e3c9e3546d3d1d3042a5a9cc21fcd404</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:14:31Z</td>
+                </tr>
+                <tr>
+                    <td>51bc99b594d259cfec3d7e769fc2b962a7a372ae</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:14:28Z</td>
+                </tr>
+                <tr>
+                    <td>360ebeba91d8468b27da311b1a532a42b0a7551a</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:14:25Z</td>
+                </tr>
+                <tr>
+                    <td>fba6f7ec348753f53ced3404e694e3e5552da8e9</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:14:15Z</td>
+                </tr>
+                <tr>
+                    <td>fe2c9dd02bfd06fc8c2d9baf7c3fa4a147b6bfa9</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:14:12Z</td>
+                </tr>
+                <tr>
+                    <td>ad6b86782fd559035213b7dfa7c09e49627c4cc4</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:07:26Z</td>
+                </tr>
+                <tr>
+                    <td>513513c0613ee96bf3039aad87113fec92851919</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:07:21Z</td>
+                </tr>
+                <tr>
+                    <td>ead59e6e7955f19f34e841265dd89e23e974a350</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:07:17Z</td>
+                </tr>
+                <tr>
+                    <td>8e1def32d3d4b0b0ba9c14efa3dbdf11ea8bf80f</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:07:14Z</td>
+                </tr>
+                <tr>
+                    <td>a9212bdf7d5eebfa978d573902abe41324082423</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:07:12Z</td>
+                </tr>
+                <tr>
+                    <td>ac023577136da7f95182e01feeadd2ab2ecd5bba</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:07:09Z</td>
+                </tr>
+                <tr>
+                    <td>544069a22bec8158191605f859f68df6c45ef272</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:07:06Z</td>
+                </tr>
+                <tr>
+                    <td>8412ebf2a85c15dff4a61645c48e1eb955bb6bb1</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:07:04Z</td>
+                </tr>
+                <tr>
+                    <td>b897a88cf9818c70fed1765a12d53fd8aef27a82</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:07:00Z</td>
+                </tr>
+                <tr>
+                    <td>aa2cb79364684bd6967ff868e8fc4099f417321c</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:06:56Z</td>
+                </tr>
+                <tr>
+                    <td>ee762c94b1c917cab84269eafe8250b6d3258fcc</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:06:39Z</td>
+                </tr>
+                <tr>
+                    <td>186b5f85abd69b6c61f5ba92f0159443dbca09ef</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:06:33Z</td>
+                </tr>
+                <tr>
+                    <td>4f0c9bfdc31a01fa1f3e2908b09692cc4e5a72cf</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:06:28Z</td>
+                </tr>
+                <tr>
+                    <td>76685de4201783daf0ad994c0b478adb49fff3c4</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:06:23Z</td>
+                </tr>
+                <tr>
+                    <td>167a79ae30fb14904d0e22913023b758e2d96a95</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:06:18Z</td>
+                </tr>
+                <tr>
+                    <td>136acda46009f85e6f7bdbabcb07da4752c77936</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:05:04Z</td>
+                </tr>
+                <tr>
+                    <td>27f14ebffa6be88cfdb776ccced97dab2981ae29</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:04:59Z</td>
+                </tr>
+                <tr>
+                    <td>7a21c2238c3907aa5a4682cdeecf978f37f0500a</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T17:04:35Z</td>
+                </tr>
+                <tr>
+                    <td>02e4f5436fd2afeab9f09c26a6dfa4a656c8b21e</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T16:40:00Z</td>
+                </tr>
+                <tr>
+                    <td>9d1116e0925d07f0cb08cb49c59921826a7cca90</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T16:39:24Z</td>
+                </tr>
+                <tr>
+                    <td>b47e5b544cc57767e563afe7480c2eed4365d7fd</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T16:39:14Z</td>
+                </tr>
+                <tr>
+                    <td>d725177386c950404cc7c11b220e0d8751c595e4</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T16:38:44Z</td>
+                </tr>
+                <tr>
+                    <td>2a3ef784cc6b3b10668dc275f78422044ce6ad4b</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T16:38:33Z</td>
+                </tr>
+                <tr>
+                    <td>369fd6df7200d2125e213ec6f2a8eae8c0a6cd90</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T16:38:10Z</td>
+                </tr>
+                <tr>
+                    <td>d54314a4d9a45eaf12a7e84f18315294613adc8d</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T16:37:11Z</td>
+                </tr>
+                <tr>
+                    <td>aa5724cae5b542d142a32b1a00016725b196f9db</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T16:36:58Z</td>
+                </tr>
+                <tr>
+                    <td>2e51b8dc18394eacc78e73b9025c0ee5967e072d</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T16:34:25Z</td>
+                </tr>
+                <tr>
+                    <td>41f187f534e7f8c85a62c3600c30ee9a3d5dcbea</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T16:34:12Z</td>
+                </tr>
+                <tr>
+                    <td>c0cc10db9e3461a5968618ab5a4b0abc96e2cb0f</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T16:34:04Z</td>
+                </tr>
+                <tr>
+                    <td>d1077f429eef6b21f30bd43f2d11434b01df848e</td>
+                    <td>feat(IAM):Add implementation about IAM BOUNDED CONTEXT</td>
+                    <td></td>
+                    <td>2024-06-07T16:33:49Z</td>
+                </tr>
+                <tr>
+                    <td>e8efa93ca81e761ca433f18a54b00380a639f0b4</td>
+                    <td>feat: added mysql compose connection.</td>
+                    <td></td>
+                    <td>2024-06-07T05:20:41Z</td>
+                </tr>
+                <tr>
+                    <td>dd4582fe4bc4d1ccb8117dabcd3b5a6cfab02085</td>
+                    <td>fix(employee): fix imports.</td>
+                    <td></td>
+                    <td>2024-06-07T05:20:25Z</td>
+                </tr>
+                <tr>
+                    <td>cffb76327cb92d9db73b29d1dec60335aebfd625</td>
+                    <td>fix(employee): fix id conflicts.</td>
+                    <td></td>
+                    <td>2024-06-07T05:20:15Z</td>
+                </tr>
+                <tr>
+                    <td>3e7c05f6f2b7de3947eee4ed58d2ddb9f93cc483</td>
+                    <td>fix(message): merge to acl.</td>
+                    <td></td>
+                    <td>2024-06-07T05:19:58Z</td>
+                </tr>
+                <tr>
+                    <td>2b14bd3e5ef20317cbf184dc652414155190a451</td>
+                    <td>fix(message): added override attribute.</td>
+                    <td></td>
+                    <td>2024-06-07T05:19:48Z</td>
+                </tr>
+                <tr>
+                    <td>3a472d8a75d608e93ba5bae62594cbe3e8f4322f</td>
+                    <td>fix(profile): moved external profile service to shared.</td>
+                    <td></td>
+                    <td>2024-06-07T05:19:24Z</td>
+                </tr>
+                <tr>
+                    <td>7f5e1427068a835e4f1b583d506ab20cc9e258db</td>
+                    <td>fix(task): fix task mapping controller.</td>
+                    <td></td>
+                    <td>2024-06-07T05:19:06Z</td>
+                </tr>
+                <tr>
+                    <td>a63f89132cb1f32ed69967f3b7e3e7422cf693d6</td>
+                    <td>feat(docker): added compose to pom.xml</td>
+                    <td></td>
+                    <td>2024-06-07T05:18:48Z</td>
+                </tr>
+                <tr>
+                    <td>d423af041c85a52993867ace42a306ab3d58c129</td>
+                    <td>feat(docker): added mysql docker compose.yaml.</td>
+                    <td></td>
+                    <td>2024-06-07T05:18:38Z</td>
+                </tr>
+                <tr>
+                    <td>4dddf589a7ca056e08512118ca2caa93595db56a</td>
+                    <td>feat(task): created assembler for commands.</td>
+                    <td></td>
+                    <td>2024-06-06T06:00:09Z</td>
+                </tr>
+                <tr>
+                    <td>9fd8d5bfbb3cbe2023faf38e149f451d0ef49b77</td>
+                    <td>feat(task): created resources.</td>
+                    <td></td>
+                    <td>2024-06-06T05:59:57Z</td>
+                </tr>
+                <tr>
+                    <td>27dd8ddec57e94cd7cf3a7d75a68efbb69997302</td>
+                    <td>feat(task): created resources assemblers.</td>
+                    <td></td>
+                    <td>2024-06-06T05:59:35Z</td>
+                </tr>
+                <tr>
+                    <td>907a68f5ab2d3a4fa731a10eecd6aecfa81d21be</td>
+                    <td>feat(task): created intbound controller.</td>
+                    <td></td>
+                    <td>2024-06-06T05:59:15Z</td>
+                </tr>
+                <tr>
+                    <td>aa936c962d4eb58b7c2580dd9392e3063d2cc6ea</td>
+                    <td>feat(task): implemented queries for task by application layer.</td>
+                    <td></td>
+                    <td>2024-06-06T05:37:46Z</td>
+                </tr>
+                <tr>
+                    <td>c177e6f2b775278d6f5fec568e855e1e85720a82</td>
+                    <td>feat(task): implemented custom query</td>
+                    <td></td>
+                    <td>2024-06-06T05:37:27Z</td>
+                </tr>
+                <tr>
+                    <td>f4789e1021984da50efb713a7aeb1fba8fe5cf1b</td>
+                    <td>feat(task): handle all commnads by service layer.</td>
+                    <td></td>
+                    <td>2024-06-06T05:26:54Z</td>
+                </tr>
+                <tr>
+                    <td>64f554b02c5a5d41c5d2b0beded558640ebd4317</td>
+                    <td>feat(task): implemented services</td>
+                    <td></td>
+                    <td>2024-06-06T05:17:31Z</td>
+                </tr>
+                <tr>
+                    <td>f605e515c1e5c84b577e55fc6c01ec08fe6ea6f0</td>
+                    <td>feat(task): created query service impl</td>
+                    <td></td>
+                    <td>2024-06-06T05:12:29Z</td>
+                </tr>
+                <tr>
+                    <td>b377f5641ccdd91596b9d740428512105b4e7c0d</td>
+                    <td>feat(task): created command service impl</td>
+                    <td></td>
+                    <td>2024-06-06T05:12:18Z</td>
+                </tr>
+                <tr>
+                    <td>334bc4fde37a17ca80d8c1ccbd9167600ac59da1</td>
+                    <td>feat(task): created base controller.</td>
+                    <td></td>
+                    <td>2024-06-06T05:08:56Z</td>
+                </tr>
+                <tr>
+                    <td>a0118fddd7a3a3fabb6e47f40eeb38f83d2215b3</td>
+                    <td>feat(task): created repository.</td>
+                    <td></td>
+                    <td>2024-06-06T05:08:40Z</td>
+                </tr>
+                <tr>
+                    <td>dd73573ce73b331718f4fa7f941c77588e3d6d2f</td>
+                    <td>feat(Accommodation-Room): minor fixes</td>
+                    <td></td>
+                    <td>2024-06-06T03:44:24Z</td>
+                </tr>
+                <tr>
+                    <td>9a4ea37b2b4eb29c72ecdba94502d99846f322e5</td>
+                    <td>Fix(Accomodation): minor changes</td>
+                    <td></td>
+                    <td>2024-06-06T01:43:21Z</td>
+                </tr>
+                <tr>
+                    <td>e3ff6d7a5dcde13391da14dcd88144acede02094</td>
+                    <td>feat:corrected for my beba</td>
+                    <td></td>
+                    <td>2024-06-05T20:14:51Z</td>
+                </tr>
+                <tr>
+                    <td>9b1cc32afbbf0657e1627a010b65c00df30b3440</td>
+                    <td>fix(Inventory): camelCase fixings</td>
+                    <td></td>
+                    <td>2024-06-05T13:15:08Z</td>
+                </tr>
+                <tr>
+                    <td>dbc7564cd5bd1aa2e0402efe95bc26ba04722a00</td>
+                    <td>feat(task): domain layer aggregates methods.</td>
+                    <td></td>
+                    <td>2024-06-05T08:03:16Z</td>
+                </tr>
+                <tr>
+                    <td>014a7e7ee350c94ebb838000f160c2dcbc3cc2da</td>
+                    <td>feat(task): domain layer aggregates methods.</td>
+                    <td></td>
+                    <td>2024-06-05T08:01:50Z</td>
+                </tr>
+                <tr>
+                    <td>10b13ac829bd6952572eb901511cfb8283b23700</td>
+                    <td>feat(task): created service layer command and queries for tasks.</td>
+                    <td></td>
+                    <td>2024-06-05T08:01:31Z</td>
+                </tr>
+                <tr>
+                    <td>3346eeb0e86da74822e42328fd66186c697a36fc</td>
+                    <td>feat(task): created domain layer command and queries for tasks.</td>
+                    <td></td>
+                    <td>2024-06-05T08:01:23Z</td>
+                </tr>
+                <tr>
+                    <td>29ffb51fca2a07e98895916ed357733a329e6c4b</td>
+                    <td>feat(task): created task aggregates and value objects.</td>
+                    <td></td>
+                    <td>2024-06-05T07:51:13Z</td>
+                </tr>
+                <tr>
+                    <td>978a7acfb3f8dae3fd8e2a65aa041412bde25067</td>
+                    <td>feat(task): created employee acl.</td>
+                    <td></td>
+                    <td>2024-06-05T07:44:59Z</td>
+                </tr>
+                <tr>
+                    <td>a8daa0e461645c72709ba6bc6a85d0c419e40c3a</td>
+                    <td>feat(task): created employee acl.</td>
+                    <td></td>
+                    <td>2024-06-05T07:44:54Z</td>
+                </tr>
+                <tr>
+                    <td>25fc7633578d4d71b6c29c6f3edc4ed455232425</td>
+                    <td>feat(messages): finish message rest controller.</td>
+                    <td></td>
+                    <td>2024-06-04T07:15:23Z</td>
+                </tr>
+                <tr>
+                    <td>ebec21771466cceade3242a8652fafa6e38fbf89</td>
+                    <td>feat(inventory): Fix Item Creation</td>
+                    <td></td>
+                    <td>2024-06-04T01:37:28Z</td>
+                </tr>
+                <tr>
+                    <td>5c5435b9eccdcdaf09ce16acc28f208fc17e6ec3</td>
+                    <td>feat(Accommodation-Room): minor fixes</td>
+                    <td></td>
+                    <td>2024-06-03T00:35:08Z</td>
+                </tr>
+                <tr>
+                    <td>d61182e10de46e8ee0be88374dca279a556df77e</td>
+                    <td>feat(Accommodation-Room-Controller) added PutMapping and DeleteMapping By Id</td>
+                    <td></td>
+                    <td>2024-06-03T00:34:23Z</td>
+                </tr>
+                <tr>
+                    <td>62fde77bb4fc33ec45a2a8613334bb3d1a616f4d</td>
+                    <td>feat(Accommodation-Room-Repository) added exist byRoomNumber & AndIdIsNot</td>
+                    <td></td>
+                    <td>2024-06-03T00:33:58Z</td>
+                </tr>
+                <tr>
+                    <td>70367313e10f60ffd8bef0ad2291de80ef37f00f</td>
+                    <td>feat(Accommodation-Room-Command-service-impl): added handle UpdateRoom command and handle deleteRoomCommand</td>
+                    <td></td>
+                    <td>2024-06-03T00:33:04Z</td>
+                </tr>
+                <tr>
+                    <td>01816207c217823f1a1aa676a783f955bdc2df0c</td>
+                    <td>feat(Accommodation-Room-Command): added handle UpdateRoom command and handle deleteRoomCommand</td>
+                    <td></td>
+                    <td>2024-06-03T00:32:51Z</td>
+                </tr>
+                <tr>
+                    <td>d9ed4b9b7f6d2b24968b79cbf0bccb5cbb35e173</td>
+                    <td>feat(Accommodation-Room-Command): added Delete Room Command</td>
+                    <td></td>
+                    <td>2024-06-03T00:32:25Z</td>
+                </tr>
+                <tr>
+                    <td>4a0258803f7aa610c687d586a4cc946859d0635a</td>
+                    <td>feat(Accommodation-Room-Resource): added update Room Resource</td>
+                    <td></td>
+                    <td>2024-06-03T00:32:11Z</td>
+                </tr>
+                <tr>
+                    <td>2058a6d37591c9f98c79381a98b8142488c19cfe</td>
+                    <td>feat(Accommodation-Room- command): added update Room command</td>
+                    <td></td>
+                    <td>2024-06-03T00:31:54Z</td>
+                </tr>
+                <tr>
+                    <td>1f70cb17136d599051c44f9c6f3fb138b6fabdd9</td>
+                    <td>feat(Accommodation-Room): added date initialDate and finalDate, roomNumber and update information</td>
+                    <td></td>
+                    <td>2024-06-03T00:31:29Z</td>
+                </tr>
+                <tr>
+                    <td>95ad01a2e3c51397c0822c4cb100f748575c7dd4</td>
+                    <td>feat(Accommodation-Room-Reservation): added room reservation date initialDate and finalDate</td>
+                    <td></td>
+                    <td>2024-06-03T00:30:40Z</td>
+                </tr>
+                <tr>
+                    <td>034c12a51c6c13dca644b1fd3295b0e52986f521</td>
+                    <td>feat(Accommodation-Room-Resources): added room Number, reservation</td>
+                    <td></td>
+                    <td>2024-06-03T00:30:21Z</td>
+                </tr>
+                <tr>
+                    <td>a5476df0461d089b361f55f62f1dca1329fa9d34</td>
+                    <td>feat(Accommodation-Room-Resources): added room Number, reservation</td>
+                    <td></td>
+                    <td>2024-06-03T00:30:08Z</td>
+                </tr>
+                <tr>
+                    <td>e1df13002a55eb1c204ef1ebbd3c2211098823f3</td>
+                    <td>feat(Accommodation-Create-Room-Command): added room Number, date initialDate and finalDate</td>
+                    <td></td>
+                    <td>2024-06-03T00:29:43Z</td>
+                </tr>
+                <tr>
+                    <td>4ad180d84e6661861e94e2b00628bc12d232c90a</td>
+                    <td>feat(Inventory): implemented delete method.</td>
+                    <td></td>
+                    <td>2024-06-02T21:49:30Z</td>
+                </tr>
+                <tr>
+                    <td>fbd5385e96be52dfa87bb055e8475e8e7169deac</td>
+                    <td>feat:add new implementation on model and aggregate root  of the bounded context employee</td>
+                    <td></td>
+                    <td>2024-06-02T04:24:09Z</td>
+                </tr>
+                <tr>
+                    <td>a2e86c5c8ab2e85e347083d14820a6de1c9cc774</td>
+                    <td>feat:add new implementation on model and aggregate root  of the bounded context employee</td>
+                    <td></td>
+                    <td>2024-06-02T04:24:02Z</td>
+                </tr>
+                <tr>
+                    <td>742d6e1d88bf6811ff27856558f7a92fe91cfb45</td>
+                    <td>feat:add new implementation on model and aggregate root  of the bounded context employee</td>
+                    <td></td>
+                    <td>2024-06-02T04:23:54Z</td>
+                </tr>
+                <tr>
+                    <td>8eb90d21910ad9f08c51f5ea2346e447b8c49682</td>
+                    <td>feat:add new implementation on transform and resource that manages the information entering and exiting the interface layer   of the bounded context employee</td>
+                    <td></td>
+                    <td>2024-06-02T04:22:56Z</td>
+                </tr>
+                <tr>
+                    <td>25afa6357fc17dd4f390a8f9a051608708521171</td>
+                    <td>feat:add new implementation on transform and resource that manages the information entering and exiting the interface layer   of the bounded context employee</td>
+                    <td></td>
+                    <td>2024-06-02T04:22:43Z</td>
+                </tr>
+                <tr>
+                    <td>3e66db6543c04b2379b8fb14171770a5a964f5b9</td>
+                    <td>feat:add new implementation on transform and resource that manages the information entering and exiting the interface layer   of the bounded context employee</td>
+                    <td></td>
+                    <td>2024-06-02T04:22:34Z</td>
+                </tr>
+                <tr>
+                    <td>9104e4943b2d071719b78104244b294dc8447014</td>
+                    <td>feat:add new implementation on transform and resource that manages the information entering and exiting the interface layer   of the bounded context employee</td>
+                    <td></td>
+                    <td>2024-06-02T04:22:14Z</td>
+                </tr>
+                <tr>
+                    <td>df597e3563d5068d3aec027eb7ba0b9b2da988e1</td>
+                    <td>feat:add new implementation on transform and resource that manages the information entering and exiting the interface layer   of the bounded context employee</td>
+                    <td></td>
+                    <td>2024-06-02T04:22:06Z</td>
+                </tr>
+                <tr>
+                    <td>06fc43abb31cc8ec12a03c0989ec930764421e3c</td>
+                    <td>feat:add new implementation on EmployeeCommandService that handles the writing of the bounded context employee</td>
+                    <td></td>
+                    <td>2024-06-02T04:20:37Z</td>
+                </tr>
+                <tr>
+                    <td>9a937bf8afd672b9a0bdf6e524b0630e3ecb0a3a</td>
+                    <td>feat:add new implementation on EmployeeCommandService that handles the writing of the bounded context employee</td>
+                    <td></td>
+                    <td>2024-06-02T04:20:27Z</td>
+                </tr>
+                <tr>
+                    <td>de47d03c74e1259ffbd60bb747e15df9f05251a7</td>
+                    <td>fix(rooms): JPA with enums.</td>
+                    <td></td>
+                    <td>2024-06-01T05:14:15Z</td>
+                </tr>
+                <tr>
+                    <td>e0ec990739fd1ab825e28db06a263b9eac3091a3</td>
+                    <td>feat:add new implementation about EmployeeCommandService</td>
+                    <td></td>
+                    <td>2024-06-01T00:05:28Z</td>
+                </tr>
+                <tr>
+                    <td>74fb78afc8ff5174c38812e8688fdb06db371e12</td>
+                    <td>feat(Accommodation-Controller): added Rooms Controller</td>
+                    <td></td>
+                    <td>2024-06-01T00:00:54Z</td>
+                </tr>
+                <tr>
+                    <td>542d1f4ebf61c4ba4cf02a75887f37aab07144c0</td>
+                    <td>feat(Accommodation-Room-Assemblers): added Room Assemblers</td>
+                    <td></td>
+                    <td>2024-06-01T00:00:36Z</td>
+                </tr>
+                <tr>
+                    <td>310befeadee2dc89f9db050e91d6f2a50c206786</td>
+                    <td>feat(Accommodation-Room-Resources): added Room Resources</td>
+                    <td></td>
+                    <td>2024-06-01T00:00:22Z</td>
+                </tr>
+                <tr>
+                    <td>78b9903b1a1b9d6ceafe94b61a193a3a71198bfe</td>
+                    <td>feat(Accommodation-Room): added Room entity</td>
+                    <td></td>
+                    <td>2024-06-01T00:00:04Z</td>
+                </tr>
+                <tr>
+                    <td>106b3359dea5eda25ec9f95dcc46af6f0a1c4426</td>
+                    <td>feat(Accommodation-query-Service-impl): added Room Query Service impl</td>
+                    <td></td>
+                    <td>2024-05-31T23:59:45Z</td>
+                </tr>
+                <tr>
+                    <td>586a064e25f49c8d93b23b576294308cdb602eb6</td>
+                    <td>feat(Accommodation-Command-Service-impl): added Room Repository</td>
+                    <td></td>
+                    <td>2024-05-31T23:59:26Z</td>
+                </tr>
+                <tr>
+                    <td>8aaf78f09fa6d862bbbb50d31cc8ae9cd30ada92</td>
+                    <td>feat(Accommodation-repository): added Room Repository</td>
+                    <td></td>
+                    <td>2024-05-31T23:59:11Z</td>
+                </tr>
+                <tr>
+                    <td>e131b0840d6a89088b2038315fb99933368e38a8</td>
+                    <td>feat(Accommodation-queries): added GetRoomByTypeQuery</td>
+                    <td></td>
+                    <td>2024-05-31T23:58:36Z</td>
+                </tr>
+                <tr>
+                    <td>18716b6d07010eb6d4b4fb62b5b6192e60930c3b</td>
+                    <td>feat(Accommodation-Room-value-object): added Room value object enums Status and Type</td>
+                    <td></td>
+                    <td>2024-05-31T23:57:56Z</td>
+                </tr>
+                <tr>
+                    <td>10bea216691094e3c4c78aad378fa23be05ff36c</td>
+                    <td>feat(messages): implemented message inbound controller.</td>
+                    <td></td>
+                    <td>2024-05-31T07:15:14Z</td>
+                </tr>
+                <tr>
+                    <td>293aa0e75556902a41b9d53fac942b3db49fcf1d</td>
+                    <td>feat(messages): implemented event handler for message created.</td>
+                    <td></td>
+                    <td>2024-05-31T07:14:57Z</td>
+                </tr>
+                <tr>
+                    <td>6987364e4263e0e3f38d58f0d7a138c0486e6a50</td>
+                    <td>feat(messages): implemented messages command service.</td>
+                    <td></td>
+                    <td>2024-05-31T07:11:18Z</td>
+                </tr>
+                <tr>
+                    <td>e5b68fb5f118fc5b359679196d5d010f79b13eca</td>
+                    <td>feat(messages): created messages inbound.</td>
+                    <td></td>
+                    <td>2024-05-31T07:04:16Z</td>
+                </tr>
+                <tr>
+                    <td>eff6eddbac4f1310213be920df096ecf359deaf0</td>
+                    <td>feat(messages): created query command and services handlers.</td>
+                    <td></td>
+                    <td>2024-05-31T07:04:06Z</td>
+                </tr>
+                <tr>
+                    <td>8e33ce0ff78333cbfc33002547a0f6598b34bb3a</td>
+                    <td>feat(messages): created query service.</td>
+                    <td></td>
+                    <td>2024-05-31T06:26:01Z</td>
+                </tr>
+                <tr>
+                    <td>6d2ff1897dda719410e1138ae239d819543bd54b</td>
+                    <td>feat(messages): created queries.</td>
+                    <td></td>
+                    <td>2024-05-31T06:25:51Z</td>
+                </tr>
+                <tr>
+                    <td>9fdb2a7bb2f0a02a795ba4ef1095c4f2f8e6423e</td>
+                    <td>feat(messages): added outbound service.</td>
+                    <td></td>
+                    <td>2024-05-31T06:25:38Z</td>
+                </tr>
+                <tr>
+                    <td>c16d6ba2daf837e793d0320160b6854a22128290</td>
+                    <td>feat:add new parameters</td>
+                    <td></td>
+                    <td>2024-05-31T05:39:42Z</td>
+                </tr>
+                <tr>
+                    <td>a83626b633b9d15544566c37cd5a5ff0c8981a20</td>
+                    <td>feat:add implementation of ACL  for bounded context(employee) about Employee business logic</td>
+                    <td></td>
+                    <td>2024-05-31T05:39:18Z</td>
+                </tr>
+                <tr>
+                    <td>23fdbbe2ea363fe925c37be6d65124e4714baa63</td>
+                    <td>feat:add implementation of application Layer of bounded context(employee)  about Employee business logic</td>
+                    <td></td>
+                    <td>2024-05-31T03:43:53Z</td>
+                </tr>
+                <tr>
+                    <td>2eec283a45fbd9e5189561af592f3f7b9ee5c0af</td>
+                    <td>feat:add implementation of Infrastructure Layer of bounded context(profile)  about Profile business logic</td>
+                    <td></td>
+                    <td>2024-05-31T03:43:07Z</td>
+                </tr>
+                <tr>
+                    <td>7d6fc96566d40ab1a55a6e829e7b4297d7648b73</td>
+                    <td>feat:add implementation of Domain Layer of bounded context(profile) in aggregate root about Profile business logic</td>
+                    <td></td>
+                    <td>2024-05-31T03:42:26Z</td>
+                </tr>
+                <tr>
+                    <td>1bfeb9b948d40a08e3d7e1c6e7288a2b2d968434</td>
+                    <td>feat:add implementation of Interface Layer of bounded countext(profile) about Profile business logic</td>
+                    <td></td>
+                    <td>2024-05-31T03:40:59Z</td>
+                </tr>
+                <tr>
+                    <td>c7a4d4579776a0390626f8bb496008f99e9d2729</td>
+                    <td>feat:add implementation of Application Layer of bounded countext(profile) about Profile business logic</td>
+                    <td></td>
+                    <td>2024-05-31T03:39:53Z</td>
+                </tr>
+                <tr>
+                    <td>eb230e328c7e443e8996891c7afb69a70198d67d</td>
+                    <td>feat: created aggregates, command, query  and interceptors.</td>
+                    <td></td>
+                    <td>2024-05-30T22:46:14Z</td>
+                </tr>
+                <tr>
+                    <td>467f35f0a90df057b422bfaab18f12b6a66b4bb0</td>
+                    <td>feat:add implementation Employee Repository for aggregate root(employee)  about employee business logic</td>
+                    <td></td>
+                    <td>2024-05-30T20:39:12Z</td>
+                </tr>
+                <tr>
+                    <td>006162b2f633bf0c42007b8f9248fd590c212a4b</td>
+                    <td>feat:add implementation aggregate root(employee) and value objects about employee business logic</td>
+                    <td></td>
+                    <td>2024-05-30T20:38:52Z</td>
+                </tr>
+                <tr>
+                    <td>6fe646bd52292f89e4b1f0e89e549f9a4a4939ae</td>
+                    <td>feat:add implementation query about employee business logic</td>
+                    <td></td>
+                    <td>2024-05-30T20:38:04Z</td>
+                </tr>
+                <tr>
+                    <td>3f01c882d7aef6e04e8c7d95a7f08c20675ff390</td>
+                    <td>feat:add implementation command about employee business logic</td>
+                    <td></td>
+                    <td>2024-05-30T20:37:47Z</td>
+                </tr>
+                <tr>
+                    <td>b8254d490616d6ffbc4d39df2c9d4ca23fa556c2</td>
+                    <td>feat:add implementation queries about employee business logic</td>
+                    <td></td>
+                    <td>2024-05-30T19:09:20Z</td>
+                </tr>
+                <tr>
+                    <td>fb6b22144cdb81dbba2b2e78b8b05b41d71b9e59</td>
+                    <td>feat:add implementation of employee valueobjects</td>
+                    <td></td>
+                    <td>2024-05-30T19:08:28Z</td>
+                </tr>
+                <tr>
+                    <td>07252039da931c696b857e2bb650a06935051568</td>
+                    <td>feat:add new enum with information about the role of the employee</td>
+                    <td></td>
+                    <td>2024-05-30T19:07:32Z</td>
+                </tr>
+                <tr>
+                    <td>d5bce3644ab223c92514b511e7aaaf3b60dd3b1c</td>
+                    <td>feat:add new enum with information about the role of the employee</td>
+                    <td></td>
+                    <td>2024-05-30T19:06:30Z</td>
+                </tr>
+                <tr>
+                    <td>e8f00d8e7737a4740005cba4a0c9cc6300111978</td>
+                    <td>feat(Inventory): changes made to simplify the business necessities.</td>
+                    <td></td>
+                    <td>2024-05-30T16:38:57Z</td>
+                </tr>
+                <tr>
+                    <td>37dad8d7390c4bc9ec89cfabcc1b8bb887f20253</td>
+                    <td>feat(Inventory): changes made to simplify the business necessities.</td>
+                    <td></td>
+                    <td>2024-05-30T16:37:29Z</td>
+                </tr>
+                <tr>
+                    <td>6a89e5c598dc830c9100d6a9198f833d7bff0c3b</td>
+                    <td>feat(Accommodation-Room-Query-Service-impl): added Room Query Service impl</td>
+                    <td></td>
+                    <td>2024-05-30T03:32:24Z</td>
+                </tr>
+                <tr>
+                    <td>2d3f8c8eceb6776cb131c5f0603ff759a2c5eeff</td>
+                    <td>feat(Accommodation-Room-Command-Service-impl): added Room Command Service impl</td>
+                    <td></td>
+                    <td>2024-05-30T03:32:15Z</td>
+                </tr>
+                <tr>
+                    <td>9e3ab166610ee4ed4ca415662b6f061720af94f3</td>
+                    <td>feat(Accommodation-Room-Repository): added Room Repository</td>
+                    <td></td>
+                    <td>2024-05-30T03:31:52Z</td>
+                </tr>
+                <tr>
+                    <td>15db9a85d2b791ae20a1836d02b97aa76d421f03</td>
+                    <td>feat(Accommodation-Room): minor changes</td>
+                    <td></td>
+                    <td>2024-05-30T03:31:10Z</td>
+                </tr>
+                <tr>
+                    <td>153eb296ac09c8c6487e50fb94fa4c5ca5d52a43</td>
+                    <td>feat(Accommodation-Room-Query-Service): added Room Query Service</td>
+                    <td></td>
+                    <td>2024-05-30T02:28:26Z</td>
+                </tr>
+                <tr>
+                    <td>03713d387a5959a2cef6affbcb8460fba4e4b78d</td>
+                    <td>feat(Accommodation-Room-Command-Service): added Room Command Service</td>
+                    <td></td>
+                    <td>2024-05-30T02:28:11Z</td>
+                </tr>
+                <tr>
+                    <td>a5c7a8ebb1887b88e8f133e5ba76bdf58de65f95</td>
+                    <td>feat(Accommodation-Room-Command-Service): added Room Command Service</td>
+                    <td></td>
+                    <td>2024-05-30T02:27:46Z</td>
+                </tr>
+                <tr>
+                    <td>18f0efce4124ab5d7a97690be0f8c5e846734762</td>
+                    <td>feat(Accommodation-Room-Aggregate): added Room Aggregate</td>
+                    <td></td>
+                    <td>2024-05-30T02:27:01Z</td>
+                </tr>
+                <tr>
+                    <td>ff10705141625b6e9e2a14d39a5645cde037f248</td>
+                    <td>feat(Accommodation): minor changes</td>
+                    <td></td>
+                    <td>2024-05-30T01:57:34Z</td>
+                </tr>
+                <tr>
+                    <td>ed6bff6ff20872097f4f03a5a7b035391bce3eaa</td>
+                    <td>feat(Accommodation): added value objects Room Status</td>
+                    <td></td>
+                    <td>2024-05-30T01:46:44Z</td>
+                </tr>
+                <tr>
+                    <td>8d999abf7778a3e94826a2be86ec015d76029bc1</td>
+                    <td>feat(Accommodation): added value objects Room Status and RoomType</td>
+                    <td></td>
+                    <td>2024-05-30T01:43:08Z</td>
+                </tr>
+                <tr>
+                    <td>75b54a74e1580547a7461e79add6a7e9048253d9</td>
+                    <td>feat(Accommodation): minor changes</td>
+                    <td></td>
+                    <td>2024-05-29T17:49:23Z</td>
+                </tr>
+                <tr>
+                    <td>4c1f5447dc9748667f91fee3e36953692b2f35fc</td>
+                    <td>feat(inventory):  Changes made in implementation</td>
+                    <td></td>
+                    <td>2024-05-29T17:49:01Z</td>
+                </tr>
+                <tr>
+                    <td>da8d3e650c806553af5fccc785d4cf9819f971dc</td>
+                    <td>feat(Accommodation-Room-Aggregate): added Room Aggregate</td>
+                    <td></td>
+                    <td>2024-05-29T17:49:01Z</td>
+                </tr>
+                <tr>
+                    <td>6121227e8ec4830159292ffe82e967d8da5dfd85</td>
+                    <td>feat(Accommodation-value-object-guest-name): added value object GuestName</td>
+                    <td></td>
+                    <td>2024-05-29T17:00:04Z</td>
+                </tr>
+                <tr>
+                    <td>0045eedc2f5f8a4c8faf9911cfa782eed54efc65</td>
+                    <td>feat(Inventory): Domain and Application Finished</td>
+                    <td></td>
+                    <td>2024-05-29T15:43:59Z</td>
+                </tr>
+                <tr>
+                    <td>79ff14236b029ac77467b1e93f1f167f821153b2</td>
+                    <td>feat(folder): minor changes</td>
+                    <td></td>
+                    <td>2024-05-28T03:58:45Z</td>
+                </tr>
+                <tr>
+                    <td>98d3bd1338ac55913ee6052c53ff78d9be858f75</td>
+                    <td>docs: added readme.</td>
+                    <td></td>
+                    <td>2024-05-24T14:04:53Z</td>
+                </tr>
+                <tr>
+                    <td>afbeff31bf9715ccdb693aa0f8dc01d04918cffb</td>
+                    <td>chore: project configuration.</td>
+                    <td></td>
+                    <td>2024-05-24T13:56:23Z</td>
+                </tr>
+    </tbody>
+</table>
+    
+#### 5.2.3.5. Execution Evidence for Sprint Review. <br>
+
+Se implemento el OpenAPI para el apartado del backend, asi como la actualizacion y mejora en el apartado del frontend como es el el panel de control y el schedule con toda la informacion generada en la app. <br>
+![Imagen de entrevista](https://i.imgur.com/prJfcSR.jpeg) <br>
+![Imagen de entrevista](https://i.imgur.com/NgyRbOy.jpeg) <br>
+![Imagen de entrevista](https://i.imgur.com/D2O6mmL.jpeg) <br>
+![Imagen de entrevista](https://i.imgur.com/To3v1Fq.png) <br>
+![Imagen de entrevista](https://i.imgur.com/6HQZCko.jpeg) <br>
+![Imagen de entrevista](https://i.imgur.com/0KYE0Au.jpeg) <br>
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review. <br>
+
+Utilizamos SpringBoot, Spring Security, JWToken y Spring Data jpa
+
+[https://docs.spring.io/spring-boot/index.html]
+
+[https://docs.spring.io/spring-boot/reference/web/spring-security.html#page-title]
+
+[https://www.npmjs.com/package/jsonwebtoken]
+
+[https://spring.io/projects/spring-data-jpa]
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review. <br>
+
+
+Usamos Docker para el deploy del back end de la aplicacion web.
+
+<img src="https://i.imgur.com/bJbY1RE.jpeg">
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint. <br>
+Para esta entrega hemos actualizado puntos pendientes en el README, asi como tambien se desarrollo el backend del software, designando a cada miembro del grupo un bounded context para hacer mas eficiente el desarrollo.
+Pusimos fechas limite para la entrega del codigo y asi tener tiempo para poder hacer retroalimentaciones, usando la herramienta Trello, teniendo como sancion los "STRIKES" para incentivar al equipo a seguir cumpliendo a tiempo las actividades propuestas y no tener inconvenientes de tiempos.
+Al tener los bounded contexts listos, se unio y se hizo Merge en la branch develop para poder presentar un trabajo adecuado. Mencionando el compromiso y las ganas que le pusieron en el equipo para obtener buenos resultados. Evidencia de eso los siguientes commits:
+Report-project <br>
+![Imagen de entrevista](https://i.imgur.com/yBwfn2t.png) <br>
+![Imagen de entrevista](https://i.imgur.com/gJUKRYo.png) <br>
+![Imagen de entrevista](https://i.imgur.com/607dUos.png) <br>
+<br>
+InnControl-backend<br>
+![Imagen de entrevista](https://i.imgur.com/t9lFw4v.png) <br>
+![Imagen de entrevista](https://i.imgur.com/QyuyhOl.png) <br>
+![Imagen de entrevista](https://i.imgur.com/2s018un.png) <br>
+![Imagen de entrevista](https://i.imgur.com/Co53DcE.png) <br>
+
+
+
+## 5.3. Validation Interviews.
+
+### 5.3.1. Diseño de Entrevistas.
+
+**Preguntas generales:**
 
 1. ¿Cuál es su nombre?
 2. ¿Qué edad tiene?
@@ -3313,43 +5115,186 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
 ### 5.3.2. Registro de Entrevistas.
 
 **Segmento 1**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)  
-{texto mucho}
+Nombre: Arian Godinez Vargas
+<br>
+Edad: 20 años
+<br>
+Ocupación: Empleado de Hotel (limpieza)
+<br>
+Browser: Chrome
+<br>
+Device: Influencia en la marca Apple
+<br>
+Distrito: Cercado de Lima.
+<br>
+Timing: 
+<br>
+<img src = https://i.imgur.com/HKjCGCI.png>
 
-**Segmento 2**  
-Nombre: _____
-Edad: _ años
-Ocupación: _____  
-![Imagen de entrevista](image.jpg)
-{texto}
+<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=FP7xJZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=FP7xJZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D Url entrevista [Anexo 2.2.1.4]</a> minuto[00:00] <br>
+Arian comenta de como hay diferentes oportunidades de mejora respecto a nuestra solucion dice que estamos en el camino correcto mas nos faltan mejorar aspectos como el diseño de profiles en base a la saturacion de informacion y de como se requiere de mejorar la implementacion de calendario y las cards. Finalmente nos menciono a como el proyecto si cumple con las expectativas iniciales y de como se logro con el objetivo inicial asimismo de como las observaciones son mas en base al diseño mas alla de la funcionalidad.
+
+---
+
+Nombre: Esau Carretero
+<br>
+Edad: 19 años
+<br>
+Ocupación: Trabaja en un hotel part-time
+<br>
+Browser: GoogleChrome y OperaGX
+<br>
+Device: Celular y computadora
+<br>
+Distrito: Jesus Maria
+<br>
+Timing: 
+<br>
+
+![Imagen de entrevistaS1.2](assets/interviewsimages/Entrevista-Segmento1Esau.png)<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETIBRYdwzYtAliQA0IkQx1cBurdKw6YSE4nBrVncTpjaAQ?e=0bhNc0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.5]</a> minuto[05:00] <br>  
+
+Esau comenta como la solucion supera sus expectativas y de como siente que como herramienta se logro cumplir con lo esperado, como observaciones nos menciono un comentario parecido a como se debe de implementar el calendario en una vista asignada. Finalmente nos menciona de como siente que solucionamos el problema de la comunicacion entre los trabajadores y los gerentes.
+
+---
+
+Nombre: Nicola Estefan Romero
+<br>
+Edad: 22 años
+<br>
+Ocupación: Empleado de Hotel 
+<br>
+Browser: Brave
+<br>
+Device: Celular y laptop
+<br>
+Distrito: Lima Central
+<br>
+Timing: 
+<br>
+
+<img src = https://i.imgur.com/wg6F6yL.png>
+
+<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERnPx07H66pLuGgoQ-VcVisBL7dmBuURtltLTevZ401FwA?e=m7Z67t&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.6]</a> minuto[09:10] <br>  
+Nicola nos cuenta como esta de acuerdo con las caracteristicas observadas y como hemos realizado de manera correcta la implementacion de los componentos, como observaciones tambien nos menciona de como implementar algun color de fondo nos puede ayudar a distinguir mejor los cards y de como el calendario deberia de estar en una vista aparte. Finalmente nos compartio su contento respecto a la solucion.
+
+---
+
+**Segmento 2**  <br> 
+Nombre: Ariana Valdivia <br> 
+Edad: 29 años <br> 
+Ocupación: Gerencia de hoteles (3 sedes) <br> 
+Browser: N/A <br> 
+Device: N/A <br> 
+Distrito: Miraflores, Surquillo, Surco. <br> 
+Timing: 13 minutos <br> 
+![Imagen de entrevista](https://i.imgur.com/yDfkbwo.png)
+
+Analisis <br>
+En la entrevista Ariana nos menciona y nos deja claro su aprobación en el software que venimos desarrollando. Estando satisfecha con el aspecto visual y las multiples opciones de tarea que brindamos en InnControl.
+Nos menciona la utilidad y el provecho maximo que le va a sacar, mejorando y optimizando la gestion interna del hotel. Mencionando tambien como punto de mejora un punto del aspecto visual (Frontend), el cual veremos implementado cuando el programa este terminado.
+En resumen, cumplimos sus espectativas con el software que desarrollamos.
+ <br> 
+
+Nombre: Catalina Paredes <br>
+Edad: 25 años <br>
+Ocupación: Gerencia de hoteles (Cusco) <br>
+Distrito: Cusco <br>
+Timing: 9 minutos <br>
+![Imagen de entrevista](https://i.imgur.com/0Qrk6EX.png)
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/EZZ3L_UbEOBCum2u81FITtIBtnYWH-hqxE207QyoUmp_Ag?e=CjjHtO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+
+Analisis <br>
+En la entrevista, Catalina Paredes expresa su aprobación general hacia el software InnControl que se está desarrollando. Ella considera que el diseño visual es funcional y conciso, destacando especialmente la utilidad del calendario que permite organizar las tareas por día, semana y mes.
+
+Catalina menciona que el software facilitará la administración de tareas, habitaciones e inventarios, lo cual será beneficioso tanto para empleados nuevos como para los actuales. Además, valora positivamente la funcionalidad de los mensajes directos, lo que mejorará la comunicación interna.
+
+Como puntos de mejora, sugiere agrandar un poco las letras en la fila superior y considera que podría agregarse un fondo para mejorar la apariencia visual. Catalina también expresa que el diseño actual supera sus expectativas iniciales, ya que encuentra la interfaz más accesible y manejable que lo que había imaginado.
+
+En resumen, Catalina está satisfecha con el avance del software, ya que considera que cubrirá las necesidades administrativas del hotel y mejorará la eficiencia operativa. Sus expectativas han sido cumplidas con el desarrollo del software hasta el momento.
+<br>
+
+Nombre: Alonso Holguin <br>
+Edad: 26 años <br>
+Ocupación: Gerencia de hotel (Trujillo) <br>
+Distrito: Trujillo <br>
+Timing: 19 minutos <br>
+![Imagen de entrevista](https://i.imgur.com/5qxW3ux.png)
+[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910151_upc_edu_pe/ETYvcnUi-mFEq9C8nbeLGUABw-idwHA2bXivQZZfVLUwjw?e=3cl2dc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
+
+Análisis <br>
+En la entrevista, Alonso Holguin nos comenta su opinión con respecto a nuestro software. Él considera que el aspecto visual se ve bastante pulido y compacto, sin embargo, cree que la paleta de colores que usamos deberia ser más variada, permitiendo poder organizar dependiendo de lo que se asigne a cada color. <br>
+
+Menciona además, que el mayor beneficio que obtendria del uso de nuestro software sería la optimización de tiempos en cada rubro, ya que contaria con un sistema donde se encuentre toda la información de suma relevancia del hotel. <br>
+
+Como principales puntos de mejora, se encuentra lo antes mencionado, lo cual es agrandar la paleta de colores, que si bien, el aspecto visual actual es ordenado y prolijo, le gustaría más dinamismo, el cual se podria lograr asignando a cada color extra implementado un significado. Además, menciona tambien que le gustaría que en un futuro, se automatice lo más posible todo el sistema, logrando así incluso más eficiencia y comodidad al usar nuestro software. <br>
+
+En resumen, Alonso está satisfecho con el actual desarrollo del software, y cree que nuestro proyecto está en buen camino, ya que considera que estamos proximos a lograr 2 objetivos que tienen las empresas a dia de hoy, los cuales son disminuir tiempos y generar más rentabilidad a largo plazo. <br>
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
-| HEURÍSTICA                                    | EVALUACIÓN ✅❌ | NOTA    |
+| HEURISTICAS                                   |
+|-----------------------------------------------|
+| Visibilidad del estado del sistema            |
+| Coincidencia entre el sistema y el mundo real |
+| Control y libertad del usuario                |
+| Consistencia y estándares                     |
+| Prevención de errores                         |
+| Mostrar antes que recordar                    |
+| Flexibilidad y eficiencia de uso              |
+| Diseño estético y minimalista                 |
+| Comunicar errores con facilidad               |
+| Ayuda y documentación                         |
+
+SITE o APP A EVALUAR: InnControl
+TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Registro de un usuario nuevo
+2. Administracion de las Tareas
+3. Administracion de empleados
+4. Administracion de cuartos
+5. Sistema de mensajeria entre usuarios
+6. Vista del perfil de usuario
+7. Administracion del inventario
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Sistema de pago
+2. Alertas de actualizacion de mensajes o tareas
+
+Niveles de Severidad:
+1. Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco
+frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.
+2. Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de
+superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente
+reléase
+3. Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es
+importante que sean corregidos y se les debe asignar una prioridad alta.
+4. Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de
+la herramienta. Es imperativo que sea corregido antes del lanzamiento
+
+| PROBLEMA                                    |Escala de severidad 1:✅4:❌ | Heuristica no considerada    |
 |-----------------------------------------------|---------------|---------|
-| Visibilidad del estado del sistema            |               | {texto} |
-| Coincidencia entre el sistema y el mundo real |               | {texto} |
-| Control y libertad del usuario                |               | {texto} |
-| Consistencia y estándares                     |               | {texto} |
-| Prevención de errores                         |               | {texto} |
-| Mostrar antes que recordar                    |               | {texto} |
-| Flexibilidad y eficiencia de uso              |               | {texto} |
-| Diseño estético y minimalista                 |               | {texto} |
-| Comunicar errores con facilidad               |               | {texto} |
-| Ayuda y documentación                         |               | {texto} |
+| Posicion del calendario en una vista designada|     3       | Diseño estético y minimalista |
+| Color del fondo de la aplicacion              |     3         | Diseño estético y minimalista |
+| Identificadores de cuenta (manager o usuario) |     4         | Visibilidad del estado del sistema |
+| Identificador de el hotel el cual este usando el servicio                     |       4       | Visibilidad del estado del sistema |
+| Saturacion de informacion en la seccion de perfil                         |      3        | Diseño estético y minimalista |
+
+
 
 ## 5.4. Video About-the-Product.
 
-[URL del video about the product](https://www.example.com)
+Aqui se hace una demostracion del video about the product donde mostramos los diferentes features implementados en la solucion.
+
+[https://youtu.be/BL7pSCoY93Y](https://youtu.be/BL7pSCoY93Y)
+
+MicrosoftShare:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESVCFEtZ5B9FtaVy3z2DeoMBHxRJnk194gGyKyYdixSjhA?e=Unaadf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 # Conclusiones
 
-**TB1**: En base a la primera entrega hemos utilizado los procesos Lean UX para poder definir los supuestos necesarios de nuestra solucion asimismo como la investigacion por medio de needfinding hemos identificado que se nos solicita para realizar una solucion efectiva para nuestro segmento, adicionalmente nos enfocamos respecto al diseño de nuestro proyecto e hicimos la landing page de manera adecuada. En conclusion el uso de los procesos Lean UX y las herramientas que nos facilitan la implementacion de sus diagramas en conjunto con el material del curso resultan necesarios e indispensables para la correcta planeacion de nuestro proyecto. 
-**TP1**: Para el TP1 desarollamos el front end de nuestra aplicacion utilizando Angular 17 y Angular Material subsecuentemente nos aseguramos que se cumplan los objetivos de nuestro product backlog y bajo las reuniones Sprint logramos organizar y asignar los objetivos propuestos para poder realizar nuestro proyecto. Finalmente cabe mencionar que realizamos correcciones de la entrega anterior y nos proponemos en mejorar nuestra eficiencia grupal.
-**TB2**: Respecto a esta entrega nos enfocamos en realizar la parte del back end de nuestra solucion donde por medio del uso del aproach de Domain Driven Design utilizando Spring Boot y el IDE de InteliJ IDEA donde hemos separado nuestros bounded context e implementando las operaciones necesarias para las necesidades de nuestra solucion. Cabe mencionar que adicionalmente a esta entrega realizamos cambios segun las correciones que se nos mencionaron en entregas anteriores. En conclusion hemos implementado las herramientas e implementamos las metodologias Sprint para realizar la entrega.
+<br>**TB1**: En base a la primera entrega hemos utilizado los procesos Lean UX para poder definir los supuestos necesarios de nuestra solucion asimismo como la investigacion por medio de needfinding hemos identificado que se nos solicita para realizar una solucion efectiva para nuestro segmento, adicionalmente nos enfocamos respecto al diseño de nuestro proyecto e hicimos la landing page de manera adecuada. En conclusion el uso de los procesos Lean UX y las herramientas que nos facilitan la implementacion de sus diagramas en conjunto con el material del curso resultan necesarios e indispensables para la correcta planeacion de nuestro proyecto. 
+<br>**TP1**: Para el TP1 desarollamos el front end de nuestra aplicacion utilizando Angular 17 y Angular Material subsecuentemente nos aseguramos que se cumplan los objetivos de nuestro product backlog y bajo las reuniones Sprint logramos organizar y asignar los objetivos propuestos para poder realizar nuestro proyecto. Finalmente cabe mencionar que realizamos correcciones de la entrega anterior y nos proponemos en mejorar nuestra eficiencia grupal.
+<br>**TB2**: Respecto a esta entrega nos enfocamos en realizar la parte del back end de nuestra solucion donde por medio del uso del aproach de Domain Driven Design utilizando Spring Boot y el IDE de InteliJ IDEA donde hemos separado nuestros bounded context e implementando las operaciones necesarias para las necesidades de nuestra solucion. Cabe mencionar que adicionalmente a esta entrega realizamos cambios segun las correciones que se nos mencionaron en entregas anteriores. En conclusion hemos implementado las herramientas e implementamos las metodologias Sprint para realizar la entrega.
 
 # Conclusiones y recomendaciones.
 
@@ -3359,7 +5304,12 @@ Como recomendaciones observamos la oportunidad de mejorar la administracion de t
 
 # Video About-the-Team.
 
-[URL del video about the team](https://www.example.com)
+En el video about the team se muestran testimonios del trabajo realizado.
+
+[https://youtu.be/2mOrsvJKwC8](https://youtu.be/2mOrsvJKwC8)
+
+Microsoft Share:
+https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EZ8haON2Cs1Psmnw6Wo4E8ABnPYPXoNlPr1Vs4OlwC4jzw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hzhCXD
 
 # Bibliografía
 
