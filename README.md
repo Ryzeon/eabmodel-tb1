@@ -5128,7 +5128,7 @@ Distrito: Jesus Maria
 Timing: 
 <br>
 
-![Imagen de entrevistaS1.2](assets/interviewsimages/Entrevista-Segmento1Esau.png)<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETIBRYdwzYtAliQA0IkQx1cBurdKw6YSE4nBrVncTpjaAQ?e=0bhNc0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.5]</a> minuto[06:03] <br>  
+![Imagen de entrevistaS1.2](assets/interviewsimages/Entrevista-Segmento1Esau.png)<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETIBRYdwzYtAliQA0IkQx1cBurdKw6YSE4nBrVncTpjaAQ?e=0bhNc0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.5]</a> minuto[05:00] <br>  
 
 Esau comenta como la solucion supera sus expectativas y de como siente que como herramienta se logro cumplir con lo esperado, como observaciones nos menciono un comentario parecido a como se debe de implementar el calendario en una vista asignada. Finalmente nos menciona de como siente que solucionamos el problema de la comunicacion entre los trabajadores y los gerentes.
 
@@ -5151,7 +5151,7 @@ Timing:
 
 <img src = https://i.imgur.com/wg6F6yL.png>
 
-<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERnPx07H66pLuGgoQ-VcVisBL7dmBuURtltLTevZ401FwA?e=m7Z67t&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.6]</a> minuto[10:23] <br>  
+<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERnPx07H66pLuGgoQ-VcVisBL7dmBuURtltLTevZ401FwA?e=m7Z67t&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.6]</a> minuto[09:10] <br>  
 Nicola nos cuenta como esta de acuerdo con las caracteristicas observadas y como hemos realizado de manera correcta la implementacion de los componentos, como observaciones tambien nos menciona de como implementar algun color de fondo nos puede ayudar a distinguir mejor los cards y de como el calendario deberia de estar en una vista aparte. Finalmente nos compartio su contento respecto a la solucion.
 
 ---
@@ -5262,7 +5262,7 @@ la herramienta. Es imperativo que sea corregido antes del lanzamiento
 
 Aqui se hace una demostracion del video about the product donde mostramos los diferentes features implementados en la solucion.
 
-[https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESVCFEtZ5B9FtaVy3z2DeoMBHxRJnk194gGyKyYdixSjhA?e=IG3rP0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESVCFEtZ5B9FtaVy3z2DeoMBHxRJnk194gGyKyYdixSjhA?e=IG3rP0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+[https://youtu.be/BL7pSCoY93Y](https://youtu.be/BL7pSCoY93Y)
 
 # Conclusiones
 
@@ -5276,7 +5276,7 @@ Aqui se hace una demostracion del video about the product donde mostramos los di
 
 En el video about the team se muestran testimonios del trabajo realizado.
 
-[https://youtu.be/BL7pSCoY93Y](https://youtu.be/BL7pSCoY93Y)
+[https://youtu.be/2mOrsvJKwC8](https://youtu.be/2mOrsvJKwC8)
 
 # Bibliografía
 
