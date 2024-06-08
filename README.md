@@ -5058,7 +5058,7 @@ Browser: N/A <br>
 Device: N/A <br> 
 Distrito: Miraflores, Surquillo, Surco. <br> 
 Timing: 13 minutos <br> 
-![Imagen de entrevista](image.jpg)  
+![Imagen de entrevista](https://i.imgur.com/yDfkbwo.png)
 
 Analisis <br>
 En la entrevista Ariana nos menciona y nos deja claro su aprobación en el software que venimos desarrollando. Estando satisfecha con el aspecto visual y las multiples opciones de tarea que brindamos en InnControl.
