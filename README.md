@@ -5061,7 +5061,7 @@ Utilizamos SpringBoot, Spring Security, JWToken y Spring Data jpa
 Usamos Docker para el deploy del back end de la aplicacion web.
 
 <img src="https://i.imgur.com/bJbY1RE.jpeg">
-
+<img src="https://i.imgur.com/7UNeZ7h.jpeg">
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint. <br>
 Para esta entrega hemos actualizado puntos pendientes en el README, asi como tambien se desarrollo el backend del software, designando a cada miembro del grupo un bounded context para hacer mas eficiente el desarrollo.
