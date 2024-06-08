@@ -5192,18 +5192,53 @@ En resumen, Alonso está satisfecho con el actual desarrollo del software, y cre
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
-| HEURÍSTICA                                    | EVALUACIÓN ✅❌ | NOTA    |
+| HEURISTICAS                                   |
+|-----------------------------------------------|
+| Visibilidad del estado del sistema            |
+| Coincidencia entre el sistema y el mundo real |
+| Control y libertad del usuario                |
+| Consistencia y estándares                     |
+| Prevención de errores                         |
+| Mostrar antes que recordar                    |
+| Flexibilidad y eficiencia de uso              |
+| Diseño estético y minimalista                 |
+| Comunicar errores con facilidad               |
+| Ayuda y documentación                         |
+
+SITE o APP A EVALUAR: InnControl
+TAREAS A EVALUAR:
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Registro de un usuario nuevo
+2. Administracion de las Tareas
+3. Administracion de empleados
+4. Administracion de cuartos
+5. Sistema de mensajeria entre usuarios
+6. Vista del perfil de usuario
+7. Administracion del inventario
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+1. Sistema de pago
+2. Alertas de actualizacion de mensajes o tareas
+
+Niveles de Severidad:
+1. Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco
+frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.
+2. Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de
+superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente
+reléase
+3. Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es
+importante que sean corregidos y se les debe asignar una prioridad alta.
+4. Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de
+la herramienta. Es imperativo que sea corregido antes del lanzamiento
+
+| PROBLEMA                                    |Escala de severidad 1:✅4:❌ | Heuristica no considerada    |
 |-----------------------------------------------|---------------|---------|
-| Visibilidad del estado del sistema            |               | {texto} |
-| Coincidencia entre el sistema y el mundo real |               | {texto} |
-| Control y libertad del usuario                |               | {texto} |
-| Consistencia y estándares                     |               | {texto} |
-| Prevención de errores                         |               | {texto} |
-| Mostrar antes que recordar                    |               | {texto} |
-| Flexibilidad y eficiencia de uso              |               | {texto} |
-| Diseño estético y minimalista                 |               | {texto} |
-| Comunicar errores con facilidad               |               | {texto} |
-| Ayuda y documentación                         |               | {texto} |
+| Posicion del calendario en una vista designada|     3       | Diseño estético y minimalista |
+| Color del fondo de la aplicacion              |     3         | Diseño estético y minimalista |
+| Identificadores de cuenta (manager o usuario) |     4         | Visibilidad del estado del sistema |
+| Identificador de el hotel el cual este usando el servicio                     |       4       | Visibilidad del estado del sistema |
+| Saturacion de informacion en la seccion de perfil                         |      3        | Diseño estético y minimalista |
+
+
 
 ## 5.4. Video About-the-Product.
 
