@@ -5011,6 +5011,15 @@ Repositorio en github: https://github.com/upc-pre-20241-si729-wx55-eabmodel/innc
 </table>
     
 5.2.3.5. Execution Evidence for Sprint Review. <br>
+
+Se implemento el OpenAPI para el apartado del backend, asi como la actualizacion y mejora en el apartado del frontend como es el el panel de control y el schedule con toda la informacion generada en la app.
+![Imagen de entrevista](https://i.imgur.com/prJfcSR.jpeg)
+![Imagen de entrevista](https://i.imgur.com/NgyRbOy.jpeg)
+![Imagen de entrevista](https://i.imgur.com/D2O6mmL.jpeg)
+![Imagen de entrevista](https://i.imgur.com/To3v1Fq.png)
+![Imagen de entrevista](https://i.imgur.com/6HQZCko.jpeg)
+![Imagen de entrevista](https://i.imgur.com/0KYE0Au.jpeg)
+
 5.2.3.6. Services Documentation Evidence for Sprint Review. <br>
 5.2.3.7. Software Deployment Evidence for Sprint Review. <br>
 5.2.3.8. Team Collaboration Insights during Sprint. <br>
