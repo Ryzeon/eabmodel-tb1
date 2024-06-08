@@ -3094,6 +3094,7 @@ En este sprint, nos enfocaremos en el desarrollo de la aplicaci√≥n backend, bas√
         </tr>
     </tbody>
 </table>
+
 #### 5.2.3.2 Sprint Backlog 3.
 
 En esta secciones se muestra las tareas que se realizaron en el sprint 3, se adjunta la captura del tablero y el link.
@@ -3830,7 +3831,7 @@ Repositorio en github: https://github.com/upc-pre-20241-si729-wx55-eabmodel/innc
         <td>Merge branch 'develop' into feature/room-management</td>
         <td></td>
         <td>2024-06-05</td>
-    </tr
+    </tr>
     <tr>
         <td rowspan="4">feature/toolbar-implementation</td>
     </tr>
@@ -5010,7 +5011,7 @@ Repositorio en github: https://github.com/upc-pre-20241-si729-wx55-eabmodel/innc
     </tbody>
 </table>
     
-5.2.3.5. Execution Evidence for Sprint Review. <br>
+#### 5.2.3.5. Execution Evidence for Sprint Review. <br>
 
 Se implemento el OpenAPI para el apartado del backend, asi como la actualizacion y mejora en el apartado del frontend como es el el panel de control y el schedule con toda la informacion generada en la app. <br>
 ![Imagen de entrevista](https://i.imgur.com/prJfcSR.jpeg) <br>
@@ -5020,9 +5021,26 @@ Se implemento el OpenAPI para el apartado del backend, asi como la actualizacion
 ![Imagen de entrevista](https://i.imgur.com/6HQZCko.jpeg) <br>
 ![Imagen de entrevista](https://i.imgur.com/0KYE0Au.jpeg) <br>
 
-5.2.3.6. Services Documentation Evidence for Sprint Review. <br>
-5.2.3.7. Software Deployment Evidence for Sprint Review. <br>
-5.2.3.8. Team Collaboration Insights during Sprint. <br>
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review. <br>
+
+Utilizamos SpringBoot, Spring Security, JWToken y Spring Data jpa
+
+[https://docs.spring.io/spring-boot/index.html]
+
+[https://docs.spring.io/spring-boot/reference/web/spring-security.html#page-title]
+
+[https://www.npmjs.com/package/jsonwebtoken]
+
+[https://spring.io/projects/spring-data-jpa]
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review. <br>
+
+
+Siguiendo el spring anterior, seguimos usamos netlify para el deploy de la aplicacion web.
+
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint. <br>
 Para esta entrega hemos actualizado puntos pendientes en el README, asi como tambien se desarrollo el backend del software, designando a cada miembro del grupo un bounded context para hacer mas eficiente el desarrollo.
 Pusimos fechas limite para la entrega del codigo y asi tener tiempo para poder hacer retroalimentaciones, usando la herramienta Trello, teniendo como sancion los "STRIKES" para incentivar al equipo a seguir cumpliendo a tiempo las actividades propuestas y no tener inconvenientes de tiempos.
 Al tener los bounded contexts listos, se unio y se hizo Merge en la branch develop para poder presentar un trabajo adecuado. Mencionando el compromiso y las ganas que le pusieron en el equipo para obtener buenos resultados. Evidencia de eso los siguientes commits:
