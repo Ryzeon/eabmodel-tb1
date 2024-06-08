@@ -5023,6 +5023,20 @@ Se implemento el OpenAPI para el apartado del backend, asi como la actualizacion
 5.2.3.6. Services Documentation Evidence for Sprint Review. <br>
 5.2.3.7. Software Deployment Evidence for Sprint Review. <br>
 5.2.3.8. Team Collaboration Insights during Sprint. <br>
+Para esta entrega hemos actualizado puntos pendientes en el README, asi como tambien se desarrollo el backend del software, designando a cada miembro del grupo un bounded context para hacer mas eficiente el desarrollo.
+Pusimos fechas limite para la entrega del codigo y asi tener tiempo para poder hacer retroalimentaciones, usando la herramienta Trello, teniendo como sancion los "STRIKES" para incentivar al equipo a seguir cumpliendo a tiempo las actividades propuestas y no tener inconvenientes de tiempos.
+Al tener los bounded contexts listos, se unio y se hizo Merge en la branch develop para poder presentar un trabajo adecuado. Mencionando el compromiso y las ganas que le pusieron en el equipo para obtener buenos resultados. Evidencia de eso los siguientes commits:
+Report-project <br>
+![Imagen de entrevista](https://i.imgur.com/yBwfn2t.png)
+![Imagen de entrevista](https://i.imgur.com/gJUKRYo.png)
+![Imagen de entrevista](https://i.imgur.com/607dUos.png)
+<br>
+InnControl-backend<br>
+![Imagen de entrevista](https://i.imgur.com/t9lFw4v.png)
+![Imagen de entrevista](https://i.imgur.com/QyuyhOl.png)
+![Imagen de entrevista](https://i.imgur.com/2s018un.png)
+![Imagen de entrevista](https://i.imgur.com/Co53DcE.png)
+
 
 
 ## 5.3. Validation Interviews.
