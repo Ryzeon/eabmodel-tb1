@@ -1336,15 +1336,9 @@ User flows para inicio de sesion y crear task
 <img src ="assets/userflow/userflow_room.png" > 
 
 
-Proceso usando los mockups
-
-<img src ="assets/userflow/userflow_task.png" > 
-
-
-
 ## 4.5. Web Applications Prototyping.
 
-[URL del Prototipo (Hecho en figma)]'(https://www.figma.com/file/dFBkafkPplF301rbQ3hh8t/Untitled?type=design&node-id=0%3A1&mode=design&t=rX9ozCzhstSDIBxh-1)'
+[URL del Prototipo (Hecho en figma)]'(https://www.figma.com/design/zjc0u4ks9Eu23b6k7DoKLU/Figma-basics?node-id=401-12&t=XMBymsiCPOwuZWGg-0)'
 
 ## 4.6. Domain-Driven Software Architecture.
 
