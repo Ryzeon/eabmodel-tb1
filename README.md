@@ -56,20 +56,32 @@
 | 1.8     | 29/04/2024 | Piero Periche | Actualizacion de los diagrama c4 model                                                                                  |
 | 1.9     | 29/04/2024 | Sebastian R   | Finaliza cambios en los user stories                                                                                    |
 | 2.1 | 29/04/2024 | Piero P | Actualiza los impact map de los segmentos |
-| 2.2 | 29/04/2024 | Piero P | Realiza mejoras en los impact map |
+| 4.1 | 29/06/2024 | Sebastian R | Cambios al student Outcome |
+| 4.1 | 29/06/2024 | Alex | Correcciones de Lean UX |
+| 4.3 | 29/06/2024 | Josue | Correcciones de Entrevistas |
+| 4.4 | 29/06/2024 | Sebastian R | Correciones generales al informe |
+
 
 
 </div>
 
 # Project Report Collaboration Insights
 
-Repositorio: (https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project)
+Repositorios:
+
+Projecto: (https://github.com/upc-pre-20241-si729-wx55-eabmodel/report-project)
+
+Landing Page: (https://github.com/upc-pre-20241-si729-wx55-eabmodel/inncontrol-landing-page)
+
+Front End del Proyecto: (https://github.com/upc-pre-20241-si729-wx55-eabmodel/inncontrol-frontend)
+
+Back End del Proyecto: (https://github.com/upc-pre-20241-si729-wx55-eabmodel/inncontrol-backend)
 
 ### TB1
 
-Para la entrega del TB1 se han hecho las respectivas divisiones por cada capitulo con el objetivo de tener un workflow saludable y se pueda realizar una retroalimentacion activa, para cada actividad asignada se ha entregado un conjunto de sub indices por cada capitulo a los integrantes del grupo dejando la posibilidad de realizar correcciones entre los mismos integrantes.
+Para la entrega del TB1 se han hecho las respectivas divisiones por cada capítulo con el objetivo de tener un workflow saludable y se pueda realizar una retroalimentación activa, para cada actividad asignada se ha entregado un conjunto de sub índices por cada capítulo a los integrantes del grupo dejando la posibilidad de realizar correcciones entre los mismos integrantes.
 
-Se muestran evidencias de los commits realizados en la entrega de la TB1
+Se muestran evidencias de los commits realizados en la entrega de la TB1 en el informe
 
 <img src="assets/colaboration-insights/colaboration.png" alt="imagen de las colaboraciones">  
 
@@ -84,9 +96,11 @@ En ambos casos se puede observar el incremento de modificaciones y revisiones en
 
 ### TP1
 
-Para la entrega del TP1 se realizo el desarollo del Front end junto con los cambios necesarios para demostrar una mejora continua. Asimismo se asigno a cada integrante un bounded context para desarollar en el front end.
+Para la entrega del TP1 se realizó el desarrollo del Front end junto con los cambios necesarios para demostrar una mejora continua. Asimismo, se asignó a cada integrante un bounded context para desarrollar en el front end.
 
 Se muestran evidencias de los commits realizados en la entrega del TP
+
+**Front end:**
 
 <img src="assets/colaboration-insights/colaboration.png" alt="imagen de las colaboraciones">  
 
@@ -95,6 +109,8 @@ Se muestran evidencias de los commits realizados en la entrega del TP
 <img src="assets/colaboration-insights/commits.png" alt="imagen de los commits">  
 
 [Registro de donde se realizaron la mayor cantidad de commits]
+
+Se observan los cambios respecto al front end y sus etapas de desarrollo.   
 
 ---
 
@@ -114,6 +130,50 @@ Se muestran evidencias de los commits realizados en la entrega del TB2
 [Registro de donde se realizaron la mayor cantidad de commits]
 
 **Back end:**
+
+<img src="https://i.imgur.com/TTvxC5x.png" alt="imagen de las colaboraciones TB2"> 
+
+[Colaboraciones del repositorio]
+
+<img src="https://i.imgur.com/eXdAkbz.png" alt="imagen de los commits">   
+
+[Registro de donde se realizaron la mayor cantidad de commits]
+
+Se observan los cambios al front end y el desarollo del back end.
+
+### TF 
+Para la entrega del TF se realizo cambios de mejora continua para todo el proyecto y el report-project stament. Se realizan las correcciones del informe y se termina de conectar el back end con el front end.
+
+**Informe:**
+
+
+<img src="assets/colaboration-insights/tb2-colaboration-front-end.png" alt="imagen de las colaboraciones TB2"> 
+
+[Colaboraciones del repositorio]
+
+<img src="assets/colaboration-insights/tb2-commits-front-end.png" alt="imagen de los commits">   
+
+
+**Front end:**
+
+<img src="assets/colaboration-insights/tb2-colaboration-front-end.png" alt="imagen de las colaboraciones TB2"> 
+
+[Colaboraciones del repositorio]
+
+<img src="assets/colaboration-insights/tb2-commits-front-end.png" alt="imagen de los commits">   
+
+
+**Back end:**
+
+<img src="https://i.imgur.com/TTvxC5x.png" alt="imagen de las colaboraciones TB2"> 
+
+[Colaboraciones del repositorio]
+
+<img src="https://i.imgur.com/eXdAkbz.png" alt="imagen de los commits">   
+
+[Registro de donde se realizaron la mayor cantidad de commits]
+
+Se observan las correcciones al back end, front end y el informe.
 
 # Contenido
 
@@ -214,15 +274,45 @@ Se muestran evidencias de los commits realizados en la entrega del TB2
 [5.1.4. Software Deployment Configuration](#514-software-deployment-configuration)
 
 [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)  
-[5.2.X. Sprint ](#52x-sprint-n)  
-[5.2.X.1. Sprint Planning n](#52x1-sprint-planning-n)  
-[5.2.X.2. Sprint Backlog n](#52x2-sprint-backlog-n)  
-[5.2.X.3. Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)  
-[5.2.X.4. Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)  
-[5.2.X.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)  
-[5.2.X.6. Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)  
-[5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)  
-[5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)
+[5.2.1. Sprint 1 ](#521-sprint-1)  
+[5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)  
+[5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)  
+[5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)  
+[5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)  
+[5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)  
+[5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)  
+[5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)  
+[5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
+[5.2.1. Sprint 2 ](#522-sprint-2)  
+[5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)  
+[5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)  
+[5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)  
+[5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)  
+[5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)  
+[5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)  
+[5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)  
+[5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+
+[5.2.2. Sprint 3 ](#523-sprint-3)  
+[5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)  
+[5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)  
+[5.2.3.3. Development Evidence for Sprint Review](#5229-development-evidence-for-sprint-review)  
+[5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)  
+[5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)  
+[5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)  
+[5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)  
+[5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+
+[5.2.3. Sprint 4 ](#524-sprint-4)  
+[5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)  
+[5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)  
+[5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)  
+[5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)  
+[5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)  
+[5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)  
+[5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)  
+[5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 
 [5.3. Validation Interviews](#53-validation-interviews)  
 [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)  
@@ -575,7 +665,7 @@ Esta seccion de preguntas se enfocan en el punto de vista de los usuarios de seg
 
 ### 2.2.2. Registro de entrevistas.
 
-Las entrevistas estan en un video en el siguiente URL:
+Las entrevistas estan en un video en el siguiente URL: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESxD6TAhfylMgJTLWMsn4F8BaCVSmqQuYn7hVIwYosnpvw?e=Wjhd8e&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D [Anexo 2.2.1.1]
 
 
 **Segmento 1**  
@@ -591,10 +681,12 @@ Device: Influencia en la marca Apple
 <br>
 Distrito: Cercado de Lima.
 <br>
-Timing: 
+Timing: minuto[00:00]
 <br>
+
 ![Imagen de entrevistaS2.1](assets/interviewsimages/EntrevistaAS2.png)
-<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=FP7xJZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.4]</a> minuto[00:00] <br>
+
+
 Arian nos relata su día laboral cómo staff en un Hotel el cual prefiere que mantengamos anónimo. Nos comenta que en su trabajo tienen un sistema implementado que permite **saber el estado de las habitaciones asignadas**, sin embargo, presentan como **obstáculo** la comunicación entre los empleados y los supervisores, él nos comenta que es ineficiente el sistema de manejo de inventario y **necesita** un sistema especializado en administración, ya que tiene que estar contactándose con su supervisor constantemente. Es por ello por lo que nos comenta que es **necesaria** una plataforma que agilice el proceso de comunicación y de administración. Arian explica que **quiere** dejar de usar aplicaciones informales de comunicación como WhatsApp. También nos comenta que a él le **gustaría** hacer un acuerdo con su supervisor para mejorar el sistema que usan actualmente, debido a que se complica el trabajo y el manejo de inventario junto a la pésima comunicación, lo que le causa **frustración**. 
 
 ---
@@ -611,11 +703,11 @@ Device: Celular y computadora
 <br>
 Distrito: Jesus Maria
 <br>
-Timing: 
+Timing: minuto[06:03]
 <br>
 
 ![Imagen de entrevistaS2.2](assets/interviewsimages/EntrevistaES2.png) 
-<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETIBRYdwzYtAliQA0IkQx1cBurdKw6YSE4nBrVncTpjaAQ?e=0bhNc0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.5]</a> minuto[06:03] <br>  
+
 
 Esau comenta respecto a como **siente** que su espacio laboral es bueno pero que al momento de comunicarse debe de moverse en el hotel para encontrar a sus supervisores y otros compañeros, asimismo de como **necesitan** whatsapp para que se les entreguen sus tareas. Ademas de como para avisarle a su gerente **necesita** de mandarle un mensaje de whatsapp o correo. El piensa que **whatsapp es un sistema que es propenso a *enredarse*** ya que todos hablan por un solo canal. Finalizando la entrevista nos comenta de como **siente** que entre sus compañeros se generan **frustraciones** de por donde empezar sus tareas y que de **objetivo** tiene el realizar un trabajo optimo.
 
@@ -633,10 +725,11 @@ Device: Celular y laptop
 <br>
 Distrito: Lima Central
 <br>
-Timing: 
+Timing: minuto[10:23]
 <br>
+
 ![Imagen de entrevistaS2.3](assets/interviewsimages/EntrevistaArS1.png) 
-<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERnPx07H66pLuGgoQ-VcVisBL7dmBuURtltLTevZ401FwA?e=m7Z67t&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.6]</a> minuto[10:23] <br>  
+<a> [Anexo 2.2.1.1]</a>  <br>  
 Nicola comenta sobre su trabajo actual y el sistema que utilizan en el hotel. Su trabajo presenta como **obstáculo** la pobre optimización que tiene y la poca capacidad de usuarios, por lo que se cae constantemente, por lo que recurre a usar aplicaciones como WhatsApp para la comunicación. También, nos aclara sobre lo **necesario** que es el sistema en los días más concurridos. Además, nos comenta que le genera **frustración** la mala comunicación, debido a que a veces no entiende la tarea asignada, además de que a él **quisiera** poder administrar mejor el inventario y automatizarlo. Nicola explica que le **gustaría** mejorar el sistema para realizar un trabajo bien hecho y así poder dar una buena experiencia los clientes.
 
 
@@ -655,11 +748,10 @@ Dispositivos: Computadoras (Windows), celulares android y telefonos domesticos.
 <br>
 Distritos: Magdalena
 <br>
-Timing: 
+Timing: minuto[15:39] 
 <br>
 
 ![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaS2P.png)  
-<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/Eci9Xsp-rVtEpOCoNQlvoGcBwGQ6voPj_b6TV2gAkXapcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=y7vQaU"> Url entrevista [Anexo 2.2.1.1]</a> minuto[15:39] <br>
 
 Elisa nos da su opinion respecto a la digitalizacion mencionando que es **necesaria**, mencionando que es importante mantener un sistema desde el huesped al software que integre todo, tambien dice como un **obstaculo** que en hoteles pequeños estos softwares son poco accesibles economicamente. Nos menciona que hay varias areas supervizadas por jefes donde se **quiere** digitalizar el proceso donde organizar las funcionalidades del dia a dia. Adicionalmente cuenta como no existe un inventario de productos digitalizado, manipulan todo lo relacionado de forma manual, menciona que le **gustaria** un software que se encarge de hacer eso. Asimismo relata de la falta de una linea de comunicacion directa con los empleados y como siente que se **necesita** que este deberia ser accesible desde el celular. Finalizando la entrevista menciona como **quisiera** sistematizar y digitalizar los procesos de gestion y que es una **frustracion** respecto a como los gastos de servicio realizan que se vuelva dificil el adquirir estos sistemas.
 
@@ -677,12 +769,11 @@ Dispositivos: Celular y Laptop
 <br>
 Distrito: Distrito de Trujillo, Trujillo
 <br>
-Timing: 
+Timing: minuto[26:04]
 <br>
 
 ![Imagen de entrevistaS1](assets/interviewsimages/EntrevistaCatalina.png)  
-<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/Ef4Ze3ZRF69HvFOvKfLItfkBK0acikKuHuZnMlg5bXvq5g?e=FxDvdB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.2]</a> minuto[26:04] <br>
-<br>
+
 
 Catalina nos comparte que considera que la digitalizacion de los sistemas de gestion serian **recibidos correctamente**, mencionando que se utilizaria para las **necesidades** de la busqueda, edicion y gestion de reservas y servicios. Menciona que se **asignan tareas dependiendo del tipo de empleado** en una reunion antes de una jornada laboral. Relata de como utilizan un excel para su gestion de items y menciona que le **gustaria** mejorarlo debido a que necesita que sus **datos se puedan ingresar, retirar y buscar** sin necesidad de saber mucho de excel. Finalmente nos menciona que **no siente** que existe una comunicacion fluida ya que **necesita ir hasta areas dedicadas como al area de mantenimiento para solicitar equipo necesario** o si existe un cambio de tareas **necesita** de avisar al empleado presencialmente mencionando como le **gustaria** implementar ese tiempo en otras tareas. Terminando la entrevista nos comenta sus **frustraciones con la comunicacion y administracion de datos** que tiene y de sus **objetivos** menciona como quiere superar y mejorar estos problemas y brindar un servicio mas completo para evitar inconvenientes al cliente ya que estos problemas segun nos cuenta son constantes.
 
@@ -700,13 +791,12 @@ Device: N/A
 <br>
 Distrito: Miraflores, Surquillo, Surco.
 <br>
-Timing: 
+Timing: [26:07]
 <br>
 
 
 ![Imagen de entrevistaS1](assets/interviewsimages/Entrevista-segmento1.png)
-<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ET8_u1p88ApJt2fvshZRbcAB2CEChNVgjXxNuPbqCmw1SA?e=xCeIhO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.3]</a> <br>
-<br>
+
 
 Ariana cuenta que ella y su equipo cuentan con sistemas de gestion de inventario, para dar horarios y sus tareas. Respecto a la digitalizacion, menciona que los procesos empresariales se vuelven menos tediosos gracias al poder **gestionar mas en menos tiempo**. menciona que, en el sistema que tienen se asignan las tareas a sus empleados, **cada empleado sabe que hacer al dia y al finalizar el dia se revisa si se cumplieron estas tareas**. Comparte que en su analisis de inventario se organizan sabiendo **cuantos items tienen, cuando llegaron y cuanto pedir a sus proveedores diariamente**. Intentan de mantener la comunicacion por charlas y conferencias para los trabajadores de la empresa. **Necesitan** que la relacion con el trabajador sea buena para que la eficiencia de estos aumente. Menciona que las **frustraciones** que tiene se originan por un **proceso no cumplido en el dia**, intenta que los procesos esten realizados. Comenta que sus **objetivos** son proporcionar al usuario con la mejor atencion.
 
@@ -5114,6 +5204,9 @@ InnControl-backend<br>
 
 ### 5.3.2. Registro de Entrevistas.
 
+Link entrevistas Heuristicas [Anexo 5.3.2]
+<a> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/Echosh-Q4yVOhOpOr5K74ukBRVTHjBVTjUICzn35RqF6hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PYqtch</a>
+
 **Segmento 1**  
 Nombre: Arian Godinez Vargas
 <br>
@@ -5123,15 +5216,14 @@ Ocupación: Empleado de Hotel (limpieza)
 <br>
 Browser: Chrome
 <br>
-Device: Influencia en la marca Apple
+Device: Telefono Apple
 <br>
 Distrito: Cercado de Lima.
 <br>
-Timing: 
+Timing: minuto[00:00]
 <br>
 <img src = https://i.imgur.com/HKjCGCI.png>
 
-<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=FP7xJZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EYPRfm9Wi39Kh6r5JfGUOA8BpMZCFqLg3gMymq5yFL5hGg?e=FP7xJZ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D Url entrevista [Anexo 2.2.1.4]</a> minuto[00:00] <br>
 Arian comenta de como hay diferentes oportunidades de mejora respecto a nuestra solucion dice que estamos en el camino correcto mas nos faltan mejorar aspectos como el diseño de profiles en base a la saturacion de informacion y de como se requiere de mejorar la implementacion de calendario y las cards. Finalmente nos menciono a como el proyecto si cumple con las expectativas iniciales y de como se logro con el objetivo inicial asimismo de como las observaciones son mas en base al diseño mas alla de la funcionalidad.
 
 ---
@@ -5144,14 +5236,14 @@ Ocupación: Trabaja en un hotel part-time
 <br>
 Browser: GoogleChrome y OperaGX
 <br>
-Device: Celular y computadora
+Device: Celular Android y computadora Windows
 <br>
 Distrito: Jesus Maria
 <br>
-Timing: 
+Timing: minuto[14:22]
 <br>
 
-![Imagen de entrevistaS1.2](assets/interviewsimages/Entrevista-Segmento1Esau.png)<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ETIBRYdwzYtAliQA0IkQx1cBurdKw6YSE4nBrVncTpjaAQ?e=0bhNc0&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.5]</a> minuto[05:00] <br>  
+![Imagen de entrevistaS1.2](assets/interviewsimages/Entrevista-Segmento1Esau.png)
 
 Esau comenta como la solucion supera sus expectativas y de como siente que como herramienta se logro cumplir con lo esperado, como observaciones nos menciono un comentario parecido a como se debe de implementar el calendario en una vista asignada. Finalmente nos menciona de como siente que solucionamos el problema de la comunicacion entre los trabajadores y los gerentes.
 
@@ -5165,16 +5257,16 @@ Ocupación: Empleado de Hotel
 <br>
 Browser: Brave
 <br>
-Device: Celular y laptop
+Device: Celular Android y laptop Windows
 <br>
 Distrito: Lima Central
 <br>
-Timing: 
+Timing: minuto[32:17]
 <br>
 
 <img src = https://i.imgur.com/wg6F6yL.png>
 
-<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERnPx07H66pLuGgoQ-VcVisBL7dmBuURtltLTevZ401FwA?e=m7Z67t&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.6]</a> minuto[09:10] <br>  
+<a href = "https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ERnPx07H66pLuGgoQ-VcVisBL7dmBuURtltLTevZ401FwA?e=m7Z67t&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D"> Url entrevista [Anexo 2.2.1.6]</a>  <br>  
 Nicola nos cuenta como esta de acuerdo con las caracteristicas observadas y como hemos realizado de manera correcta la implementacion de los componentos, como observaciones tambien nos menciona de como implementar algun color de fondo nos puede ayudar a distinguir mejor los cards y de como el calendario deberia de estar en una vista aparte. Finalmente nos compartio su contento respecto a la solucion.
 
 ---
@@ -5186,7 +5278,7 @@ Ocupación: Gerencia de hoteles (3 sedes) <br>
 Browser: N/A <br> 
 Device: N/A <br> 
 Distrito: Miraflores, Surquillo, Surco. <br> 
-Timing: 13 minutos <br> 
+Timing: minuto[42:26] <br> 
 ![Imagen de entrevista](https://i.imgur.com/yDfkbwo.png)
 
 Analisis <br>
@@ -5199,9 +5291,10 @@ Nombre: Catalina Paredes <br>
 Edad: 25 años <br>
 Ocupación: Gerencia de hoteles (Cusco) <br>
 Distrito: Cusco <br>
-Timing: 9 minutos <br>
+Browser: Google <br> 
+Device: Celular Apple, PC Windows <br> 
+Timing: minuto[55:40] <br>
 ![Imagen de entrevista](https://i.imgur.com/0Qrk6EX.png)
-[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/EZZ3L_UbEOBCum2u81FITtIBtnYWH-hqxE207QyoUmp_Ag?e=CjjHtO&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 
 Analisis <br>
@@ -5218,9 +5311,10 @@ Nombre: Alonso Holguin <br>
 Edad: 26 años <br>
 Ocupación: Gerencia de hotel (Trujillo) <br>
 Distrito: Trujillo <br>
-Timing: 19 minutos <br>
+Browser: Google <br> 
+Device: Celular Apple, PC Windows <br> 
+Timing:  minuto[1:05:40] <br>
 ![Imagen de entrevista](https://i.imgur.com/5qxW3ux.png)
-[URL de la entrevista](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201910151_upc_edu_pe/ETYvcnUi-mFEq9C8nbeLGUABw-idwHA2bXivQZZfVLUwjw?e=3cl2dc&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) <br>
 
 Análisis <br>
 En la entrevista, Alonso Holguin nos comenta su opinión con respecto a nuestro software. Él considera que el aspecto visual se ve bastante pulido y compacto, sin embargo, cree que la paleta de colores que usamos deberia ser más variada, permitiendo poder organizar dependiendo de lo que se asigne a cada color. <br>
@@ -5295,6 +5389,7 @@ https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESVCFEtZ
 <br>**TB1**: En base a la primera entrega hemos utilizado los procesos Lean UX para poder definir los supuestos necesarios de nuestra solucion asimismo como la investigacion por medio de needfinding hemos identificado que se nos solicita para realizar una solucion efectiva para nuestro segmento, adicionalmente nos enfocamos respecto al diseño de nuestro proyecto e hicimos la landing page de manera adecuada. En conclusion el uso de los procesos Lean UX y las herramientas que nos facilitan la implementacion de sus diagramas en conjunto con el material del curso resultan necesarios e indispensables para la correcta planeacion de nuestro proyecto. 
 <br>**TP1**: Para el TP1 desarollamos el front end de nuestra aplicacion utilizando Angular 17 y Angular Material subsecuentemente nos aseguramos que se cumplan los objetivos de nuestro product backlog y bajo las reuniones Sprint logramos organizar y asignar los objetivos propuestos para poder realizar nuestro proyecto. Finalmente cabe mencionar que realizamos correcciones de la entrega anterior y nos proponemos en mejorar nuestra eficiencia grupal.
 <br>**TB2**: Respecto a esta entrega nos enfocamos en realizar la parte del back end de nuestra solucion donde por medio del uso del aproach de Domain Driven Design utilizando Spring Boot y el IDE de InteliJ IDEA donde hemos separado nuestros bounded context e implementando las operaciones necesarias para las necesidades de nuestra solucion. Cabe mencionar que adicionalmente a esta entrega realizamos cambios segun las correciones que se nos mencionaron en entregas anteriores. En conclusion hemos implementado las herramientas e implementamos las metodologias Sprint para realizar la entrega.
+<br> **TF**: Respecto a la entrega final se han realizado los cambios finales al informe respecto a las correcciones del los capitulos y se genero un tercer sprint orientado a los cambios.
 
 # Conclusiones y recomendaciones.
 
@@ -5347,8 +5442,13 @@ datos, gráficos, imágenes, esquemas, mapas de otros autores
 
 ---
 
-<a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/Eci9Xsp-rVtEpOCoNQlvoGcBwGQ6voPj_b6TV2gAkXapcg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=y7vQaU</a>
-<p>Link de entrevista 1 segmento 2 [Anexo 2.2.1.1] <p>
+Link de entrevistas [Anexo 2.2.1.1] 
+<a>https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/ESxD6TAhfylMgJTLWMsn4F8BaCVSmqQuYn7hVIwYosnpvw?e=Wjhd8e&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D</a>
+
+
+
+Link entrevistas Heuristicas [Anexo 5.3.2]
+<a> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/Echosh-Q4yVOhOpOr5K74ukBRVTHjBVTjUICzn35RqF6hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PYqtch</a>
 
 
 
