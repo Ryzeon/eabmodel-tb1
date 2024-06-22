@@ -826,19 +826,24 @@ La implementacion de un sistema de datos el cual pueda agregar, eliminar y actua
 Caracteristicas Subjetivas:
 Todos los entrevistados opinan que la digitalizacion efectua un impacto positivo en su modelo y algunos hasta lo implementan. Aun asi un entrevistado menciona como existe una falta de accesibilidad para este tipo de negocios en estados emergentes. 
 
-Con esta informacion estamos sustentando los supuestos por el lado del segmento 2 y segmento 1
+Caracteristicas Subjetivas:
+Todos los entrevistados tienen una fuerte opinion respecto a la comunicacion asignacion de tareas, seguido de la falta de servicios actualizados o la falta total de estos que afecta su eficiencia. En todos los casos la organización es una constante para mejorar.
+
+Con esta informacion estamos sustentando los supuestos por el lado del segmento 1 y segmento 2
 
 
 ## 2.3. Needfinding.
 
 ### 2.3.1. User Personas.
 
+Los user personas nos sirven para poder identificar como seran los comportamientos y caracteristicas de nuestros usuarios segmento. Para cada segmento se realiza un user persona para identificar las caracteristicas tecnicas y tener una idea general de lo que busca el usuario.
 
-**Segmento 1:**  <img src="assets/user-personas/user-persona-segmento-1.png" style="width:100%"> 
+**Segmento 1:** Empleado del Hotel/Hostal
+ <img src="assets/user-personas/user-persona-segmento-1.png" style="width:100%"> 
 <br/> 
 
 
-**Segmento 2:**
+**Segmento 2:**: Supervizor / Manager / Gerente del Hotel/Hostal
 <br/> 
 
 <img src="assets/user-personas/user-persona-segmento-2.png" style="width:100%"> 
@@ -846,6 +851,9 @@ Con esta informacion estamos sustentando los supuestos por el lado del segmento 
 ---
 
 ### 2.3.2. User Task Matrix.
+
+El user task matrix nos sirve para identificar los procesos que realizan ambos segmentos donde se pueden observar las similitudes respecto a la importancia y frecuencias de estos procesos.
+
 || Segmento 1 | Empleado | Segmento 2 | Gestor |
 |-------------|-----------|-----------|-----------|--------|
 | Titulo      | Importancia | Frecuencia | Importancia | Frecuencia |
@@ -878,11 +886,11 @@ En esta seccion hacemos un journey mapping para comprender el camino que recorre
 
 ### 2.3.4. Empathy Mapping.
 
-**Segmento 1:**
+**Segmento 1:** : Empleado Hotel/Hostal
 
 ![Empathy Map S1](assets/empathymaps/Empathy-map-Empleado.png)
 
-**Segmento 2:**
+**Segmento 2:** : Manager / Gerente / Supervizor del Hotel/Hostal
 
 ![Empathy Map S2](assets/empathymaps/Empathy-map-Manager.png)
 
@@ -970,11 +978,11 @@ Segmento 2:
 
 ## 3.2. User Stories.
 
-
+La seccion de User Stories sirve para saber las distintas situaciones y puntos clave que tiene el usuario al realizar operaciones en los distintos aspectos del proyecto, desde la landing page hasta los aspectos tecnicos que realizan los desarolladores. Es importante debido a que nos ayuda a poder realizar un product backlog y con los criterios de aceptacion sabremos como verificar que estas historias de usuario estan siendo satisfechas.
 
 | HUX/EPX | Historia de Usuario / Épica                                   | Descripción                                                                                                                                            | Criterios de Aceptación                                                                                                                                                                                                                                                                                                                          | Relacionado con (Epic ID) |
 |---------|---------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------|
-| EP01    | Información del producto                                      | Como visitante del sitio web, quiero obtener información relacionada al producto que se ofrece.                                                        | Given el usuario está en la landing page <br> When observa la informacion del producto que se esta ofreciendo <br> Then obtiene una mejor visión de qué ofrece la empresa.                                                                                                            |                           | 
+| EP01    | Información del producto                                      | Como visitante del sitio web, quiero obtener información relacionada al producto que se ofrece.                                                        | Given el usuario está en la landing page <br> When observa la informacion del producto que se esta ofreciendo <br> Then obtiene una mejor visión de qué ofrece la empresa. <br> And se registra o considera registrarse como usuario.                                                                                                            |                           | 
 | HU01    | Conseguir información de la empresa                           | Como visitante del sitio web, quiero obtener más información sobre la empresa a cargo del producto.                                                    | Given el visitante se encuentra en la seccion de about us <br> When  observa la información relevante sobre la empresa <br> Then se interesa en saber más del producto <br> And Se registra como usuario.                                                                                                                    | EP01                      | 
 | HU02    | Informarse sobre los beneficios del producto                  | Como visitante del sitio web, quiero informarme sobre los beneficios del producto ofrecido.                                                            | Given el visitante se encuentra en la seccion de benefits <br> When observa los beneficios que se ofrecen al usar nuestra solucion <br> Then se interesa en saber más del producto <br> And Se registra como usuario.                                                 | EP01                      |
 | HU03    | Conocer los testimonios de los clientes pasados               | Como visitante, quiero acceder a testimonios de clientes anteriores para evaluar la experiencia y el desempeño del personal.      | Given el visitante se encuentra en la seccion de testimonios <br> When observa los diferentes testimonios <br> Then evaluar la experiencia y desempeño del personal basado en los comentarios de clientes previos. <br> And considera registrarse como usuario.                                                                               | EP01                      |
@@ -1032,23 +1040,23 @@ https://trello.com/invite/b/VKcGEXxg/ATTI53870853c3d20c6c6e0471d9086963148FEDED5
 | 5      | HU04          | Informarse sobre los diferentes planes de precio del producto | Como gerente, quiero visualizar la ocupación de habitaciones en tiempo real para gestionar eficazmente la disponibilidad y asignación de habitaciones. | 3                        |
 | 6      | HU05          | Contactar con la empresa                                      | Como gerente, quiero ver el estado de las habitaciones para poder revisar si están listas para su uso después del proceso de limpieza.                 | 2                        |
 | 7      | EP02          | Crear cuenta                                                  | Como gerente del hotel/hostal quiero crear una cuenta para utilizar InnControl (aplicación).                                                           | 5                        |
-| 8      | HU01          | Crear cuenta empleado                                         | Como empleado, quiero utilizar el código de gerente para crear mi cuenta de empleado.                                                                  | 3                        |
+|8      | HU01          | Crear cuenta empleado                                         | Como empleado, quiero utilizar el código de gerente para crear mi cuenta de empleado.                                                                  | 3                        |
 | 9      | HU02          | Crear cuenta gerente                                          | Como gerente, quiero crear mi cuenta de gerente para poder darles mi código de gerente a mis empleados.                                                | 3                        |
-| 10     | EP03          | Gestionar Habitaciones del Hotel                              | Como gerente, quiero poder revisar el estado de las habitaciones.                                                                                      | 8                        |
+| 10     | EP03          | Gestionar Habitaciones del Hotel                              | Como gerente, quiero poder revisar el estado de las habitaciones.                                                                                      |5                        |
 | 11     | HU01          | Cambiar estado de habitación                                  | Como gerente, quiero realizar un cambio al estado de la habitación.                                                                                    | 2                        |
 | 12     | HU02          | Cambiar estado de habitación                                  | Como empleado, quiero cambiar el estado de la habitación de mi tarea para notificar que ya terminé mi tarea.                                           | 3                        |
 | 13     | HU03          | Crear habitaciones                                            | Como gerente, quiero crear nuevas habitaciones en el sistema.                                                                                          | 5                        |
-| 14     | EP04          | Gestionar Inventario                                          | Como gestor, quiero gestionar el inventario del hotel.                                                                                                 | 8                        |
+| 14     | EP04          | Gestionar Inventario                                          | Como gestor, quiero gestionar el inventario del hotel.                                                                                                 |5                        |
 | 15     | HU01          | Crear Item                                                    | Como gestor, quiero agregar un nuevo ítem al inventario.                                                                                               | 3                        |
 | 16     | HU02          | Actualizar Item                                               | Como gestor, quiero actualizar la información de un ítem en el inventario.                                                                             | 3                        |
 | 17     | HU03          | Eliminar Item                                                 | Como gestor, quiero eliminar un ítem del inventario.                                                                                                   | 2                        |
 | 18     | HU04          | Actualizar Item                                               | Como empleado, quiero actualizar la información de un ítem en el inventario asignado a mi tarea.                                                       | 3                        |
-| 19     | EP05          | Gestionar Tareas                                              | Como Gerente, quiero gestionar las tareas asignadas a los empleados.                                                                                   | 8                        |
+| 19     | EP05          | Gestionar Tareas                                              | Como Gerente, quiero gestionar las tareas asignadas a los empleados.                                                                                   |5                        |
 | 20     | HU01          | Crear Tarea                                                   | Como gerente, quiero crear una nueva tarea para asignar a un empleado.                                                                                 | 3                        |
 | 21     | HU02          | Finalizar Tarea                                               | Como empleado, quiero marcar una tarea como completada una vez que la haya finalizado.                                                                 | 2                        |
 | 22     | HU03          | Eliminar Tarea                                                | Como gerente, quiero eliminar una tarea que ya no sea necesaria.                                                                                       | 2                        |
 | 23     | HU04          | Asignar/Editar Tarea                                          | Como gerente, quiero asignar o editar tareas para distribuir las responsabilidades entre los empleados.                                                | 5                        |
-| 24     | EP06          | Gestionar Mensajes                                            | Como gerente, quiero gestionar los mensajes enviados entre empleados y clientes.                                                                       | 8                        |
+| 24     | EP06          | Gestionar Mensajes                                            | Como gerente, quiero gestionar los mensajes enviados entre empleados y clientes.                                                                       |5                        |
 | 25     | HU01          | Crear Mensaje                                                 | Como gerente, quiero enviar un mensaje a un cliente o empleado.                                                                                        | 3                        |
 | 26     | HU02          | Crear Mensaje                                                 | Como empleado, quiero enviar un mensaje a un cliente o colega.                                                                                         | 3                        |
 | 27     | HU03          | Revisar Mensaje                                               | Como gerente, quiero revisar los mensajes recibidos de clientes o empleados.                                                                           | 2                        |
@@ -1056,7 +1064,7 @@ https://trello.com/invite/b/VKcGEXxg/ATTI53870853c3d20c6c6e0471d9086963148FEDED5
 | 29     | HU05          | Eliminar Mensaje                                              | Como gerente, quiero eliminar un mensaje específico de la bandeja de entrada.                                                                          | 2                        |
 | 30     | HU06          | Eliminar Mensaje                                              | Como Empleado, quiero eliminar un mensaje específico de la bandeja de entrada.                                                                         | 2                        |
 | 31     | EP07          | Uso de API en Base de Datos                                                | Como desarrollador de InnControl, quiero tener acceso a la información de la base de datos para poder realizar las operaciones CRUD.                                 | 5                        |
-| 32     | HU01          | API de Pago                                                   | Como desarrollador, quiero integrar la API para en InnControl para procesar transacciones necesarias para el funcionamiento del proyecto.                                                              | 3                        |
+| 32     | HU01          | API de proyecto                                                   | Como desarrollador, quiero integrar la API para en InnControl para procesar transacciones necesarias para el funcionamiento del proyecto.                                                              | 3                        |
 | 33     | HU02          | API de Autenticación                                          | Como developer, quiero utilizar la API de autenticación en InnControl para gestionar el inicio de sesión de usuarios.                                  | 3                        |
 | 34     | HU03          | API de Verificación JWT                                           | Como desarrollador, quiero incorporar la API de verificación JWT en InnControl para asegurar la autenticidad de los usuarios para que ingresen la clave JWT                                  | 5                        |
 | 35     | EP08          | Seguridad de datos                                            | Como Gerente, quiero que la información del hotel esté asegurada así como mi cuenta.                                                                   | 5                        |
