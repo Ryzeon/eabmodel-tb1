@@ -888,7 +888,12 @@ En esta seccion hacemos un journey mapping para comprender el camino que recorre
 
 ### 2.3.5. As-is Scenario Mapping.
 
+As Is representa las fases donde aun no se esta implementando nuestra solucion nos sirve para poder plantear escenarios de los cuales abarcaremos en el To Be donde utilizaremos la solucion.
+
 **Segmento 1**  
+
+Miro con el As-Is To-Be:
+https://miro.com/app/board/uXjVNtFCP8A=/?share_link_id=926895502341
 
 
 Escenario: Empleado realiza sus actividades y desea hacerle saber al supervisor que ya termino o si este le puede dar mas tareas.
@@ -939,6 +944,11 @@ Provider: Los providers se van a proporcionar como un atributo de los items para
 # Capítulo III: Requirements Specification
 
 ## 3.1. To-Be Scenario Mapping.
+
+En la seccion To-Be se utilizan los mismos escenarios pero implementando la solucion que proporciona nuestro proyecto.
+
+Miro con el As-Is To-Be:
+https://miro.com/app/board/uXjVNtFCP8A=/?share_link_id=926895502341
 
 Segmento 1:
 
