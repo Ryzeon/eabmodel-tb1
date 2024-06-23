@@ -866,6 +866,9 @@ El user task matrix nos sirve para identificar los procesos que realizan ambos s
 | Programar las tareas del día o semana | Baja | Baja | Alta | Alta |
 | Reportarse con el gestor | Alta | Alta | Media | Media |
 
+Con este user task matrix entendemos las actividades que realizan nuestros usuarios segmento y la importancia que estas acciones tienen.
+
+De las tareas principales que identificamos se observa como los empleados deben de hacer saber de la disponibilidad de las habitaciones, hacer saber del estdo de sus tareas, registrar items en el inventario y asimimo solicitarlos. Por parte de los gerentes deben de asignar las tareas a los empleados y comunicarse con el gestor.
 
 
 
