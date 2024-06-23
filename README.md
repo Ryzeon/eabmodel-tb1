@@ -1348,29 +1348,20 @@ User flows para inicio de sesion y crear task
 ### 4.6.2. Software Architecture Container Diagrams.
 
 ![ContainerDiagram](assets/SoftwareArchitecture/ContainerDiagram/structurizr-84133-Container-001.png)
-![ContainerDiagram](https://i.imgur.com/stwhRMc.png)
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
 ![ComponentDiagram-1](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-002.png)
-(https://i.imgur.com/XJOrW1h.png)
 
 ![ComponentDiagram-2](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-003.png)
-(https://i.imgur.com/tE8IIgY.png)
 
 ![ComponentDiagram-3](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-004.png)
-(https://i.imgur.com/mNps2dZ.png)
 
 ![ComponentDiagram-4](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-005.png)
-(https://i.imgur.com/QJfEs1U.png)
 
 ![ComponentDiagram-5](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-006.png)
-(https://i.imgur.com/E6QZXw3.png)
 
 ![ComponentDiagram-6](assets/SoftwareArchitecture/ComponentDiagram/structurizr-84133-Component-007.png)
-(https://i.imgur.com/5Y4OtJV.png)
-
-![ComponentDiagram-7](https://i.imgur.com/IksWjCF.png)
 
 
 ## 4.7. Software Object-Oriented Design.
