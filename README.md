@@ -1351,7 +1351,7 @@ User flows para inicio de sesion y crear task
 
 En esta sección, se presentarán los diagramas de clases, en las cuales se representan las clases y sus relaciones en el
 diseño orientado a objetos.
-<img src="https://i.imgur.com/NzQy4Oy.png" style="width:60%">
+<img src="https://i.imgur.com/TcdPD9J.png" style="width:60%">
 [Link Database Diagram]'(https://lucid.app/lucidchart/0a661614-a2e4-42cb-b8a2-73a9bc6b6569/edit?viewport_loc=-1210%2C-676%2C2563%2C2874%2C0_0&invitationId=inv_f0bef7c5-6e84-4e61-9298-6777d0880fb6)'
 
 ### 4.7.2. Class Dictionary.
