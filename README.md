@@ -5378,25 +5378,7 @@ la herramienta. Es imperativo que sea corregido antes del lanzamiento
 | Identificador de el hotel el cual este usando el servicio                     |       4       | Visibilidad del estado del sistema |
 | Saturacion de informacion en la seccion de perfil                         |      3        | Diseño estético y minimalista |
 
- ## 5.2.4.3. Development Evidence for Sprint Review.
-## 5.2.4.4. Testing Suite Evidence for Sprint Review.
-## 5.2.4.5. Execution Evidence for Sprint Review.
 
-![Imagen de entrevista](https://i.imgur.com/FWQnJAg.jpeg)
-![Imagen de entrevista](https://i.imgur.com/JHRn1tQ.jpeg)
-![Imagen de entrevista](https://i.imgur.com/iYbKiZO.jpeg)
-![Imagen de entrevista](https://i.imgur.com/RbPMMaG.jpeg)
-![Imagen de entrevista](https://i.imgur.com/YWjsb3Z.jpeg)
-![Imagen de entrevista](https://i.imgur.com/7myupBY.jpeg)
-![Imagen de entrevista](https://i.imgur.com/HbXh1NB.jpeg)
-![Imagen de entrevista](https://i.imgur.com/HbXh1NB.jpeg)
-
-
-
-## 5.2.4.6. Services Documentation Evidence for Sprint Review.
-## 5.2.4.7. Software Deployment Evidence for Sprint Review.
-## 5.2.4.8. Team Collaboration Insights during Sprint.
-  
 
 
 ## 5.4. Video About-the-Product.
