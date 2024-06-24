@@ -1572,7 +1572,9 @@ del landing page.
             <td>
         </tr>
         <tr>
-            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+              <td style="font-weight: bold;"> Sprint Goal & User Stories</td>
+            <td>El objetivo del Sprint 1 es diseñar, desarrollar y desplegar una página de inicio completamente funcional utilizando HTML, CSS, JavaScript y Bootstrap. Esta página de inicio debe incluir el contenido textual acordado y adherirse al diseño creado en Figma. Al final del sprint, la página de inicio estará en vivo en Netlify, accesible a través del enlace     proporcionado
+            <td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sprint 1 Velocity</td>
