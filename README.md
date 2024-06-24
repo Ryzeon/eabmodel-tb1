@@ -1370,7 +1370,7 @@ Encapsulation (state es privado porque solo se debe de modificar el estado mas n
 
 [link vertabelo]'(https://my.vertabelo.com/public-model-view/7nlLmEzWRwMOp0eaZolkVYXfwkPf61HMA215NLXEs0zbWJcZ03aSFWAfQmF9BJ6i?x=2904&y=3359&zoom=0.4906)'
 
-![imgDatabaseDesign](https://i.imgur.com/oI6d1Ku.png)
+![imgDatabaseDesign](https://i.imgur.com/CiDTcC5.png)
 
 
 # Capítulo V: Product Implementation, Validation & Deployment
