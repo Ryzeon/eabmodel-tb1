@@ -5621,6 +5621,16 @@ la herramienta. Es imperativo que sea corregido antes del lanzamiento
 ## 5.2.4.4. Testing Suite Evidence for Sprint Review.
 ## 5.2.4.5. Execution Evidence for Sprint Review.
 
+![Imagen de entrevista](https://i.imgur.com/FWQnJAg.jpeg)
+![Imagen de entrevista](https://i.imgur.com/JHRn1tQ.jpeg)
+![Imagen de entrevista](https://i.imgur.com/iYbKiZO.jpeg)
+![Imagen de entrevista](https://i.imgur.com/RbPMMaG.jpeg)
+![Imagen de entrevista](https://i.imgur.com/YWjsb3Z.jpeg)
+![Imagen de entrevista](https://i.imgur.com/7myupBY.jpeg)
+![Imagen de entrevista](https://i.imgur.com/HbXh1NB.jpeg)
+![Imagen de entrevista](https://i.imgur.com/HbXh1NB.jpeg)
+
+
 
 ## 5.2.4.6. Services Documentation Evidence for Sprint Review.
 ## 5.2.4.7. Software Deployment Evidence for Sprint Review.
