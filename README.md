@@ -6589,6 +6589,8 @@ Para la aplicacion final no se realizaron testing a nivel de font mas alla de la
 
 ## 5.2.4.5. Execution Evidence for Sprint Review.
 
+A continuacion presentamos evidencias de la aplicacion terminada.
+
 ![Imagen de entrevista](https://i.imgur.com/FWQnJAg.jpeg)
 ![Imagen de entrevista](https://i.imgur.com/JHRn1tQ.jpeg)
 ![Imagen de entrevista](https://i.imgur.com/iYbKiZO.jpeg)
@@ -6598,7 +6600,9 @@ Para la aplicacion final no se realizaron testing a nivel de font mas alla de la
 ![Imagen de entrevista](https://i.imgur.com/HbXh1NB.jpeg)
 ![Imagen de entrevista](https://i.imgur.com/HbXh1NB.jpeg)
 
+Link del video: https://upcedupe-my.sharepoint.com/:v:/g/personal/u20221a322_upc_edu_pe/EUdsBBh0YPJEq827t6EtJZYBy6X8zNGiYLKegKc-SOsT4g?e=cJEaHV&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 ## 5.2.4.6. Services Documentation Evidence for Sprint Review.
+En esta seccion, se presentara el servidor swagger, en el cual hemos implementado el backend del proyecto.
 
 ![Imagen de entrevista](https://i.imgur.com/197RMe5.png)
 ![Imagen de entrevista](https://i.imgur.com/7ifxBUb.png)
@@ -6607,6 +6611,9 @@ Para la aplicacion final no se realizaron testing a nivel de font mas alla de la
 ![Imagen de entrevista](https://i.imgur.com/OSpUMPC.png)
 
 ## 5.2.4.7. Software Deployment Evidence for Sprint Review.
+
+En esta seccion, se presentan las evidencias de la implementacion de la aplicacion en un servidor de produccion.
+
 ![Imagen de entrevista](https://i.imgur.com/BfDwXOy.png)
 ![Imagen de entrevista](https://i.imgur.com/3BgcXT3.png)
 ![Imagen de entrevista](https://i.imgur.com/FzCMdfV.png)
@@ -6615,6 +6622,17 @@ Para la aplicacion final no se realizaron testing a nivel de font mas alla de la
 
 ## 5.2.4.8. Team Collaboration Insights during Sprint.
 
+En esta seccion, se presentan los insights de colaboracion del equipo durante el sprint.
+
+FRONT-END <br>
+![Imagen de entrevista](https://i.imgur.com/pNiuRqo.jpeg)
+![Imagen de entrevista](https://i.imgur.com/FqhqUhA.jpeg)
+![Imagen de entrevista](https://i.imgur.com/1bhMOJJ.jpeg)
+
+BACK-END <br>
+![Imagen de entrevista](https://i.imgur.com/ixpTRjd.jpeg)
+![Imagen de entrevista](https://i.imgur.com/Kgz6DJ2.jpeg)
+![Imagen de entrevista](https://i.imgur.com/jjns6ux.jpeg)
 
 ## 5.3. Validation Interviews.
 
