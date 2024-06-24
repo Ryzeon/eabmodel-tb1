@@ -1964,7 +1964,10 @@ de la appliacion web
             <td>
         </tr>
         <tr>
-            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+             <td style="font-weight: bold;"> Sprint Goal & User Stories</td>
+            <td>
+             Desarrollar la base funcional de la aplicación web siguiendo las historias de usuario establecidas, asegurando que la versión standalone esté operativa al finalizar el sprint. También se incluirá la corrección de TB1 para mejorar la estabilidad y usabilidad del sistema.
+            <td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sprint 1 Velocity</td>
@@ -3178,7 +3181,9 @@ En este sprint, nos enfocaremos en el desarrollo de la aplicación backend, bas�
             <td>
         </tr>
         <tr>
-            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Goal & User Stories</td>
+<td style="font-weight: bold;"> Sprint Goal & User Stories</td>
+<td> Desarrollar la base funcional de la aplicación backend siguiendo las historias de usuario establecidas. También se incluirá la corrección de TP1 para mejorar la estabilidad y funcionalidad del sistema. Al finalizar este sprint, tendremos la base para la aplicación backend operativa.
+            <td>
         </tr>
         <tr>
             <td style="font-weight: bold;"> Sprint 1 Velocity</td>
@@ -5109,7 +5114,9 @@ Repositorio en github: https://github.com/upc-pre-20241-si729-wx55-eabmodel/innc
     </tbody>
 </table>
     
-#### 5.2.3.5. Execution Evidence for Sprint Review. <br>
+#### 5.2.3.5. Execution Evidence for Sprint Review. 
+
+En esta parte, se muestra la ejecucion de la aplicacion web, tanto del front end como del back end, asi como tambien se muestra el uso de la aplicacion en un servidor de Swagger.
 
 Se implemento el OpenAPI para el apartado del backend, asi como la actualizacion y mejora en el apartado del frontend como es el el panel de control y el schedule con toda la informacion generada en la app. <br>
 ![Imagen de entrevista](https://i.imgur.com/prJfcSR.jpeg) <br>
@@ -5120,6 +5127,8 @@ Se implemento el OpenAPI para el apartado del backend, asi como la actualizacion
 ![Imagen de entrevista](https://i.imgur.com/0KYE0Au.jpeg) <br>
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review. <br>
+
+En esta seccion, se muestra la documentacion de los servicios del back end de la aplicacion web, asi como tambien se muestra el uso de Swagger para la documentacion de los servicios.
 
 Utilizamos SpringBoot, Spring Security, JWToken y Spring Data jpa
 
@@ -5132,6 +5141,8 @@ Utilizamos SpringBoot, Spring Security, JWToken y Spring Data jpa
 [https://spring.io/projects/spring-data-jpa]
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review. <br>
+
+En esta seccion se muestra el deploy del software en un servidor de AWS, asi como tambien se muestra el uso de Docker para el deploy del back end de la aplicacion web.
 
 
 Usamos Docker para el deploy del back end de la aplicacion web.
@@ -5157,6 +5168,8 @@ InnControl-backend<br>
 
 
 ## 5.3. Validation Interviews.
+
+En esta seccion, se presentan las entrevistas realizadas a los usuarios finales de la aplicacion, con el fin de validar la solucion propuesta y obtener feedback para mejorar la aplicacion.
 
 ### 5.3.1. Diseño de Entrevistas.
 
