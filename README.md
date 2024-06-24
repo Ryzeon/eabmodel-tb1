@@ -1517,7 +1517,7 @@ alcanzar este objetivo, detallaremos los pasos necesarios para lograrlo.
 
 ## 5.2. Landing Page, Services & Applications Implementation.
 
-## 5.2.1 Spring 1
+## 5.2.1 Sprint 1
 
 #### 5.2.1.1 Sprint Planning 1
 
@@ -1908,7 +1908,7 @@ A continuación, se muestra una imagen de la colaboración del equipo en GitHub.
 ![img.png](https://i.imgur.com/MZciJpC.png)
 ![img.png](https://i.imgur.com/5MJMkJn.png)
 
-## 5.2.2 Spring 2
+## 5.2.2 Sprint 2
 
 #### 5.2.2.1 Sprint Planning 2
 
@@ -1958,9 +1958,9 @@ de la appliacion web
         <tr>
             <td style="font-weight: bold;"> Sprint n – 2 Retrospective Summary</td>
             <td>
-               En este spring trabajaremos en lo que seria es desarrollo de la aplicacion web donde se incluiran las
-               siguiendo las historias de usuario, Asimismo en este spring se trabajara la correction de TB1.
-               Al finalizar este spring tendremos la base de la applicacion web version standalone.
+               En este Sprint trabajaremos en lo que seria es desarrollo de la aplicacion web donde se incluiran las
+               siguiendo las historias de usuario, Asimismo en este Sprint se trabajara la correction de TB1.
+               Al finalizar este Sprint tendremos la base de la applicacion web version standalone.
             <td>
         </tr>
         <tr>
@@ -3106,13 +3106,13 @@ Reports
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
 A continuación, se presenta la documentación de los servicios utilizados.
-En este spring usamos json-server (https://www.npmjs.com/package/json-server) para simular una api
+En este Sprint usamos json-server (https://www.npmjs.com/package/json-server) para simular una api
 
 ![img.png](https://i.imgur.com/QazDJ3c.png)
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
-Siguiendo el spring 1, usamos netlify para el deploy de la aplicacion web.
+Siguiendo el Sprint 1, usamos netlify para el deploy de la aplicacion web.
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 
@@ -3126,7 +3126,7 @@ A continuación, se muestra una imagen de la colaboración del equipo en GitHub.
 ![img.png](https://i.imgur.com/ZiPvJVO.png)
 ![img.png](https://i.imgur.com/d2LOv3d.png)
 
-## 5.2.3 Spring 3
+## 5.2.3 Sprint 3
 
 #### 5.2.3.1 Sprint Planning 3
 
@@ -5164,7 +5164,6 @@ InnControl-backend<br>
 ![Imagen de entrevista](https://i.imgur.com/QyuyhOl.png) <br>
 ![Imagen de entrevista](https://i.imgur.com/2s018un.png) <br>
 ![Imagen de entrevista](https://i.imgur.com/Co53DcE.png) <br>
-
 
 
 
