@@ -5203,6 +5203,7 @@ En esta seccion, se presentan las entrevistas realizadas a los usuarios finales 
 
 ### 5.3.2. Registro de Entrevistas.
 
+En esta seccion, se presentan los registros de las entrevistas realizadas a los usuarios finales de la aplicacion, con el fin de validar la solucion propuesta y obtener feedback para mejorar la aplicacion. Cada entrevista viene con su respectiva imagen de la entrevista y link del video de la entrevista. <br>
 Link entrevistas Heuristicas [Anexo 5.3.2]
 <a> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/Echosh-Q4yVOhOpOr5K74ukBRVTHjBVTjUICzn35RqF6hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PYqtch</a>
 
@@ -5326,6 +5327,8 @@ En resumen, Alonso está satisfecho con el actual desarrollo del software, y cre
 
 ### 5.3.3. Evaluaciones según heurísticas.
 
+En esta seccion, se presentan las evaluaciones de la aplicacion web segun las heurísticas de Nielsen, con el fin de identificar los problemas de usabilidad y mejorar la aplicacion.
+
 | HEURISTICAS                                   |
 |-----------------------------------------------|
 | Visibilidad del estado del sistema            |
@@ -5372,6 +5375,15 @@ la herramienta. Es imperativo que sea corregido antes del lanzamiento
 | Identificador de el hotel el cual este usando el servicio                     |       4       | Visibilidad del estado del sistema |
 | Saturacion de informacion en la seccion de perfil                         |      3        | Diseño estético y minimalista |
 
+ ## 5.2.4.3. Development Evidence for Sprint Review.
+## 5.2.4.4. Testing Suite Evidence for Sprint Review.
+## 5.2.4.5. Execution Evidence for Sprint Review.
+
+
+## 5.2.4.6. Services Documentation Evidence for Sprint Review.
+## 5.2.4.7. Software Deployment Evidence for Sprint Review.
+## 5.2.4.8. Team Collaboration Insights during Sprint.
+  
 
 
 ## 5.4. Video About-the-Product.
