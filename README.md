@@ -6602,7 +6602,10 @@ En esta seccion, se presentan las pruebas realizadas a la aplicacion final.
 
 ## 5.2.4.7. Software Deployment Evidence for Sprint Review.
 ![Imagen de entrevista](https://i.imgur.com/BfDwXOy.png)
-)
+![Imagen de entrevista](https://i.imgur.com/3BgcXT3.png)
+![Imagen de entrevista](https://i.imgur.com/FzCMdfV.png)
+![Imagen de entrevista](https://i.imgur.com/Rqvj6m1.png)
+![Imagen de entrevista](https://i.imgur.com/dJhiqzh.png)
 
 ## 5.2.4.8. Team Collaboration Insights during Sprint.
 
