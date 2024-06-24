@@ -5166,7 +5166,267 @@ InnControl-backend<br>
 ![Imagen de entrevista](https://i.imgur.com/Co53DcE.png) <br>
 
 
+#### 5.2.4.1.  Sprint Planning 4. 
 
+A continuación, se presentará el sprint planning 3 donde se mostrarán las evidencias de planificación e implementación
+de la appliacion web
+
+**Sprint Backlog 4**
+<table>
+    <thead>
+        <tr>
+            <th> Sprint #</th>
+            <th> Sprint 4</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Date</td>
+            <td> 25/05/2024 </td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Time</td>
+            <td> 14:00 horas (GMT-5)</td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Location</td>
+            <td> Modalidad remota por Discord.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Prepared By</td>
+            <td> Eabmodel Team
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
+            <td> Todos los miembros del equipo eabmodel.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 3 Review Summary</td>
+            <td>  En el sprint anterior se ha avanzado en las entidades centrales de cada contexto delimitado: autenticación, usuario, perfiles, actividades, procesos de contratación y organizaciones
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint n – 4 Retrospective Summary</td>
+            <td>
+               
+En el sprint 4, se planea desarrollar las entidades faltantes en los endpoint de los bounded context y el bounded context de Security para la autenticación de usuario. Al final, se desplegará en alguna plataforma gratuita para integrarlo con la aplicación web front-end. Por otro lado, se continuará desarrollando algunas vistas de front-end referentes al CRUD de los procesos de reclutamiento
+            <td>
+        </tr>
+        <tr>
+<td style="font-weight: bold;"> Sprint Goal & User Stories</td>
+<td> Desarrollar la base funcional de la aplicación backend siguiendo las historias de usuario establecidas. También se incluirá la corrección de TP1 para mejorar la estabilidad y funcionalidad del sistema. Al finalizar este sprint, tendremos la base para la aplicación backend operativa.
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sprint 4 Velocity</td>
+            <td> 96
+            <td>
+        </tr>
+        <tr>
+            <td style="font-weight: bold;"> Sum of Story Points</td>
+            <td>  89
+            <td>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
+#### 5.2.4.2. Sprint Backlog 4.
+En esta secciones se muestra las tareas que se realizaron en el sprint 4, se adjunta la captura del tablero y el link.
+Link del tablero: https://trello.com/invite/b/VKcGEXxg/ATTI53870853c3d20c6c6e0471d9086963148FEDED5D/product-backlog
+![img.png](https://i.imgur.com/JcOk4rX.png)
+<table> 
+   <tr>
+      <th colspan="4"> Sprint # </th>
+      <th colspan="7"> Sprint 4 </th>
+   </tr>
+   <tr >
+     <th colspan="4"> User Story </th>
+     <th colspan="7"> Work-Item /Task</th>
+   </tr>
+   <tr>
+     <th > Id </th>
+     <th colspan="3"> Title </th>
+     <th> Id </th>
+     <th > Title </th>
+     <th> Description </th>
+     <th> Estimation (Hours) </th>
+     <th> Assigned To </th> 
+     <th> Status (To-do / In-Process / To- Review / Done) </th>
+   </tr>
+    <tr>
+      <th> EP02-US01 </th>
+     <th colspan="3"> Crear cuenta empleado </th>
+      <th> W01  </th>
+     <th> Bounded Context Employees    </th>
+     <th> Implementar Crear cuenta</th>
+     <th> 1  </th>
+     <th> Josue Hidalgo</th> 
+     <th> Done </th>
+   </tr>
+   <tr>
+      <th> EP3-US02 </th>
+     <th colspan="3"> Crear tasks</th>
+      <th> W02  </th>
+     <th>  Bounded Context Task </th>
+     <th> Implementar creacion de task</th>
+     <th> 1  </th>
+     <th> Piero Periche </th> 
+     <th> Done </th>
+   </tr>
+      <tr>
+      <th> EP05-US04 </th>
+     <th colspan="3"> Asignar o editar tareas.</th>
+      <th> W02  </th>
+     <th>  Bounded Context Task   </th>
+     <th> Implementar asignar o editar tareas.</th>
+     <th> 1  </th>
+     <th> Piero Periche </th> 
+     <th> Done </th>
+   </tr>
+
+   <tr>
+      <th> EP3-HU03 </th>
+     <th colspan="3">  Crear nuevas habitaciones en el sistema</th>
+      <th> W03  </th>
+     <th>  Bounded Context Room  </th>
+     <th> Implementar la creacion nuevas habitaciones en el sistema.</th>
+     <th> 2  </th>
+     <th> Manuel Peña</th> 
+     <th> Done </th>
+   </tr>
+
+   <tr>
+      <th> EP04-US01 </th>
+     <th colspan="3"> Agregar un nuevo ítem al inventario.</th>
+      <th> W04  </th>
+     <th> Bounded Context Inventory  </th>
+     <th> Implementar Agregar un nuevo ítem al inventario.</th>
+     <th> 1  </th>
+     <th> Sebastian Hoffmann </th> 
+     <th> Done </th>
+   </tr>
+
+<tr>
+      <th> EP2-HU02 </th>
+     <th colspan="3"> Crear cuenta gerente</th>
+      <th> W05  </th>
+     <th> Bounded Context Employee   </th>
+     <th> Implementar creacion cuenta gerente</th>
+     <th> 0.5  </th>
+     <th> Josue Hidalgo </th> 
+     <th> Done </th>
+   </tr>
+
+<tr>
+      <th> EP05-US06 </th>
+     <th colspan="3"> Alertas mantenimiento</th>
+      <th> W06 </th>
+     <th> Maintenance Alerts  </th>
+     <th> Bounded Context Room </th>
+     <th> 1  </th>
+     <th> Manuel Penia </th> 
+     <th> Done </th>
+   </tr>
+
+<tr>
+      <th> EP3-US07 </th>
+     <th colspan="3">  Actualizar información de ítems en el inventario.</th>
+      <th> W07  </th>
+     <th> Bounded Context Inventory </th>
+     <th>Implementar  Actualizacion de información de ítems en el inventario. </th>
+     <th> 1  </th>
+     <th> Sebastian Hoffman </th> 
+     <th> Done </th>
+   </tr>
+
+<tr>
+      <th> EP3-US014 </th>
+     <th colspan="3"> </th>
+      <th> W08 </th>
+     <th> Employee Bounded Context </th>
+     <th> - </th>
+     <th> 2  </th>
+     <th> Josue hidalgo </th> 
+     <th> Done </th>
+   </tr>
+
+<tr>
+      <th> EP3-US014 </th>
+     <th colspan="3">Programar turnos de trabajo </th>
+      <th> W08 </th>
+     <th> Bounded Context Task </th>
+     <th> Vista de programacion de turnos </th>
+     <th> 3  </th>
+     <th> Alex Avila </th> 
+     <th> Done </th>
+   </tr>
+
+<tr>
+      <th> EP3-US016 </th>
+     <th colspan="3"> Notificaciones  </th>
+      <th> W08 </th>
+     <th> Bounded Context Room </th>
+     <th> Vista de noticaciones </th>
+     <th> 2  </th>
+     <th> Alex Avila </th> 
+     <th> Done </th>
+   </tr>
+
+<tr>
+      <th> EP3-US018 </th>
+     <th colspan="3"> Informacion de procedimientos </th>
+      <th> W08 </th>
+     <th> Bounded Context Room </th>
+     <th> - </th>
+     <th> 2  </th>
+     <th> Alex Avila </th> 
+     <th> Done </th>
+   </tr>
+
+<tr>
+      <th> EP3-US020 </th>
+     <th colspan="3">Reporte de problemas  </th>
+      <th> W08 </th>
+     <th> Bounded Context Inventory </th>
+     <th> - </th>
+     <th> 1  </th>
+     <th> Alex Avila </th> 
+     <th> Done </th>
+   </tr>
+</table>
+
+## 5.2.4.3. Development Evidence for Sprint Review.
+## 5.2.4.4. Testing Suite Evidence for Sprint Review.
+## 5.2.4.5. Execution Evidence for Sprint Review.
+
+![Imagen de entrevista](https://i.imgur.com/FWQnJAg.jpeg)
+![Imagen de entrevista](https://i.imgur.com/JHRn1tQ.jpeg)
+![Imagen de entrevista](https://i.imgur.com/iYbKiZO.jpeg)
+![Imagen de entrevista](https://i.imgur.com/RbPMMaG.jpeg)
+![Imagen de entrevista](https://i.imgur.com/YWjsb3Z.jpeg)
+![Imagen de entrevista](https://i.imgur.com/7myupBY.jpeg)
+![Imagen de entrevista](https://i.imgur.com/HbXh1NB.jpeg)
+![Imagen de entrevista](https://i.imgur.com/HbXh1NB.jpeg)
+
+## 5.2.4.6. Services Documentation Evidence for Sprint Review.
+
+![Imagen de entrevista](https://i.imgur.com/197RMe5.png)
+![Imagen de entrevista](https://i.imgur.com/7ifxBUb.png)
+![Imagen de entrevista](https://i.imgur.com/j4CtWf3.png)
+![Imagen de entrevista](https://i.imgur.com/DgjRqDC.png)
+![Imagen de entrevista](https://i.imgur.com/OSpUMPC.png)
+
+## 5.2.4.7. Software Deployment Evidence for Sprint Review.
+## 5.2.4.8. Team Collaboration Insights during Sprint.
 
 
 ## 5.3. Validation Interviews.
@@ -5374,243 +5634,6 @@ la herramienta. Es imperativo que sea corregido antes del lanzamiento
 | Identificador de el hotel el cual este usando el servicio                     |       4       | Visibilidad del estado del sistema |
 | Saturacion de informacion en la seccion de perfil                         |      3        | Diseño estético y minimalista |
 
-#### 5.2.4.1.  Sprint Planning 4. 
-
-A continuación, se presentará el sprint planning 3 donde se mostrarán las evidencias de planificación e implementación
-de la appliacion web
-
-**Sprint Backlog 4**
-<table>
-    <thead>
-        <tr>
-            <th> Sprint #</th>
-            <th> Sprint 4</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="font-weight: bold; text-align: center" colspan="2"> Sprint Planing Background</td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Date</td>
-            <td> 25/05/2024 </td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Time</td>
-            <td> 14:00 horas (GMT-5)</td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Location</td>
-            <td> Modalidad remota por Discord.
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Prepared By</td>
-            <td> Eabmodel Team
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Attendees (to planning meeting)</td>
-            <td> Todos los miembros del equipo eabmodel.
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Sprint n – 3 Review Summary</td>
-            <td>  En el sprint anterior se ha avanzado en las entidades centrales de cada contexto delimitado: autenticación, usuario, perfiles, actividades, procesos de contratación y organizaciones
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Sprint n – 4 Retrospective Summary</td>
-            <td>
-               
-En el sprint 4, se planea desarrollar las entidades faltantes en los endpoint de los bounded context y el bounded context de Security para la autenticación de usuario. Al final, se desplegará en alguna plataforma gratuita para integrarlo con la aplicación web front-end. Por otro lado, se continuará desarrollando algunas vistas de front-end referentes al CRUD de los procesos de reclutamiento
-            <td>
-        </tr>
-        <tr>
-<td style="font-weight: bold;"> Sprint Goal & User Stories</td>
-<td> Desarrollar la base funcional de la aplicación backend siguiendo las historias de usuario establecidas. También se incluirá la corrección de TP1 para mejorar la estabilidad y funcionalidad del sistema. Al finalizar este sprint, tendremos la base para la aplicación backend operativa.
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Sprint 4 Velocity</td>
-            <td> 96
-            <td>
-        </tr>
-        <tr>
-            <td style="font-weight: bold;"> Sum of Story Points</td>
-            <td>  89
-            <td>
-        </tr>
-    </tbody>
-</table>
-
-
-
-
-#### 5.2.4.2. Sprint Backlog 4.
-En esta secciones se muestra las tareas que se realizaron en el sprint 4, se adjunta la captura del tablero y el link.
-Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426dcb3b5f6291907BFE60C/inncontrol-frontend
-![img.png](https://i.imgur.com/JcOk4rX.png)
-<table> 
-   <tr>
-      <th colspan="4"> Sprint # </th>
-      <th colspan="7"> Sprint 4 </th>
-   </tr>
-   <tr >
-     <th colspan="4"> User Story </th>
-     <th colspan="7"> Work-Item /Task</th>
-   </tr>
-   <tr>
-     <th > Id </th>
-     <th colspan="3"> Title </th>
-     <th> Id </th>
-     <th > Title </th>
-     <th> Description </th>
-     <th> Estimation (Hours) </th>
-     <th> Assigned To </th> 
-     <th> Status (To-do / In-Process / To- Review / Done) </th>
-   </tr>
-    <tr>
-      <th> EP02-US01 </th>
-     <th colspan="3"> Crear cuenta empleado </th>
-      <th> W01  </th>
-     <th> Bounded Context Employees    </th>
-     <th> Implementar Crear cuenta</th>
-     <th> 1  </th>
-     <th> Josue Hidalgo</th> 
-     <th> Done </th>
-   </tr>
-   <tr>
-      <th> EP3-US02 </th>
-     <th colspan="3"> Crear tasks</th>
-      <th> W02  </th>
-     <th>  Bounded Context Task </th>
-     <th> Implementar creacion de task</th>
-     <th> 1  </th>
-     <th> Piero Periche </th> 
-     <th> Done </th>
-   </tr>
-      <tr>
-      <th> EP05-US04 </th>
-     <th colspan="3"> Asignar o editar tareas.</th>
-      <th> W02  </th>
-     <th>  Bounded Context Task   </th>
-     <th> Implementar asignar o editar tareas.</th>
-     <th> 1  </th>
-     <th> Piero Periche </th> 
-     <th> Done </th>
-   </tr>
-
-   <tr>
-      <th> EP3-HU03 </th>
-     <th colspan="3">  Crear nuevas habitaciones en el sistema</th>
-      <th> W03  </th>
-     <th>  Bounded Context Room  </th>
-     <th> Implementar la creacion nuevas habitaciones en el sistema.</th>
-     <th> 2  </th>
-     <th> Manuel Peña</th> 
-     <th> Done </th>
-   </tr>
-
-   <tr>
-      <th> EP04-US01 </th>
-     <th colspan="3"> Agregar un nuevo ítem al inventario.</th>
-      <th> W04  </th>
-     <th> Bounded Context Inventory  </th>
-     <th> Implementar Agregar un nuevo ítem al inventario.</th>
-     <th> 1  </th>
-     <th> Sebastian Hoffmann </th> 
-     <th> Done </th>
-   </tr>
-
-<tr>
-      <th> EP2-HU02 </th>
-     <th colspan="3"> Crear cuenta gerente</th>
-      <th> W05  </th>
-     <th> Bounded Context Employee   </th>
-     <th> Implementar creacion cuenta gerente</th>
-     <th> 0.5  </th>
-     <th> Josue Hidalgo </th> 
-     <th> Done </th>
-   </tr>
-
-<tr>
-      <th> EP05-US06 </th>
-     <th colspan="3"> Alertas mantenimiento</th>
-      <th> W06 </th>
-     <th> Maintenance Alerts  </th>
-     <th> Bounded Context Room </th>
-     <th> 1  </th>
-     <th> Manuel Penia </th> 
-     <th> Done </th>
-   </tr>
-
-<tr>
-      <th> EP3-US07 </th>
-     <th colspan="3">  Actualizar información de ítems en el inventario.</th>
-      <th> W07  </th>
-     <th> Bounded Context Inventory </th>
-     <th>Implementar  Actualizacion de información de ítems en el inventario. </th>
-     <th> 1  </th>
-     <th> Sebastian Hoffman </th> 
-     <th> Done </th>
-   </tr>
-
-<tr>
-      <th> EP3-US014 </th>
-     <th colspan="3"> </th>
-      <th> W08 </th>
-     <th> Employee Bounded Context </th>
-     <th> - </th>
-     <th> 2  </th>
-     <th> Josue hidalgo </th> 
-     <th> Done </th>
-   </tr>
-
-<tr>
-      <th> EP3-US014 </th>
-     <th colspan="3">Programar turnos de trabajo </th>
-      <th> W08 </th>
-     <th> Bounded Context Task </th>
-     <th> Vista de programacion de turnos </th>
-     <th> 3  </th>
-     <th> Alex Avila </th> 
-     <th> Done </th>
-   </tr>
-
-<tr>
-      <th> EP3-US016 </th>
-     <th colspan="3"> Notificaciones  </th>
-      <th> W08 </th>
-     <th> Bounded Context Room </th>
-     <th> Vista de noticaciones </th>
-     <th> 2  </th>
-     <th> Alex Avila </th> 
-     <th> Done </th>
-   </tr>
-
-<tr>
-      <th> EP3-US018 </th>
-     <th colspan="3"> Informacion de procedimientos </th>
-      <th> W08 </th>
-     <th> Bounded Context Room </th>
-     <th> - </th>
-     <th> 2  </th>
-     <th> Alex Avila </th> 
-     <th> Done </th>
-   </tr>
-
-<tr>
-      <th> EP3-US020 </th>
-     <th colspan="3">Reporte de problemas  </th>
-      <th> W08 </th>
-     <th> Bounded Context Inventory </th>
-     <th> - </th>
-     <th> 1  </th>
-     <th> Alex Avila </th> 
-     <th> Done </th>
-   </tr>
-</table>
 
 
 ## 5.4. Video About-the-Product.
