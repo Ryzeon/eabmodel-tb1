@@ -3365,9 +3365,12 @@ Link del tablero: https://trello.com/invite/b/mL07vgLd/ATTIe5e9e9a61c843367b426d
      <th> Done </th>
    </tr>
 </table>
-5.2.3.3. Development Evidence for Sprint Review. <br>
+
+### 5.2.3.3. Development Evidence for Sprint Review.
+
 A continuación, se presentan los commits realizados en el repositorio de la aplicación web en Github.
 Repositorio en github: https://github.com/upc-pre-20241-si729-wx55-eabmodel/inncontrol-frontend
+
 
 <table>
     <thead>
@@ -4120,7 +4123,9 @@ Repositorio en github: https://github.com/upc-pre-20241-si729-wx55-eabmodel/innc
     </tr>
     </tbody>
 </table> <br>
-5.2.3.4. Testing Suite Evidence for Sprint Review. <br>
+
+### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
 <table>
   <thead>
     <tr>
@@ -6580,7 +6585,8 @@ Link del tablero: https://trello.com/invite/b/VKcGEXxg/ATTI53870853c3d20c6c6e047
 
 ## 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
-En esta seccion, se presentan las pruebas realizadas a la aplicacion final.
+Para la aplicacion final no se realizaron testing a nivel de font mas alla de las pruebas unitarias de cada bounded context con la conexion que se tenia con el back end a la hora de conectar. Estos procesos se registraron en los commits. A nivel de back end todo testing fue realizado utilizando swagger para observar si se observaban errores respecto al proyecto.
+
 ## 5.2.4.5. Execution Evidence for Sprint Review.
 
 ![Imagen de entrevista](https://i.imgur.com/FWQnJAg.jpeg)
