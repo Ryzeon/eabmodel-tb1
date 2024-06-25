@@ -6874,7 +6874,7 @@ En el video about the team se muestran testimonios del trabajo realizado.
 [https://youtu.be/2mOrsvJKwC8](https://youtu.be/2mOrsvJKwC8)
 
 Microsoft Share:
-https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EZ8haON2Cs1Psmnw6Wo4E8ABnPYPXoNlPr1Vs4OlwC4jzw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hzhCXD
+"https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/EZ8haON2Cs1Psmnw6Wo4E8ABnPYPXoNlPr1Vs4OlwC4jzw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=hzhCXD"
 
 # Bibliografía
 
@@ -6920,7 +6920,10 @@ Link de entrevistas [Anexo 2.2.1.1]
 Link entrevistas Heuristicas [Anexo 5.3.2]
 <a> https://upcedupe-my.sharepoint.com/:v:/g/personal/u202211894_upc_edu_pe/Echosh-Q4yVOhOpOr5K74ukBRVTHjBVTjUICzn35RqF6hw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=PYqtch</a>
 
+Importante! 
 
+Hay links que tienen :v: para solucionar esto se debe de poner [": v :"] junto.
+Esto sucede por un error en la conversion a pdf
 
 ---
 
